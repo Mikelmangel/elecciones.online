@@ -1,11 +1,11 @@
 {
   "fuente": "data/congreso_votaciones.json",
   "version": "2.0.0",
-  "descripcion": "13 votaciones clave de la XV Legislatura con el voto de cada grupo según el acta oficial, generadas por pipeline/tests_quiz.py.",
+  "descripcion": "13 votaciones importantes de esta legislatura con el voto de cada partido según el registro oficial del Congreso, generadas por pipeline/tests_quiz.py.",
   "preguntas": [
     {
       "id": "vot-1",
-      "titulo": "Convalidación del RDL 6/2023 (Plan de Recuperación, justicia y función pública)",
+      "titulo": "Decreto con medidas urgentes para aplicar los fondos europeos de recuperación en justicia, función pública, ayuntamientos y mecenazgo",
       "pregunta": "¿Qué votó Grupo Popular (PP)?",
       "opciones": [
         "Sí",
@@ -13,14 +13,14 @@
         "Abstención"
       ],
       "respuesta_correcta": "No",
-      "explicacion": "Grupo Popular (PP): 0 sí, 137 no, 0 abstenciones. En total 172 sí, 171 no y 0 abstenciones: salió adelante.",
+      "explicacion": "Grupo Popular (PP): 0 diputados votaron sí, 137 votaron no y 0 se abstuvieron. En total hubo 172 votos a favor, 171 en contra y 0 abstenciones, y la votación salió adelante.",
       "sesion": "15-1",
       "fecha": "10/01/2024",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/VOT_20240111114807.zip#sesion15votacion1.json"
     },
     {
       "id": "vot-2",
-      "titulo": "Objetivos de estabilidad presupuestaria y deuda pública (enero 2024)",
+      "titulo": "Objetivos de déficit y deuda de las administraciones públicas para 2024-2026 (votación de enero de 2024)",
       "pregunta": "¿Qué votó Grupo Socialista (PSOE)?",
       "opciones": [
         "Sí",
@@ -28,14 +28,14 @@
         "Abstención"
       ],
       "respuesta_correcta": "Sí",
-      "explicacion": "Grupo Socialista (PSOE): 121 sí, 0 no, 0 abstenciones. En total 171 sí, 171 no y 0 abstenciones: terminó en empate.",
+      "explicacion": "Grupo Socialista (PSOE): 121 diputados votaron sí, 0 votaron no y 0 se abstuvieron. En total hubo 171 votos a favor, 171 en contra y 0 abstenciones, y la votación acabó en empate.",
       "sesion": "15-5",
       "fecha": "10/01/2024",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/VOT_20240111114807.zip#sesion15votacion5.json"
     },
     {
       "id": "vot-3",
-      "titulo": "Ley Orgánica de amnistía: votación del nuevo dictamen (14 de marzo de 2024)",
+      "titulo": "Ley de amnistía para la normalización política en Cataluña (votación del nuevo texto, 14 de marzo de 2024)",
       "pregunta": "¿Qué votó VOX?",
       "opciones": [
         "Sí",
@@ -43,14 +43,14 @@
         "Abstención"
       ],
       "respuesta_correcta": "No",
-      "explicacion": "VOX: 0 sí, 33 no, 0 abstenciones. En total 178 sí, 172 no y 0 abstenciones: salió adelante.",
+      "explicacion": "VOX: 0 diputados votaron sí, 33 votaron no y 0 se abstuvieron. En total hubo 178 votos a favor, 172 en contra y 0 abstenciones, y la votación salió adelante.",
       "sesion": "30-1",
       "fecha": "14/03/2024",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion030/20240314/VOT_20240314135322.zip#sesion30votacion1.json"
     },
     {
       "id": "vot-4",
-      "titulo": "Reforma de la Ley Orgánica del Poder Judicial y del Estatuto del Ministerio Fiscal",
+      "titulo": "Reforma de la ley de los jueces (Poder Judicial) y del estatuto de los fiscales",
       "pregunta": "¿Qué votó Sumar?",
       "opciones": [
         "Sí",
@@ -58,14 +58,14 @@
         "Abstención"
       ],
       "respuesta_correcta": "Abstención",
-      "explicacion": "Sumar: 0 sí, 0 no, 27 abstenciones. En total 259 sí, 43 no y 32 abstenciones: salió adelante.",
+      "explicacion": "Sumar: 0 diputados votaron sí, 0 votaron no y 27 se abstuvieron. En total hubo 259 votos a favor, 43 en contra y 32 abstenciones, y la votación salió adelante.",
       "sesion": "56-65",
       "fecha": "23/07/2024",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion65.json"
     },
     {
       "id": "vot-5",
-      "titulo": "Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia",
+      "titulo": "Ley para agilizar la justicia (eficiencia del servicio público de justicia)",
       "pregunta": "¿Qué votó ERC?",
       "opciones": [
         "Sí",
@@ -73,14 +73,14 @@
         "Abstención"
       ],
       "respuesta_correcta": "Sí",
-      "explicacion": "ERC: 7 sí, 0 no, 0 abstenciones. En total 179 sí, 168 no y 0 abstenciones: salió adelante.",
+      "explicacion": "ERC: 7 diputados votaron sí, 0 votaron no y 0 se abstuvieron. En total hubo 179 votos a favor, 168 en contra y 0 abstenciones, y la votación salió adelante.",
       "sesion": "76-40",
       "fecha": "14/11/2024",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion076/20241114/VOT_20241114151004.zip#sesion76votacion40.json"
     },
     {
       "id": "vot-6",
-      "titulo": "Convalidación del RDL 2/2025 (acogida de menores extranjeros no acompañados)",
+      "titulo": "Decreto para proteger a niños y adolescentes en situaciones migratorias extraordinarias",
       "pregunta": "¿Qué votó Junts?",
       "opciones": [
         "Sí",
@@ -88,14 +88,14 @@
         "Abstención"
       ],
       "respuesta_correcta": "Sí",
-      "explicacion": "Junts: 7 sí, 0 no, 0 abstenciones. En total 179 sí, 170 no y 1 abstenciones: salió adelante.",
+      "explicacion": "Junts: 7 diputados votaron sí, 0 votaron no y 0 se abstuvieron. En total hubo 179 votos a favor, 170 en contra y 1 abstenciones, y la votación salió adelante.",
       "sesion": "106-15",
       "fecha": "10/04/2025",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion106/20250410/VOT_20250410155135.zip#sesion106votacion15.json"
     },
     {
       "id": "vot-7",
-      "titulo": "Convalidación del RDL 7/2025 (medidas urgentes de refuerzo del sistema eléctrico — rechazado)",
+      "titulo": "Decreto con medidas urgentes para reforzar el sistema eléctrico",
       "pregunta": "¿Qué votó PNV?",
       "opciones": [
         "Sí",
@@ -103,14 +103,14 @@
         "Abstención"
       ],
       "respuesta_correcta": "Sí",
-      "explicacion": "PNV: 5 sí, 0 no, 0 abstenciones. En total 165 sí, 183 no y 0 abstenciones: no salió adelante.",
+      "explicacion": "PNV: 5 diputados votaron sí, 0 votaron no y 0 se abstuvieron. En total hubo 165 votos a favor, 183 en contra y 0 abstenciones, y la votación no salió adelante.",
       "sesion": "128-17",
       "fecha": "22/07/2025",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/VOT_20250722200811.zip#sesion128votacion17.json"
     },
     {
       "id": "vot-8",
-      "titulo": "Convalidación del RDL 15/2025 (medidas urgentes para favorecer la actividad inversora)",
+      "titulo": "Decreto para favorecer la inversión de los ayuntamientos y las comunidades autónomas",
       "pregunta": "¿Qué votó Grupo Socialista (PSOE)?",
       "opciones": [
         "Sí",
@@ -118,14 +118,14 @@
         "Abstención"
       ],
       "respuesta_correcta": "Sí",
-      "explicacion": "Grupo Socialista (PSOE): 120 sí, 0 no, 0 abstenciones. En total 179 sí, 168 no y 1 abstenciones: salió adelante.",
+      "explicacion": "Grupo Socialista (PSOE): 120 diputados votaron sí, 0 votaron no y 0 se abstuvieron. En total hubo 179 votos a favor, 168 en contra y 1 abstenciones, y la votación salió adelante.",
       "sesion": "154-14",
       "fecha": "11/12/2025",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion154/20251211/VOT_20251211175042.zip#sesion154votacion14.json"
     },
     {
       "id": "vot-9",
-      "titulo": "Reforma del Código Penal en materia de multirreincidencia",
+      "titulo": "Reforma del Código Penal sobre la multirreincidencia (quien delinque muchas veces)",
       "pregunta": "¿Qué votó Grupo Popular (PP)?",
       "opciones": [
         "Sí",
@@ -133,14 +133,14 @@
         "Abstención"
       ],
       "respuesta_correcta": "Sí",
-      "explicacion": "Grupo Popular (PP): 136 sí, 0 no, 0 abstenciones. En total 302 sí, 36 no y 8 abstenciones: salió adelante.",
+      "explicacion": "Grupo Popular (PP): 136 diputados votaron sí, 0 votaron no y 0 se abstuvieron. En total hubo 302 votos a favor, 36 en contra y 8 abstenciones, y la votación salió adelante.",
       "sesion": "159-23",
       "fecha": "12/02/2026",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion159/20260212/VOT_20260212114303.zip#sesion159votacion23.json"
     },
     {
       "id": "vot-10",
-      "titulo": "Convalidación del RDL 6/2026 (modificación de la Ley 20/2022 de Memoria Democrática)",
+      "titulo": "Decreto que modifica la Ley de Memoria Democrática (reconocimiento a personas fallecidas o heridas por defender la democracia)",
       "pregunta": "¿Qué votó Sumar?",
       "opciones": [
         "Sí",
@@ -148,14 +148,14 @@
         "Abstención"
       ],
       "respuesta_correcta": "Sí",
-      "explicacion": "Sumar: 26 sí, 0 no, 0 abstenciones. En total 173 sí, 170 no y 7 abstenciones: salió adelante.",
+      "explicacion": "Sumar: 26 diputados votaron sí, 0 votaron no y 0 se abstuvieron. En total hubo 173 votos a favor, 170 en contra y 7 abstenciones, y la votación salió adelante.",
       "sesion": "169-53",
       "fecha": "26/03/2026",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion169/20260326/VOT_20260326165020.zip#sesion169votacion53.json"
     },
     {
       "id": "vot-11",
-      "titulo": "Modificación del artículo 80 de la Ley Orgánica General Penitenciaria",
+      "titulo": "Reforma para que los funcionarios de prisiones sean considerados agentes de la autoridad",
       "pregunta": "¿Qué votó EH Bildu?",
       "opciones": [
         "Sí",
@@ -163,14 +163,14 @@
         "Abstención"
       ],
       "respuesta_correcta": "No",
-      "explicacion": "EH Bildu: 0 sí, 6 no, 0 abstenciones. En total 323 sí, 21 no y 2 abstenciones: salió adelante.",
+      "explicacion": "EH Bildu: 0 diputados votaron sí, 6 votaron no y 0 se abstuvieron. En total hubo 323 votos a favor, 21 en contra y 2 abstenciones, y la votación salió adelante.",
       "sesion": "185-39",
       "fecha": "11/06/2026",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion185/20260611/VOT_20260611145659.zip#sesion185votacion39.json"
     },
     {
       "id": "vot-12",
-      "titulo": "Convalidación del RDL 15/2026 (créditos extraordinarios a organismos — rechazado)",
+      "titulo": "Decreto que autoriza créditos extraordinarios a organismos públicos del Estado",
       "pregunta": "¿Qué votó Sumar?",
       "opciones": [
         "Sí",
@@ -178,14 +178,14 @@
         "Abstención"
       ],
       "respuesta_correcta": "Sí",
-      "explicacion": "Sumar: 26 sí, 0 no, 0 abstenciones. En total 173 sí, 176 no y 0 abstenciones: no salió adelante.",
+      "explicacion": "Sumar: 26 diputados votaron sí, 0 votaron no y 0 se abstuvieron. En total hubo 173 votos a favor, 176 en contra y 0 abstenciones, y la votación no salió adelante.",
       "sesion": "191-29",
       "fecha": "25/06/2026",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion29.json"
     },
     {
       "id": "vot-13",
-      "titulo": "Objetivos de estabilidad presupuestaria y deuda pública (23 julio 2026 — rechazado)",
+      "titulo": "Objetivos de déficit y deuda de las administraciones públicas para 2027-2029 (votación del 23 de julio de 2026)",
       "pregunta": "¿Qué votó ERC?",
       "opciones": [
         "Sí",
@@ -193,7 +193,7 @@
         "Abstención"
       ],
       "respuesta_correcta": "Sí",
-      "explicacion": "ERC: 7 sí, 0 no, 0 abstenciones. En total 166 sí, 176 no y 5 abstenciones: no salió adelante.",
+      "explicacion": "ERC: 7 diputados votaron sí, 0 votaron no y 0 se abstuvieron. En total hubo 166 votos a favor, 176 en contra y 5 abstenciones, y la votación no salió adelante.",
       "sesion": "193-20",
       "fecha": "23/07/2026",
       "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion193/20260723/VOT_20260723211928.zip#sesion193votacion20.json"

@@ -8,6 +8,7 @@ import {
   entrevistas,
   factcheckingEntrevistas,
   votaciones,
+  votacionesClave,
   eleccionActiva,
 } from '@/lib/datos';
 import { titularesVisibles } from '@/lib/titulares-visibles';
@@ -29,6 +30,7 @@ const DECRETOS_OMNIBUS = ['15-1', '15-3', '15-4', '46-24'];
 export default function HemerotecaPage() {
   const todas = votaciones();
   const mapaVot = new Map(todas.map((v) => [v.id, v]));
+  const llano = new Map(votacionesClave().votaciones.map((c) => [c.id, c.titulo_llano]));
   const verificadas = factcheckingEntrevistas().verificaciones.filter(
     (v) => v.revisado === true && v.veredicto !== 'NO COMPROBADO'
   );
@@ -193,7 +195,7 @@ export default function HemerotecaPage() {
                 Decretos con varias medidas en una sola votación
               </h2>
               <p className="mt-2 text-sm text-neutral-600 max-w-3xl">
-                Al convalidar un Real Decreto-ley, el Congreso vota sí o no al texto completo. Estos son algunos de la XV Legislatura, con el resultado del acta oficial.
+                Cuando el Gobierno aprueba un decreto con urgencia, el Congreso tiene que ratificarlo y vota sí o no al texto completo, sin poder cambiar una parte. Estos son algunos de esta legislatura, con el resultado del registro oficial.
               </p>
             </div>
             <ul className="divide-y divide-[#ece7dc] border-y border-[#ece7dc]">
@@ -205,7 +207,7 @@ export default function HemerotecaPage() {
                     <p className="text-xs text-neutral-500">Votación {v.id} · {v.fecha}</p>
                     <h3 className="mt-1 font-semibold leading-snug text-neutral-950">
                       <Link href={rutas.votacionCongreso(v.id, v.titulo)} className="hover:text-red-900 hover:underline">
-                        {v.texto_expediente ?? v.titulo}
+                        {llano.get(v.id) ?? v.texto_expediente ?? v.titulo}
                       </Link>
                     </h3>
                     <p className="mt-1 text-sm text-neutral-700">

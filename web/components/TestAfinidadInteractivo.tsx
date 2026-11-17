@@ -284,12 +284,12 @@ export default function TestAfinidadInteractivo({ data }: { data: AfinidadData }
                 ¿Con qué partido coincides?
               </h2>
               <p className="text-sm text-neutral-600 leading-relaxed">
-                Compara tus respuestas con los votos reales en el Congreso (XV Legislatura) y programas 2026. Al terminar obtienes tu podio de afinidad, tu mayor punto de choque y la brújula 2D completa.
+                Compara tus respuestas con lo que votaron los partidos en el Congreso y con sus programas. Al terminar verás con qué partido coincides más, con cuál menos y un mapa de dónde te sitúas.
               </p>
             </div>
             <div className="pt-4 border-t border-[#ece7dc] flex items-center justify-between">
               <span className="text-xs font-mono text-neutral-500">
-                {preguntas.length} afirmaciones · 4 min
+                {preguntas.length} frases · 4 min
               </span>
               <button
                 type="button"
@@ -304,25 +304,25 @@ export default function TestAfinidadInteractivo({ data }: { data: AfinidadData }
           <div className="rounded-2xl border border-[#dfd9cc] bg-white p-6 sm:p-8 flex flex-col justify-between space-y-6 shadow-xs">
             <div className="space-y-3">
               <span className="inline-block rounded-full bg-amber-100 px-3 py-1 text-xs font-bold text-amber-900">
-                Camino 2 · Brújula política 2D
+                Camino 2 · Mapa político
               </span>
               <h2 className="font-editorial text-2xl sm:text-3xl font-bold text-neutral-950">
-                ¿Cuál es tu ideología?
+                ¿Dónde te sitúas?
               </h2>
               <p className="text-sm text-neutral-600 leading-relaxed">
-                Ubícate en el plano de dos ejes (Economía frente a Sociedad y Territorio), descubre tu perfil ideológico y compáralo con los 8 grupos del Congreso o reta a tus amigos.
+                Colócate en un mapa con dos ejes (economía, y sociedad y territorio), mira dónde quedan los partidos y reta a tus amigos.
               </p>
             </div>
             <div className="pt-4 border-t border-[#ece7dc] flex items-center justify-between">
               <span className="text-xs font-mono text-neutral-500">
-                {preguntas.length} afirmaciones · 4 min
+                {preguntas.length} frases · 4 min
               </span>
               <button
                 type="button"
                 onClick={() => setCamino('ideologia')}
                 className="rounded-xl bg-red-900 px-5 py-2.5 text-sm font-bold text-white hover:bg-neutral-950 transition cursor-pointer"
               >
-                Ver mi brújula →
+                Ver mi mapa →
               </button>
             </div>
           </div>
@@ -417,7 +417,7 @@ export default function TestAfinidadInteractivo({ data }: { data: AfinidadData }
                   {ganador.mayorCoincidencia && (
                     <div className="rounded-xl border border-emerald-200 bg-emerald-50/70 p-3.5">
                       <span className="font-bold text-xs text-emerald-900 block mb-1">
-                        Mayor coincidencia con {ganador.siglas}
+                        En qué coincides con {ganador.siglas}
                       </span>
                       <p className="text-neutral-800 leading-snug">{ganador.mayorCoincidencia}</p>
                     </div>
@@ -425,7 +425,7 @@ export default function TestAfinidadInteractivo({ data }: { data: AfinidadData }
                   {ganador.mayorChoque && (
                     <div className="rounded-xl border border-rose-200 bg-rose-50/70 p-3.5">
                       <span className="font-bold text-xs text-rose-900 block mb-1">
-                        Principal punto de choque con {ganador.siglas}
+                        En qué no coincides con {ganador.siglas}
                       </span>
                       <p className="text-neutral-800 leading-snug">{ganador.mayorChoque}</p>
                     </div>

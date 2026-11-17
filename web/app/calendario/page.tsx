@@ -2,12 +2,13 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd';
 import CalendarioElectoral from '@/components/CalendarioElectoral';
+import { AREAS, calendarioElectoral } from '@/lib/datos';
 import { rutas } from '@/lib/rutas';
 
 export const metadata: Metadata = {
-  title: 'Calendario Electoral y Diario de Campaña (2026–2029) — 29-N, debates, veda y próximas citas',
+  title: 'Calendario electoral del 29-N: campaña, debates, veda de sondeos y votación',
   description:
-    'Sigue el día a día de la campaña electoral de las generales del 29 de noviembre de 2026: fechas de debates en TVE, último día legal de sondeos, veda, jornada de reflexión y calendario de autonómicas y municipales 2027.',
+    'Fechas de las elecciones generales del 29 de noviembre de 2026: debates televisados, inicio de la veda de sondeos, jornada de reflexión y votación, con su fuente.',
   alternates: { canonical: '/espana/generales/2026/calendario' },
 };
 
@@ -19,7 +20,7 @@ export default function Page() {
           { name: 'Inicio', path: '/' },
           { name: 'España', path: rutas.pais() },
           { name: 'Generales 2026', path: rutas.eleccion() },
-          { name: 'Calendario Electoral y Diario', path: '/espana/generales/2026/calendario' },
+          { name: 'Calendario electoral', path: '/espana/generales/2026/calendario' },
         ]}
       />
 
@@ -37,14 +38,14 @@ export default function Page() {
         </div>
 
         <h1 className="font-editorial text-3xl sm:text-5xl font-bold text-neutral-950">
-          Calendario Electoral y Diario de Campaña 2026
+          Calendario electoral 2026
         </h1>
         <p className="mt-2 text-sm sm:text-base text-neutral-600 max-w-3xl leading-relaxed">
-          Todo el cronograma oficial de las Elecciones Generales del <strong>29 de noviembre de 2026</strong>: debates electorales, fecha límite de sondeos, veda informativa conforme a la LOREG y las próximas convocatorias municipales y autonómicas de 2027.
+          Fechas de las elecciones generales del <strong>29 de noviembre de 2026</strong>: campaña, debates, veda de sondeos, jornada de reflexión y votación. Cada fecha lleva su fuente (BOE, LOREG o el medio que la anuncia).
         </p>
       </header>
 
-      <CalendarioElectoral />
+      <CalendarioElectoral eventos={calendarioElectoral().eventos} areas={AREAS} />
     </article>
   );
 }

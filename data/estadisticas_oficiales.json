@@ -135,7 +135,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 11.1",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1101.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "924ffdb6497f4c87342a1007e5a8a6ff3f741ae5b52afc9070d79b50a031e7ae"
   },
   "deuda_ccaa_eur:Andalucía": {
@@ -273,7 +273,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Aragón": {
@@ -411,7 +411,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Principado de Asturias": {
@@ -549,7 +549,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Illes Balears": {
@@ -687,7 +687,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Canarias": {
@@ -825,7 +825,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Cantabria": {
@@ -963,7 +963,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Castilla-La Mancha": {
@@ -1101,7 +1101,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Castilla y León": {
@@ -1239,7 +1239,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Cataluña": {
@@ -1377,7 +1377,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Extremadura": {
@@ -1515,7 +1515,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Galicia": {
@@ -1653,7 +1653,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:La Rioja": {
@@ -1791,7 +1791,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Comunidad de Madrid": {
@@ -1929,7 +1929,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Región de Murcia": {
@@ -2067,7 +2067,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Comunidad Foral de Navarra": {
@@ -2205,7 +2205,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:País Vasco": {
@@ -2343,7 +2343,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_eur:Comunidad Valenciana": {
@@ -2481,7 +2481,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.9",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1309.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "d745e61c569951cf1e40d9f6fa278f4afa0c1f860a522a1dc8187aaf2d478735"
   },
   "deuda_ccaa_pib:Andalucía": {
@@ -2598,7 +2598,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Aragón": {
@@ -2715,7 +2715,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Principado de Asturias": {
@@ -2832,7 +2832,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Illes Balears": {
@@ -2949,7 +2949,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Canarias": {
@@ -3066,7 +3066,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Cantabria": {
@@ -3183,7 +3183,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Castilla-La Mancha": {
@@ -3300,7 +3300,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Castilla y León": {
@@ -3417,7 +3417,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Cataluña": {
@@ -3534,7 +3534,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Extremadura": {
@@ -3651,7 +3651,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Galicia": {
@@ -3768,7 +3768,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:La Rioja": {
@@ -3885,7 +3885,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Comunidad de Madrid": {
@@ -4002,7 +4002,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Región de Murcia": {
@@ -4119,7 +4119,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Comunidad Foral de Navarra": {
@@ -4236,7 +4236,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:País Vasco": {
@@ -4353,7 +4353,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "deuda_ccaa_pib:Comunidad Valenciana": {
@@ -4470,7 +4470,7 @@
    },
    "fuente_nombre": "Banco de España · Boletín Estadístico, cuadro 13.10",
    "fuente_url": "https://www.bde.es/webbe/es/estadisticas/compartido/datos/csv/be1310.csv",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "6f01168bf35082d2ee67bcb84cfa27e73811a0c97a22ac9ac05a0742dab9be0e"
   },
   "poblacion_total": {
@@ -4493,7 +4493,7 @@
    },
    "fuente_nombre": "INE · Estadística Continua de Población",
    "fuente_url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/ECP9221?nult=12&tip=A",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "4291ee3b7a16e345a48827b134dec9c381b35332fc97de15339cf4ed1989e355"
   },
   "poblacion_nacida_extranjero": {
@@ -4516,7 +4516,7 @@
    },
    "fuente_nombre": "INE · Estadística Continua de Población",
    "fuente_url": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/ECP5381?nult=12&tip=A",
-   "fetched_at": "2026-11-17T05:31:05+00:00",
+   "fetched_at": "2026-11-17T09:01:07+00:00",
    "sha256": "f00bfaa5dce7fd1058c694f7017fea50b75220b6b7b0ef98ff8eb147a7f74a9b"
   }
  }

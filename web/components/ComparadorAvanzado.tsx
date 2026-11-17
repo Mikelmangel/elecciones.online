@@ -117,6 +117,17 @@ export default function ComparadorAvanzado({
   // la selección se recuerda al cambiar de tema (y entre visitas); se lee tras montar para no romper la hidratación
   useEffect(() => {
     try {
+      // ?partidos=PSOE,PP (p. ej. desde el calendario de debates) manda sobre lo guardado
+      const url = new URLSearchParams(window.location.search).get('partidos');
+      const pedidos = (url ?? '')
+        .split(',')
+        .map((x) => partidos.find((p) => p.siglas.toLowerCase() === x.trim().toLowerCase())?.siglas)
+        .filter((x): x is string => Boolean(x))
+        .slice(0, 4);
+      if (pedidos.length) {
+        setPartidosSeleccionados(pedidos);
+        return;
+      }
       const guardados = JSON.parse(localStorage.getItem(CLAVE_SELECCION) ?? 'null');
       const validos = Array.isArray(guardados)
         ? guardados.filter((x): x is string => typeof x === 'string' && partidos.some((p) => p.siglas === x)).slice(0, 4)

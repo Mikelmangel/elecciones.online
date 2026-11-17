@@ -1,5 +1,6 @@
 'use client';
 
+import { barajar } from '@/lib/barajar';
 import { useMemo, useState } from 'react';
 import type { VotoProvinciaQuizData } from '@/lib/datos';
 import CompartirViralModal from './CompartirViralModal';
@@ -51,7 +52,7 @@ export default function MinijuegoVotoProvincia({ data }: { data: VotoProvinciaQu
         <div className="flex flex-wrap items-center justify-between gap-3">
           <div>
             <span className="text-xs font-bold text-red-900">
-              Calculadora de circunscripción · BOE 2023 y Convocatoria 2026
+              Elige tu provincia
             </span>
             <h2 className="font-editorial text-2xl sm:text-3xl font-bold text-neutral-950 mt-1">
               ¿Por cuántos votos se decidió el último escaño en tu provincia?
@@ -129,7 +130,7 @@ export default function MinijuegoVotoProvincia({ data }: { data: VotoProvinciaQu
           </h3>
 
           <div className="grid gap-3 sm:grid-cols-2">
-            {actual.opciones.map((op) => {
+            {barajar(actual.opciones, actual.id).map((op) => {
               const elegida = seleccion === op;
               const esCorrecta = op === actual.respuesta_correcta;
               let estilo = 'border-[#e4dfd3] bg-[#faf7f2] hover:border-neutral-900 hover:bg-white';
@@ -226,7 +227,7 @@ export default function MinijuegoVotoProvincia({ data }: { data: VotoProvinciaQu
         titulo="¿Cuánto vale un escaño en tu provincia? (29-N)"
         subtitulo={provActual ? `${provActual.nombre}: último escaño por ${provActual.margen_votos.toLocaleString('es-ES')} votos` : undefined}
         resultadoPrincipal={`${aciertos}/${preguntas.length} aciertos`}
-        etiquetaBadge="elecciones.online · Ley D'Hondt"
+        etiquetaBadge="elecciones.online · Tu provincia"
         colorPrincipal="#991b1b"
         detalles={[
           { etiqueta: 'Quiz', valor: `${aciertos}/${preguntas.length}` },

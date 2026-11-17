@@ -4,9 +4,9 @@ import TestAfinidadInteractivo from '@/components/TestAfinidadInteractivo';
 import { testsAfinidad } from '@/lib/datos';
 
 export const metadata: Metadata = {
-  title: 'Test de Afinidad Política e Ideología (Elecciones Generales 29-N 2026)',
+  title: '¿Con qué partido coincides? Test para las elecciones del 29-N',
   description:
-    'Compara tus ideas con las votaciones reales en el Congreso (XV Legislatura) y los programas electorales de 2026, o ubícate en la brújula ideológica en 2 ejes.',
+    'Di si estás de acuerdo con medidas reales y descubre con qué partido coincides más, según cómo votaron en el Congreso y lo que proponen en sus programas.',
   alternates: { canonical: '/tests/afinidad' },
 };
 

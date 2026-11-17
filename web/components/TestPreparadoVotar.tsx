@@ -1,5 +1,6 @@
 'use client';
 
+import { barajar } from '@/lib/barajar';
 import { useState } from 'react';
 import Link from 'next/link';
 import type { PreparadoQuizData } from '@/lib/datos';
@@ -77,7 +78,7 @@ export default function TestPreparadoVotar({ datos }: Props) {
               </div>
 
               <div className="grid gap-2.5 pt-1">
-                {pregunta.opciones.map((op, i) => {
+                {barajar(pregunta.opciones, pregunta.id).map((op, i) => {
                   let estilo = 'border-neutral-200 bg-neutral-50/50 hover:bg-neutral-100 text-neutral-800';
 
                   if (haRespondido) {

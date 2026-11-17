@@ -1,13 +1,13 @@
 {
  "fuente": "actualidad",
- "fetched_at": "2026-11-17T05:30:30Z",
+ "fetched_at": "2026-11-17T09:00:30Z",
  "fuentes": [
   {
    "id": "bng-web",
    "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
    "clase": "partido",
    "fuente_url": "https://www.bng.gal/rss/",
-   "sha256": "cb4f1eedecb4dacb7a8da14c4531a0beb299dd6ddaa19b119a5f5280e25718dd"
+   "sha256": "33f6523f5f2cc8b86bd9d042a5ebc168c026592a794456b948a711425de53196"
   },
   {
    "id": "cca-web",
@@ -28,7 +28,7 @@
    "canal": "UPN : Unión del Pueblo Navarro",
    "clase": "partido",
    "fuente_url": "https://www.upn.org/feed/",
-   "sha256": "c11388665cf172a9db116902c7448c691217db67426dcb4f53315657cb52491f"
+   "sha256": "a5926d5cc7bf2e164dee932ad990374d54ecab3fce2e5b12ffc1a37eb53b4c02"
   },
   {
    "id": "sumar-web",
@@ -42,28 +42,28 @@
    "canal": "PODEMOS.",
    "clase": "partido",
    "fuente_url": "https://t.me/s/ahorapodemos",
-   "sha256": "83d88898571f92e8b051a936504d8fa612d639f13698bb38e3f21b929363b580"
+   "sha256": "1c3a1e228d734644cd1e96cba63ffa9cf08612bb52ec0f32a7e336b63413b494"
   },
   {
    "id": "psoe-youtube",
    "canal": "PSOE",
    "clase": "partido",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB75fTm3weGTmtnitiZcdBw",
-   "sha256": "e26ecad032e9298e6549a7cb585129a1a2a0e294ae8c97a35e3821eb0d4d32c0"
+   "sha256": "546d8cfbf1bffb890cdd05f80cc7abdb84c791cd0d115bce833a55db5a048d6c"
   },
   {
    "id": "pp-youtube",
    "canal": "Partido Popular",
    "clase": "partido",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPECDsPyGRW5b5E4ibCGhww",
-   "sha256": "5e91f9493d0f7f0b8311101fa4df46fd36943e97604bbcd3bc2faa48b18e64d1"
+   "sha256": "5489dcff6152d94c7222830a24f144b4ac3799545a79e2d1613504792734337f"
   },
   {
    "id": "vox-youtube",
    "canal": "VOX España",
    "clase": "partido",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRvpumrJs0qY1xLzeU0Ss1Q",
-   "sha256": "7b5b5576c99717a5b62ce99e0da2a0abb626a83bfe0595dc39a0b085b56d8226"
+   "sha256": "dab8b859e051c5419d3b3cd9ccabaeafe5516aa545af3065d442a4131ea05f3a"
   },
   {
    "id": "erc-youtube",
@@ -77,7 +77,7 @@
    "canal": "Coalición Canaria",
    "clase": "partido",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxwJkU4G-17XQZ97rcB6u5g",
-   "sha256": "8736bbd4142763ecdb0fefaa88e313073f84a6019994d1a1c457a2e6b52c0d7a"
+   "sha256": "3a52a4ba8fe446f8c66bec62f79f3b4b18ae336dcbcdf25e848c1a31b1418be1"
   },
   {
    "id": "sumar-youtube",
@@ -98,56 +98,56 @@
    "canal": "Noticias Destacadas del Presidente del Gobierno | La Moncloa",
    "clase": "institucion",
    "fuente_url": "https://www.lamoncloa.gob.es/Paginas/rss.aspx",
-   "sha256": "9d3d72c6b58f2d49dc70aa64a8bfbc87905f735e9e2d153eea93e0b2289b75af"
+   "sha256": "5ffa190d95c0b033580542c59f923d6285ed4f6b8ce380935c6adb01e02ccb60"
   },
   {
    "id": "europapress",
    "canal": "Europa Press - Nacional",
    "clase": "medio",
    "fuente_url": "https://www.europapress.es/rss/rss.aspx?ch=00066",
-   "sha256": "339c10188c51efbd0f3543ad9c92f9479e21266a6d4d60229b0c78199c9a688d"
+   "sha256": "f55d33645afec894ce591d7fd03122ade963b41254a9b0a01c46c3887f3052b0"
   },
   {
    "id": "eldiario",
    "canal": "elDiario.es - Política",
    "clase": "medio",
    "fuente_url": "https://www.eldiario.es/rss/politica/",
-   "sha256": "5661c4e3e061a5b713b725cb5ab1bc8e85bd1e8b6f83f9e0942ff2c64e8df8e4"
+   "sha256": "38de57a90209c23c6dcfc35d08b1ec6f3f18657c2cac12b363a006aee595422c"
   },
   {
    "id": "elpais",
    "canal": "España en EL PAÍS",
    "clase": "medio",
    "fuente_url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada",
-   "sha256": "0a3084329c165c3f3eb102a74eb10a847073038f584a695f087ab6fd2f9ba1db"
+   "sha256": "d3353dea2dce69915245d279f48555deb9a6a790fb4b4e268dc3ac2061fc1663"
   },
   {
    "id": "elmundo",
    "canal": "España // elmundo",
    "clase": "medio",
    "fuente_url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
-   "sha256": "6621c77a8dd1b74f48d38f1f9d82ccccf2331e3b68b2d21e9dbb57af222de1f1"
+   "sha256": "809c6079159a340534dae3beb96e51e2695c6859f0062956a4866de76aead153"
   },
   {
    "id": "20minutos",
    "canal": "20MINUTOS.ES - Nacional",
    "clase": "medio",
    "fuente_url": "https://www.20minutos.es/rss/nacional/",
-   "sha256": "e9c6856dab3d683a93d97403ac291fc35e081fbb7cda92da26fadfd441b16522"
+   "sha256": "22eb2345e31747820a39099d4490fe48a224754a801ce0e1a5a5e0bc5666a008"
   },
   {
    "id": "rtve-youtube",
    "canal": "RTVE Noticias",
    "clase": "medio",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7QZIf0dta-XPXsp9Hv4dTw",
-   "sha256": "eb9d50e8f529bffab6fefa0d0915205fbb2e7729e820f440c420db84f017feac"
+   "sha256": "33b8f8b6c89e692da8e5809324df6ffc1b1b5208b07c7e7f4f9c7cfe50ce4ca4"
   },
   {
    "id": "wildproject-youtube",
    "canal": "The Wild Project",
    "clase": "programa",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBYyJBCtCvgqA4NwtoPMwpQ",
-   "sha256": "f189d1578bc68af2165a9317e54be0fb93ba55b1dfa86767eff2d68bd6929126"
+   "sha256": "08881296859112f62345a211dc4e080844bd4dd95e330baaede28ec3ec8bb932"
   },
   {
    "id": "larevuelta-youtube",
@@ -161,17 +161,68 @@
    "canal": "laSexta Noticias",
    "clase": "medio",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCJs5mITIqxqJGeFjt9N1Mg",
-   "sha256": "f15eea7082fdea28f32bfc8d04d8734f3c490f1dba1633e25fc451c5156e788c"
+   "sha256": "22875d4a922d2f315f16e1c6072be81062050c46abeb64c5398c1e7fa4a6907b"
   },
   {
    "id": "antena3-youtube",
    "canal": "Antena 3 Noticias",
    "clase": "medio",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_Oni82GyYcabEr3rd-eJkg",
-   "sha256": "77ce1f7436e8be8aae3bd775cc32ed0fdc94ece274144e5c28f9f468762bde1e"
+   "sha256": "e4ca67f2248cfa72fbf02468ba1e8ea6da095a2c66751549294f4afaa1a6e205"
   }
  ],
  "items": [
+  {
+   "titulo": "Pedro Sánchez preside la reunión del Consejo de Ministros",
+   "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/171126-rueda-prensa-consejo-ministros.aspx?qfr=1",
+   "fecha": "2026-11-17T09:19:00Z",
+   "fuente": "moncloa",
+   "canal": "Noticias Destacadas del Presidente del Gobierno | La Moncloa",
+   "clase": "institucion",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "PSOE / Diálogo de Pedro Sánchez con Lula da Silva",
+   "url": "https://www.youtube.com/watch?v=F3QE3-uNJ1I",
+   "fecha": "2026-11-17T07:37:32Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Última hora sobre las elecciones generales y la actualidad política, en directo",
+   "url": "https://www.eldiario.es/politica/ultima-hora-elecciones-generales-actualidad-politica-directo_6_13669522.html",
+   "fecha": "2026-11-17T07:36:11Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Elecciones generales 29N, en directo: última hora de la subida del SMI y del sueldo de los funcionarios",
+   "url": "https://www.europapress.es/nacional/noticia-elecciones-generales-29n-directo-ultima-hora-subida-smi-sueldo-funcionarios-20261117082548.html",
+   "fecha": "2026-11-17T07:25:48Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "DIRECTO 🔵 Feijóo, Cristina Ibarrola, Sergio Sayas y Leticia San Martín en un acto en Pamplona",
+   "url": "https://www.youtube.com/watch?v=0NTEgC_Mfqo",
+   "fecha": "2026-11-17T07:24:04Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
   {
    "titulo": "Vox se frena y cede terreno al PP",
    "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/vox-se-frena-y-cede-terreno-al-pp.html",
@@ -225,7 +276,7 @@
    ]
   },
   {
-   "titulo": "Santiago Abascal, el líder que halló un nicho en la derecha descontenta y aspira ahora a un papel relevante en el Gobierno post-29N",
+   "titulo": "Abascal, el líder que halló un nicho en la derecha descontenta y aspira ahora a un papel relevante en el Gobierno post-29N",
    "url": "https://www.20minutos.es/nacional/santiago-abascal-lider-que-hallo-un-nicho-derecha-descontenta-aspira-ahora-un-papel-relevante-gobierno-post-29n_7058035_0.html",
    "fecha": "2026-11-17T04:00:00Z",
    "fuente": "20minutos",
@@ -233,6 +284,28 @@
    "clase": "medio",
    "partidos": [
     "VOX"
+   ]
+  },
+  {
+   "titulo": "Gabriel Rufián: \"La gente está mucho más cerca de ser desahuciada que de ser ocupada\"",
+   "url": "https://www.20minutos.es/cataluna/rufian-erc-gente-esta-mucho-mas-cerca-ser-desahuciada-que-ser-ocupada_7060845_0.html",
+   "fecha": "2026-11-17T04:00:00Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "ERC"
+   ]
+  },
+  {
+   "titulo": "Jon Echeverría, tras la agresión en Hernani: \"Esto lo alienta Bildu, justifican la violencia y les legitima el Gobierno\"",
+   "url": "https://www.20minutos.es/pais-vasco/guipuzcoa/jon-echeverria-tras-agresion-hernani-esto-alienta-bildu-justifican-violencia-son-un-partido-legitimado-por-gobierno_7061812_0.html",
+   "fecha": "2026-11-17T04:00:00Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "EH Bildu"
    ]
   },
   {
@@ -395,7 +468,7 @@
    ]
   },
   {
-   "titulo": "Gabriel Rufián: \"A Abascal le paga Israel y a Silvia Orriols le paga Israel\"",
+   "titulo": "Gabriel Rufián: \"A Abascal le paga Israel y a Sílvia Orriols le paga Israel\"",
    "url": "https://www.eldiario.es/catalunya/gabriel-rufian-abascal-le-paga-israel-silvia-orriols-le-paga-israel_128_13668528.html",
    "fecha": "2026-11-16T20:35:55Z",
    "fuente": "eldiario",
@@ -595,17 +668,6 @@
    "clase": "medio",
    "partidos": [
     "Sumar / FA"
-   ]
-  },
-  {
-   "titulo": "DIRECTO 🔵 Feijóo, Cristina Ibarrola, Sergio Sayas y Leticia San Martín en un acto en Pamplona",
-   "url": "https://www.youtube.com/watch?v=0NTEgC_Mfqo",
-   "fecha": "2026-11-16T16:21:00Z",
-   "fuente": "pp-youtube",
-   "canal": "Partido Popular",
-   "clase": "partido",
-   "partidos": [
-    "PP"
    ]
   },
   {

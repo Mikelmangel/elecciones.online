@@ -320,7 +320,7 @@
     },
     {
       "id": "duelo-3",
-      "pregunta": "¿Con quién votó igual más veces el PNV en la XV Legislatura?",
+      "pregunta": "¿Con quién votó igual más veces el PNV en esta legislatura?",
       "opcion_a": {
         "etiqueta": "PSOE + EAJ-PNV",
         "a": "PSOE",
@@ -345,7 +345,7 @@
     },
     {
       "id": "duelo-4",
-      "pregunta": "¿Qué bloque votó unido en mayor proporción?",
+      "pregunta": "¿Qué pareja votó unida en mayor proporción?",
       "opcion_a": {
         "etiqueta": "PSOE + Sumar",
         "a": "PSOE",

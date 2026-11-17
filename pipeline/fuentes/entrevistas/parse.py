@@ -663,6 +663,8 @@ def cargar_declaraciones(manifest: dict[str, dict]) -> list[dict]:
                 r = {**r, "id": f"{r['id']}-{f.stem}"}
             ids_vistos.add(r["id"])
             meta = manifest.get(r["entrevista_url"]) or {}
+            if meta.get("categoria") == "debate":
+                continue  # sin identificar al orador no se atribuye nada (regla 7 de la skill extraer-entrevista)
             out.append({
                 "entrevista_id": f.stem,
                 "medio": meta.get("medio") or meta.get("titulo") or "",

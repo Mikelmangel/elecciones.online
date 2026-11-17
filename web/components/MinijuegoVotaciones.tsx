@@ -48,8 +48,8 @@ export default function MinijuegoVotaciones({ datos }: Props) {
   };
 
   const nivelBadge = () => {
-    if (aciertos === total) return 'Experto Parlamentario Pleno ';
-    if (aciertos >= total * 0.7) return 'Buen Ojo de Cronista Político ';
+    if (aciertos === total) return 'Lo sabes todo del Congreso';
+    if (aciertos >= total * 0.7) return 'Sigues muy bien la política';
     if (aciertos >= total * 0.4) return 'Seguidor Casual del Hemiciclo ';
     return 'Desconectado del Diario de Sesiones ';
   };
@@ -155,7 +155,7 @@ export default function MinijuegoVotaciones({ datos }: Props) {
               </h2>
               <p className="text-lg font-bold text-neutral-800 mt-2">{nivelBadge()}</p>
               <p className="text-sm text-neutral-500 mt-1 max-w-md mx-auto">
-                Has acertado qué partidos votaron a favor, en contra o se aliaron en los momentos clave de la XV Legislatura.
+                Has acertado qué votaron los partidos en votaciones importantes de esta legislatura.
               </p>
             </div>
 
@@ -182,7 +182,7 @@ export default function MinijuegoVotaciones({ datos }: Props) {
             isOpen={isShareModalOpen}
             onClose={() => setIsShareModalOpen(false)}
             titulo="¿Quién votó qué en el Congreso?"
-            subtitulo="XV Legislatura del Congreso de los Diputados"
+            subtitulo="Votaciones del Congreso de los Diputados"
             resultadoPrincipal={`${aciertos}/${total} votaciones acertadas`}
             etiquetaBadge={nivelBadge()}
             colorPrincipal="#0056a8"

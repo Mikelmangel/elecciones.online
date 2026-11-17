@@ -1,7 +1,7 @@
 {
   "fuente": "Boletín Oficial del Estado — API de Datos Abiertos",
   "fuente_url": "https://www.boe.es/datosabiertos/api/boe/sumario",
-  "fetched_at": "2026-11-17T05:30:31.862141+00:00",
+  "fetched_at": "2026-11-17T09:00:32.158955+00:00",
   "total": 13,
   "disposiciones": [
     {
@@ -14,7 +14,7 @@
       "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23998",
       "url_pdf": "https://www.boe.es/boe/dias/2026/11/16/pdfs/BOE-A-2026-23998.pdf",
       "fuente_url": "https://www.boe.es/datosabiertos/api/boe/sumario/20261116",
-      "fetched_at": "2026-11-17T05:30:31.401775+00:00",
+      "fetched_at": "2026-11-17T09:00:31.544210+00:00",
       "sha256": "257e5e0884e34e59c021b70dcb083710482e43793d17e6dda1afc4f7a8553745"
     },
     {
@@ -27,7 +27,7 @@
       "url_html": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23997",
       "url_pdf": "https://www.boe.es/boe/dias/2026/11/16/pdfs/BOE-A-2026-23997.pdf",
       "fuente_url": "https://www.boe.es/datosabiertos/api/boe/sumario/20261116",
-      "fetched_at": "2026-11-17T05:30:31.401775+00:00",
+      "fetched_at": "2026-11-17T09:00:31.544210+00:00",
       "sha256": "257e5e0884e34e59c021b70dcb083710482e43793d17e6dda1afc4f7a8553745"
     },
     {

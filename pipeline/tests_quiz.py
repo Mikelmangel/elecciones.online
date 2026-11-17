@@ -75,7 +75,7 @@ def votaciones() -> list[dict]:
             continue
         g = grupos[i % len(grupos)]  # rota el grupo preguntado
         t = v["totales"]
-        resultado = "salió adelante" if t["si"] > t["no"] else "no salió adelante" if t["si"] < t["no"] else "terminó en empate"
+        resultado = "salió adelante" if t["si"] > t["no"] else "no salió adelante" if t["si"] < t["no"] else "acabó en empate"
         d = v["por_grupo"][g]
         a, m, dd = v["fecha"].split("-")
         preguntas.append({
@@ -85,8 +85,8 @@ def votaciones() -> list[dict]:
             "opciones": OPCIONES_VOTO,
             "respuesta_correcta": sentido(d),
             "explicacion": (
-                f"{GRUPOS[g]}: {d['si']} sí, {d['no']} no, {d['abstencion']} abstenciones. "
-                f"En total {t['si']} sí, {t['no']} no y {t['abstencion']} abstenciones: {resultado}."
+                f"{GRUPOS[g]}: {d['si']} diputados votaron sí, {d['no']} votaron no y {d['abstencion']} se abstuvieron. "
+                f"En total hubo {t['si']} votos a favor, {t['no']} en contra y {t['abstencion']} abstenciones, y la votación {resultado}."
             ),
             "sesion": v["id"],
             "fecha": f"{dd}/{m}/{a}",
@@ -114,7 +114,7 @@ def main() -> None:
     (destino / "votaciones_quiz.json").write_text(json.dumps({
         "fuente": "data/congreso_votaciones.json",
         "version": "2.0.0",
-        "descripcion": f"{len(vs)} votaciones clave de la XV Legislatura con el voto de cada grupo según el acta oficial, generadas por pipeline/tests_quiz.py.",
+        "descripcion": f"{len(vs)} votaciones importantes de esta legislatura con el voto de cada partido según el registro oficial del Congreso, generadas por pipeline/tests_quiz.py.",
         "preguntas": vs,
     }, ensure_ascii=False, indent=2) + "\n")
     print(f"tests_quiz: {len(ps)} propuestas, {len(vs)} votaciones")

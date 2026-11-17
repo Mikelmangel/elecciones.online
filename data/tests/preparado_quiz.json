@@ -1,172 +1,187 @@
 {
   "fuente": "loreg_constitucion_sistema_electoral",
-  "version": "1.0.0",
-  "descripcion": "Test cívico de 15 preguntas para comprobar si conoces el funcionamiento real de las elecciones generales del 29-N: D'Hondt, barrera electoral del 3%, Senado en listas abiertas, circunscripciones y voto por correo.",
+  "version": "2.0.0",
+  "descripcion": "15 preguntas sencillas para saber cómo funcionan las elecciones del 29-N: qué papeleta usar, qué es un voto nulo, cómo se reparten los diputados y cómo se vota por correo. Cada respuesta se ha comprobado con el texto de la ley electoral.",
   "preguntas": [
     {
       "id": "prep-1",
-      "pregunta": "¿A quién votas directamente con la papeleta blanca que introduces en la urna del Congreso de los Diputados?",
+      "pregunta": "En las elecciones generales, ¿a quién votas con la papeleta que metes en la urna?",
       "opciones": [
-        "A una lista cerrada y bloqueada de candidatos al Congreso por tu circunscripción (provincia)",
-        "Directamente al candidato a la Presidencia del Gobierno de España",
-        "A un diputado individual que tú eliges marcando su casilla",
-        "A un partido político a nivel nacional en circunscripción única"
+        "A la lista de candidatos de un partido en tu provincia",
+        "Directamente a la persona que quieres que sea presidente del Gobierno",
+        "A un diputado concreto que eliges marcando su casilla",
+        "A un partido en toda España, sin tener en cuenta tu provincia"
       ],
-      "respuesta_correcta": "A una lista cerrada y bloqueada de candidatos al Congreso por tu circunscripción (provincia)",
-      "explicacion": "En las elecciones generales no se vota directamente al presidente. Votas la lista cerrada y bloqueada de candidatos al Congreso presentada en tu circunscripción provincial. Serán los 350 diputados elegidos quienes después votarán la investidura del presidente del Gobierno."
+      "respuesta_correcta": "A la lista de candidatos de un partido en tu provincia",
+      "explicacion": "En España no se vota directamente al presidente del Gobierno. Votas la lista de un partido en tu provincia, tal como la presenta el partido y sin poder cambiar el orden. Los 350 diputados que salgan elegidos votarán después quién será presidente."
     },
     {
       "id": "prep-2",
-      "pregunta": "¿Qué porcentaje mínimo de votos válidos necesita una candidatura en una provincia para optar al reparto de escaños al Congreso?",
-      "opciones": ["El 3 % de los votos válidos en esa circunscripción", "El 5 % del total de votos en toda España", "El 1 % en cada municipio", "No hay ningún umbral mínimo legal"],
-      "respuesta_correcta": "El 3 % de los votos válidos en esa circunscripción",
-      "explicacion": "El artículo 163.1.a de la LOREG fija la barrera electoral en el 3% de los votos válidos emitidos (incluidos los votos en blanco) en la respectiva circunscripción."
+      "pregunta": "¿Qué porcentaje mínimo de votos necesita un partido en una provincia para repartirse diputados?",
+      "opciones": [
+        "El 3 % de los votos de esa provincia",
+        "El 5 % de los votos de toda España",
+        "El 1 % en cada municipio",
+        "No hay ningún mínimo"
+      ],
+      "respuesta_correcta": "El 3 % de los votos de esa provincia",
+      "explicacion": "Un partido que no llega al 3 % de los votos válidos de la provincia, contando también los votos en blanco, se queda fuera del reparto de diputados de esa provincia (ley electoral, art. 163)."
     },
     {
       "id": "prep-3",
-      "pregunta": "¿Cómo funciona la papeleta sepia para las elecciones al Senado?",
+      "pregunta": "¿Cómo se vota en la papeleta del Senado (la de color sepia)?",
       "opciones": [
-        "Es una lista abierta y desbloqueada donde puedes marcar hasta 3 candidatos de cualquier partido",
-        "Es una lista cerrada obligatoria del mismo partido que votes al Congreso",
-        "Se vota un partido y el Senado elige a los senadores por orden alfabético",
-        "Solo votas al primer candidato de la lista"
+        "Puedes marcar hasta 3 candidatos, aunque sean de partidos distintos",
+        "Tienes que votar a los mismos candidatos que el partido al que votes en el Congreso",
+        "Votas a un partido y el Senado elige a los senadores por orden alfabético",
+        "Solo puedes votar al primer candidato de la lista"
       ],
-      "respuesta_correcta": "Es una lista abierta y desbloqueada donde puedes marcar hasta 3 candidatos de cualquier partido",
-      "explicacion": "En la papeleta sepia del Senado puedes marcar con una 'X' hasta 3 candidatos en las provincias peninsulares, pudiendo mezclar candidatos de diferentes formaciones políticas si lo deseas."
+      "respuesta_correcta": "Puedes marcar hasta 3 candidatos, aunque sean de partidos distintos",
+      "explicacion": "En la papeleta del Senado marcas con una X hasta 3 candidatos (en las provincias de la península) y puedes mezclar candidatos de partidos diferentes."
     },
     {
       "id": "prep-4",
-      "pregunta": "¿Cuál es el número total de diputados que componen el Congreso de los Diputados en España?",
-      "opciones": ["350 diputados", "300 diputados", "400 diputados", "365 diputados"],
+      "pregunta": "¿Cuántos diputados tiene el Congreso?",
+      "opciones": [
+        "350 diputados",
+        "300 diputados",
+        "400 diputados",
+        "365 diputados"
+      ],
       "respuesta_correcta": "350 diputados",
-      "explicacion": "Aunque la Constitución permite una horquilla de entre 300 y 400 diputados (art. 68.1), la Ley Orgánica del Régimen Electoral General (LOREG) fija en su artículo 162 el número definitivo en 350 escaños."
+      "explicacion": "La Constitución permite entre 300 y 400 diputados y la ley electoral (art. 162) fija el número en 350."
     },
     {
       "id": "prep-5",
-      "pregunta": "¿Cuántos diputados mínimos tiene asignados de partida cada una de las 50 provincias peninsulares antes del reparto poblacional?",
-      "opciones": ["2 diputados iniciales mínimos (y 1 Ceuta y 1 Melilla)", "1 diputado por cada provincia", "3 diputados fijos", "Ninguno, va 100% en proporción a los habitantes"],
-      "respuesta_correcta": "2 diputados iniciales mínimos (y 1 Ceuta y 1 Melilla)",
-      "explicacion": "La LOREG asigna una representación inicial mínima de 2 diputados a cada una de las 50 provincias (100 escaños fijos) y 1 a Ceuta y 1 a Melilla. Los restantes 248 escaños se distribuyen en proporción exacta al censo de población."
+      "pregunta": "Antes de repartir los diputados según la población, ¿cuántos tiene asegurados cada provincia?",
+      "opciones": [
+        "2 diputados (y 1 Ceuta y 1 Melilla)",
+        "1 diputado por cada provincia",
+        "3 diputados fijos",
+        "Ninguno: todo depende de los habitantes"
+      ],
+      "respuesta_correcta": "2 diputados (y 1 Ceuta y 1 Melilla)",
+      "explicacion": "Cada provincia parte con 2 diputados, y Ceuta y Melilla con 1 cada una. Son 102 diputados fijos; los otros 248 se reparten según la población de cada provincia."
     },
     {
       "id": "prep-6",
-      "pregunta": "¿A quién beneficia o perjudica un voto en blanco (sobre vacío) en las elecciones al Congreso?",
+      "pregunta": "¿Qué efecto tiene el voto en blanco (el sobre vacío)?",
       "opciones": [
-        "Computa como voto válido, por lo que eleva el número total de votos y encarece la barrera del 3% perjudicando a partidos minoritarios",
-        "Se reparte automáticamente al partido que gane las elecciones",
-        "No computa para nada, es equivalente a una abstención",
-        "Se asigna a escaños vacíos en el hemiciclo"
+        "Cuenta como voto válido: sube el total de votos y hace un poco más difícil que los partidos pequeños lleguen al 3 %",
+        "Se da automáticamente al partido que gane las elecciones",
+        "No cuenta para nada: es lo mismo que no ir a votar",
+        "Se asigna a escaños vacíos en el Congreso"
       ],
-      "respuesta_correcta": "Computa como voto válido, por lo que eleva el número total de votos y encarece la barrera del 3% perjudicando a partidos minoritarios",
-      "explicacion": "El voto en blanco se suma al total de votos válidos para el cómputo de porcentajes. Al aumentar el denominador, subir el listón del 3% hace más difícil que partidos pequeños alcancen el umbral para entrar al reparto de escaños."
+      "respuesta_correcta": "Cuenta como voto válido: sube el total de votos y hace un poco más difícil que los partidos pequeños lleguen al 3 %",
+      "explicacion": "El voto en blanco se suma al total de votos válidos. Como el 3 % se calcula sobre ese total, cada voto en blanco sube la cifra que un partido necesita para llegar al 3 %."
     },
     {
       "id": "prep-7",
-      "pregunta": "Si introduces en el sobre una papeleta con un dibujo, un tachón o una frase escrita, ¿cómo se califica ese voto?",
+      "pregunta": "Si metes en el sobre una papeleta con un dibujo, un tachón o una frase escrita, ¿cómo se cuenta ese voto?",
       "opciones": [
-        "Voto nulo (no cuenta para el reparto de escaños ni para la barrera del 3%)",
-        "Voto en blanco",
-        "Voto condicionado si la mesa entiende la intención del votante",
-        "Sanción administrativa para el elector"
+        "Es voto nulo: no cuenta para repartir los diputados",
+        "Es voto en blanco",
+        "Vale si la mesa entiende lo que querías votar",
+        "Te ponen una multa"
       ],
-      "respuesta_correcta": "Voto nulo (no cuenta para el reparto de escaños ni para la barrera del 3%)",
-      "explicacion": "El artículo 96 de la LOREG estipula que cualquier papeleta rota, alterada con tachaduras o lemas ajenos es formalmente nula, salvo que se trate de listas abiertas al Senado con cruces conformes a la norma."
+      "respuesta_correcta": "Es voto nulo: no cuenta para repartir los diputados",
+      "explicacion": "Una papeleta tachada, con nombres cambiados o con algo añadido es nula (ley electoral, art. 96). Un voto nulo no cuenta a favor de ningún partido."
     },
     {
       "id": "prep-8",
-      "pregunta": "¿Qué ocurre si has solicitado el voto por correo y luego decides acudir a votar presencialmente a tu colegio electoral el 29-N?",
+      "pregunta": "Si has pedido el voto por correo y el día de las elecciones quieres ir a tu colegio electoral, ¿qué pasa?",
       "opciones": [
-        "No puedes votar en la urna: al solicitar el voto por correo quedas marcado en el censo de la mesa y pierdes el derecho al voto presencial",
-        "Puedes votar en la urna si entregas las papeletas que te llegaron a casa",
-        "Puedes votar firmando una declaración jurada",
-        "El presidente de la mesa decide discrecionalmente"
+        "No podrás votar en persona: al pedir el voto por correo te anotan en el censo para que no votes en la urna",
+        "Puedes votar en la urna si llevas las papeletas que te llegaron a casa",
+        "Puedes votar en la urna firmando una declaración",
+        "El presidente de la mesa decide lo que quiera"
       ],
-      "respuesta_correcta": "No puedes votar en la urna: al solicitar el voto por correo quedas marcado en el censo de la mesa y pierdes el derecho al voto presencial",
-      "explicacion": "Una vez admitida tu solicitud de voto por correo, la Oficina del Censo Electoral incluye una anotación en la lista del censo de la mesa. Por tanto, no es posible votar en la urna el día de las elecciones bajo ningún concepto."
+      "respuesta_correcta": "No podrás votar en persona: al pedir el voto por correo te anotan en el censo para que no votes en la urna",
+      "explicacion": "Al aceptar tu solicitud, la Oficina del Censo Electoral te anota en el censo para que el día de las elecciones no se vote personalmente (ley electoral, art. 73)."
     },
     {
       "id": "prep-9",
-      "pregunta": "¿Cuántos votos a favor necesita un candidato para ser investido presidente del Gobierno en la PRIMERA votación de investidura?",
+      "pregunta": "¿Cuántos votos a favor necesita un candidato para ser presidente del Gobierno en la primera votación del Congreso?",
       "opciones": [
-        "Mayoría absoluta (al menos 176 diputados)",
-        "Mayoría simple (más votos a favor que en contra)",
-        "Dos tercios de la cámara (233 diputados)",
-        "Basta con tener el apoyo del partido más votado"
+        "Más de la mitad de los diputados: al menos 176",
+        "Más votos a favor que en contra",
+        "Dos tercios de los diputados (233)",
+        "Basta con que su partido sea el más votado"
       ],
-      "respuesta_correcta": "Mayoría absoluta (al menos 176 diputados)",
-      "explicacion": "El artículo 99 de la Constitución exige mayoría absoluta (la mitad más uno: 176 votos sobre 350) en la primera votación. Si no se alcanza, 48 horas después se celebra una segunda votación donde solo se precisa mayoría simple (más síes que noes)."
+      "respuesta_correcta": "Más de la mitad de los diputados: al menos 176",
+      "explicacion": "En la primera votación hace falta la mayoría absoluta: la mitad más uno de los 350 diputados, es decir, 176. Si no se consigue, 48 horas después hay otra votación en la que basta con más votos a favor que en contra (Constitución, art. 99)."
     },
     {
       "id": "prep-10",
-      "pregunta": "¿Qué función tiene el sistema o fórmula D'Hondt en las elecciones españolas?",
+      "pregunta": "¿Cómo se reparten los diputados de cada provincia entre los partidos?",
       "opciones": [
-        "Repartir proporcionalmente los escaños de una circunscripción dividiendo los votos de cada lista entre 1, 2, 3... hasta el número de escaños en juego",
-        "Corregir las encuestas electorales de los sondeos",
-        "Sortear a los presidentes y vocales de las mesas electorales",
-        "Fijar el sueldo de los parlamentarios"
+        "Con una fórmula llamada D'Hondt: los votos de cada partido se dividen entre 1, 2, 3… y los diputados van a los números más altos",
+        "Todos los diputados son para el partido más votado de la provincia",
+        "Se sortean entre los partidos que pasan del 3 %",
+        "Cada partido recibe los mismos diputados"
       ],
-      "respuesta_correcta": "Repartir proporcionalmente los escaños de una circunscripción dividiendo los votos de cada lista entre 1, 2, 3... hasta el número de escaños en juego",
-      "explicacion": "La regla D'Hondt es una fórmula matemática de medias mayores que calcula cocientes sucesivos dividiendo los votos válidos de cada partido entre 1, 2, 3, etc. Los escaños se asignan a los cocientes más altos en orden decreciente."
+      "respuesta_correcta": "Con una fórmula llamada D'Hondt: los votos de cada partido se dividen entre 1, 2, 3… y los diputados van a los números más altos",
+      "explicacion": "Se llama regla D'Hondt. Si en una provincia hay 5 diputados, los votos de cada partido se dividen entre 1, 2, 3, 4 y 5, y los 5 números más altos se llevan un diputado cada uno."
     },
     {
       "id": "prep-11",
-      "pregunta": "¿Qué documento es legalmente válido para identificarte ante los miembros de la mesa electoral el 29-N?",
+      "pregunta": "¿Con qué documento puedes identificarte para votar en las elecciones generales?",
       "opciones": [
-        "DNI, Pasaporte, Permiso de conducir o carné de residencia oficial (incluso si están caducados, siempre que lleven fotografía)",
-        "Únicamente el DNI en vigor, sin excepción",
-        "Cualquier factura domiciliada con tu nombre y dirección",
-        "La tarjeta censal que recibes por correo postal"
+        "Con el DNI, el pasaporte o el carné de conducir (siempre con fotografía)",
+        "Solo con el DNI, sin excepciones",
+        "Con una factura a tu nombre y dirección",
+        "Con la tarjeta del censo que te llega por correo"
       ],
-      "respuesta_correcta": "DNI, Pasaporte, Permiso de conducir o carné de residencia oficial (incluso si están caducados, siempre que lleven fotografía)",
-      "explicacion": "La Junta Electoral Central permite identificarse con DNI, pasaporte, carné de conducir con fotografía (físico o mediante la app MiDGT) o tarjeta de residencia. Se admiten documentos caducados siempre que sean los originales oficiales."
+      "respuesta_correcta": "Con el DNI, el pasaporte o el carné de conducir (siempre con fotografía)",
+      "explicacion": "La ley electoral (art. 85) admite el DNI, el pasaporte o el permiso de conducir en el que aparezca tu fotografía. La tarjeta del censo que llega a casa no está entre los documentos admitidos."
     },
     {
       "id": "prep-12",
-      "pregunta": "¿Qué prohíbe taxativamente la Ley Electoral (LOREG art. 69) durante los 5 días previos a la votación (a partir del 24 de noviembre)?",
+      "pregunta": "¿Qué está prohibido durante los 5 días anteriores a la votación (desde el 24 de noviembre)?",
       "opciones": [
-        "La publicación, difusión o reproducción de sondeos o encuestas electorales por cualquier medio de comunicación",
+        "Publicar encuestas o sondeos electorales en cualquier medio",
         "Los mítines y actos de campaña de los partidos",
-        "Hacer declaraciones en redes sociales",
-        "Emitir programas de debate en televisión"
+        "Opinar en redes sociales",
+        "Emitir debates en televisión"
       ],
-      "respuesta_correcta": "La publicación, difusión o reproducción de sondeos o encuestas electorales por cualquier medio de comunicación",
-      "explicacion": "El artículo 69.7 de la LOREG prohíbe la difusión de cualquier encuesta electoral durante los 5 días anteriores a la jornada electoral para salvaguardar la reflexión libre del voto ciudadano."
+      "respuesta_correcta": "Publicar encuestas o sondeos electorales en cualquier medio",
+      "explicacion": "Desde 5 días antes de votar no se pueden publicar ni difundir sondeos electorales (ley electoral, art. 69.7). Por eso elecciones.online oculta entonces el termómetro y los titulares sobre encuestas."
     },
     {
       "id": "prep-13",
-      "pregunta": "¿A qué hora abren y cierran las mesas electorales en los colegios de la península e islas?",
+      "pregunta": "¿A qué hora abren y cierran los colegios electorales?",
       "opciones": [
-        "Abren a las 9:00 y cierran a las 20:00 (hora local de cada territorio)",
+        "Abren a las 9:00 y cierran a las 20:00",
         "Abren a las 8:00 y cierran a las 22:00",
         "Abren a las 10:00 y cierran a las 19:00",
-        "Cada ayuntamiento fija su propio horario"
+        "Cada ayuntamiento fija su horario"
       ],
-      "respuesta_correcta": "Abren a las 9:00 y cierran a las 20:00 (hora local de cada territorio)",
-      "explicacion": "Las urnas se abren a las 9:00 de la mañana (tras la constitución de la mesa a las 8:00) y se cierran a las 20:00 en punto. En Canarias la votación concluye a las 20:00 hora insular canaria (21:00 en la península)."
+      "respuesta_correcta": "Abren a las 9:00 y cierran a las 20:00",
+      "explicacion": "La votación empieza a las 9:00 y sigue sin interrupción hasta las 20:00 (ley electoral, art. 84), en hora local. En Canarias, las 20:00 son las 21:00 de la península."
     },
     {
       "id": "prep-14",
-      "pregunta": "¿Qué ocurre si te designan presidente o vocal de una mesa electoral y no te presentas sin una causa justificada admitida por la Junta Electoral?",
+      "pregunta": "Si te toca ser presidente o vocal de una mesa electoral y no vas sin una razón justificada, ¿qué puede pasar?",
       "opciones": [
-        "Incurres en un delito electoral penado con pena de prisión de tres meses a un año o multa de seis a veinticuatro meses",
-        "Solo te ponen una sanción económica de 50 euros",
-        "Llaman al suplente y no tiene consecuencias legales",
-        "Te quitan el derecho de voto durante 4 años"
+        "Es un delito electoral y puede castigarse con multa o cárcel",
+        "Solo te ponen una multa de 50 euros",
+        "Llaman al suplente y no pasa nada",
+        "Te quitan el derecho a votar durante 4 años"
       ],
-      "respuesta_correcta": "Incurres en un delito electoral penado con pena de prisión de tres meses a un año o multa de seis a veinticuatro meses",
-      "explicacion": "El artículo 143 de la LOREG castiga penalmente la no comparecencia no justificada del presidente y vocales titulares o suplentes con penas de prisión o multa económica."
+      "respuesta_correcta": "Es un delito electoral y puede castigarse con multa o cárcel",
+      "explicacion": "No presentarse a la mesa sin causa justificada está castigado por la ley electoral (art. 143). Si tienes un motivo, como una enfermedad, debes avisar y justificarlo ante la Junta Electoral."
     },
     {
       "id": "prep-15",
-      "pregunta": "¿En qué circunscripción se produce la mayor «pérdida de votos» o voto no representado por el reparto D'Hondt?",
+      "pregunta": "¿Dónde cuesta más votos conseguir un diputado?",
       "opciones": [
-        "En las provincias pequeñas con 3, 4 o 5 escaños (donde el escaño cuesta un porcentaje muy alto de votos)",
+        "En las provincias pequeñas, con pocos diputados: hace falta un porcentaje de votos muy alto",
         "En Madrid y Barcelona, porque tienen muchos votantes",
-        "En Ceuta y Melilla exclusivamente",
-        "En todas las provincias el coste por escaño es idéntico"
+        "Solo en Ceuta y Melilla",
+        "Cuesta lo mismo en todas partes"
       ],
-      "respuesta_correcta": "En las provincias pequeñas con 3, 4 o 5 escaños (donde el escaño cuesta un porcentaje muy alto de votos)",
-      "explicacion": "En provincias con 3 o 4 diputados, el coste real para conseguir un escaño supera con frecuencia el 15% o 20% de los votos de la provincia. Las formaciones con el 8% o 12% se quedan sin representación y esos votos no se trasladan a ningún escaño."
+      "respuesta_correcta": "En las provincias pequeñas, con pocos diputados: hace falta un porcentaje de votos muy alto",
+      "explicacion": "Cuantos menos diputados se reparten, mayor porcentaje de votos necesita un partido para conseguir uno, y los votos de los partidos que no llegan se quedan sin diputado. Mira cuántos votos decidieron tu provincia en el test «¿Por cuántos votos se decidió tu provincia?»."
     }
   ]
 }

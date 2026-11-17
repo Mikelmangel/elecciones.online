@@ -32,7 +32,7 @@ function Lista({ items }: { items: ActualidadItem[] }) {
 }
 
 export default function ActualidadPage() {
-  const { items: todos, fetched_at } = actualidad();
+  const { items: todos, fetched_at, fuentes } = actualidad();
   const items = titularesVisibles(todos, eleccionActiva().fecha_eleccion);
   const propios = items.filter((i) => i.clase === 'partido');
   const partidos = [...new Set(propios.flatMap((i) => i.partidos))].sort((a, b) => a.localeCompare(b, 'es'));
@@ -65,6 +65,30 @@ export default function ActualidadPage() {
 
       <h2 className="mt-10 font-editorial text-2xl font-bold text-neutral-950">Prensa e instituciones</h2>
       <div className="mt-3"><Lista items={prensa} /></div>
+
+      <h2 className="mt-10 font-editorial text-2xl font-bold text-neutral-950">Fuentes que consultamos</h2>
+      <p className="mt-2 text-neutral-700">
+        {fuentes.length} fuentes, revisadas cada hora: canales y webs de los partidos, instituciones y medios. No se elige entre ellas ni se filtra por línea editorial; solo se descartan, durante la veda electoral, los titulares de sondeos (LOREG, art. 69.7).
+      </p>
+      {(['partido', 'institucion', 'medio', 'programa'] as const).map((clase) => {
+        const lista = fuentes.filter((f) => f.clase === clase);
+        if (!lista.length) return null;
+        const nombre = { partido: 'Partidos', institucion: 'Instituciones', medio: 'Medios', programa: 'Programas de entrevistas' }[clase];
+        return (
+          <div key={clase} className="mt-4">
+            <h3 className="font-semibold text-neutral-950">{nombre}</h3>
+            <ul className="mt-1 divide-y divide-[#ece7dc] border-y border-[#ece7dc]">
+              {lista.map((f) => (
+                <li key={f.id} className="py-2">
+                  <a href={f.fuente_url} target="_blank" rel="noopener noreferrer" className="break-words text-neutral-800 underline underline-offset-2 hover:text-red-900">
+                    {f.canal}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        );
+      })}
     </article>
   );
 }

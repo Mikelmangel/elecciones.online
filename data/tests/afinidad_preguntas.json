@@ -3,7 +3,7 @@
   "version": "2.1.0",
   "fecha_actualizacion": "2026-11-16",
   "metodologia": {
-    "descripcion": "Calcula tu afinidad y tu posición en la brújula 2D comparando tus respuestas con los 8 grupos parlamentarios del Congreso (16 a 18 posiciones documentadas por partido entre votaciones reales de la XV Legislatura y programas oficiales 2026).",
+    "descripcion": "Compara tus respuestas con las de los 8 grupos del Congreso, a partir de cómo votaron en la legislatura y de lo que dicen sus programas (16 a 18 puntos de comparación por partido).",
     "escala": {
       "-2": "Muy en desacuerdo",
       "-1": "En desacuerdo",
@@ -12,7 +12,7 @@
       "2": "Muy de acuerdo"
     },
     "ponderacion_estrella": 2.0,
-    "disclaimer": "Herramienta basada en actas oficiales del Congreso y en citas de programas electorales. La brújula sale solo de los votos y medidas de este test, no es una clasificación ideológica oficial de los partidos, y refleja también quién apoyó o rechazó cada texto como Gobierno u oposición. Todo el cálculo se ejecuta en tu navegador sin enviar ni almacenar tus respuestas."
+    "disclaimer": "Este test se basa en las votaciones reales del Congreso y en citas de los programas. El mapa sale solo de las preguntas de este test: no es una clasificación oficial de los partidos, y refleja también quién apoyó o rechazó cada texto estando en el Gobierno o en la oposición. Todo se calcula en tu navegador: no enviamos ni guardamos tus respuestas."
   },
   "partidos_ideologia": [
     {
@@ -107,7 +107,7 @@
   "afirmaciones": [
     {
       "id": "af-1",
-      "texto": "Debe aprobarse el gravamen temporal energético para 2025 (Real Decreto-ley 10/2024).",
+      "texto": "Debe cobrarse un impuesto temporal a las empresas energéticas durante 2025.",
       "area": "impuestos",
       "caminos": [
         "partidos",
@@ -120,57 +120,57 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (137 votos) en la votación 89-2 (2025-01-22): Impuesto a energéticas (RDL 10/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-2 (2025-01-22)",
+          "nota": "Votó NO (137 diputados) el 22 de enero de 2025: impuesto temporal a las energéticas.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion2.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (120 votos) en la votación 89-2 (2025-01-22): Impuesto a energéticas (RDL 10/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-2 (2025-01-22)",
+          "nota": "Votó SÍ (120 diputados) el 22 de enero de 2025: impuesto temporal a las energéticas.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion2.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (33 votos) en la votación 89-2 (2025-01-22): Impuesto a energéticas (RDL 10/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-2 (2025-01-22)",
+          "nota": "Votó NO (33 diputados) el 22 de enero de 2025: impuesto temporal a las energéticas.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion2.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (27 votos) en la votación 89-2 (2025-01-22): Impuesto a energéticas (RDL 10/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-2 (2025-01-22)",
+          "nota": "Votó SÍ (27 diputados) el 22 de enero de 2025: impuesto temporal a las energéticas.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion2.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 89-2 (2025-01-22): Impuesto a energéticas (RDL 10/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-2 (2025-01-22)",
+          "nota": "Votó SÍ (7 diputados) el 22 de enero de 2025: impuesto temporal a las energéticas.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion2.json"
         },
         "Junts": {
           "valor": -2,
-          "nota": "Votó NO (7 votos) en la votación 89-2 (2025-01-22): Impuesto a energéticas (RDL 10/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-2 (2025-01-22)",
+          "nota": "Votó NO (7 diputados) el 22 de enero de 2025: impuesto temporal a las energéticas.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion2.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en la votación 89-2 (2025-01-22): Impuesto a energéticas (RDL 10/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-2 (2025-01-22)",
+          "nota": "Votó SÍ (6 diputados) el 22 de enero de 2025: impuesto temporal a las energéticas.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion2.json"
         },
         "EAJ-PNV": {
           "valor": -2,
-          "nota": "Votó NO (5 votos) en la votación 89-2 (2025-01-22): Impuesto a energéticas (RDL 10/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-2 (2025-01-22)",
+          "nota": "Votó NO (5 diputados) el 22 de enero de 2025: impuesto temporal a las energéticas.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion2.json"
         }
       }
     },
     {
       "id": "af-2",
-      "texto": "El Estado debe aprobar medidas urgentes de contención e intervención en los contratos de alquiler.",
+      "texto": "Debe aprobarse un decreto con medidas sobre el alquiler por las consecuencias de la guerra de Irán.",
       "area": "vivienda",
       "caminos": [
         "partidos",
@@ -183,57 +183,57 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (137 votos) en la votación 175-3 (2026-04-28): Regulación del alquiler (RDL 8/2026).",
-          "fuente": "Congreso de los Diputados · Votación 175-3 (2026-04-28)",
+          "nota": "Votó NO (137 diputados) el 28 de abril de 2026: medidas sobre el alquiler.",
+          "fuente": "Acta de la votación del Congreso del 28 de abril de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/VOT_20260428200325.zip#sesion175votacion3.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (121 votos) en la votación 175-3 (2026-04-28): Regulación del alquiler (RDL 8/2026).",
-          "fuente": "Congreso de los Diputados · Votación 175-3 (2026-04-28)",
+          "nota": "Votó SÍ (121 diputados) el 28 de abril de 2026: medidas sobre el alquiler.",
+          "fuente": "Acta de la votación del Congreso del 28 de abril de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/VOT_20260428200325.zip#sesion175votacion3.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (33 votos) en la votación 175-3 (2026-04-28): Regulación del alquiler (RDL 8/2026).",
-          "fuente": "Congreso de los Diputados · Votación 175-3 (2026-04-28)",
+          "nota": "Votó NO (33 diputados) el 28 de abril de 2026: medidas sobre el alquiler.",
+          "fuente": "Acta de la votación del Congreso del 28 de abril de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/VOT_20260428200325.zip#sesion175votacion3.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (25 votos) en la votación 175-3 (2026-04-28): Regulación del alquiler (RDL 8/2026).",
-          "fuente": "Congreso de los Diputados · Votación 175-3 (2026-04-28)",
+          "nota": "Votó SÍ (25 diputados) el 28 de abril de 2026: medidas sobre el alquiler.",
+          "fuente": "Acta de la votación del Congreso del 28 de abril de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/VOT_20260428200325.zip#sesion175votacion3.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 175-3 (2026-04-28): Regulación del alquiler (RDL 8/2026).",
-          "fuente": "Congreso de los Diputados · Votación 175-3 (2026-04-28)",
+          "nota": "Votó SÍ (7 diputados) el 28 de abril de 2026: medidas sobre el alquiler.",
+          "fuente": "Acta de la votación del Congreso del 28 de abril de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/VOT_20260428200325.zip#sesion175votacion3.json"
         },
         "Junts": {
           "valor": -2,
-          "nota": "Votó NO (6 votos) en la votación 175-3 (2026-04-28): Regulación del alquiler (RDL 8/2026).",
-          "fuente": "Congreso de los Diputados · Votación 175-3 (2026-04-28)",
+          "nota": "Votó NO (6 diputados) el 28 de abril de 2026: medidas sobre el alquiler.",
+          "fuente": "Acta de la votación del Congreso del 28 de abril de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/VOT_20260428200325.zip#sesion175votacion3.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en la votación 175-3 (2026-04-28): Regulación del alquiler (RDL 8/2026).",
-          "fuente": "Congreso de los Diputados · Votación 175-3 (2026-04-28)",
+          "nota": "Votó SÍ (6 diputados) el 28 de abril de 2026: medidas sobre el alquiler.",
+          "fuente": "Acta de la votación del Congreso del 28 de abril de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/VOT_20260428200325.zip#sesion175votacion3.json"
         },
         "EAJ-PNV": {
           "valor": 0,
-          "nota": "Abstención (5 votos) en la votación 175-3 (2026-04-28): Regulación del alquiler (RDL 8/2026).",
-          "fuente": "Congreso de los Diputados · Votación 175-3 (2026-04-28)",
+          "nota": "Se abstuvo (5 diputados) el 28 de abril de 2026: medidas sobre el alquiler.",
+          "fuente": "Acta de la votación del Congreso del 28 de abril de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/VOT_20260428200325.zip#sesion175votacion3.json"
         }
       }
     },
     {
       "id": "af-3",
-      "texto": "Debe convalidarse el Real Decreto-ley 9/2024 de medidas económicas, tributarias, de transporte y de Seguridad Social.",
+      "texto": "Debe aprobarse el decreto con medidas de economía, impuestos, transporte y Seguridad Social, y la prórroga de las medidas para personas vulnerables.",
       "area": "pensiones",
       "caminos": [
         "partidos",
@@ -246,57 +246,57 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (137 votos) en la votación 89-1 (2025-01-22): Escudo social y transporte (RDL 9/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-1 (2025-01-22)",
+          "nota": "Votó NO (137 diputados) el 22 de enero de 2025: medidas económicas, de transporte y para personas vulnerables.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion1.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (120 votos) en la votación 89-1 (2025-01-22): Escudo social y transporte (RDL 9/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-1 (2025-01-22)",
+          "nota": "Votó SÍ (120 diputados) el 22 de enero de 2025: medidas económicas, de transporte y para personas vulnerables.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion1.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (33 votos) en la votación 89-1 (2025-01-22): Escudo social y transporte (RDL 9/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-1 (2025-01-22)",
+          "nota": "Votó NO (33 diputados) el 22 de enero de 2025: medidas económicas, de transporte y para personas vulnerables.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion1.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (27 votos) en la votación 89-1 (2025-01-22): Escudo social y transporte (RDL 9/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-1 (2025-01-22)",
+          "nota": "Votó SÍ (27 diputados) el 22 de enero de 2025: medidas económicas, de transporte y para personas vulnerables.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion1.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 89-1 (2025-01-22): Escudo social y transporte (RDL 9/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-1 (2025-01-22)",
+          "nota": "Votó SÍ (7 diputados) el 22 de enero de 2025: medidas económicas, de transporte y para personas vulnerables.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion1.json"
         },
         "Junts": {
           "valor": -2,
-          "nota": "Votó NO (7 votos) en la votación 89-1 (2025-01-22): Escudo social y transporte (RDL 9/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-1 (2025-01-22)",
+          "nota": "Votó NO (7 diputados) el 22 de enero de 2025: medidas económicas, de transporte y para personas vulnerables.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion1.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en la votación 89-1 (2025-01-22): Escudo social y transporte (RDL 9/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-1 (2025-01-22)",
+          "nota": "Votó SÍ (6 diputados) el 22 de enero de 2025: medidas económicas, de transporte y para personas vulnerables.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion1.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en la votación 89-1 (2025-01-22): Escudo social y transporte (RDL 9/2024).",
-          "fuente": "Congreso de los Diputados · Votación 89-1 (2025-01-22)",
+          "nota": "Votó SÍ (5 diputados) el 22 de enero de 2025: medidas económicas, de transporte y para personas vulnerables.",
+          "fuente": "Acta de la votación del Congreso del 22 de enero de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/VOT_20250122154424.zip#sesion89votacion1.json"
         }
       }
     },
     {
       "id": "af-4",
-      "texto": "Debe flexibilizarse la senda de déficit para dar mayor margen de gasto a las comunidades autónomas y ayuntamientos.",
+      "texto": "Deben aprobarse los límites de déficit y deuda para 2025-2027 que propone el Gobierno.",
       "area": "economia",
       "caminos": [
         "partidos",
@@ -309,57 +309,57 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (137 votos) en la votación 56-77 (2024-07-23): Senda de déficit autonómica (2024).",
-          "fuente": "Congreso de los Diputados · Votación 56-77 (2024-07-23)",
+          "nota": "Votó NO (137 diputados) el 23 de julio de 2024: límites de déficit y deuda de 2025-2027.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion77.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (119 votos) en la votación 56-77 (2024-07-23): Senda de déficit autonómica (2024).",
-          "fuente": "Congreso de los Diputados · Votación 56-77 (2024-07-23)",
+          "nota": "Votó SÍ (119 diputados) el 23 de julio de 2024: límites de déficit y deuda de 2025-2027.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion77.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (33 votos) en la votación 56-77 (2024-07-23): Senda de déficit autonómica (2024).",
-          "fuente": "Congreso de los Diputados · Votación 56-77 (2024-07-23)",
+          "nota": "Votó NO (33 diputados) el 23 de julio de 2024: límites de déficit y deuda de 2025-2027.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion77.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (27 votos) en la votación 56-77 (2024-07-23): Senda de déficit autonómica (2024).",
-          "fuente": "Congreso de los Diputados · Votación 56-77 (2024-07-23)",
+          "nota": "Votó SÍ (27 diputados) el 23 de julio de 2024: límites de déficit y deuda de 2025-2027.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion77.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 56-77 (2024-07-23): Senda de déficit autonómica (2024).",
-          "fuente": "Congreso de los Diputados · Votación 56-77 (2024-07-23)",
+          "nota": "Votó SÍ (7 diputados) el 23 de julio de 2024: límites de déficit y deuda de 2025-2027.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion77.json"
         },
         "Junts": {
           "valor": -2,
-          "nota": "Votó NO (7 votos) en la votación 56-77 (2024-07-23): Senda de déficit autonómica (2024).",
-          "fuente": "Congreso de los Diputados · Votación 56-77 (2024-07-23)",
+          "nota": "Votó NO (7 diputados) el 23 de julio de 2024: límites de déficit y deuda de 2025-2027.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion77.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en la votación 56-77 (2024-07-23): Senda de déficit autonómica (2024).",
-          "fuente": "Congreso de los Diputados · Votación 56-77 (2024-07-23)",
+          "nota": "Votó SÍ (6 diputados) el 23 de julio de 2024: límites de déficit y deuda de 2025-2027.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion77.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en la votación 56-77 (2024-07-23): Senda de déficit autonómica (2024).",
-          "fuente": "Congreso de los Diputados · Votación 56-77 (2024-07-23)",
+          "nota": "Votó SÍ (5 diputados) el 23 de julio de 2024: límites de déficit y deuda de 2025-2027.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion77.json"
         }
       }
     },
     {
       "id": "af-5",
-      "texto": "El Estado debe reforzar por decreto la supervisión y exigencias públicas sobre el sistema eléctrico.",
+      "texto": "Debe aprobarse el decreto con medidas urgentes para reforzar el sistema eléctrico.",
       "area": "energia_clima",
       "caminos": [
         "partidos",
@@ -372,57 +372,57 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (137 votos) en la votación 128-17 (2025-07-22): Refuerzo del sistema eléctrico (RDL 7/2025).",
-          "fuente": "Congreso de los Diputados · Votación 128-17 (2025-07-22)",
+          "nota": "Votó NO (137 diputados) el 22 de julio de 2025: refuerzo del sistema eléctrico.",
+          "fuente": "Acta de la votación del Congreso del 22 de julio de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/VOT_20250722200811.zip#sesion128votacion17.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (120 votos) en la votación 128-17 (2025-07-22): Refuerzo del sistema eléctrico (RDL 7/2025).",
-          "fuente": "Congreso de los Diputados · Votación 128-17 (2025-07-22)",
+          "nota": "Votó SÍ (120 diputados) el 22 de julio de 2025: refuerzo del sistema eléctrico.",
+          "fuente": "Acta de la votación del Congreso del 22 de julio de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/VOT_20250722200811.zip#sesion128votacion17.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (33 votos) en la votación 128-17 (2025-07-22): Refuerzo del sistema eléctrico (RDL 7/2025).",
-          "fuente": "Congreso de los Diputados · Votación 128-17 (2025-07-22)",
+          "nota": "Votó NO (33 diputados) el 22 de julio de 2025: refuerzo del sistema eléctrico.",
+          "fuente": "Acta de la votación del Congreso del 22 de julio de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/VOT_20250722200811.zip#sesion128votacion17.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (25 votos) en la votación 128-17 (2025-07-22): Refuerzo del sistema eléctrico (RDL 7/2025).",
-          "fuente": "Congreso de los Diputados · Votación 128-17 (2025-07-22)",
+          "nota": "Votó SÍ (25 diputados) el 22 de julio de 2025: refuerzo del sistema eléctrico.",
+          "fuente": "Acta de la votación del Congreso del 22 de julio de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/VOT_20250722200811.zip#sesion128votacion17.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 128-17 (2025-07-22): Refuerzo del sistema eléctrico (RDL 7/2025).",
-          "fuente": "Congreso de los Diputados · Votación 128-17 (2025-07-22)",
+          "nota": "Votó SÍ (7 diputados) el 22 de julio de 2025: refuerzo del sistema eléctrico.",
+          "fuente": "Acta de la votación del Congreso del 22 de julio de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/VOT_20250722200811.zip#sesion128votacion17.json"
         },
         "Junts": {
           "valor": -2,
-          "nota": "Votó NO (6 votos) en la votación 128-17 (2025-07-22): Refuerzo del sistema eléctrico (RDL 7/2025).",
-          "fuente": "Congreso de los Diputados · Votación 128-17 (2025-07-22)",
+          "nota": "Votó NO (6 diputados) el 22 de julio de 2025: refuerzo del sistema eléctrico.",
+          "fuente": "Acta de la votación del Congreso del 22 de julio de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/VOT_20250722200811.zip#sesion128votacion17.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en la votación 128-17 (2025-07-22): Refuerzo del sistema eléctrico (RDL 7/2025).",
-          "fuente": "Congreso de los Diputados · Votación 128-17 (2025-07-22)",
+          "nota": "Votó SÍ (5 diputados) el 22 de julio de 2025: refuerzo del sistema eléctrico.",
+          "fuente": "Acta de la votación del Congreso del 22 de julio de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/VOT_20250722200811.zip#sesion128votacion17.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en la votación 128-17 (2025-07-22): Refuerzo del sistema eléctrico (RDL 7/2025).",
-          "fuente": "Congreso de los Diputados · Votación 128-17 (2025-07-22)",
+          "nota": "Votó SÍ (5 diputados) el 22 de julio de 2025: refuerzo del sistema eléctrico.",
+          "fuente": "Acta de la votación del Congreso del 22 de julio de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/VOT_20250722200811.zip#sesion128votacion17.json"
         }
       }
     },
     {
       "id": "af-6",
-      "texto": "Debe existir un registro obligatorio y regulación estricta para los grupos de interés (lobbies) ante las instituciones.",
+      "texto": "Debe aprobarse el decreto de transparencia de los grupos de presión (lobbies).",
       "area": "instituciones",
       "caminos": [
         "partidos",
@@ -435,57 +435,57 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (137 votos) en la votación 198-16 (2026-09-16): Regulación de lobbies (RDL 21/2026).",
-          "fuente": "Congreso de los Diputados · Votación 198-16 (2026-09-16)",
+          "nota": "Votó NO (137 diputados) el 16 de septiembre de 2026: transparencia de los grupos de presión.",
+          "fuente": "Acta de la votación del Congreso del 16 de septiembre de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion198/20260916/VOT_20260916195335.zip#sesion198votacion16.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (120 votos) en la votación 198-16 (2026-09-16): Regulación de lobbies (RDL 21/2026).",
-          "fuente": "Congreso de los Diputados · Votación 198-16 (2026-09-16)",
+          "nota": "Votó SÍ (120 diputados) el 16 de septiembre de 2026: transparencia de los grupos de presión.",
+          "fuente": "Acta de la votación del Congreso del 16 de septiembre de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion198/20260916/VOT_20260916195335.zip#sesion198votacion16.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (32 votos) en la votación 198-16 (2026-09-16): Regulación de lobbies (RDL 21/2026).",
-          "fuente": "Congreso de los Diputados · Votación 198-16 (2026-09-16)",
+          "nota": "Votó NO (32 diputados) el 16 de septiembre de 2026: transparencia de los grupos de presión.",
+          "fuente": "Acta de la votación del Congreso del 16 de septiembre de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion198/20260916/VOT_20260916195335.zip#sesion198votacion16.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (19 votos) en la votación 198-16 (2026-09-16): Regulación de lobbies (RDL 21/2026).",
-          "fuente": "Congreso de los Diputados · Votación 198-16 (2026-09-16)",
+          "nota": "Votó SÍ (19 diputados) el 16 de septiembre de 2026: transparencia de los grupos de presión.",
+          "fuente": "Acta de la votación del Congreso del 16 de septiembre de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion198/20260916/VOT_20260916195335.zip#sesion198votacion16.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 198-16 (2026-09-16): Regulación de lobbies (RDL 21/2026).",
-          "fuente": "Congreso de los Diputados · Votación 198-16 (2026-09-16)",
+          "nota": "Votó SÍ (7 diputados) el 16 de septiembre de 2026: transparencia de los grupos de presión.",
+          "fuente": "Acta de la votación del Congreso del 16 de septiembre de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion198/20260916/VOT_20260916195335.zip#sesion198votacion16.json"
         },
         "Junts": {
           "valor": -2,
-          "nota": "Votó NO (7 votos) en la votación 198-16 (2026-09-16): Regulación de lobbies (RDL 21/2026).",
-          "fuente": "Congreso de los Diputados · Votación 198-16 (2026-09-16)",
+          "nota": "Votó NO (7 diputados) el 16 de septiembre de 2026: transparencia de los grupos de presión.",
+          "fuente": "Acta de la votación del Congreso del 16 de septiembre de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion198/20260916/VOT_20260916195335.zip#sesion198votacion16.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en la votación 198-16 (2026-09-16): Regulación de lobbies (RDL 21/2026).",
-          "fuente": "Congreso de los Diputados · Votación 198-16 (2026-09-16)",
+          "nota": "Votó SÍ (6 diputados) el 16 de septiembre de 2026: transparencia de los grupos de presión.",
+          "fuente": "Acta de la votación del Congreso del 16 de septiembre de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion198/20260916/VOT_20260916195335.zip#sesion198votacion16.json"
         },
         "EAJ-PNV": {
           "valor": 0,
-          "nota": "Abstención (5 votos) en la votación 198-16 (2026-09-16): Regulación de lobbies (RDL 21/2026).",
-          "fuente": "Congreso de los Diputados · Votación 198-16 (2026-09-16)",
+          "nota": "Se abstuvo (5 diputados) el 16 de septiembre de 2026: transparencia de los grupos de presión.",
+          "fuente": "Acta de la votación del Congreso del 16 de septiembre de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion198/20260916/VOT_20260916195335.zip#sesion198votacion16.json"
         }
       }
     },
     {
       "id": "af-7",
-      "texto": "Deben aprobarse decretos económicos urgentes con incentivos públicos para estimular la actividad inversora.",
+      "texto": "Debe aprobarse el decreto para favorecer la inversión de los ayuntamientos y las comunidades autónomas.",
       "area": "economia",
       "caminos": [
         "partidos",
@@ -498,57 +498,57 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (136 votos) en la votación 154-14 (2025-12-11): Estímulo inversor (RDL 15/2025).",
-          "fuente": "Congreso de los Diputados · Votación 154-14 (2025-12-11)",
+          "nota": "Votó NO (136 diputados) el 11 de diciembre de 2025: inversión de ayuntamientos y comunidades.",
+          "fuente": "Acta de la votación del Congreso del 11 de diciembre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion154/20251211/VOT_20251211175042.zip#sesion154votacion14.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (120 votos) en la votación 154-14 (2025-12-11): Estímulo inversor (RDL 15/2025).",
-          "fuente": "Congreso de los Diputados · Votación 154-14 (2025-12-11)",
+          "nota": "Votó SÍ (120 diputados) el 11 de diciembre de 2025: inversión de ayuntamientos y comunidades.",
+          "fuente": "Acta de la votación del Congreso del 11 de diciembre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion154/20251211/VOT_20251211175042.zip#sesion154votacion14.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (32 votos) en la votación 154-14 (2025-12-11): Estímulo inversor (RDL 15/2025).",
-          "fuente": "Congreso de los Diputados · Votación 154-14 (2025-12-11)",
+          "nota": "Votó NO (32 diputados) el 11 de diciembre de 2025: inversión de ayuntamientos y comunidades.",
+          "fuente": "Acta de la votación del Congreso del 11 de diciembre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion154/20251211/VOT_20251211175042.zip#sesion154votacion14.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (26 votos) en la votación 154-14 (2025-12-11): Estímulo inversor (RDL 15/2025).",
-          "fuente": "Congreso de los Diputados · Votación 154-14 (2025-12-11)",
+          "nota": "Votó SÍ (26 diputados) el 11 de diciembre de 2025: inversión de ayuntamientos y comunidades.",
+          "fuente": "Acta de la votación del Congreso del 11 de diciembre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion154/20251211/VOT_20251211175042.zip#sesion154votacion14.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 154-14 (2025-12-11): Estímulo inversor (RDL 15/2025).",
-          "fuente": "Congreso de los Diputados · Votación 154-14 (2025-12-11)",
+          "nota": "Votó SÍ (7 diputados) el 11 de diciembre de 2025: inversión de ayuntamientos y comunidades.",
+          "fuente": "Acta de la votación del Congreso del 11 de diciembre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion154/20251211/VOT_20251211175042.zip#sesion154votacion14.json"
         },
         "Junts": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 154-14 (2025-12-11): Estímulo inversor (RDL 15/2025).",
-          "fuente": "Congreso de los Diputados · Votación 154-14 (2025-12-11)",
+          "nota": "Votó SÍ (7 diputados) el 11 de diciembre de 2025: inversión de ayuntamientos y comunidades.",
+          "fuente": "Acta de la votación del Congreso del 11 de diciembre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion154/20251211/VOT_20251211175042.zip#sesion154votacion14.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en la votación 154-14 (2025-12-11): Estímulo inversor (RDL 15/2025).",
-          "fuente": "Congreso de los Diputados · Votación 154-14 (2025-12-11)",
+          "nota": "Votó SÍ (6 diputados) el 11 de diciembre de 2025: inversión de ayuntamientos y comunidades.",
+          "fuente": "Acta de la votación del Congreso del 11 de diciembre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion154/20251211/VOT_20251211175042.zip#sesion154votacion14.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en la votación 154-14 (2025-12-11): Estímulo inversor (RDL 15/2025).",
-          "fuente": "Congreso de los Diputados · Votación 154-14 (2025-12-11)",
+          "nota": "Votó SÍ (5 diputados) el 11 de diciembre de 2025: inversión de ayuntamientos y comunidades.",
+          "fuente": "Acta de la votación del Congreso del 11 de diciembre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion154/20251211/VOT_20251211175042.zip#sesion154votacion14.json"
         }
       }
     },
     {
       "id": "af-8",
-      "texto": "Debe aprobarse el Real Decreto-ley 2/2025 sobre el interés superior de la infancia ante contingencias migratorias extraordinarias.",
+      "texto": "Debe aprobarse el decreto para proteger a niños y adolescentes en situaciones migratorias extraordinarias.",
       "area": "inmigracion",
       "caminos": [
         "partidos",
@@ -561,57 +561,57 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (137 votos) en la votación 106-15 (2025-04-10): Acogida de menores migrantes (RDL 2/2025).",
-          "fuente": "Congreso de los Diputados · Votación 106-15 (2025-04-10)",
+          "nota": "Votó NO (137 diputados) el 10 de abril de 2025: protección de menores migrantes.",
+          "fuente": "Acta de la votación del Congreso del 10 de abril de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion106/20250410/VOT_20250410155135.zip#sesion106votacion15.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (120 votos) en la votación 106-15 (2025-04-10): Acogida de menores migrantes (RDL 2/2025).",
-          "fuente": "Congreso de los Diputados · Votación 106-15 (2025-04-10)",
+          "nota": "Votó SÍ (120 diputados) el 10 de abril de 2025: protección de menores migrantes.",
+          "fuente": "Acta de la votación del Congreso del 10 de abril de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion106/20250410/VOT_20250410155135.zip#sesion106votacion15.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (33 votos) en la votación 106-15 (2025-04-10): Acogida de menores migrantes (RDL 2/2025).",
-          "fuente": "Congreso de los Diputados · Votación 106-15 (2025-04-10)",
+          "nota": "Votó NO (33 diputados) el 10 de abril de 2025: protección de menores migrantes.",
+          "fuente": "Acta de la votación del Congreso del 10 de abril de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion106/20250410/VOT_20250410155135.zip#sesion106votacion15.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (27 votos) en la votación 106-15 (2025-04-10): Acogida de menores migrantes (RDL 2/2025).",
-          "fuente": "Congreso de los Diputados · Votación 106-15 (2025-04-10)",
+          "nota": "Votó SÍ (27 diputados) el 10 de abril de 2025: protección de menores migrantes.",
+          "fuente": "Acta de la votación del Congreso del 10 de abril de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion106/20250410/VOT_20250410155135.zip#sesion106votacion15.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 106-15 (2025-04-10): Acogida de menores migrantes (RDL 2/2025).",
-          "fuente": "Congreso de los Diputados · Votación 106-15 (2025-04-10)",
+          "nota": "Votó SÍ (7 diputados) el 10 de abril de 2025: protección de menores migrantes.",
+          "fuente": "Acta de la votación del Congreso del 10 de abril de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion106/20250410/VOT_20250410155135.zip#sesion106votacion15.json"
         },
         "Junts": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 106-15 (2025-04-10): Acogida de menores migrantes (RDL 2/2025).",
-          "fuente": "Congreso de los Diputados · Votación 106-15 (2025-04-10)",
+          "nota": "Votó SÍ (7 diputados) el 10 de abril de 2025: protección de menores migrantes.",
+          "fuente": "Acta de la votación del Congreso del 10 de abril de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion106/20250410/VOT_20250410155135.zip#sesion106votacion15.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en la votación 106-15 (2025-04-10): Acogida de menores migrantes (RDL 2/2025).",
-          "fuente": "Congreso de los Diputados · Votación 106-15 (2025-04-10)",
+          "nota": "Votó SÍ (6 diputados) el 10 de abril de 2025: protección de menores migrantes.",
+          "fuente": "Acta de la votación del Congreso del 10 de abril de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion106/20250410/VOT_20250410155135.zip#sesion106votacion15.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en la votación 106-15 (2025-04-10): Acogida de menores migrantes (RDL 2/2025).",
-          "fuente": "Congreso de los Diputados · Votación 106-15 (2025-04-10)",
+          "nota": "Votó SÍ (5 diputados) el 10 de abril de 2025: protección de menores migrantes.",
+          "fuente": "Acta de la votación del Congreso del 10 de abril de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion106/20250410/VOT_20250410155135.zip#sesion106votacion15.json"
         }
       }
     },
     {
       "id": "af-9",
-      "texto": "Se debe endurecer el Código Penal para castigar con mayor severidad la multirreincidencia en hurtos y delitos leves.",
+      "texto": "Debe aprobarse la reforma del Código Penal sobre la multirreincidencia (quien delinque muchas veces).",
       "area": "seguridad_justicia",
       "caminos": [
         "partidos",
@@ -624,57 +624,57 @@
       "posiciones": {
         "PP": {
           "valor": 2,
-          "nota": "Votó SÍ (136 votos) en la votación 159-23 (2026-02-12): Penas por multirreincidencia (2026).",
-          "fuente": "Congreso de los Diputados · Votación 159-23 (2026-02-12)",
+          "nota": "Votó SÍ (136 diputados) el 12 de febrero de 2026: castigo a la multirreincidencia.",
+          "fuente": "Acta de la votación del Congreso del 12 de febrero de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion159/20260212/VOT_20260212114303.zip#sesion159votacion23.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (120 votos) en la votación 159-23 (2026-02-12): Penas por multirreincidencia (2026).",
-          "fuente": "Congreso de los Diputados · Votación 159-23 (2026-02-12)",
+          "nota": "Votó SÍ (120 diputados) el 12 de febrero de 2026: castigo a la multirreincidencia.",
+          "fuente": "Acta de la votación del Congreso del 12 de febrero de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion159/20260212/VOT_20260212114303.zip#sesion159votacion23.json"
         },
         "VOX": {
           "valor": 2,
-          "nota": "Votó SÍ (33 votos) en la votación 159-23 (2026-02-12): Penas por multirreincidencia (2026).",
-          "fuente": "Congreso de los Diputados · Votación 159-23 (2026-02-12)",
+          "nota": "Votó SÍ (33 diputados) el 12 de febrero de 2026: castigo a la multirreincidencia.",
+          "fuente": "Acta de la votación del Congreso del 12 de febrero de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion159/20260212/VOT_20260212114303.zip#sesion159votacion23.json"
         },
         "Sumar": {
           "valor": -2,
-          "nota": "Votó NO (24 votos) en la votación 159-23 (2026-02-12): Penas por multirreincidencia (2026).",
-          "fuente": "Congreso de los Diputados · Votación 159-23 (2026-02-12)",
+          "nota": "Votó NO (24 diputados) el 12 de febrero de 2026: castigo a la multirreincidencia.",
+          "fuente": "Acta de la votación del Congreso del 12 de febrero de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion159/20260212/VOT_20260212114303.zip#sesion159votacion23.json"
         },
         "ERC": {
           "valor": 0,
-          "nota": "Abstención (7 votos) en la votación 159-23 (2026-02-12): Penas por multirreincidencia (2026).",
-          "fuente": "Congreso de los Diputados · Votación 159-23 (2026-02-12)",
+          "nota": "Se abstuvo (7 diputados) el 12 de febrero de 2026: castigo a la multirreincidencia.",
+          "fuente": "Acta de la votación del Congreso del 12 de febrero de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion159/20260212/VOT_20260212114303.zip#sesion159votacion23.json"
         },
         "Junts": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 159-23 (2026-02-12): Penas por multirreincidencia (2026).",
-          "fuente": "Congreso de los Diputados · Votación 159-23 (2026-02-12)",
+          "nota": "Votó SÍ (7 diputados) el 12 de febrero de 2026: castigo a la multirreincidencia.",
+          "fuente": "Acta de la votación del Congreso del 12 de febrero de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion159/20260212/VOT_20260212114303.zip#sesion159votacion23.json"
         },
         "EH Bildu": {
           "valor": -2,
-          "nota": "Votó NO (6 votos) en la votación 159-23 (2026-02-12): Penas por multirreincidencia (2026).",
-          "fuente": "Congreso de los Diputados · Votación 159-23 (2026-02-12)",
+          "nota": "Votó NO (6 diputados) el 12 de febrero de 2026: castigo a la multirreincidencia.",
+          "fuente": "Acta de la votación del Congreso del 12 de febrero de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion159/20260212/VOT_20260212114303.zip#sesion159votacion23.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en la votación 159-23 (2026-02-12): Penas por multirreincidencia (2026).",
-          "fuente": "Congreso de los Diputados · Votación 159-23 (2026-02-12)",
+          "nota": "Votó SÍ (5 diputados) el 12 de febrero de 2026: castigo a la multirreincidencia.",
+          "fuente": "Acta de la votación del Congreso del 12 de febrero de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion159/20260212/VOT_20260212114303.zip#sesion159votacion23.json"
         }
       }
     },
     {
       "id": "af-10",
-      "texto": "Las llamadas «terapias de conversión» por orientación sexual deben penalizarse expresamente en el Código Penal.",
+      "texto": "Debe aprobarse la reforma del Código Penal para castigar las terapias de conversión.",
       "area": "seguridad_justicia",
       "caminos": [
         "partidos",
@@ -687,57 +687,57 @@
       "posiciones": {
         "PP": {
           "valor": 0,
-          "nota": "Abstención (137 votos) en la votación 191-22 (2026-06-25): Penalización terapias conversión (2026).",
-          "fuente": "Congreso de los Diputados · Votación 191-22 (2026-06-25)",
+          "nota": "Se abstuvo (137 diputados) el 25 de junio de 2026: castigo a las terapias de conversión.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion22.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (121 votos) en la votación 191-22 (2026-06-25): Penalización terapias conversión (2026).",
-          "fuente": "Congreso de los Diputados · Votación 191-22 (2026-06-25)",
+          "nota": "Votó SÍ (121 diputados) el 25 de junio de 2026: castigo a las terapias de conversión.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion22.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (32 votos) en la votación 191-22 (2026-06-25): Penalización terapias conversión (2026).",
-          "fuente": "Congreso de los Diputados · Votación 191-22 (2026-06-25)",
+          "nota": "Votó NO (32 diputados) el 25 de junio de 2026: castigo a las terapias de conversión.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion22.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (25 votos) en la votación 191-22 (2026-06-25): Penalización terapias conversión (2026).",
-          "fuente": "Congreso de los Diputados · Votación 191-22 (2026-06-25)",
+          "nota": "Votó SÍ (25 diputados) el 25 de junio de 2026: castigo a las terapias de conversión.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion22.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 191-22 (2026-06-25): Penalización terapias conversión (2026).",
-          "fuente": "Congreso de los Diputados · Votación 191-22 (2026-06-25)",
+          "nota": "Votó SÍ (7 diputados) el 25 de junio de 2026: castigo a las terapias de conversión.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion22.json"
         },
         "Junts": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 191-22 (2026-06-25): Penalización terapias conversión (2026).",
-          "fuente": "Congreso de los Diputados · Votación 191-22 (2026-06-25)",
+          "nota": "Votó SÍ (7 diputados) el 25 de junio de 2026: castigo a las terapias de conversión.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion22.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en la votación 191-22 (2026-06-25): Penalización terapias conversión (2026).",
-          "fuente": "Congreso de los Diputados · Votación 191-22 (2026-06-25)",
+          "nota": "Votó SÍ (6 diputados) el 25 de junio de 2026: castigo a las terapias de conversión.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion22.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en la votación 191-22 (2026-06-25): Penalización terapias conversión (2026).",
-          "fuente": "Congreso de los Diputados · Votación 191-22 (2026-06-25)",
+          "nota": "Votó SÍ (5 diputados) el 25 de junio de 2026: castigo a las terapias de conversión.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion22.json"
         }
       }
     },
     {
       "id": "af-11",
-      "texto": "Debe convalidarse el Real Decreto-ley 10/2025 de medidas urgentes sobre Gaza y de apoyo a la población palestina.",
+      "texto": "Debe aprobarse el decreto con medidas urgentes sobre Gaza y de apoyo a la población palestina.",
       "area": "defensa_exterior",
       "caminos": [
         "partidos",
@@ -750,57 +750,57 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (136 votos) en la votación 136-87 (2025-10-08): Embargo de armas Gaza (RDL 10/2025).",
-          "fuente": "Congreso de los Diputados · Votación 136-87 (2025-10-08)",
+          "nota": "Votó NO (136 diputados) el 8 de octubre de 2025: medidas sobre Gaza.",
+          "fuente": "Acta de la votación del Congreso del 8 de octubre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/VOT_20251008195215.zip#sesion136votacion87.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (120 votos) en la votación 136-87 (2025-10-08): Embargo de armas Gaza (RDL 10/2025).",
-          "fuente": "Congreso de los Diputados · Votación 136-87 (2025-10-08)",
+          "nota": "Votó SÍ (120 diputados) el 8 de octubre de 2025: medidas sobre Gaza.",
+          "fuente": "Acta de la votación del Congreso del 8 de octubre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/VOT_20251008195215.zip#sesion136votacion87.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (33 votos) en la votación 136-87 (2025-10-08): Embargo de armas Gaza (RDL 10/2025).",
-          "fuente": "Congreso de los Diputados · Votación 136-87 (2025-10-08)",
+          "nota": "Votó NO (33 diputados) el 8 de octubre de 2025: medidas sobre Gaza.",
+          "fuente": "Acta de la votación del Congreso del 8 de octubre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/VOT_20251008195215.zip#sesion136votacion87.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (26 votos) en la votación 136-87 (2025-10-08): Embargo de armas Gaza (RDL 10/2025).",
-          "fuente": "Congreso de los Diputados · Votación 136-87 (2025-10-08)",
+          "nota": "Votó SÍ (26 diputados) el 8 de octubre de 2025: medidas sobre Gaza.",
+          "fuente": "Acta de la votación del Congreso del 8 de octubre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/VOT_20251008195215.zip#sesion136votacion87.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 136-87 (2025-10-08): Embargo de armas Gaza (RDL 10/2025).",
-          "fuente": "Congreso de los Diputados · Votación 136-87 (2025-10-08)",
+          "nota": "Votó SÍ (7 diputados) el 8 de octubre de 2025: medidas sobre Gaza.",
+          "fuente": "Acta de la votación del Congreso del 8 de octubre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/VOT_20251008195215.zip#sesion136votacion87.json"
         },
         "Junts": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 136-87 (2025-10-08): Embargo de armas Gaza (RDL 10/2025).",
-          "fuente": "Congreso de los Diputados · Votación 136-87 (2025-10-08)",
+          "nota": "Votó SÍ (7 diputados) el 8 de octubre de 2025: medidas sobre Gaza.",
+          "fuente": "Acta de la votación del Congreso del 8 de octubre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/VOT_20251008195215.zip#sesion136votacion87.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en la votación 136-87 (2025-10-08): Embargo de armas Gaza (RDL 10/2025).",
-          "fuente": "Congreso de los Diputados · Votación 136-87 (2025-10-08)",
+          "nota": "Votó SÍ (6 diputados) el 8 de octubre de 2025: medidas sobre Gaza.",
+          "fuente": "Acta de la votación del Congreso del 8 de octubre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/VOT_20251008195215.zip#sesion136votacion87.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (4 votos) en la votación 136-87 (2025-10-08): Embargo de armas Gaza (RDL 10/2025).",
-          "fuente": "Congreso de los Diputados · Votación 136-87 (2025-10-08)",
+          "nota": "Votó SÍ (4 diputados) el 8 de octubre de 2025: medidas sobre Gaza.",
+          "fuente": "Acta de la votación del Congreso del 8 de octubre de 2025",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/VOT_20251008195215.zip#sesion136votacion87.json"
         }
       }
     },
     {
       "id": "af-12",
-      "texto": "Debe aprobarse la Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+      "texto": "Debe aprobarse la ley de amnistía para la normalización política en Cataluña.",
       "area": "territorial",
       "caminos": [
         "partidos",
@@ -813,57 +813,57 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (137 votos) en la votación 30-1 (2024-03-14): Ley de Amnistía (2024).",
-          "fuente": "Congreso de los Diputados · Votación 30-1 (2024-03-14)",
+          "nota": "Votó NO (137 diputados) el 14 de marzo de 2024: ley de amnistía.",
+          "fuente": "Acta de la votación del Congreso del 14 de marzo de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion030/20240314/VOT_20240314135322.zip#sesion30votacion1.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (120 votos) en la votación 30-1 (2024-03-14): Ley de Amnistía (2024).",
-          "fuente": "Congreso de los Diputados · Votación 30-1 (2024-03-14)",
+          "nota": "Votó SÍ (120 diputados) el 14 de marzo de 2024: ley de amnistía.",
+          "fuente": "Acta de la votación del Congreso del 14 de marzo de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion030/20240314/VOT_20240314135322.zip#sesion30votacion1.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (33 votos) en la votación 30-1 (2024-03-14): Ley de Amnistía (2024).",
-          "fuente": "Congreso de los Diputados · Votación 30-1 (2024-03-14)",
+          "nota": "Votó NO (33 diputados) el 14 de marzo de 2024: ley de amnistía.",
+          "fuente": "Acta de la votación del Congreso del 14 de marzo de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion030/20240314/VOT_20240314135322.zip#sesion30votacion1.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (27 votos) en la votación 30-1 (2024-03-14): Ley de Amnistía (2024).",
-          "fuente": "Congreso de los Diputados · Votación 30-1 (2024-03-14)",
+          "nota": "Votó SÍ (27 diputados) el 14 de marzo de 2024: ley de amnistía.",
+          "fuente": "Acta de la votación del Congreso del 14 de marzo de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion030/20240314/VOT_20240314135322.zip#sesion30votacion1.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 30-1 (2024-03-14): Ley de Amnistía (2024).",
-          "fuente": "Congreso de los Diputados · Votación 30-1 (2024-03-14)",
+          "nota": "Votó SÍ (7 diputados) el 14 de marzo de 2024: ley de amnistía.",
+          "fuente": "Acta de la votación del Congreso del 14 de marzo de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion030/20240314/VOT_20240314135322.zip#sesion30votacion1.json"
         },
         "Junts": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 30-1 (2024-03-14): Ley de Amnistía (2024).",
-          "fuente": "Congreso de los Diputados · Votación 30-1 (2024-03-14)",
+          "nota": "Votó SÍ (7 diputados) el 14 de marzo de 2024: ley de amnistía.",
+          "fuente": "Acta de la votación del Congreso del 14 de marzo de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion030/20240314/VOT_20240314135322.zip#sesion30votacion1.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en la votación 30-1 (2024-03-14): Ley de Amnistía (2024).",
-          "fuente": "Congreso de los Diputados · Votación 30-1 (2024-03-14)",
+          "nota": "Votó SÍ (6 diputados) el 14 de marzo de 2024: ley de amnistía.",
+          "fuente": "Acta de la votación del Congreso del 14 de marzo de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion030/20240314/VOT_20240314135322.zip#sesion30votacion1.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en la votación 30-1 (2024-03-14): Ley de Amnistía (2024).",
-          "fuente": "Congreso de los Diputados · Votación 30-1 (2024-03-14)",
+          "nota": "Votó SÍ (5 diputados) el 14 de marzo de 2024: ley de amnistía.",
+          "fuente": "Acta de la votación del Congreso del 14 de marzo de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion030/20240314/VOT_20240314135322.zip#sesion30votacion1.json"
         }
       }
     },
     {
       "id": "af-13",
-      "texto": "Debe aprobarse la Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+      "texto": "Debe aprobarse la ley de paridad entre mujeres y hombres.",
       "area": "social",
       "caminos": [
         "partidos",
@@ -876,57 +876,57 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (137 votos) en la votación 52-44 (2024-06-27): Ley de Paridad (2024).",
-          "fuente": "Congreso de los Diputados · Votación 52-44 (2024-06-27)",
+          "nota": "Votó NO (137 diputados) el 27 de junio de 2024: ley de paridad.",
+          "fuente": "Acta de la votación del Congreso del 27 de junio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion052/20240627/VOT_20240627130332.zip#sesion52votacion44.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (119 votos) en la votación 52-44 (2024-06-27): Ley de Paridad (2024).",
-          "fuente": "Congreso de los Diputados · Votación 52-44 (2024-06-27)",
+          "nota": "Votó SÍ (119 diputados) el 27 de junio de 2024: ley de paridad.",
+          "fuente": "Acta de la votación del Congreso del 27 de junio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion052/20240627/VOT_20240627130332.zip#sesion52votacion44.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (33 votos) en la votación 52-44 (2024-06-27): Ley de Paridad (2024).",
-          "fuente": "Congreso de los Diputados · Votación 52-44 (2024-06-27)",
+          "nota": "Votó NO (33 diputados) el 27 de junio de 2024: ley de paridad.",
+          "fuente": "Acta de la votación del Congreso del 27 de junio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion052/20240627/VOT_20240627130332.zip#sesion52votacion44.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (27 votos) en la votación 52-44 (2024-06-27): Ley de Paridad (2024).",
-          "fuente": "Congreso de los Diputados · Votación 52-44 (2024-06-27)",
+          "nota": "Votó SÍ (27 diputados) el 27 de junio de 2024: ley de paridad.",
+          "fuente": "Acta de la votación del Congreso del 27 de junio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion052/20240627/VOT_20240627130332.zip#sesion52votacion44.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 52-44 (2024-06-27): Ley de Paridad (2024).",
-          "fuente": "Congreso de los Diputados · Votación 52-44 (2024-06-27)",
+          "nota": "Votó SÍ (7 diputados) el 27 de junio de 2024: ley de paridad.",
+          "fuente": "Acta de la votación del Congreso del 27 de junio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion052/20240627/VOT_20240627130332.zip#sesion52votacion44.json"
         },
         "Junts": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 52-44 (2024-06-27): Ley de Paridad (2024).",
-          "fuente": "Congreso de los Diputados · Votación 52-44 (2024-06-27)",
+          "nota": "Votó SÍ (7 diputados) el 27 de junio de 2024: ley de paridad.",
+          "fuente": "Acta de la votación del Congreso del 27 de junio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion052/20240627/VOT_20240627130332.zip#sesion52votacion44.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en la votación 52-44 (2024-06-27): Ley de Paridad (2024).",
-          "fuente": "Congreso de los Diputados · Votación 52-44 (2024-06-27)",
+          "nota": "Votó SÍ (5 diputados) el 27 de junio de 2024: ley de paridad.",
+          "fuente": "Acta de la votación del Congreso del 27 de junio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion052/20240627/VOT_20240627130332.zip#sesion52votacion44.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en la votación 52-44 (2024-06-27): Ley de Paridad (2024).",
-          "fuente": "Congreso de los Diputados · Votación 52-44 (2024-06-27)",
+          "nota": "Votó SÍ (5 diputados) el 27 de junio de 2024: ley de paridad.",
+          "fuente": "Acta de la votación del Congreso del 27 de junio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion052/20240627/VOT_20240627130332.zip#sesion52votacion44.json"
         }
       }
     },
     {
       "id": "af-14",
-      "texto": "Debe convalidarse el Real Decreto-ley 6/2026, que modifica la Ley de Memoria Democrática.",
+      "texto": "Debe aprobarse el decreto que modifica la Ley de Memoria Democrática.",
       "area": "instituciones",
       "caminos": [
         "partidos",
@@ -939,57 +939,57 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (136 votos) en la votación 169-53 (2026-03-26): Memoria Democrática (RDL 6/2026).",
-          "fuente": "Congreso de los Diputados · Votación 169-53 (2026-03-26)",
+          "nota": "Votó NO (136 diputados) el 26 de marzo de 2026: ley de Memoria Democrática.",
+          "fuente": "Acta de la votación del Congreso del 26 de marzo de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion169/20260326/VOT_20260326165020.zip#sesion169votacion53.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (121 votos) en la votación 169-53 (2026-03-26): Memoria Democrática (RDL 6/2026).",
-          "fuente": "Congreso de los Diputados · Votación 169-53 (2026-03-26)",
+          "nota": "Votó SÍ (121 diputados) el 26 de marzo de 2026: ley de Memoria Democrática.",
+          "fuente": "Acta de la votación del Congreso del 26 de marzo de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion169/20260326/VOT_20260326165020.zip#sesion169votacion53.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (33 votos) en la votación 169-53 (2026-03-26): Memoria Democrática (RDL 6/2026).",
-          "fuente": "Congreso de los Diputados · Votación 169-53 (2026-03-26)",
+          "nota": "Votó NO (33 diputados) el 26 de marzo de 2026: ley de Memoria Democrática.",
+          "fuente": "Acta de la votación del Congreso del 26 de marzo de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion169/20260326/VOT_20260326165020.zip#sesion169votacion53.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (26 votos) en la votación 169-53 (2026-03-26): Memoria Democrática (RDL 6/2026).",
-          "fuente": "Congreso de los Diputados · Votación 169-53 (2026-03-26)",
+          "nota": "Votó SÍ (26 diputados) el 26 de marzo de 2026: ley de Memoria Democrática.",
+          "fuente": "Acta de la votación del Congreso del 26 de marzo de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion169/20260326/VOT_20260326165020.zip#sesion169votacion53.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en la votación 169-53 (2026-03-26): Memoria Democrática (RDL 6/2026).",
-          "fuente": "Congreso de los Diputados · Votación 169-53 (2026-03-26)",
+          "nota": "Votó SÍ (7 diputados) el 26 de marzo de 2026: ley de Memoria Democrática.",
+          "fuente": "Acta de la votación del Congreso del 26 de marzo de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion169/20260326/VOT_20260326165020.zip#sesion169votacion53.json"
         },
         "Junts": {
           "valor": 0,
-          "nota": "Abstención (7 votos) en la votación 169-53 (2026-03-26): Memoria Democrática (RDL 6/2026).",
-          "fuente": "Congreso de los Diputados · Votación 169-53 (2026-03-26)",
+          "nota": "Se abstuvo (7 diputados) el 26 de marzo de 2026: ley de Memoria Democrática.",
+          "fuente": "Acta de la votación del Congreso del 26 de marzo de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion169/20260326/VOT_20260326165020.zip#sesion169votacion53.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en la votación 169-53 (2026-03-26): Memoria Democrática (RDL 6/2026).",
-          "fuente": "Congreso de los Diputados · Votación 169-53 (2026-03-26)",
+          "nota": "Votó SÍ (6 diputados) el 26 de marzo de 2026: ley de Memoria Democrática.",
+          "fuente": "Acta de la votación del Congreso del 26 de marzo de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion169/20260326/VOT_20260326165020.zip#sesion169votacion53.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en la votación 169-53 (2026-03-26): Memoria Democrática (RDL 6/2026).",
-          "fuente": "Congreso de los Diputados · Votación 169-53 (2026-03-26)",
+          "nota": "Votó SÍ (5 diputados) el 26 de marzo de 2026: ley de Memoria Democrática.",
+          "fuente": "Acta de la votación del Congreso del 26 de marzo de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion169/20260326/VOT_20260326165020.zip#sesion169votacion53.json"
         }
       }
     },
     {
       "id": "af-15",
-      "texto": "Debe bajarse y simplificarse el IRPF para contribuyentes y familias.",
+      "texto": "Hay que bajar y simplificar el impuesto de la renta (IRPF) para las personas y las familias.",
       "area": "impuestos",
       "caminos": [
         "partidos",
@@ -1016,7 +1016,7 @@
     },
     {
       "id": "af-16",
-      "texto": "Es prioritario aprobar una reforma del sistema de justicia y un nuevo mecanismo de elección del CGPJ y la Fiscalía.",
+      "texto": "Debe aprobarse la reforma de la ley de los jueces y del estatuto de los fiscales.",
       "area": "instituciones",
       "caminos": [
         "partidos",
@@ -1029,45 +1029,45 @@
       "posiciones": {
         "PP": {
           "valor": 2,
-          "nota": "Votó SÍ (137 votos) en votación 56-65 (2024-07-23).",
-          "fuente": "Congreso de los Diputados · Votación 56-65",
+          "nota": "Votó SÍ (137 diputados) el 23 de julio de 2024.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion65.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (119 votos) en votación 56-65 (2024-07-23).",
-          "fuente": "Congreso de los Diputados · Votación 56-65",
+          "nota": "Votó SÍ (119 diputados) el 23 de julio de 2024.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion65.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (32 votos) en votación 56-65 (2024-07-23).",
-          "fuente": "Congreso de los Diputados · Votación 56-65",
+          "nota": "Votó NO (32 diputados) el 23 de julio de 2024.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion65.json"
         },
         "Sumar": {
           "valor": 0,
-          "nota": "Abstención (27 votos) en votación 56-65 (2024-07-23).",
-          "fuente": "Congreso de los Diputados · Votación 56-65",
+          "nota": "Se abstuvo (27 diputados) el 23 de julio de 2024.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion65.json"
         },
         "Junts": {
           "valor": -2,
-          "nota": "Votó NO (7 votos) en votación 56-65 (2024-07-23).",
-          "fuente": "Congreso de los Diputados · Votación 56-65",
+          "nota": "Votó NO (7 diputados) el 23 de julio de 2024.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion65.json"
         },
         "EAJ-PNV": {
           "valor": 0,
-          "nota": "Abstención (4 votos) en votación 56-65 (2024-07-23).",
-          "fuente": "Congreso de los Diputados · Votación 56-65",
+          "nota": "Se abstuvo (4 diputados) el 23 de julio de 2024.",
+          "fuente": "Acta de la votación del Congreso del 23 de julio de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion056/20240723/VOT_20240723221625.zip#sesion56votacion65.json"
         }
       }
     },
     {
       "id": "af-19",
-      "texto": "Debe convalidarse el Real Decreto-ley 8/2023 de medidas ante las consecuencias de los conflictos de Ucrania y Oriente Próximo y la sequía.",
+      "texto": "Debe aprobarse el decreto con medidas ante las consecuencias de las guerras de Ucrania y Oriente Próximo y de la sequía.",
       "area": "economia",
       "caminos": [
         "partidos",
@@ -1080,51 +1080,51 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (137 votos) en votación 15-4 (2024-01-10).",
-          "fuente": "Congreso de los Diputados · Votación 15-4",
+          "nota": "Votó NO (137 diputados) el 10 de enero de 2024.",
+          "fuente": "Acta de la votación del Congreso del 10 de enero de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/VOT_20240111114807.zip#sesion15votacion4.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (121 votos) en votación 15-4 (2024-01-10).",
-          "fuente": "Congreso de los Diputados · Votación 15-4",
+          "nota": "Votó SÍ (121 diputados) el 10 de enero de 2024.",
+          "fuente": "Acta de la votación del Congreso del 10 de enero de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/VOT_20240111114807.zip#sesion15votacion4.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (33 votos) en votación 15-4 (2024-01-10).",
-          "fuente": "Congreso de los Diputados · Votación 15-4",
+          "nota": "Votó NO (33 diputados) el 10 de enero de 2024.",
+          "fuente": "Acta de la votación del Congreso del 10 de enero de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/VOT_20240111114807.zip#sesion15votacion4.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (25 votos) en votación 15-4 (2024-01-10).",
-          "fuente": "Congreso de los Diputados · Votación 15-4",
+          "nota": "Votó SÍ (25 diputados) el 10 de enero de 2024.",
+          "fuente": "Acta de la votación del Congreso del 10 de enero de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/VOT_20240111114807.zip#sesion15votacion4.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en votación 15-4 (2024-01-10).",
-          "fuente": "Congreso de los Diputados · Votación 15-4",
+          "nota": "Votó SÍ (7 diputados) el 10 de enero de 2024.",
+          "fuente": "Acta de la votación del Congreso del 10 de enero de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/VOT_20240111114807.zip#sesion15votacion4.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en votación 15-4 (2024-01-10).",
-          "fuente": "Congreso de los Diputados · Votación 15-4",
+          "nota": "Votó SÍ (6 diputados) el 10 de enero de 2024.",
+          "fuente": "Acta de la votación del Congreso del 10 de enero de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/VOT_20240111114807.zip#sesion15votacion4.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en votación 15-4 (2024-01-10).",
-          "fuente": "Congreso de los Diputados · Votación 15-4",
+          "nota": "Votó SÍ (5 diputados) el 10 de enero de 2024.",
+          "fuente": "Acta de la votación del Congreso del 10 de enero de 2024",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/VOT_20240111114807.zip#sesion15votacion4.json"
         }
       }
     },
     {
       "id": "af-20",
-      "texto": "Debe aprobarse la transferencia de la titularidad y competencias de la autopista AP-9 a la Comunidad Autónoma de Galicia.",
+      "texto": "Debe aprobarse el traspaso de la autopista AP-9 a Galicia.",
       "area": "territorial",
       "caminos": [
         "partidos",
@@ -1137,50 +1137,50 @@
       "posiciones": {
         "PP": {
           "valor": -2,
-          "nota": "Votó NO (136 votos) en votación 191-24 (2026-06-25).",
-          "fuente": "Congreso de los Diputados · Votación 191-24",
+          "nota": "Votó NO (136 diputados) el 25 de junio de 2026.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion24.json"
         },
         "PSOE": {
           "valor": 2,
-          "nota": "Votó SÍ (121 votos) en votación 191-24 (2026-06-25).",
-          "fuente": "Congreso de los Diputados · Votación 191-24",
+          "nota": "Votó SÍ (121 diputados) el 25 de junio de 2026.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion24.json"
         },
         "VOX": {
           "valor": -2,
-          "nota": "Votó NO (32 votos) en votación 191-24 (2026-06-25).",
-          "fuente": "Congreso de los Diputados · Votación 191-24",
+          "nota": "Votó NO (32 diputados) el 25 de junio de 2026.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion24.json"
         },
         "Sumar": {
           "valor": 2,
-          "nota": "Votó SÍ (26 votos) en votación 191-24 (2026-06-25).",
-          "fuente": "Congreso de los Diputados · Votación 191-24",
+          "nota": "Votó SÍ (26 diputados) el 25 de junio de 2026.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion24.json"
         },
         "ERC": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en votación 191-24 (2026-06-25).",
-          "fuente": "Congreso de los Diputados · Votación 191-24",
+          "nota": "Votó SÍ (7 diputados) el 25 de junio de 2026.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion24.json"
         },
         "Junts": {
           "valor": 2,
-          "nota": "Votó SÍ (7 votos) en votación 191-24 (2026-06-25).",
-          "fuente": "Congreso de los Diputados · Votación 191-24",
+          "nota": "Votó SÍ (7 diputados) el 25 de junio de 2026.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion24.json"
         },
         "EH Bildu": {
           "valor": 2,
-          "nota": "Votó SÍ (6 votos) en votación 191-24 (2026-06-25).",
-          "fuente": "Congreso de los Diputados · Votación 191-24",
+          "nota": "Votó SÍ (6 diputados) el 25 de junio de 2026.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion24.json"
         },
         "EAJ-PNV": {
           "valor": 2,
-          "nota": "Votó SÍ (5 votos) en votación 191-24 (2026-06-25).",
-          "fuente": "Congreso de los Diputados · Votación 191-24",
+          "nota": "Votó SÍ (5 diputados) el 25 de junio de 2026.",
+          "fuente": "Acta de la votación del Congreso del 25 de junio de 2026",
           "fuente_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion191/20260625/VOT_20260625150737.zip#sesion191votacion24.json"
         }
       }

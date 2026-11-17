@@ -269,6 +269,29 @@ def sincronizar_raw(actual: dict) -> dict:
     return manifest
 
 
+PALABRAS_DEBATE = ("debate", "cara a cara", "frente a frente", "cara cara")
+
+
+# apellidos inequívocos: solo para DETECTAR debates ("Debate Sánchez Feijóo"); la asignación de persona sigue usando CANDIDATOS_CLAVE
+APELLIDOS_DEBATE: dict[str, tuple[str, str]] = {
+    "sánchez": ("PSOE", "Pedro Sánchez"), "sanchez": ("PSOE", "Pedro Sánchez"),
+    "colau": ("Frente Amplio", "Ada Colau"), "belarra": ("PODEMOS", "Ione Belarra"),
+}
+
+
+def personas_en_titulo(tl: str) -> dict[str, str]:
+    """persona -> partido de los candidatos clave que aparecen en un título (en minúsculas)."""
+    return {per: p for kw, (p, per) in {**CANDIDATOS_CLAVE, **APELLIDOS_DEBATE}.items() if kw in tl}
+
+
+def es_debate(tl: str) -> bool:
+    return any(k in tl for k in PALABRAS_DEBATE) or len(personas_en_titulo(tl)) >= 2
+
+
+def participantes_en_titulo(tl: str) -> list[str]:
+    return sorted(set(personas_en_titulo(tl).values()))
+
+
 def main() -> None:
     actual = json.loads(OUT.read_text(encoding="utf-8"))
     vistos = {e["fuente_url"] for e in actual["entrevistas"]} | {d["fuente_url"] for d in actual["debates"]}
@@ -288,6 +311,21 @@ def main() -> None:
             if item["fuente_url"] in vistos:
                 continue
             tl = item["titulo"].lower()
+            # Un debate (o un título con dos candidatos) NO se indexa como entrevista a una persona: los subtítulos
+            # automáticos no dicen quién habla y se atribuirían las frases de uno al otro. Va a "debates", sin extracción.
+            if es_debate(tl):
+                actual["debates"].append({
+                    "titulo": item["titulo"],
+                    "fecha": item["fecha"],
+                    "medio": item["medio"],
+                    "formato": "debate",
+                    "participantes": participantes_en_titulo(tl),
+                    "fuente_url": item["fuente_url"],
+                    "nota": "Detectado automáticamente. Sin declaraciones atribuidas: los subtítulos no identifican a quien habla.",
+                })
+                vistos.add(item["fuente_url"])
+                nuevos += 1
+                continue
             partido_key = None
             persona_nom = None
             for kw, (p_key, per_nom) in CANDIDATOS_CLAVE.items():

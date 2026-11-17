@@ -59,10 +59,10 @@ export default function MinijuegoSociosCongreso({ data }: { data: SociosQuizData
 
   const rango =
     aciertos >= 7
-      ? 'Cronista parlamentario'
+      ? 'Conoces muy bien el Congreso'
       : aciertos >= 5
-        ? 'Buen ojo en el hemiciclo'
-        : 'Las alianzas del Pleno sorprenden';
+        ? 'Buen ojo'
+        : 'Las alianzas sorprenden';
 
   return (
     <div className="space-y-10">
@@ -163,7 +163,7 @@ export default function MinijuegoSociosCongreso({ data }: { data: SociosQuizData
             {aciertos} / {duelos.length} aciertos · {rango}
           </h2>
           <p className="text-sm text-neutral-600">
-            Mejor racha seguida: <strong>{mejorRacha}</strong>. Explora abajo todas las combinaciones reales entre los 8 grupos parlamentarios.
+            Mejor racha seguida: <strong>{mejorRacha}</strong>. Abajo puedes ver todas las parejas de partidos.
           </p>
         </div>
       )}
@@ -172,7 +172,7 @@ export default function MinijuegoSociosCongreso({ data }: { data: SociosQuizData
       <section className="rounded-2xl border border-[#dfd9cc] bg-white p-6 sm:p-8 shadow-xs space-y-5">
         <div>
           <span className="text-xs font-bold text-neutral-500">
-            Explorador matemático · {data.total_votaciones} votaciones reales (XV Legislatura)
+            Todas las parejas · {data.total_votaciones} votaciones reales
           </span>
           <h3 className="font-editorial text-2xl font-bold text-neutral-950 mt-1">
             ¿Cuánto vota igual cada partido con el resto?

@@ -4,9 +4,9 @@ import MinijuegoSociosCongreso from '@/components/MinijuegoSociosCongreso';
 import { testsSocios } from '@/lib/datos';
 
 export const metadata: Metadata = {
-  title: 'Socios en el Congreso: ¿Quién vota con quién? (XV Legislatura)',
+  title: '¿Qué partidos votan igual en el Congreso?',
   description:
-    'Juego de duelos y matriz exacta de coincidencia de voto calculada sobre las votaciones del Pleno de la XV Legislatura con desglose por grupo.',
+    'Juego para adivinar qué parejas de partidos votan igual con más frecuencia en el Congreso, con el porcentaje real de cada pareja.',
   alternates: { canonical: '/tests/socios-congreso' },
 };
 
@@ -25,10 +25,10 @@ export default function SociosCongresoPage() {
 
       <header className="space-y-2 border-b border-neutral-200 pb-6">
                 <h1 className="text-3xl sm:text-5xl font-bold font-editorial text-neutral-950">
-          Socios en el Congreso: ¿Quién vota igual que quién?
+          ¿Qué partidos votan igual en el Congreso?
         </h1>
         <p className="text-base text-neutral-600 max-w-3xl leading-relaxed">
-          Más allá de los titulares, comprueba qué porcentaje exacto de veces votaron en el mismo sentido los 8 grupos parlamentarios en las {data.total_votaciones} votaciones del Pleno con desglose por grupo.
+          Comprueba en qué porcentaje de votaciones votaron lo mismo dos partidos. Hemos contado las {data.total_votaciones} votaciones del Congreso de esta legislatura en las que se conoce el voto de cada partido.
         </p>
         {data.metodologia && <p className="max-w-3xl text-sm text-neutral-600">{data.metodologia}</p>}
       </header>

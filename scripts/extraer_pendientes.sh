@@ -12,6 +12,12 @@ PY=${PY:-scraper/.venv/bin/python}
 for xml in "$F"/raw/*.xml; do
   id=$(basename "$xml" .xml)
   [ -f "$F/declaraciones/$id.json" ] && continue
+  # debates: los subtítulos no identifican al orador; no se extrae (ver skill extraer-entrevista, regla 7)
+  "$PY" - "$F" "$id" <<'PYEOF' && continue
+import json, sys
+m = json.load(open(f"{sys.argv[1]}/raw/manifest.json"))
+sys.exit(0 if any(v["file"].startswith(sys.argv[2]) and v.get("categoria") == "debate" for v in m.values()) else 1)
+PYEOF
   echo "== $id"
   rc=0
   out=$(claude -p "Extrae la entrevista con id $id (transcripción en $xml)." \

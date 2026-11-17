@@ -1,0 +1,354 @@
+{
+  "fuente": "calendario_electoral",
+  "fetched_at": "2026-11-17T09:30:00Z",
+  "eleccion_id": "generales-2026",
+  "eventos": [
+    {
+      "id": "inicio-campana",
+      "fecha": "2026-11-13",
+      "hora": "00:00",
+      "tipo": "campana",
+      "estado": "confirmado",
+      "titulo": "Empieza la campaña electoral",
+      "descripcion": "La campaña dura quince días: de las 00:00 del viernes 13 de noviembre a las 24:00 del viernes 27.",
+      "fuentes": [
+        {
+          "nombre": "Real Decreto 806/2026 (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742"
+        }
+      ]
+    },
+    {
+      "id": "debate-lasexta-economico",
+      "fecha": "2026-11-13",
+      "hora": null,
+      "tipo": "debate",
+      "estado": "confirmado",
+      "titulo": "Debate económico en laSexta",
+      "emite": [
+        "laSexta"
+      ],
+      "participantes": [
+        "Carlos Cuerpo (PSOE)",
+        "Juan Bravo (PP)",
+        "José María Figaredo (Vox)",
+        "Pablo Bustinduy (Frente Amplio)"
+      ],
+      "bloques": [
+        {
+          "titulo": "Economía",
+          "areas": [
+            "economia"
+          ]
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "El Constitucional",
+          "url": "https://elconstitucional.es/es/mqtv/mas-tv/estos-son-debates-electorales-29n-fechas-candidatos-cadenas-emiten_10227_102.html"
+        }
+      ],
+      "comparar": [
+        "PSOE",
+        "PP",
+        "VOX",
+        "Sumar / FA"
+      ]
+    },
+    {
+      "id": "debate-ser-vivienda",
+      "fecha": "2026-11-18",
+      "hora": "09:00",
+      "tipo": "debate",
+      "estado": "confirmado",
+      "titulo": "Debate sobre vivienda en la Cadena SER (Hoy por Hoy)",
+      "emite": [
+        "Cadena SER"
+      ],
+      "moderador": "Aimar Bretos",
+      "participantes": [
+        "Isabel Rodríguez, ministra de Vivienda (PSOE)",
+        "Juan Bravo, vicesecretario de Economía (PP)"
+      ],
+      "bloques": [
+        {
+          "titulo": "Acceso a la vivienda",
+          "areas": [
+            "vivienda"
+          ]
+        }
+      ],
+      "descripcion": "De 9:00 a 10:00.",
+      "fuentes": [
+        {
+          "nombre": "El Constitucional",
+          "url": "https://elconstitucional.es/es/mqtv/mas-tv/estos-son-debates-electorales-29n-fechas-candidatos-cadenas-emiten_10227_102.html"
+        }
+      ],
+      "comparar": [
+        "PSOE",
+        "PP"
+      ]
+    },
+    {
+      "id": "debate-19n-sanchez-feijoo",
+      "fecha": "2026-11-19",
+      "hora": "22:00",
+      "tipo": "debate",
+      "estado": "confirmado",
+      "titulo": "Cara a cara: Pedro Sánchez y Alberto Núñez Feijóo",
+      "emite": [
+        "La 1",
+        "Canal 24 Horas",
+        "TVE Internacional",
+        "Antena 3",
+        "laSexta",
+        "La Séptima",
+        "RNE",
+        "Onda Cero",
+        "Cadena SER",
+        "RTVE Play"
+      ],
+      "moderador": "María Casado (Academia de Televisión)",
+      "participantes": [
+        "Pedro Sánchez (PSOE)",
+        "Alberto Núñez Feijóo (PP)"
+      ],
+      "bloques": [
+        {
+          "titulo": "Vivienda",
+          "areas": [
+            "vivienda"
+          ]
+        },
+        {
+          "titulo": "Economía y fiscalidad",
+          "areas": [
+            "economia",
+            "impuestos"
+          ]
+        },
+        {
+          "titulo": "Política social y servicios públicos",
+          "areas": [
+            "social",
+            "sanidad",
+            "educacion"
+          ]
+        },
+        {
+          "titulo": "Lucha contra la corrupción y regeneración democrática",
+          "areas": [
+            "instituciones"
+          ]
+        },
+        {
+          "titulo": "Migración y política exterior",
+          "areas": [
+            "inmigracion",
+            "defensa_exterior"
+          ]
+        }
+      ],
+      "descripcion": "Organiza la Academia de Televisión. Por sorteo, Feijóo abre el debate y Sánchez lo cierra.",
+      "comparar": [
+        "PSOE",
+        "PP"
+      ],
+      "fuentes": [
+        {
+          "nombre": "RTVE",
+          "url": "https://www.rtve.es/rtve/20261114/rtve-emite-directo-pedro-sanchez-alberto-nunez-television-elecciones-29-noviembre-2026/17313913.shtml"
+        },
+        {
+          "nombre": "Telemadrid",
+          "url": "https://www.telemadrid.es/elecciones/generales/2026/29n-cara-a-cara-sanchez-feijoo_1_2814658.html"
+        },
+        {
+          "nombre": "El Constitucional",
+          "url": "https://elconstitucional.es/es/mqtv/mas-tv/estos-son-debates-electorales-29n-fechas-candidatos-cadenas-emiten_10227_102.html"
+        }
+      ]
+    },
+    {
+      "id": "debate-23n-rtve-ocho",
+      "fecha": "2026-11-23",
+      "hora": "22:00",
+      "tipo": "debate",
+      "estado": "confirmado",
+      "titulo": "Gran Debate Parlamentario a 8 en RTVE",
+      "emite": [
+        "La 1",
+        "Canal 24 Horas",
+        "TVE Internacional",
+        "RNE",
+        "RTVE Play"
+      ],
+      "moderador": "Xabier Fortes",
+      "participantes": [
+        "Ester Muñoz (PP)",
+        "Patxi López (PSOE)",
+        "Pepa Millán (Vox)",
+        "Emilio Delgado (Frente Amplio)",
+        "Gabriel Rufián (ERC)",
+        "Míriam Nogueras (Junts)",
+        "Oskar Matute (EH Bildu)",
+        "Maribel Vaquero (EAJ-PNV)"
+      ],
+      "bloques": [
+        {
+          "titulo": "Vivienda y estado del bienestar",
+          "areas": [
+            "vivienda",
+            "social"
+          ]
+        },
+        {
+          "titulo": "Economía, empleo e infraestructuras",
+          "areas": [
+            "economia",
+            "empleo",
+            "infraestructuras"
+          ]
+        },
+        {
+          "titulo": "Clima sociopolítico y pactos",
+          "areas": [
+            "instituciones"
+          ]
+        }
+      ],
+      "fuentes": [
+        {
+          "nombre": "RTVE",
+          "url": "https://www.rtve.es/rtve/20261113/rtve-organiza-23n-debate-parlamentario-elecciones-29-noviembre-2026/17312014.shtml"
+        },
+        {
+          "nombre": "Diari Més",
+          "url": "https://www.diarimes.com/es/actualidad/261116/debates-electorales-29n-fechas-candidatos-verlos-television_242942.html"
+        }
+      ]
+    },
+    {
+      "id": "inicio-veda-sondeos",
+      "fecha": "2026-11-24",
+      "hora": "00:00",
+      "tipo": "veda",
+      "estado": "confirmado",
+      "titulo": "Empieza la prohibición de publicar sondeos",
+      "descripcion": "Durante los cinco días anteriores a la votación queda prohibida la publicación y difusión de sondeos electorales por cualquier medio. elecciones.online oculta entonces el termómetro y los titulares de sondeos.",
+      "fuentes": [
+        {
+          "nombre": "LOREG, art. 69.7 (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672"
+        }
+      ]
+    },
+    {
+      "id": "debate-26n-cuatro",
+      "fecha": "2026-11-26",
+      "hora": null,
+      "tipo": "debate",
+      "estado": "por_confirmar",
+      "titulo": "Debate a cuatro de la Academia de Televisión",
+      "emite": [
+        "RTVE"
+      ],
+      "participantes": [
+        "Pedro Sánchez (PSOE)",
+        "Alberto Núñez Feijóo (PP)",
+        "Santiago Abascal (Vox)",
+        "Ada Colau (Frente Amplio)"
+      ],
+      "descripcion": "Participantes previstos. Hora y detalles de emisión sin concretar a 17 de noviembre.",
+      "comparar": [
+        "PSOE",
+        "PP",
+        "VOX",
+        "Sumar / FA"
+      ],
+      "fuentes": [
+        {
+          "nombre": "Telemadrid",
+          "url": "https://www.telemadrid.es/elecciones/generales/2026/29n-cara-a-cara-sanchez-feijoo_1_2814658.html"
+        },
+        {
+          "nombre": "Diari Més",
+          "url": "https://www.diarimes.com/es/actualidad/261116/debates-electorales-29n-fechas-candidatos-verlos-television_242942.html"
+        }
+      ]
+    },
+    {
+      "id": "fin-campana",
+      "fecha": "2026-11-27",
+      "hora": "24:00",
+      "tipo": "campana",
+      "estado": "confirmado",
+      "titulo": "Termina la campaña electoral",
+      "descripcion": "La campaña finaliza a las veinticuatro horas del viernes 27 de noviembre.",
+      "fuentes": [
+        {
+          "nombre": "Real Decreto 806/2026 (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742"
+        }
+      ]
+    },
+    {
+      "id": "reflexion",
+      "fecha": "2026-11-28",
+      "hora": null,
+      "tipo": "reflexion",
+      "estado": "confirmado",
+      "titulo": "Jornada de reflexión",
+      "descripcion": "No puede difundirse propaganda electoral ni realizarse actos de campaña una vez terminada la campaña.",
+      "fuentes": [
+        {
+          "nombre": "LOREG, art. 53 (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672"
+        }
+      ]
+    },
+    {
+      "id": "votacion",
+      "fecha": "2026-11-29",
+      "hora": "09:00",
+      "tipo": "votacion",
+      "estado": "confirmado",
+      "titulo": "Jornada electoral",
+      "descripcion": "La votación empieza a las 9:00 y continúa sin interrupción hasta las 20:00.",
+      "fuentes": [
+        {
+          "nombre": "LOREG, art. 84 (BOE)",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672"
+        },
+        {
+          "nombre": "Real Decreto 806/2026 (BOE)",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742"
+        }
+      ]
+    },
+    {
+      "id": "debate-pais-vasco",
+      "fecha": "2026-11-16",
+      "hora": null,
+      "tipo": "debate",
+      "estado": "confirmado",
+      "titulo": "Debate de candidatos del País Vasco al Congreso (El País y Cadena SER)",
+      "emite": [
+        "El País",
+        "Cadena SER"
+      ],
+      "descripcion": "Organizado por el Grupo Prisa con candidatos de los partidos vascos a las generales.",
+      "fuentes": [
+        {
+          "nombre": "El País",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pais-y-la-ser-organizan-un-debate-entre-candidatos-del-pais-vasco-a-las-generales-del-29-n.html"
+        },
+        {
+          "nombre": "Libertad Digital",
+          "url": "https://www.libertaddigital.com/espana/2026-11-17/el-pais-acusa-al-pp-de-meter-a-eta-en-la-campana-del-29-n-7492471/"
+        }
+      ]
+    }
+  ]
+}

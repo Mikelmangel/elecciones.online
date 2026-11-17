@@ -10,8 +10,8 @@
       "opciones": [
         "BNG",
         "COMPROMIS",
-        "SALF",
-        "PACMA"
+        "PSOE",
+        "M+J"
       ],
       "cita": "Un novo modelo de financiamento baseado no concerto económico e na bilateralidade co Estado",
       "pagina": 8,
@@ -26,7 +26,7 @@
         "BNG",
         "VOX",
         "CCa",
-        "PP"
+        "PACMA"
       ],
       "cita": "Exigiremos un calendario verificable para completar los traspasos y desarrollos pendientes del Estatuto de Autonomía",
       "pagina": 8,
@@ -38,10 +38,10 @@
       "propuesta": "Prohibir que sociedades especulativas y fondos buitre compren viviendas, incluso con empresas interpuestas",
       "partido_correcto": "COMPROMIS",
       "opciones": [
+        "COMPROMIS",
+        "M+J",
         "ERC",
-        "CCa",
-        "PACMA",
-        "COMPROMIS"
+        "VOX"
       ],
       "cita": "Prohibirem que societats especulatives i fons voltor puguen comprar habitatges al nostre País i impedirem que eludisquen aquesta prohibició mitjançant societats instrumentals o interposades.",
       "pagina": 4,
@@ -53,8 +53,8 @@
       "propuesta": "Agilizar los trámites urbanísticos para facilitar la construcción de nuevas viviendas",
       "partido_correcto": "EAJ-PNV",
       "opciones": [
-        "ERC",
-        "COMPROMIS",
+        "PACMA",
+        "SALF",
         "EAJ-PNV",
         "PSOE"
       ],
@@ -68,10 +68,10 @@
       "propuesta": "Derogar la «Ley Mordaza» y revisar la normativa que restringe protesta, movilización y libertad de expresión",
       "partido_correcto": "ERC",
       "opciones": [
-        "VOX",
         "EAJ-PNV",
+        "ERC",
         "SALF",
-        "ERC"
+        "PACMA"
       ],
       "cita": "En aquest sentit, cal derogar aquesta Llei i revisar tot el marc normatiu que restringeix drets fonamentals, com ara els de protesta, mobilització i llibertat d’expressió.",
       "pagina": 8,
@@ -80,13 +80,28 @@
     },
     {
       "id": "prop-6",
+      "propuesta": "Eliminar la inmunidad parlamentaria y los aforamientos de diputados, senadores y ministros",
+      "partido_correcto": "IE",
+      "opciones": [
+        "ERC",
+        "PSOE",
+        "IE",
+        "VOX"
+      ],
+      "cita": "Eliminación de la inmunidad parlamentaria y aforamientos de diputados, senadores y ministros.",
+      "pagina": 9,
+      "fuente": "Programa electoral de Iustitia Europa (generales 2026)",
+      "fuente_url": "https://iustitiaeuropa.es/img/bloques/documentos/descarga-aqui-tu-contrato-00030.pdf"
+    },
+    {
+      "id": "prop-7",
       "propuesta": "Garantizar que todas las personas puedan acceder a una vivienda digna, estable y asequible, sin que su",
       "partido_correcto": "M+J",
       "opciones": [
-        "EAJ-PNV",
-        "SALF",
-        "PP",
-        "M+J"
+        "PSOE",
+        "COMPROMIS",
+        "M+J",
+        "ERC"
       ],
       "cita": "Garantizar que todas las personas puedan acceder a una vivienda digna, estable y asequible, sin que su coste les impida cubrir otras necesidades básicas.",
       "pagina": 4,
@@ -94,14 +109,14 @@
       "fuente_url": "https://www.porunmundomasjusto.es/wp-content/uploads/2026/11/Castellano.pdf"
     },
     {
-      "id": "prop-7",
+      "id": "prop-8",
       "propuesta": "Establecer la esterilización obligatoria y prohibir la compraventa de animales de compañía y su uso en",
       "partido_correcto": "PACMA",
       "opciones": [
-        "VOX",
-        "ERC",
-        "PSOE",
-        "PACMA"
+        "PACMA",
+        "SALF",
+        "M+J",
+        "CCa"
       ],
       "cita": "Es necesario resolver este problema en su origen, estableciendo la esterilización obligatoria, prohibiendo la compraventa de animales como compañía y su uso como instrumentos de caza.",
       "pagina": 6,
@@ -109,14 +124,14 @@
       "fuente_url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf"
     },
     {
-      "id": "prop-8",
+      "id": "prop-9",
       "propuesta": "Auditoría en cien días de todo el gasto y del funcionamiento de la Administración y empresas del Estado",
       "partido_correcto": "PP",
       "opciones": [
-        "M+J",
-        "PP",
-        "ERC",
-        "COMPROMIS"
+        "CCa",
+        "IE",
+        "COMPROMIS",
+        "PP"
       ],
       "cita": "Realizaremos una auditoría de todo el gasto que se ha hecho estos años y del funcionamiento de la Administración, de los organismos y de las empresas del Estado.",
       "pagina": 12,
@@ -124,14 +139,14 @@
       "fuente_url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf"
     },
     {
-      "id": "prop-9",
+      "id": "prop-10",
       "propuesta": "Movilizar 120.000 millones de euros mediante el Fondo España Crece para inversión productiva",
       "partido_correcto": "PSOE",
       "opciones": [
-        "CCa",
-        "PACMA",
+        "M+J",
+        "VOX",
         "PSOE",
-        "SALF"
+        "PACMA"
       ],
       "cita": "Para lograrlo, abriremos una nueva etapa de inversión productiva, apoyada en instrumentos como el Fondo España Crece, que movilizará 120.000 millones de euros para asegurar que la modernización continúe más allá de los fondos europeos.",
       "pagina": 13,
@@ -139,14 +154,14 @@
       "fuente_url": "https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf"
     },
     {
-      "id": "prop-10",
+      "id": "prop-11",
       "propuesta": "El negocio de la casta con tu casa",
       "partido_correcto": "SALF",
       "opciones": [
         "ERC",
-        "PP",
+        "EAJ-PNV",
         "SALF",
-        "COMPROMIS"
+        "IE"
       ],
       "cita": "Ley de neutralidad: la recaudación por vivienda no puede crecer más que el IPC y el exceso se devuelve bajando tipos.",
       "pagina": 5,
@@ -154,13 +169,13 @@
       "fuente_url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d"
     },
     {
-      "id": "prop-11",
+      "id": "prop-12",
       "propuesta": "Militarización de la frontera para repeler cualquier intento futuro de «invasión» o ataque híbrido",
       "partido_correcto": "VOX",
       "opciones": [
-        "PSOE",
-        "ERC",
-        "BNG",
+        "COMPROMIS",
+        "PP",
+        "M+J",
         "VOX"
       ],
       "cita": "Militarización de la frontera para repeler cualquier intento futuro de invasión o ataque híbrido.",
@@ -169,14 +184,14 @@
       "fuente_url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf"
     },
     {
-      "id": "prop-12",
+      "id": "prop-13",
       "propuesta": "Adoptar medidas para que las CCAA apliquen alquiler forzoso, expropiación temporal y canon a viviendas vacías",
       "partido_correcto": "BNG",
       "opciones": [
-        "EAJ-PNV",
-        "M+J",
+        "VOX",
         "BNG",
-        "PP"
+        "CCa",
+        "SALF"
       ],
       "cita": "Adoptar as medidas necesarias para facilitar a aplicación por parte CCAA de mecanismos como o alugueiro forzoso, a expropiación temporal",
       "pagina": 14,
@@ -184,14 +199,14 @@
       "fuente_url": "https://xerais2026.bng.gal/wp-content/uploads/2026/11/bng-xerais-2026-programa-electoral.pdf"
     },
     {
-      "id": "prop-13",
+      "id": "prop-14",
       "propuesta": "El fondo permitirá construir, adquirir y rehabilitar viviendas y comprar suelo, edificios y promociones",
       "partido_correcto": "CCa",
       "opciones": [
-        "COMPROMIS",
-        "BNG",
+        "PSOE",
         "CCa",
-        "M+J"
+        "BNG",
+        "VOX"
       ],
       "cita": "Permitirá construir, adquirir y rehabilitar viviendas, además de comprar suelo, edificios y promociones disponibles",
       "pagina": 10,
@@ -199,14 +214,14 @@
       "fuente_url": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf"
     },
     {
-      "id": "prop-14",
+      "id": "prop-15",
       "propuesta": "Reforzar la atención primaria fijando por ley financiación mínima, ratios y listas de espera máximas",
       "partido_correcto": "COMPROMIS",
       "opciones": [
         "VOX",
         "COMPROMIS",
         "EAJ-PNV",
-        "PSOE"
+        "PP"
       ],
       "cita": "Reforçarem l’atenció primària, la salut comunitària i la prevenció, fixant per llei bàsica un finançament mínim així com unes ràtios poblacionals i llistes d’espera màxims, i millorant la continuïtat assistencial.",
       "pagina": 9,
@@ -214,12 +229,12 @@
       "fuente_url": "https://frontvalencia.org/programa-compromis-front-valencia.pdf"
     },
     {
-      "id": "prop-15",
+      "id": "prop-16",
       "propuesta": "Favorecer la modernización tecnológica de las pymes, apoyando soluciones digitales e inteligencia artificial",
       "partido_correcto": "EAJ-PNV",
       "opciones": [
         "ERC",
-        "M+J",
+        "IE",
         "BNG",
         "EAJ-PNV"
       ],
@@ -227,21 +242,6 @@
       "pagina": 14,
       "fuente": "Programa electoral de Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco (generales 2026)",
       "fuente_url": "https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n"
-    },
-    {
-      "id": "prop-16",
-      "propuesta": "Asegurar la financiación estatal de la educación pública y gratuita de 0 a 3 años",
-      "partido_correcto": "ERC",
-      "opciones": [
-        "ERC",
-        "CCa",
-        "COMPROMIS",
-        "EAJ-PNV"
-      ],
-      "cita": "Assegurar el finançament estatal de l’educació pública i gratuïta de 0 a 3 anys.",
-      "pagina": 11,
-      "fuente": "Programa electoral de Esquerra Republicana de Catalunya (generales 2026)",
-      "fuente_url": "https://esquerrarepublicana.cat/documents/e2026-programa.pdf"
     }
   ]
 }

@@ -690,7 +690,7 @@
   "preguntas": [
     {
       "id": "prov-1",
-      "pregunta": "¿Por cuántos votos se decidió el último escaño de Girona en las generales de 2023 (Junts frente al PP)?",
+      "pregunta": "En Girona, el último diputado en juego en 2023 fue para Junts. ¿Cuántos votos más le habrían hecho falta al PP para quedárselo?",
       "opciones": [
         "285 votos",
         "2.850 votos",
@@ -698,11 +698,11 @@
         "24.000 votos"
       ],
       "respuesta_correcta": "285 votos",
-      "explicacion": "En Girona, solo 285 papeletas separaron el 6.º escaño (que fue para Junts) del PP según nuestro cálculo sobre el escrutinio oficial (BOE)."
+      "explicacion": "Solo 285 votos. Esa fue la distancia entre Junts y el PP por el último diputado de Girona, según nuestro cálculo sobre el recuento oficial (BOE)."
     },
     {
       "id": "prov-2",
-      "pregunta": "En Madrid (37 escaños en 2023, 38 en 2026), ¿por cuántos votos ganó el PP el último escaño frente al PSOE?",
+      "pregunta": "En Madrid, ¿por cuántos votos ganó el PP el último diputado frente al PSOE en 2023?",
       "opciones": [
         "1.340 votos",
         "18.500 votos",
@@ -710,11 +710,11 @@
         "85.000 votos"
       ],
       "respuesta_correcta": "1.340 votos",
-      "explicacion": "Pese a emitirse más de 3,5 millones de votos válidos en Madrid, el último diputado (n.º 37) se decidió por solo 1.340 votos (el 0,04 %)."
+      "explicacion": "Madrid sumó más de 3,5 millones de votos válidos y el último diputado se decidió por solo 1.340 votos (el 0,04 %)."
     },
     {
       "id": "prov-3",
-      "pregunta": "¿Qué dos provincias cambian su número de diputados el 29-N de 2026 respecto a 2023 por la población (art. 162 LOREG)?",
+      "pregunta": "El número de diputados de cada provincia se actualiza según su población. ¿Qué dos provincias cambian el 29-N respecto a 2023?",
       "opciones": [
         "Madrid (+1) y Cádiz (-1)",
         "Barcelona (+1) y Asturias (-1)",
@@ -722,11 +722,11 @@
         "Málaga (+1) y Zamora (-1)"
       ],
       "respuesta_correcta": "Madrid (+1) y Cádiz (-1)",
-      "explicacion": "El decreto de convocatoria (BOE-A-2026-20742) asigna 38 escaños a Madrid (+1) y 8 a Cádiz (-1) por variación de población."
+      "explicacion": "Según el decreto que convoca las elecciones (BOE), Madrid pasa a tener 38 diputados (uno más) y Cádiz 8 (uno menos), porque ha cambiado su población."
     },
     {
       "id": "prov-4",
-      "pregunta": "En Cantabria (5 escaños), ¿cuántos votos faltaron al PP en 2023 para arrebatarle el último diputado a VOX?",
+      "pregunta": "En Cantabria se reparten 5 diputados. En 2023, ¿cuántos votos le faltaron al PP para quitarle el último diputado a VOX?",
       "opciones": [
         "404 votos",
         "4.100 votos",
@@ -734,11 +734,11 @@
         "25.000 votos"
       ],
       "respuesta_correcta": "404 votos",
-      "explicacion": "En Cantabria el reparto D'Hondt dejó al PP a apenas 404 papeletas de distancia del 5.º diputado, que retuvo VOX."
+      "explicacion": "Solo 404 votos separaron al PP del quinto diputado de Cantabria, que se quedó VOX."
     },
     {
       "id": "prov-5",
-      "pregunta": "En Santa Cruz de Tenerife (7 escaños), ¿qué dos formaciones se jugaron el último escaño por 1.565 votos?",
+      "pregunta": "En Santa Cruz de Tenerife se reparten 7 diputados. ¿Qué dos partidos se jugaron el último por solo 1.565 votos?",
       "opciones": [
         "PSOE frente a Sumar",
         "PP frente a Coalición Canaria",
@@ -746,11 +746,11 @@
         "CCa frente a Sumar"
       ],
       "respuesta_correcta": "PSOE frente a Sumar",
-      "explicacion": "En Santa Cruz de Tenerife, el PSOE obtuvo el último escaño con 1.565 votos de ventaja sobre Sumar."
+      "explicacion": "El PSOE se quedó el último diputado de Santa Cruz de Tenerife con 1.565 votos de ventaja sobre Sumar."
     },
     {
       "id": "prov-6",
-      "pregunta": "¿Qué porcentaje mínimo de votos válidos (incluidos votos en blanco) exige la ley para entrar en el reparto D'Hondt provincial?",
+      "pregunta": "¿Qué porcentaje mínimo de votos necesita un partido en una provincia para tener opción a diputados?",
       "opciones": [
         "3 % en la provincia",
         "5 % en toda España",
@@ -758,11 +758,11 @@
         "No hay mínimo"
       ],
       "respuesta_correcta": "3 % en la provincia",
-      "explicacion": "El artículo 163.1.a de la LOREG (BOE-A-1985-11672) excluye del reparto en cada circunscripción a las candidaturas con menos del 3 % de los votos válidos emitidos."
+      "explicacion": "La ley electoral (art. 163 de la LOREG, en el BOE) deja fuera del reparto a los partidos que no llegan al 3 % de los votos válidos de la provincia, contando también los votos en blanco."
     },
     {
       "id": "prov-7",
-      "pregunta": "En Teruel (3 escaños), ¿por cuántos votos retuvo el PP su segundo escaño frente a Teruel Existe en 2023?",
+      "pregunta": "En Teruel se reparten 3 diputados. ¿Por cuántos votos el PP mantuvo su segundo diputado frente a Teruel Existe en 2023?",
       "opciones": [
         "1.946 votos",
         "6.800 votos",
@@ -770,11 +770,11 @@
         "31.000 votos"
       ],
       "respuesta_correcta": "1.946 votos",
-      "explicacion": "Teruel Existe quedó a solo 1.946 votos de conseguir escaño frente al último cociente del PP en 2023."
+      "explicacion": "Teruel Existe se quedó a solo 1.946 votos de conseguir un diputado a costa del PP en 2023."
     },
     {
       "id": "prov-8",
-      "pregunta": "En Albacete (4 escaños), ¿qué margen decidió el último diputado entre PSOE y VOX?",
+      "pregunta": "En Albacete se reparten 4 diputados. ¿Por cuántos votos se decidió el último entre el PSOE y VOX?",
       "opciones": [
         "1.412 votos",
         "7.500 votos",
@@ -782,7 +782,7 @@
         "29.000 votos"
       ],
       "respuesta_correcta": "1.412 votos",
-      "explicacion": "Solo 1.412 papeletas separaron al PSOE de VOX en el último escaño de Albacete (0,64 % de los votos válidos)."
+      "explicacion": "Solo 1.412 votos separaron al PSOE de VOX en el último diputado de Albacete (el 0,64 % de los votos válidos)."
     }
   ]
 }

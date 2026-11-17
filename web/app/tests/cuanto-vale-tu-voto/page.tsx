@@ -4,9 +4,9 @@ import MinijuegoVotoProvincia from '@/components/MinijuegoVotoProvincia';
 import { testsVotoProvincia } from '@/lib/datos';
 
 export const metadata: Metadata = {
-  title: '¿Cuánto vale un escaño en tu provincia? Ley D\'Hondt y márgenes 2023–2026',
+  title: '¿Por cuántos votos se decidió tu provincia? El último diputado en 2023',
   description:
-    'Descubre por cuántos votos se decidió el último diputado en tu provincia en 2023 y juega a adivinar las circunscripciones más reñidas de cara al 29-N.',
+    'Descubre por cuántos votos se decidió el último diputado de tu provincia en 2023 y adivina los casos más ajustados antes del 29-N.',
   alternates: { canonical: '/tests/cuanto-vale-tu-voto' },
 };
 
@@ -25,13 +25,13 @@ export default function CuantoValeTuVotoPage() {
 
       <header className="space-y-2 border-b border-neutral-200 pb-6">
         <span className="inline-block rounded-full bg-amber-100 px-3 py-1 text-xs font-bold text-amber-900">
-          52 circunscripciones · Escrutinio oficial BOE
+          52 provincias · Datos oficiales del BOE
         </span>
         <h1 className="text-3xl sm:text-5xl font-bold font-editorial text-neutral-950">
-          ¿Cuánto vale un escaño en tu provincia?
+          ¿Por cuántos votos se decidió tu provincia?
         </h1>
         <p className="text-base text-neutral-600 max-w-3xl leading-relaxed">
-          En algunas provincias el último diputado se decide por apenas cientos de papeletas. Elige tu circunscripción para ver el margen real del último escaño y pon a prueba tu intuición electoral.
+          En algunas provincias el último diputado se decide por apenas cientos de papeletas. Elige tu provincia para ver cuántos votos separaron al último diputado del siguiente partido y pon a prueba tu intuición.
         </p>
       </header>
 

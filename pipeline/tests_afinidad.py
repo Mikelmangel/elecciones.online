@@ -57,14 +57,22 @@ def buscar_propuesta(prog: dict, pagina: int, texto_clave: str) -> dict:
     raise AssertionError(f"No se encontró propuesta con '{texto_clave}' en {prog['siglas']} p.{pagina}")
 
 
+MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+
+
+def fecha_llana(iso: str) -> str:
+    a, m, d = iso.split("-")
+    return f"{int(d)} de {MESES[int(m) - 1]} de {a}"
+
+
 def voto_a_valor(conteo: dict, invertir: bool = False) -> tuple[int, str] | None:
     si, no, abs_ = conteo["si"], conteo["no"], conteo["abstencion"]
     if si > no and si > abs_:
-        val, etiq = (2, f"Votó SÍ ({si} votos)")
+        val, etiq = (2, f"Votó SÍ ({si} diputados)")
     elif no > si and no > abs_:
-        val, etiq = (-2, f"Votó NO ({no} votos)")
+        val, etiq = (-2, f"Votó NO ({no} diputados)")
     elif abs_ > si and abs_ > no:
-        val, etiq = (0, f"Abstención ({abs_} votos)")
+        val, etiq = (0, f"Se abstuvo ({abs_} diputados)")
     else:
         return None
     if invertir:
@@ -76,149 +84,149 @@ PREGUNTAS_VOTOS = [
     {
         "id": "af-1",
         "votacion_id": "89-2",
-        "texto": "Debe aprobarse el gravamen temporal energético para 2025 (Real Decreto-ley 10/2024).",
+        "texto": "Debe cobrarse un impuesto temporal a las empresas energéticas durante 2025.",
         "area": "impuestos",
         "dimension": "economia",
         "direccion": -1,
         "invertir": False,
-        "etiqueta_corta": "Impuesto a energéticas (RDL 10/2024)",
+        "etiqueta_corta": "impuesto temporal a las energéticas",
     },
     {
         "id": "af-2",
         "votacion_id": "175-3",
-        "texto": "El Estado debe aprobar medidas urgentes de contención e intervención en los contratos de alquiler.",
+        "texto": "Debe aprobarse un decreto con medidas sobre el alquiler por las consecuencias de la guerra de Irán.",
         "area": "vivienda",
         "dimension": "economia",
         "direccion": -1,
         "invertir": False,
-        "etiqueta_corta": "Regulación del alquiler (RDL 8/2026)",
+        "etiqueta_corta": "medidas sobre el alquiler",
     },
     {
         "id": "af-3",
         "votacion_id": "89-1",
-        "texto": "Debe convalidarse el Real Decreto-ley 9/2024 de medidas económicas, tributarias, de transporte y de Seguridad Social.",
+        "texto": "Debe aprobarse el decreto con medidas de economía, impuestos, transporte y Seguridad Social, y la prórroga de las medidas para personas vulnerables.",
         "area": "pensiones",
         "dimension": "economia",
         "direccion": -1,
         "invertir": False,
-        "etiqueta_corta": "Escudo social y transporte (RDL 9/2024)",
+        "etiqueta_corta": "medidas económicas, de transporte y para personas vulnerables",
     },
     {
         "id": "af-4",
         "votacion_id": "56-77",
-        "texto": "Debe flexibilizarse la senda de déficit para dar mayor margen de gasto a las comunidades autónomas y ayuntamientos.",
+        "texto": "Deben aprobarse los límites de déficit y deuda para 2025-2027 que propone el Gobierno.",
         "area": "economia",
         "dimension": "economia",
         "direccion": -1,
         "invertir": False,
-        "etiqueta_corta": "Senda de déficit autonómica (2024)",
+        "etiqueta_corta": "límites de déficit y deuda de 2025-2027",
     },
     {
         "id": "af-5",
         "votacion_id": "128-17",
-        "texto": "El Estado debe reforzar por decreto la supervisión y exigencias públicas sobre el sistema eléctrico.",
+        "texto": "Debe aprobarse el decreto con medidas urgentes para reforzar el sistema eléctrico.",
         "area": "energia_clima",
         "dimension": "economia",
         "direccion": -1,
         "invertir": False,
-        "etiqueta_corta": "Refuerzo del sistema eléctrico (RDL 7/2025)",
+        "etiqueta_corta": "refuerzo del sistema eléctrico",
     },
     {
         "id": "af-6",
         "votacion_id": "198-16",
-        "texto": "Debe existir un registro obligatorio y regulación estricta para los grupos de interés (lobbies) ante las instituciones.",
+        "texto": "Debe aprobarse el decreto de transparencia de los grupos de presión (lobbies).",
         "area": "instituciones",
         "dimension": "economia",
         "direccion": -1,
         "invertir": False,
-        "etiqueta_corta": "Regulación de lobbies (RDL 21/2026)",
+        "etiqueta_corta": "transparencia de los grupos de presión",
     },
     {
         "id": "af-7",
         "votacion_id": "154-14",
-        "texto": "Deben aprobarse decretos económicos urgentes con incentivos públicos para estimular la actividad inversora.",
+        "texto": "Debe aprobarse el decreto para favorecer la inversión de los ayuntamientos y las comunidades autónomas.",
         "area": "economia",
         "dimension": "economia",
         "direccion": 1,
         "invertir": False,
-        "etiqueta_corta": "Estímulo inversor (RDL 15/2025)",
+        "etiqueta_corta": "inversión de ayuntamientos y comunidades",
     },
     {
         "id": "af-8",
         "votacion_id": "106-15",
-        "texto": "Debe aprobarse el Real Decreto-ley 2/2025 sobre el interés superior de la infancia ante contingencias migratorias extraordinarias.",
+        "texto": "Debe aprobarse el decreto para proteger a niños y adolescentes en situaciones migratorias extraordinarias.",
         "area": "inmigracion",
         "dimension": "sociedad",
         "direccion": -1,
         "invertir": False,
-        "etiqueta_corta": "Acogida de menores migrantes (RDL 2/2025)",
+        "etiqueta_corta": "protección de menores migrantes",
     },
     {
         "id": "af-9",
         "votacion_id": "159-23",
-        "texto": "Se debe endurecer el Código Penal para castigar con mayor severidad la multirreincidencia en hurtos y delitos leves.",
+        "texto": "Debe aprobarse la reforma del Código Penal sobre la multirreincidencia (quien delinque muchas veces).",
         "area": "seguridad_justicia",
         "dimension": "sociedad",
         "direccion": 1,
         "invertir": False,
-        "etiqueta_corta": "Penas por multirreincidencia (2026)",
+        "etiqueta_corta": "castigo a la multirreincidencia",
     },
     {
         "id": "af-10",
         "votacion_id": "191-22",
-        "texto": "Las llamadas «terapias de conversión» por orientación sexual deben penalizarse expresamente en el Código Penal.",
+        "texto": "Debe aprobarse la reforma del Código Penal para castigar las terapias de conversión.",
         "area": "seguridad_justicia",
         "dimension": "sociedad",
         "direccion": -1,
         "invertir": False,
-        "etiqueta_corta": "Penalización terapias conversión (2026)",
+        "etiqueta_corta": "castigo a las terapias de conversión",
     },
     {
         "id": "af-11",
         "votacion_id": "136-87",
-        "texto": "Debe convalidarse el Real Decreto-ley 10/2025 de medidas urgentes sobre Gaza y de apoyo a la población palestina.",
+        "texto": "Debe aprobarse el decreto con medidas urgentes sobre Gaza y de apoyo a la población palestina.",
         "area": "defensa_exterior",
         "dimension": "sociedad",
         "direccion": -1,
         "invertir": False,
-        "etiqueta_corta": "Embargo de armas Gaza (RDL 10/2025)",
+        "etiqueta_corta": "medidas sobre Gaza",
     },
     {
         "id": "af-12",
         "votacion_id": "30-1",
-        "texto": "Debe aprobarse la Ley Orgánica de amnistía para la normalización institucional, política y social en Cataluña.",
+        "texto": "Debe aprobarse la ley de amnistía para la normalización política en Cataluña.",
         "area": "territorial",
         "dimension": "sociedad",
         "direccion": -1,
         "invertir": False,
-        "etiqueta_corta": "Ley de Amnistía (2024)",
+        "etiqueta_corta": "ley de amnistía",
     },
     {
         "id": "af-13",
         "votacion_id": "52-44",
-        "texto": "Debe aprobarse la Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres.",
+        "texto": "Debe aprobarse la ley de paridad entre mujeres y hombres.",
         "area": "social",
         "dimension": "sociedad",
         "direccion": -1,
         "invertir": False,
-        "etiqueta_corta": "Ley de Paridad (2024)",
+        "etiqueta_corta": "ley de paridad",
     },
     {
         "id": "af-14",
         "votacion_id": "169-53",
-        "texto": "Debe convalidarse el Real Decreto-ley 6/2026, que modifica la Ley de Memoria Democrática.",
+        "texto": "Debe aprobarse el decreto que modifica la Ley de Memoria Democrática.",
         "area": "instituciones",
         "dimension": "sociedad",
         "direccion": -1,
         "invertir": False,
-        "etiqueta_corta": "Memoria Democrática (RDL 6/2026)",
+        "etiqueta_corta": "ley de Memoria Democrática",
     },
 ]
 
 PREGUNTAS_PROGRAMAS = [
     {
         "id": "af-15",
-        "texto": "Debe bajarse y simplificarse el IRPF para contribuyentes y familias.",
+        "texto": "Hay que bajar y simplificar el impuesto de la renta (IRPF) para las personas y las familias.",
         "area": "impuestos",
         "dimension": "economia",
         "direccion": 1,
@@ -229,7 +237,7 @@ PREGUNTAS_PROGRAMAS = [
     },
     {
         "id": "af-16",
-        "texto": "Es prioritario aprobar una reforma del sistema de justicia y un nuevo mecanismo de elección del CGPJ y la Fiscalía.",
+        "texto": "Debe aprobarse la reforma de la ley de los jueces y del estatuto de los fiscales.",
         "area": "instituciones",
         "dimension": "sociedad",
         "direccion": 1,
@@ -238,7 +246,7 @@ PREGUNTAS_PROGRAMAS = [
     },
     {
         "id": "af-19",
-        "texto": "Debe convalidarse el Real Decreto-ley 8/2023 de medidas ante las consecuencias de los conflictos de Ucrania y Oriente Próximo y la sequía.",
+        "texto": "Debe aprobarse el decreto con medidas ante las consecuencias de las guerras de Ucrania y Oriente Próximo y de la sequía.",
         "area": "economia",
         "dimension": "economia",
         "direccion": -1,
@@ -247,7 +255,7 @@ PREGUNTAS_PROGRAMAS = [
     },
     {
         "id": "af-20",
-        "texto": "Debe aprobarse la transferencia de la titularidad y competencias de la autopista AP-9 a la Comunidad Autónoma de Galicia.",
+        "texto": "Debe aprobarse el traspaso de la autopista AP-9 a Galicia.",
         "area": "territorial",
         "dimension": "sociedad",
         "direccion": -1,
@@ -273,8 +281,8 @@ def generar_afinidad(vots: dict[str, dict], progs: dict[str, dict]) -> dict:
             val, etiq = res
             posiciones[p_siglas] = {
                 "valor": val,
-                "nota": f"{etiq} en la votación {v['id']} ({v['fecha']}): {pv['etiqueta_corta']}.",
-                "fuente": f"Congreso de los Diputados · Votación {v['id']} ({v['fecha']})",
+                "nota": f"{etiq} el {fecha_llana(v['fecha'])}: {pv['etiqueta_corta']}.",
+                "fuente": f"Acta de la votación del Congreso del {fecha_llana(v['fecha'])}",
                 "fuente_url": v["fuente_url"],
             }
         afirmaciones.append({
@@ -298,8 +306,8 @@ def generar_afinidad(vots: dict[str, dict], progs: dict[str, dict]) -> dict:
                     val, etiq = res
                     posiciones[p_siglas] = {
                         "valor": val,
-                        "nota": f"{etiq} en votación {v['id']} ({v['fecha']}).",
-                        "fuente": f"Congreso de los Diputados · Votación {v['id']}",
+                        "nota": f"{etiq} el {fecha_llana(v['fecha'])}.",
+                        "fuente": f"Acta de la votación del Congreso del {fecha_llana(v['fecha'])}",
                         "fuente_url": v["fuente_url"],
                     }
         for p_siglas, (pagina, kw, val) in pp["citas"].items():
@@ -359,9 +367,8 @@ def generar_afinidad(vots: dict[str, dict], progs: dict[str, dict]) -> dict:
         "fecha_actualizacion": "2026-11-16",
         "metodologia": {
             "descripcion": (
-                "Calcula tu afinidad y tu posición en la brújula 2D comparando tus respuestas con "
-                f"los 8 grupos parlamentarios del Congreso ({lo} a {hi} posiciones documentadas por partido "
-                "entre votaciones reales de la XV Legislatura y programas oficiales 2026)."
+                f"Compara tus respuestas con las de los 8 grupos del Congreso, a partir de cómo votaron en la legislatura "
+                f"y de lo que dicen sus programas ({lo} a {hi} puntos de comparación por partido)."
             ),
             "escala": {
                 "-2": "Muy en desacuerdo",
@@ -372,10 +379,10 @@ def generar_afinidad(vots: dict[str, dict], progs: dict[str, dict]) -> dict:
             },
             "ponderacion_estrella": 2.0,
             "disclaimer": (
-                "Herramienta basada en actas oficiales del Congreso y en citas de programas electorales. "
-                "La brújula sale solo de los votos y medidas de este test, no es una clasificación ideológica oficial "
-                "de los partidos, y refleja también quién apoyó o rechazó cada texto como Gobierno u oposición. "
-                "Todo el cálculo se ejecuta en tu navegador sin enviar ni almacenar tus respuestas."
+                "Este test se basa en las votaciones reales del Congreso y en citas de los programas. "
+                "El mapa sale solo de las preguntas de este test: no es una clasificación oficial de los partidos, "
+                "y refleja también quién apoyó o rechazó cada texto estando en el Gobierno o en la oposición. "
+                "Todo se calcula en tu navegador: no enviamos ni guardamos tus respuestas."
             ),
         },
         "partidos_ideologia": partidos_ideologia,
@@ -417,59 +424,59 @@ def generar_voto_provincia() -> dict:
     preguntas = [
         {
             "id": "prov-1",
-            "pregunta": "¿Por cuántos votos se decidió el último escaño de Girona en las generales de 2023 (Junts frente al PP)?",
+            "pregunta": "En Girona, el último diputado en juego en 2023 fue para Junts. ¿Cuántos votos más le habrían hecho falta al PP para quedárselo?",
             "opciones": ["285 votos", "2.850 votos", "9.400 votos", "24.000 votos"],
             "respuesta_correcta": "285 votos",
-            "explicacion": "En Girona, solo 285 papeletas separaron el 6.º escaño (que fue para Junts) del PP según nuestro cálculo sobre el escrutinio oficial (BOE).",
+            "explicacion": "Solo 285 votos. Esa fue la distancia entre Junts y el PP por el último diputado de Girona, según nuestro cálculo sobre el recuento oficial (BOE).",
         },
         {
             "id": "prov-2",
-            "pregunta": "En Madrid (37 escaños en 2023, 38 en 2026), ¿por cuántos votos ganó el PP el último escaño frente al PSOE?",
+            "pregunta": "En Madrid, ¿por cuántos votos ganó el PP el último diputado frente al PSOE en 2023?",
             "opciones": ["1.340 votos", "18.500 votos", "42.000 votos", "85.000 votos"],
             "respuesta_correcta": "1.340 votos",
-            "explicacion": "Pese a emitirse más de 3,5 millones de votos válidos en Madrid, el último diputado (n.º 37) se decidió por solo 1.340 votos (el 0,04 %).",
+            "explicacion": "Madrid sumó más de 3,5 millones de votos válidos y el último diputado se decidió por solo 1.340 votos (el 0,04 %).",
         },
         {
             "id": "prov-3",
-            "pregunta": "¿Qué dos provincias cambian su número de diputados el 29-N de 2026 respecto a 2023 por la población (art. 162 LOREG)?",
+            "pregunta": "El número de diputados de cada provincia se actualiza según su población. ¿Qué dos provincias cambian el 29-N respecto a 2023?",
             "opciones": ["Madrid (+1) y Cádiz (-1)", "Barcelona (+1) y Asturias (-1)", "Valencia (+1) y León (-1)", "Málaga (+1) y Zamora (-1)"],
             "respuesta_correcta": "Madrid (+1) y Cádiz (-1)",
-            "explicacion": "El decreto de convocatoria (BOE-A-2026-20742) asigna 38 escaños a Madrid (+1) y 8 a Cádiz (-1) por variación de población.",
+            "explicacion": "Según el decreto que convoca las elecciones (BOE), Madrid pasa a tener 38 diputados (uno más) y Cádiz 8 (uno menos), porque ha cambiado su población.",
         },
         {
             "id": "prov-4",
-            "pregunta": "En Cantabria (5 escaños), ¿cuántos votos faltaron al PP en 2023 para arrebatarle el último diputado a VOX?",
+            "pregunta": "En Cantabria se reparten 5 diputados. En 2023, ¿cuántos votos le faltaron al PP para quitarle el último diputado a VOX?",
             "opciones": ["404 votos", "4.100 votos", "11.200 votos", "25.000 votos"],
             "respuesta_correcta": "404 votos",
-            "explicacion": "En Cantabria el reparto D'Hondt dejó al PP a apenas 404 papeletas de distancia del 5.º diputado, que retuvo VOX.",
+            "explicacion": "Solo 404 votos separaron al PP del quinto diputado de Cantabria, que se quedó VOX.",
         },
         {
             "id": "prov-5",
-            "pregunta": "En Santa Cruz de Tenerife (7 escaños), ¿qué dos formaciones se jugaron el último escaño por 1.565 votos?",
+            "pregunta": "En Santa Cruz de Tenerife se reparten 7 diputados. ¿Qué dos partidos se jugaron el último por solo 1.565 votos?",
             "opciones": ["PSOE frente a Sumar", "PP frente a Coalición Canaria", "VOX frente a PSOE", "CCa frente a Sumar"],
             "respuesta_correcta": "PSOE frente a Sumar",
-            "explicacion": "En Santa Cruz de Tenerife, el PSOE obtuvo el último escaño con 1.565 votos de ventaja sobre Sumar.",
+            "explicacion": "El PSOE se quedó el último diputado de Santa Cruz de Tenerife con 1.565 votos de ventaja sobre Sumar.",
         },
         {
             "id": "prov-6",
-            "pregunta": "¿Qué porcentaje mínimo de votos válidos (incluidos votos en blanco) exige la ley para entrar en el reparto D'Hondt provincial?",
+            "pregunta": "¿Qué porcentaje mínimo de votos necesita un partido en una provincia para tener opción a diputados?",
             "opciones": ["3 % en la provincia", "5 % en toda España", "1 % en la provincia", "No hay mínimo"],
             "respuesta_correcta": "3 % en la provincia",
-            "explicacion": "El artículo 163.1.a de la LOREG (BOE-A-1985-11672) excluye del reparto en cada circunscripción a las candidaturas con menos del 3 % de los votos válidos emitidos.",
+            "explicacion": "La ley electoral (art. 163 de la LOREG, en el BOE) deja fuera del reparto a los partidos que no llegan al 3 % de los votos válidos de la provincia, contando también los votos en blanco.",
         },
         {
             "id": "prov-7",
-            "pregunta": "En Teruel (3 escaños), ¿por cuántos votos retuvo el PP su segundo escaño frente a Teruel Existe en 2023?",
+            "pregunta": "En Teruel se reparten 3 diputados. ¿Por cuántos votos el PP mantuvo su segundo diputado frente a Teruel Existe en 2023?",
             "opciones": ["1.946 votos", "6.800 votos", "14.200 votos", "31.000 votos"],
             "respuesta_correcta": "1.946 votos",
-            "explicacion": "Teruel Existe quedó a solo 1.946 votos de conseguir escaño frente al último cociente del PP en 2023.",
+            "explicacion": "Teruel Existe se quedó a solo 1.946 votos de conseguir un diputado a costa del PP en 2023.",
         },
         {
             "id": "prov-8",
-            "pregunta": "En Albacete (4 escaños), ¿qué margen decidió el último diputado entre PSOE y VOX?",
+            "pregunta": "En Albacete se reparten 4 diputados. ¿Por cuántos votos se decidió el último entre el PSOE y VOX?",
             "opciones": ["1.412 votos", "7.500 votos", "16.000 votos", "29.000 votos"],
             "respuesta_correcta": "1.412 votos",
-            "explicacion": "Solo 1.412 papeletas separaron al PSOE de VOX en el último escaño de Albacete (0,64 % de los votos válidos).",
+            "explicacion": "Solo 1.412 votos separaron al PSOE de VOX en el último diputado de Albacete (el 0,64 % de los votos válidos).",
         },
     ]
 
@@ -520,8 +527,8 @@ def generar_socios(vots_lista: list[dict]) -> dict:
     duelos_spec = [
         ("duelo-1", "¿Qué pareja votó lo mismo más veces en las votaciones del Congreso?", ("PSOE", "Junts"), ("PP", "VOX")),
         ("duelo-2", "¿Quién coincidió más veces con el PP en el hemiciclo?", ("PP", "PSOE"), ("PP", "Junts")),
-        ("duelo-3", "¿Con quién votó igual más veces el PNV en la XV Legislatura?", ("PSOE", "EAJ-PNV"), ("PP", "EAJ-PNV")),
-        ("duelo-4", "¿Qué bloque votó unido en mayor proporción?", ("PSOE", "Sumar"), ("ERC", "EH Bildu")),
+        ("duelo-3", "¿Con quién votó igual más veces el PNV en esta legislatura?", ("PSOE", "EAJ-PNV"), ("PP", "EAJ-PNV")),
+        ("duelo-4", "¿Qué pareja votó unida en mayor proporción?", ("PSOE", "Sumar"), ("ERC", "EH Bildu")),
         ("duelo-5", "¿Quién coincidió más veces con Junts?", ("PSOE", "Junts"), ("VOX", "Junts")),
         ("duelo-6", "¿Qué pareja votó más veces en el mismo sentido?", ("PP", "EAJ-PNV"), ("VOX", "Sumar")),
         ("duelo-7", "¿Con quién coincidió más veces ERC?", ("PSOE", "ERC"), ("Junts", "ERC")),

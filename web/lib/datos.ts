@@ -782,3 +782,24 @@ const ActualidadDoc = z.object({
 export type ActualidadItem = z.infer<typeof ActualidadDoc>['items'][number];
 let _actualidad: z.infer<typeof ActualidadDoc> | undefined;
 export const actualidad = () => (_actualidad ??= cargar('actualidad.json', ActualidadDoc));
+
+// Calendario de la campaña: solo fechas legales (BOE/LOREG) y debates con fuente enlazada. Nada escrito de memoria.
+const EventoCalendario = z.object({
+  id: z.string(),
+  fecha: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
+  hora: z.string().nullable(),
+  tipo: z.enum(['campana', 'debate', 'veda', 'reflexion', 'votacion']),
+  estado: z.enum(['confirmado', 'por_confirmar']),
+  titulo: z.string(),
+  descripcion: z.string().optional(),
+  emite: z.array(z.string()).optional(),
+  moderador: z.string().optional(),
+  participantes: z.array(z.string()).optional(),
+  bloques: z.array(z.object({ titulo: z.string(), areas: z.array(z.string()) })).optional(),
+  comparar: z.array(z.string()).max(4).optional(),
+  fuentes: z.array(z.object({ nombre: z.string(), url: z.url() })).min(1),
+});
+const CalendarioDoc = z.object({ fuente: z.string(), fetched_at: z.string(), eleccion_id: z.string(), eventos: z.array(EventoCalendario) });
+export type EventoCalendarioItem = z.infer<typeof EventoCalendario>;
+let _calendario: z.infer<typeof CalendarioDoc> | undefined;
+export const calendarioElectoral = () => (_calendario ??= cargar('calendario_electoral.json', CalendarioDoc));

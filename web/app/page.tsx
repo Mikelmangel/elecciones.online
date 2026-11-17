@@ -14,6 +14,7 @@ import {
   miles,
   resultados2023,
   actualidad,
+  calendarioElectoral,
 } from '@/lib/datos';
 import { construirDatosMapa } from '@/lib/mapa';
 import { fase } from '@/lib/modo-electoral';
@@ -23,6 +24,7 @@ import { rutas } from '@/lib/rutas';
 import IndicePagina from '@/components/IndicePagina';
 
 const INDICE = [
+  ['debates', 'Debates'],
   ['ultima-hora', 'Última hora'],
   ['votar', 'Votar'],
   ['temas', 'Qué propone cada partido'],
@@ -66,6 +68,13 @@ export default function Home() {
   const h2 = 'font-editorial text-2xl sm:text-3xl font-bold text-neutral-950';
   const enlace = 'font-semibold text-red-900 underline hover:text-red-700';
   const seccion = 'scroll-mt-28 border-t border-[#dfd9cc] pt-10';
+
+  const hoyMadrid = new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Madrid' });
+  const proximosDebates = calendarioElectoral()
+    .eventos.filter((e) => e.tipo === 'debate' && e.fecha >= hoyMadrid)
+    .sort((x, y) => (x.fecha + (x.hora ?? '')).localeCompare(y.fecha + (y.hora ?? '')))
+    .slice(0, 3);
+  const diaCorto = (f: string) => new Date(`${f}T12:00:00Z`).toLocaleDateString('es-ES', { weekday: 'long', day: 'numeric', month: 'long', timeZone: 'UTC' });
 
   // titulares más recientes de todas las fuentes, sin selección editorial: solo orden por fecha
   const { items: titulares, fetched_at: titularesAt } = actualidad();
@@ -122,6 +131,28 @@ export default function Home() {
       </section>
 
       <IndicePagina secciones={INDICE} />
+
+      {proximosDebates.length > 0 && (
+        <section id="debates" className={seccion}>
+          <h2 className={h2}>Próximos debates</h2>
+          <ul className="mt-4 divide-y divide-[#e4dfd3] border-y border-[#e4dfd3]">
+            {proximosDebates.map((d) => (
+              <li key={d.id} className="py-3">
+                <p className="text-sm text-neutral-600 first-letter:uppercase">
+                  <span className="font-semibold text-neutral-900">{diaCorto(d.fecha)}</span>
+                  {d.hora ? ` · ${d.hora} h` : ' · hora por concretar'}
+                  {d.estado === 'por_confirmar' && <span className="font-semibold text-amber-800"> · por confirmar</span>}
+                </p>
+                <Link href={`/espana/generales/2026/calendario#${d.id}`} className="mt-0.5 block break-words font-medium text-neutral-950 hover:text-red-900 hover:underline">
+                  {d.titulo}
+                </Link>
+                {d.participantes && <p className="mt-0.5 text-sm text-neutral-600">{d.participantes.join(' · ')}</p>}
+              </li>
+            ))}
+          </ul>
+          <p className="mt-4"><Link href="/espana/generales/2026/calendario" className={enlace}>Calendario completo de la campaña</Link></p>
+        </section>
+      )}
 
       <section id="ultima-hora" className={seccion}>
         <h2 className={h2}>Última hora de la campaña</h2>
