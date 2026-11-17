@@ -12,7 +12,7 @@ Nació con las elecciones generales de España del 29 de noviembre de 2026 y est
 ![Python](https://img.shields.io/badge/pipeline-Python-3776ab?logo=python&logoColor=white)
 [![Apoyar en Ko-fi](https://img.shields.io/badge/%E2%98%95-Inv%C3%ADtame%20a%20un%20caf%C3%A9-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/eleccionesonline)
 
-**[elecciones.online](https://elecciones.online)** · [Reglas de datos](docs/REGLAS_DE_DATOS.md) · [Motor Rust](crates/verificador/README.md) · [Contribuir](CONTRIBUTING.md)
+**[elecciones.online](https://elecciones.online)** · [Reglas de datos](docs/REGLAS_DE_DATOS.md) · [Motor Rust](crates/verificador/README.md) · [Operación](docs/OPERACION.md) · [Contribuir](CONTRIBUTING.md)
 
 </div>
 
@@ -58,6 +58,7 @@ Una vez en marcha, el sitio se mantiene prácticamente solo. Estas son las pieza
 | **Programas** | Las medidas de cada PDF se extraen con cita y página; los tests comprueban cada cita contra la página original y el ciclo avisa si el PDF de un partido cambia (`sha256`). | `pipeline/fuentes/programas` |
 | **Juegos y tests** | Se **regeneran solos** desde los datos cada vez que se actualizan. | `pipeline/tests_quiz.py`, `pipeline/tests_afinidad.py` |
 | **Ciclo de actualización** | Descarga, valida, prueba, reconstruye y publica, con cadencia **adaptativa**: cada 24 h lejos de la elección, cada hora el último mes y cada 30 min en la víspera, el día de la votación y el siguiente. | `scripts/ciclo_actualizacion.py` |
+| **Higiene del servidor** | Tras cada reconstrucción limpia las imágenes huérfanas y la caché de Docker (cada imagen pesa ~1,5 GB y el ciclo reconstruye cada hora: sin limpiar, el disco se llenó con 40 GB) y limpia antes si queda poco disco. Ver [Operación](docs/OPERACION.md). | `scripts/ciclo_actualizacion.py` |
 
 **Red de seguridad del ciclo.** Si un paso falla (una fuente caída, un test en rojo, un dato inválido) **no se publica nada**: los datos vuelven al último estado bueno, versionados con git, y la versión anterior de la web queda guardada para volver atrás en segundos. Una fuente que falla conserva su último fichero y no detiene a las demás.
 

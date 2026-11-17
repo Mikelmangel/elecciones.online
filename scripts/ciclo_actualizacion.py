@@ -12,6 +12,7 @@ Uso en cron del VPS (cada 15 min):
 """
 import argparse
 import json
+import shutil
 import subprocess
 import time
 from datetime import date, datetime, timedelta, timezone
@@ -23,6 +24,19 @@ ELECCION_FILE = ROOT / "data" / "eleccion_activa.json"
 STAMP_FILE = ROOT / "var" / "ultimo_ciclo.txt"
 FASE_FILE = ROOT / "var" / "ultima_fase.txt"
 DATA = ROOT / "data"
+
+# Cada reconstrucción de la web deja la imagen anterior huérfana (~1,5 GB): sin limpiar, el disco se llenó el 17-nov
+# (40 GB en Docker). Se limpia tras cada ciclo y, si queda poco disco, también antes de construir.
+MIN_LIBRE_GB = 6
+
+
+def limpiar_docker() -> None:
+    for cmd in (["docker", "image", "prune", "-f"], ["docker", "builder", "prune", "-f", "--keep-storage", "2GB"]):
+        subprocess.run(cmd, cwd=ROOT, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+
+def libre_gb() -> float:
+    return shutil.disk_usage("/").free / 1e9
 
 
 # data/ es del usuario que despliega y el cron corre como root: safe.directory evita el bloqueo de git
@@ -104,6 +118,10 @@ def main() -> int:
     if hay_cambios():
         git("commit", "-q", "-m", "despliegue manual")
 
+    if libre_gb() < MIN_LIBRE_GB:
+        print(f"Poco disco libre ({libre_gb():.1f} GB): se limpia Docker antes de construir")
+        limpiar_docker()
+
     pasos = (
         ["make", "actualizar"],
         ["make", "test"],
@@ -124,6 +142,8 @@ def main() -> int:
         git("commit", "-q", "-m", f"ciclo {datetime.now(timezone.utc):%Y-%m-%d %H:%M} UTC")
         print("data/ versionado:", subprocess.run([*GIT, "log", "-1", "--format=%h %s"], capture_output=True, text=True).stdout.strip())
 
+    limpiar_docker()
+    print(f"Disco libre tras el ciclo: {libre_gb():.1f} GB")
     STAMP_FILE.parent.mkdir(parents=True, exist_ok=True)
     STAMP_FILE.write_text(str(time.time()), encoding="utf-8")
     FASE_FILE.write_text(fase_ahora, encoding="utf-8")
