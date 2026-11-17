@@ -1,0 +1,3266 @@
+{
+ "fuente": "actualidad",
+ "fetched_at": "2026-11-17T01:15:31Z",
+ "fuentes": [
+  {
+   "id": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "fuente_url": "https://www.bng.gal/rss/",
+   "sha256": "cb4f1eedecb4dacb7a8da14c4531a0beb299dd6ddaa19b119a5f5280e25718dd"
+  },
+  {
+   "id": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "fuente_url": "https://coalicioncanaria.org/feed/",
+   "sha256": "d0b3a3399d50bd51d6d14f9ee0e720a2c78990f41de92f6800008ddbd9f52f20"
+  },
+  {
+   "id": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "fuente_url": "https://junts.cat/feed/",
+   "sha256": "15330869aae7d7b62faa940718813695112e29c56d12e0b241ac1d098fce0ef9"
+  },
+  {
+   "id": "upn-web",
+   "canal": "UPN : Unión del Pueblo Navarro",
+   "clase": "partido",
+   "fuente_url": "https://www.upn.org/feed/",
+   "sha256": "01a6b8b5bb66be954178dd11ba91e0fcfc3fd693b7abe7c5b69c6062f730fa90"
+  },
+  {
+   "id": "sumar-web",
+   "canal": "Movimiento Sumar",
+   "clase": "partido",
+   "fuente_url": "https://movimientosumar.es/feed/",
+   "sha256": "e605a35f1eb91f049a3d44ee58b9186756b4a6ae6da1cc3d97423fd619642fe7"
+  },
+  {
+   "id": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "fuente_url": "https://t.me/s/ahorapodemos",
+   "sha256": "83d26a4f48c5104fbdfbc28caeed4c808ce4ea277b2c01ef5175ceb46eb8e686"
+  },
+  {
+   "id": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB75fTm3weGTmtnitiZcdBw",
+   "sha256": "a46db5b519bd4170fbb1fe03c315838a403073d119151b37ee3670b53ec24f70"
+  },
+  {
+   "id": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPECDsPyGRW5b5E4ibCGhww",
+   "sha256": "bacc45bb2199b546bc7c515c0c6e2b625227d921bb49a43f3b43cc14d6d80875"
+  },
+  {
+   "id": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRvpumrJs0qY1xLzeU0Ss1Q",
+   "sha256": "5748a64da1a036bbd3fa46d3d863ba57c249c858ce174f3a8df9e7e2f7f7fc5a"
+  },
+  {
+   "id": "erc-youtube",
+   "canal": "EsquerraRepublicana",
+   "clase": "partido",
+   "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYdc5dMaktUKj8jK5IeR9Rg",
+   "sha256": "790e12907d7b067158248f342942af25964fb72d797fd2a30ef1d55a7cfe98ab"
+  },
+  {
+   "id": "cca-youtube",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxwJkU4G-17XQZ97rcB6u5g",
+   "sha256": "713ffb0148dcb2b88f36395f25d061df6bebd326be305860b89c30d888e7ee4d"
+  },
+  {
+   "id": "sumar-youtube",
+   "canal": "Movimiento Sumar",
+   "clase": "partido",
+   "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCncSacWfXnWCPvHKMVJhuVA",
+   "sha256": "7feba35ef2c32b15108d5e6742d42c5f6fbe53f2512491ddf1caee7683ebcece"
+  },
+  {
+   "id": "congreso-youtube",
+   "canal": "congresodiputados",
+   "clase": "institucion",
+   "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2orvKwlpLw-u2rKdHMAoHQ",
+   "sha256": "73e991b349bf49c12e422add202a198a966918d88091c33d2feede0deb4c29eb"
+  },
+  {
+   "id": "moncloa",
+   "canal": "Noticias Destacadas del Presidente del Gobierno | La Moncloa",
+   "clase": "institucion",
+   "fuente_url": "https://www.lamoncloa.gob.es/Paginas/rss.aspx",
+   "sha256": "9d3d72c6b58f2d49dc70aa64a8bfbc87905f735e9e2d153eea93e0b2289b75af"
+  },
+  {
+   "id": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "fuente_url": "https://www.europapress.es/rss/rss.aspx?ch=00066",
+   "sha256": "bc8c14f8f959915cb62046eeaef5a4e638e16350c86ae8f166d87448c788f8ae"
+  },
+  {
+   "id": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "fuente_url": "https://www.eldiario.es/rss/politica/",
+   "sha256": "5661c4e3e061a5b713b725cb5ab1bc8e85bd1e8b6f83f9e0942ff2c64e8df8e4"
+  },
+  {
+   "id": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "fuente_url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada",
+   "sha256": "fe1d80396fdebc706ee9ab2ead8e43a9e7d53e534f33307dbcb1801de9bc99c1"
+  },
+  {
+   "id": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "fuente_url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
+   "sha256": "8cd290478d37c14830f747882ef3dc5fb609658afef3cb12dd102f21f87fb4b9"
+  },
+  {
+   "id": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "fuente_url": "https://www.20minutos.es/rss/nacional/",
+   "sha256": "2cdb43adaf0820991fdccfbf7f4f6b20c5ba33bb4e130b06f61ee07a79e270f4"
+  },
+  {
+   "id": "rtve-youtube",
+   "canal": "RTVE Noticias",
+   "clase": "medio",
+   "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7QZIf0dta-XPXsp9Hv4dTw",
+   "sha256": "534e7dc719bcda7485a06a678ba465f52091dd1674b7d59a4e07d598e4144d0e"
+  },
+  {
+   "id": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBYyJBCtCvgqA4NwtoPMwpQ",
+   "sha256": "4222d76124f927c6b59ce55ce34b9c233aa151a6e9847cd06b02948f6139bd07"
+  },
+  {
+   "id": "larevuelta-youtube",
+   "canal": "larevuelta_tve",
+   "clase": "programa",
+   "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB-EBFwrvXDYSi32Wyzf-IQ",
+   "sha256": "6611fdc6d0b2630532d7bb22c00c9e4e79ce2c6dee85ebb72a72b710aa6c68c4"
+  },
+  {
+   "id": "lasexta-youtube",
+   "canal": "laSexta Noticias",
+   "clase": "medio",
+   "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCJs5mITIqxqJGeFjt9N1Mg",
+   "sha256": "13648678397deed962c18e8330d4ecaeb4107cca8a74c979cab1a0f50afe2aed"
+  },
+  {
+   "id": "antena3-youtube",
+   "canal": "Antena 3 Noticias",
+   "clase": "medio",
+   "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_Oni82GyYcabEr3rd-eJkg",
+   "sha256": "195534b11a857ba949afce28a56f48bfa00cb60f2c5db41384ea368c10da0173"
+  }
+ ],
+ "items": [
+  {
+   "titulo": "DIRECTO 🔵 Feijóo y Alejandro Fernández intervienen durante su visita a La Carbona",
+   "url": "https://www.youtube.com/watch?v=TFcmmlwRxJc",
+   "fecha": "2026-11-17T00:40:46Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Los damnificados de las leyes imposibles del Congreso con Sánchez: \"Somos moneda de cambio de derechas e izquierdas\"",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afb46c5e85ece2d268b45a3.html",
+   "fecha": "2026-11-16T23:03:58Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Los promotores de la candidatura conjunta de la izquierda para el Senado llaman a “la remontada”",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/los-promotores-de-la-candidatura-conjunta-de-la-izquierda-para-el-senado-llaman-a-la-remontada.html",
+   "fecha": "2026-11-16T22:16:19Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "La Rioja, la tierra de la 'Marca España' que recela de Abascal: \"Me da igual que me muerda perro o perra, pero a Vox no lo quiero\"",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb51e1e85ecee51b8b4572.html",
+   "fecha": "2026-11-16T21:43:53Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "CATUCO QUE LLEGUE A CANARIAS, AL PUERTO DEL QUE HA SALIDO",
+   "url": "https://www.youtube.com/shorts/O-nmHsOroQY",
+   "fecha": "2026-11-16T21:37:36Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "ES DE SENTIDO COMÚN",
+   "url": "https://www.youtube.com/shorts/6lnJ1Swxd7A",
+   "fecha": "2026-11-16T21:37:17Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "ES MUY SENCILLO DE ENTENDER",
+   "url": "https://www.youtube.com/shorts/PnhdNjy7sGw",
+   "fecha": "2026-11-16T21:36:29Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "EL ASPECTO DE SÁNCHEZ HAY QUE ANALIZARLO",
+   "url": "https://www.youtube.com/shorts/lq3wXewu5-E",
+   "fecha": "2026-11-16T21:31:17Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "SÁNCHEZ NO ES EL CANDIDATO DE LOS ESPAÑOLES",
+   "url": "https://www.youtube.com/shorts/X6sLScTZkJ0",
+   "fecha": "2026-11-16T21:31:08Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "ABASCAL DEJA K.O A SÁNCHEZ",
+   "url": "https://www.youtube.com/shorts/3kZSlCalDZw",
+   "fecha": "2026-11-16T21:28:04Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "La ONU debate limitar las llamadas 'armas autónomas' para proteger la vida humana | RTVE Noticias",
+   "url": "https://www.youtube.com/watch?v=uDb_8IrXbWA",
+   "fecha": "2026-11-16T21:08:19Z",
+   "fuente": "rtve-youtube",
+   "canal": "RTVE Noticias",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Abascal aterriza en Canarias en plena oleada migratoria y entona su discurso contra la \"invasión\": \"Aquí no caben, es nuestra tierra\"",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb5a78e9cf4a3c4b8b4595.html",
+   "fecha": "2026-11-16T21:07:57Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Abascal califica en Canarias de “invasión planificada” la llegada de cayucos",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/abascal-califica-en-canarias-de-invasion-planificada-la-llega-de-cayucos.html",
+   "fecha": "2026-11-16T20:50:53Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Ana Pontón pide concentrar o voto de País no BNG para que Galiza gañe e para avanzar na conquista de dereitos sociais",
+   "url": "https://www.bng.gal/novas/ana-ponton-pide-concentrar-voto-pais-bng-que-galiza-gane-avanzar-conquista-dereitos-sociais/20261116214452043962.html",
+   "fecha": "2026-11-16T20:44:52Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "Abascal rechaza las acusaciones de Sánchez de racismo: \"Me da igual que el fundamentalista sea pelirrojo\"",
+   "url": "https://www.europapress.es/nacional/noticia-abascal-rechaza-acusaciones-sanchez-racismo-me-da-igual-fundamentalista-sea-pelirrojo-20261116214339.html",
+   "fecha": "2026-11-16T20:43:39Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Gabriel Rufián: \"A Abascal le paga Israel y a Silvia Orriols le paga Israel\"",
+   "url": "https://www.eldiario.es/catalunya/gabriel-rufian-abascal-le-paga-israel-silvia-orriols-le-paga-israel_128_13668528.html",
+   "fecha": "2026-11-16T20:35:55Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "VOX",
+    "ERC"
+   ]
+  },
+  {
+   "titulo": "Las medidas bloqueadas por el PSOE durante la legislatura entran en campaña y causan un choque con el Frente Amplio",
+   "url": "https://www.eldiario.es/politica/medidas-bloqueadas-psoe-durante-legislatura-entran-campana-causan-choque-frente-amplio_1_13668808.html",
+   "fecha": "2026-11-16T20:35:54Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PSOE",
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "Gabiás chama a mocidade ourensá a votar BNG para que “quedar, vivir e traballar en Galiza” sexa unha opción real",
+   "url": "https://www.bng.gal/novas/gabias-chama-mocidade-ourensa-votar-bng-que-quedar-vivir-traballar-galiza-sexa-opcion-real/20261116212811043963.html",
+   "fecha": "2026-11-16T20:28:11Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "BNG pide mobilizar 2.453 M€ nos orzamentos para dar un xiro de 180º cunha alternativa para gobernar ao lado da xente",
+   "url": "https://www.bng.gal/novas/bng-pide-mobilizar-2453-mE-nos-orzamentos-dar-xiro-180o-alternativa-gobernar-ao-lado-da-xente/20261116212456043966.html",
+   "fecha": "2026-11-16T20:24:56Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "🟢 GRAN ACTO PÚBLICO con Santiago Abascal en Tenerife",
+   "url": "https://www.youtube.com/watch?v=-rUw-8i-l_U",
+   "fecha": "2026-11-16T20:06:05Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Nogueras: «Els catalans no ens apartem. Qui s’ha d’apartar és Rodalies, és Madrid»",
+   "url": "https://junts.cat/actualitat/nogueras-els-catalans-no-ens-apartem-qui-sha-dapartar-es-rodalies-es-madrid/",
+   "fecha": "2026-11-16T20:02:47Z",
+   "fuente": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "Lula respalda a Sánchez en Madrid: “Es muy importante que ganes las elecciones para frenar a la extrema derecha”",
+   "url": "https://www.eldiario.es/politica/lula-respalda-sanchez-madrid-importante-ganes-elecciones-frenar-extrema-derecha_1_13669134.html",
+   "fecha": "2026-11-16T19:13:14Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Lula da en Madrid un respaldo político a Sánchez: “Es muy importante que tú ganes las elecciones en España”",
+   "url": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html",
+   "fecha": "2026-11-16T19:01:28Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "La Comentada | La IA ha protagonizado las últimas campañas electorales de EEUU o de Brasil",
+   "url": "https://www.youtube.com/watch?v=GQPCljNz_jw",
+   "fecha": "2026-11-16T18:58:22Z",
+   "fuente": "rtve-youtube",
+   "canal": "RTVE Noticias",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Valido y Cabello reivindican la innovación como motor de diversificación económica de Canarias y reclaman al Estado un trato singular en I+D+i",
+   "url": "https://coalicioncanaria.org/valido-y-cabello-reivindican-la-innovacion-como-motor-de-diversificacion-economica-de-canarias-y-reclaman-al-estado-un-trato-singular-en-idi/",
+   "fecha": "2026-11-16T18:49:09Z",
+   "fuente": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "BNG esixirá a blindaxe do sistema público de pensións e a suba das máis baixas até igualar ao salario mínimo para sacar as retribucións das maiores galegas da cola do Estado",
+   "url": "https://www.bng.gal/novas/bng-esixira-blindaxe-do-sistema-publico-pensions-suba-das-mais-baixas-ate-igualar-ao-salario-minimo-sacar-retribucions-das-maiores-galegas-da-cola-do-estado/20261116192851043964.html",
+   "fecha": "2026-11-16T18:28:51Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "El temor a la llegada de la ultraderecha al poder centra el debate electoral de EL PAÍS y la SER en el País Vasco",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pais-y-la-ser-organizan-un-debate-entre-candidatos-del-pais-vasco-a-las-generales-del-29-n.html",
+   "fecha": "2026-11-16T17:52:18Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "La FGE remite a la Fiscalía de Madrid la denuncia del PSOE contra el PP por las acusaciones de Koldo García",
+   "url": "https://www.europapress.es/nacional/noticia-fge-remite-fiscalia-madrid-denuncia-psoe-contra-pp-acusaciones-koldo-garcia-20261116181817.html",
+   "fecha": "2026-11-16T17:18:17Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Últimos días para solicitar el voto por correo: a partir de este día tendrás que acudir a tu colegio electoral el 29N",
+   "url": "https://www.20minutos.es/nacional/ultimos-dias-solicitar-voto-correo-partir-este-dia-acudir-colegio-electoral_7061783_0.html",
+   "fecha": "2026-11-16T17:10:35Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Este sistema no funciona y la política tiene que servir para recuperar las cosas más básicas. Este 29N vota Paz, Casa y Trabajo. #UnSistemaQueNoFunciona",
+   "url": "https://t.me/ahorapodemos/2871",
+   "fecha": "2026-11-16T17:02:11Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "Feijóo habla sobre Ayuso y la polémica con el piso de 6,7 millones",
+   "url": "https://www.youtube.com/shorts/8l-vzQ9RmzQ",
+   "fecha": "2026-11-16T17:00:00Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "PSOE / Bienvenido, Lula",
+   "url": "https://www.youtube.com/watch?v=DLpaRWCGFlA",
+   "fecha": "2026-11-16T16:49:33Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "La Fiscalía Provincial de Madrid será quien decida si investiga la denuncia del PSOE contra PP y Okdiario",
+   "url": "https://www.eldiario.es/politica/fiscalia-provincial-madrid-sera-decida-si-investiga-denuncia-psoe-pp-okdiario_1_13668601.html",
+   "fecha": "2026-11-16T16:41:42Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Consulta el programa electoral de Frente Amplio para el 29N: jornada de 32 horas, jubilación a los 65 y 200 € mensuales por hijo",
+   "url": "https://www.20minutos.es/nacional/consulta-programa-electoral-frente-amplio-29n-jornada-32-horas-jubilacion-65-200-mensuales-hijo_7061653_0.html",
+   "fecha": "2026-11-16T16:34:03Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "DIRECTO 🔵 Feijóo, Cristina Ibarrola, Sergio Sayas y Leticia San Martín en un acto en Pamplona",
+   "url": "https://www.youtube.com/watch?v=0NTEgC_Mfqo",
+   "fecha": "2026-11-16T16:21:00Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Feijóo afirma que \"nunca\" dijo que iba a construir un millón de casas tras repetirlo en campaña e incluirlo en su programa",
+   "url": "https://www.eldiario.es/politica/feijoo-afirma-dijo-iba-construir-millon-casas-repetirlo-campana-e-incluirlo-programa_1_13668386.html",
+   "fecha": "2026-11-16T16:19:43Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Jordi Wild discute a Ada Colau su retorno a la política cuando hace un año decía que era imposible",
+   "url": "https://www.youtube.com/watch?v=toHoIyBiXiE",
+   "fecha": "2026-11-16T16:00:14Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "BNG pide máis forza en Madrid para completar a transformación da Avenida de Castelao nun boulevard",
+   "url": "https://www.bng.gal/novas/bng-pide-mais-forza-madrid-completar-transformacion-da-avenida-castelao-nun-boulevard/20261116165933043960.html",
+   "fecha": "2026-11-16T15:59:33Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "DÍA 3 DE CAMPAÑA - Cornellá y Barcelona votan a VOX: “Los catalanes están con el sentido común”",
+   "url": "https://www.youtube.com/watch?v=TJAwtaHGUlk",
+   "fecha": "2026-11-16T15:39:36Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "DÍA 2 DE CAMPAÑA - Almería y Murcia votan VOX: “Esta tierra nunca defrauda”",
+   "url": "https://www.youtube.com/watch?v=eDB7Lud9DAc",
+   "fecha": "2026-11-16T15:38:00Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "DÍA 1 DE CAMPAÑA - Toledo y Madrid votan VOX: “Estamos llamados a hacer Historia”",
+   "url": "https://www.youtube.com/watch?v=IvHUlIcujqM",
+   "fecha": "2026-11-16T15:37:04Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "PSOE / Pregúntale a Teresa",
+   "url": "https://www.youtube.com/watch?v=WCfLwdWT_gM",
+   "fecha": "2026-11-16T15:32:50Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Feijóo opina sobre VOX y SANTIAGO ABSACAL, su socio en Moncloa si ganan las elecciones",
+   "url": "https://www.youtube.com/watch?v=DKqiqPhG6pg",
+   "fecha": "2026-11-16T15:30:00Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PP",
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Qué pasa si tachas el nombre de Óscar Puente en las listas electorales del PSOE para las elecciones generales del 29-N",
+   "url": "https://www.20minutos.es/nacional/oscar-puente-figurara-listas-valladolid-elecciones-generales-29n-que-pasa-si-tachas-su-nombre_7061595_0.html",
+   "fecha": "2026-11-16T15:05:22Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "El Barómetro de laSexta sitúa a PP y Vox con una sólida mayoría que supera el 51% - laSexta Noticias",
+   "url": "https://www.youtube.com/watch?v=vjQRoehrTMg",
+   "fecha": "2026-11-16T15:01:23Z",
+   "fuente": "lasexta-youtube",
+   "canal": "laSexta Noticias",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "¿Ego? Jordi Wild pregunta a Pedro Sánchez por qué no se retira de la política y vive más tranquilo",
+   "url": "https://www.youtube.com/watch?v=wDbSqOD29JA",
+   "fecha": "2026-11-16T15:00:28Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "El PP busca robar votos a Vox con la migración y colando su prioridad nacional - laSexta Noticias",
+   "url": "https://www.youtube.com/watch?v=Dfa5MMG1V1U",
+   "fecha": "2026-11-16T14:53:31Z",
+   "fuente": "lasexta-youtube",
+   "canal": "laSexta Noticias",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Las medidas del PP contra la okupación: así beneficiaría a los propietarios con viviendas afectadas",
+   "url": "https://www.20minutos.es/nacional/las-medidas-pp-contra-okupacion-asi-beneficiaria-los-propietarios-con-viviendas-afectadas_7060238_0.html",
+   "fecha": "2026-11-16T14:48:05Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Cristina Valido pide el voto para ser libres en la defensa de los derechos e intereses de La Palma",
+   "url": "https://coalicioncanaria.org/cristina-valido-pide-el-voto-para-ser-libres-en-la-defensa-de-los-derechos-e-intereses-de-la-palma/",
+   "fecha": "2026-11-16T14:32:02Z",
+   "fuente": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "Feijóo habla sobre las PENSIONES y cómo piensan mantenerlas - Jordi Wild no lo tiene nada claro",
+   "url": "https://www.youtube.com/watch?v=8EAz3v6pZtA",
+   "fecha": "2026-11-16T14:30:05Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Sánchez se reinventa en el Sánchez candidato de 2015: así fue el otro acto de hace once años con Begoña y una bandera gigante de España",
+   "url": "https://www.20minutos.es/nacional/sanchez-se-reinventa-sanchez-candidato-2015-asi-fue-otro-acto-hace-once-anos-con-begona-una-bandera-gigante-espana_7061663_0.html",
+   "fecha": "2026-11-16T14:29:06Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Hablamos con Míriam Nogueras sobre la viralidad de su 'Teléfono Rojo' con Susanna",
+   "url": "https://www.youtube.com/watch?v=Hfxabqrpp4w",
+   "fecha": "2026-11-16T14:01:57Z",
+   "fuente": "antena3-youtube",
+   "canal": "Antena 3 Noticias",
+   "clase": "medio",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "Feijóo quiere “mano de obra” de inmigrantes para el medio rural, pero con compromiso de “integración”",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/feijoo-quiere-mano-de-obra-de-inmigrantes-para-el-medio-rural-pero-con-compromiso-de-integracion.html",
+   "fecha": "2026-11-16T13:48:31Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Pedro Sánchez y Lula da Silva reafirman su compromiso con la defensa de las instituciones democráticas durante su encuentro en Madrid",
+   "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/161126-sanchez-encuentro-lula.aspx?qfr=1",
+   "fecha": "2026-11-16T13:46:00Z",
+   "fuente": "moncloa",
+   "canal": "Noticias Destacadas del Presidente del Gobierno | La Moncloa",
+   "clase": "institucion",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Pedro Sánchez le ofrece su teléfono a Jordi Wild para que compruebe que no tiene nada raro",
+   "url": "https://www.youtube.com/watch?v=mYQNd7t2ky8",
+   "fecha": "2026-11-16T13:45:24Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Pontón: “Estes son os orzamentos dun presidente sen ambición, sen proxecto de País e sen respostas aos problemas”",
+   "url": "https://www.bng.gal/novas/ponton-estes-son-orzamentos-dun-presidente-ambicion-proxecto-pais-respostas-aos-problemas/20261116143418043957.html",
+   "fecha": "2026-11-16T13:34:18Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "Feijóo promete al campo una fiscalidad específica, controlar productos extranjeros y reducir la burocracia",
+   "url": "https://www.20minutos.es/nacional/feijoo-promete-campo-una-fiscalidad-especifica-controlar-productos-extranjeros-reducir-burocracia_7061645_0.html",
+   "fecha": "2026-11-16T13:22:42Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "El Frente Amplio exige al PSOE aprobar ya la prestación por crianza dado que ahora la incluye en su programa",
+   "url": "https://www.eldiario.es/politica/frente-amplio-exige-psoe-aprobar-prestacion-crianza-dado-ahora-incluye-programa_1_13667569.html",
+   "fecha": "2026-11-16T12:59:35Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PSOE",
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "El PSOE apuesta por rebajar la edad de voto a los 16 años y crear un escaño ciudadano en el Congreso y el Senado",
+   "url": "https://www.europapress.es/nacional/noticia-psoe-apuesta-rebajar-edad-voto-16-anos-crear-escano-ciudadano-congreso-senado-20261116135359.html",
+   "fecha": "2026-11-16T12:53:59Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Néstor Rego asegura que “o seguinte obxectivo do BNG é unha AP-9 gratuíta”",
+   "url": "https://www.bng.gal/novas/nestor-rego-asegura-que-seguinte-obxectivo-do-bng-ap-9-gratuita/20261116130511043956.html",
+   "fecha": "2026-11-16T12:05:11Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "Ángel Gaitán, el mecánico más famoso de España, entrevista a Abascal tras el plantón a Jordi Wild: “Tienes mi voto”",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/angel-gaitan-el-mecanico-mas-famoso-de-espana-entrevista-a-abascal-tras-el-planton-a-jordi-wild-tienes-mi-voto.html",
+   "fecha": "2026-11-16T11:58:18Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Frente Amplio propone limitar las herencias de los \"ultrarricos\", jornada laboral de 32 horas y comedores gratuitos",
+   "url": "https://www.20minutos.es/nacional/frente-propone-limitar-las-herencias-los-ultrarricos-una-prestacion-universal-por-crianza-200-euros-comedores-gratuitos_7061498_0.html",
+   "fecha": "2026-11-16T11:34:26Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "Frente Amplio apuesta por una jornada laboral de 32 horas y jubilación a los 65 años",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-apuesta-por-una-jornada-laboral-de-32-horas-y-jubilacion-a-los-65-anos.html",
+   "fecha": "2026-11-16T11:31:52Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "Cómo funciona y cómo activar el DNI electrónico para votar en las elecciones generales de 2026",
+   "url": "https://www.eldiario.es/politica/funciona-activar-dni-electronico-votar-elecciones-generales-2026_1_13666827.html",
+   "fecha": "2026-11-16T11:24:00Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Noa Presas propón mobilizar vivendas en desuso de ADIF en Ribadavia para ampliar o parque público de vivenda",
+   "url": "https://www.bng.gal/novas/noa-presas-propon-mobilizar-vivendas-desuso-adif-ribadavia-ampliar-parque-publico-vivenda/20261116121656043953.html",
+   "fecha": "2026-11-16T11:16:56Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "La media de encuestas: la izquierda crece y la derecha cae, pero mantiene la mayoría",
+   "url": "https://www.eldiario.es/politica/media-encuestas-izquierda-crece-derecha-cae-mantiene-mayoria_1_13666796.html",
+   "fecha": "2026-11-16T10:44:24Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html",
+   "fecha": "2026-11-16T10:30:04Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Feijóo promete \"saldar una deuda\" con los exiliados por ETA para que puedan votar en Euskadi y Navarra",
+   "url": "https://www.europapress.es/nacional/noticia-feijoo-propone-ley-nietos-vasca-expulsados-terrorismo-eta-puedan-votar-euskadi-20261116110857.html",
+   "fecha": "2026-11-16T10:08:57Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Nogueras: “La garantia per a les empreses, els treballadors, els autònoms i l’economia és Junts”",
+   "url": "https://junts.cat/actualitat/nogueras-la-garantia-per-a-les-empreses-els-treballadors-els-autonoms-i-leconomia-es-junts/",
+   "fecha": "2026-11-16T09:50:53Z",
+   "fuente": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "El PP promete una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en el País Vasco y en Navarra",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac98afdddffc5528b457c.html",
+   "fecha": "2026-11-16T09:33:31Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "El Frente Amplio propone un límite de 10 millones de euros a las herencias",
+   "url": "https://www.eldiario.es/politica/frente-amplio-propone-limite-10-millones-euros-herencias_1_13666594.html",
+   "fecha": "2026-11-16T09:03:05Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "Así te hemos contado la última hora sobre las elecciones generales y la actualidad política del 16 de noviembre de 2026",
+   "url": "https://www.eldiario.es/politica/ultima-hora-elecciones-generales-actualidad-politica-directo_6_13666493.html",
+   "fecha": "2026-11-16T07:50:19Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Elecciones generales 2026, en directo: últimas encuestas del 29N y reunión de Sánchez con Lula da Silva",
+   "url": "https://www.europapress.es/nacional/noticia-elecciones-generales-2026-directo-ultimas-encuestas-29n-reunion-sanchez-lula-da-silva-20261116083507.html",
+   "fecha": "2026-11-16T07:35:07Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "El PSOE remonta pero no altera la mayoría de la derecha",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-psoe-remonta-pero-no-altera-la-mayoria-de-la-derecha.html",
+   "fecha": "2026-11-16T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Vox se queda a medias en sus esfuerzos por suavizar su discurso para no dar miedo",
+   "url": "https://elpais.com/espana/2026-11-16/vox-se-queda-a-medias-en-sus-esfuerzos-por-suavizar-su-discurso-para-no-dar-miedo.html",
+   "fecha": "2026-11-16T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Sánchez reproduce en su programa medidas de Sumar y se envuelve en la bandera para intentar pescar votos a izquierda y derecha",
+   "url": "https://www.20minutos.es/nacional/sanchez-reproduce-su-programa-medidas-sumar-se-envuelve-bandera-para-intentar-pescar-votos-izquierda-derecha_7061354_0.html",
+   "fecha": "2026-11-16T04:00:00Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "El Gobierno evita aportar el informe 'secreto' de Red Eléctrica sobre la prórroga de Almaraz hasta después del 29-N",
+   "url": "https://www.20minutos.es/nacional/aagesen-evita-aportar-hasta-despues-29-n-informe-secreto-red-electrica-sobre-prorroga-central-nuclear-almaraz_7060721_0.html",
+   "fecha": "2026-11-16T04:00:00Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Cómo los timadores aprovechan para engañarte en periodo de elecciones: del mensaje para \"confirmar el voto\" al falso aviso a la mesa electoral",
+   "url": "https://www.20minutos.es/nacional/como-los-timadores-aprovechan-para-enganarte-periodo-elecciones-mensaje-para-confirmar-voto-falso-aviso-mesa-electoral_7060977_0.html",
+   "fecha": "2026-11-16T04:00:00Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Causa de la financiación irregular del PSOE: las explicaciones de los técnicos del Tribunal de Cuentas no convencen a la UCO",
+   "url": "https://www.elmundo.es/espana/2026/11/16/6afa0cf3fc6c83a70f8b456e.html",
+   "fecha": "2026-11-16T00:01:29Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "María José Catalá: \"Feijóo está ante el reto de su vida y le costará sangre, sudor y lágrimas\"",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6af9e07ee9cf4a2f498b457f.html",
+   "fecha": "2026-11-15T23:10:53Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "El PP agita el discurso de la inseguridad pese a los bajos niveles de criminalidad y azuza el miedo a la inmigración",
+   "url": "https://www.eldiario.es/politica/pp-agita-discurso-inseguridad-pese-bajos-niveles-criminalidad-azuza-miedo-inmigracion_1_13663991.html",
+   "fecha": "2026-11-15T20:56:43Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Las claves del voto exterior del 29N: cómo se apartarán las papeletas de los 'nietos' en los consulados y en el escrutinio",
+   "url": "https://www.eldiario.es/politica/claves-voto-exterior-29n-apartaran-papeletas-nietos-consulados-escrutinio_1_13662915.html",
+   "fecha": "2026-11-15T20:56:43Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "🔴 SANTIAGO ABASCAL triunfa en MURCIA: pabellón abarrotado por más de 6.000 PERSONAS",
+   "url": "https://www.youtube.com/watch?v=aU6yGPmoJKc",
+   "fecha": "2026-11-15T20:32:41Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Pontón: \"Os galegos e as galegas imos escribir a nosa propia historia este 29-N cun voto masivo ao BNG\"",
+   "url": "https://www.bng.gal/novas/ponton-galegos-galegas-imos-escribir-nosa-propia-historia-29-n-voto-masivo-ao-bng/20261115205800043948.html",
+   "fecha": "2026-11-15T19:58:00Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "BNG chama a romper coa dobre discriminación das mulleres galegas, por mulleres e por galegas, con máis forza nas Cortes",
+   "url": "https://www.bng.gal/novas/bng-chama-romper-coa-dobre-discriminacion-das-mulleres-galegas-mulleres-galegas-mais-forza-nas-cortes/20261115205340043947.html",
+   "fecha": "2026-11-15T19:53:40Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "De la banda sonora de Sánchez a 'Anotop At': una campaña con mucha marcha - laSexta Noticias",
+   "url": "https://www.youtube.com/watch?v=u_F3RRcNu0Q",
+   "fecha": "2026-11-15T19:23:36Z",
+   "fuente": "lasexta-youtube",
+   "canal": "laSexta Noticias",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Sánchez rescata para el programa electoral la financiación autonómica que prima a Cataluña, pese al rechazo de Page y Barbón",
+   "url": "https://www.elmundo.es/espana/2026/11/15/6af9eeb5e85ecef4158b4570.html",
+   "fecha": "2026-11-15T17:50:03Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "¿En serio no sabía que CEUTA iba a ser invadida? - Pedro Sánchez da sus explicaciones",
+   "url": "https://www.youtube.com/watch?v=H6BIJGeRdkI",
+   "fecha": "2026-11-15T17:30:04Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Ada Colau propone reconocer legalmente a la familia elegida a través de \"permisos retribuidos\" a amigos",
+   "url": "https://www.elmundo.es/espana/2026/11/15/6af990c1e9cf4a301c8b4585.html",
+   "fecha": "2026-11-15T17:28:00Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "Feijóo define a Pedro Sánchez y no deja indiferente a nadie",
+   "url": "https://www.youtube.com/watch?v=xjuv3_SQM2w",
+   "fecha": "2026-11-15T17:00:28Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PP",
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "🟢 GRAN ACTO PÚBLICO con Santiago Abascal en Zaragoza",
+   "url": "https://www.youtube.com/watch?v=udf10Xhlh0o",
+   "fecha": "2026-11-15T16:51:47Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "🟢 GRAN ACTO PÚBLICO con Santiago Abascal en Alicante",
+   "url": "https://www.youtube.com/watch?v=nnYgYBSjjTg",
+   "fecha": "2026-11-15T16:50:28Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Feijóo habla de su relación con AYUSO y de la gran polémica con el piso de 6,7 millones",
+   "url": "https://www.youtube.com/watch?v=nq4Pu2kt7Vk",
+   "fecha": "2026-11-15T16:45:22Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Jordi Wild ataca a Pedro Sánchez por la corrupción de sus amigos (Ábalos, Koldo, Cerdán)",
+   "url": "https://www.youtube.com/watch?v=AtcUaoghvfc",
+   "fecha": "2026-11-15T16:15:07Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "¡GRACIAS CORNELLÁ! ¡VIVA ESPAÑA!",
+   "url": "https://www.youtube.com/shorts/t2jfJUW1Afw",
+   "fecha": "2026-11-15T15:53:39Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "El PSOE promete dedicar el 1% del PIB a vivienda y alargar la duración de los contratos de alquiler",
+   "url": "https://www.20minutos.es/nacional/psoe-promete-dedicar-1-pib-vivienda-alargar-duracion-los-contratos-alquiler_7061322_0.html",
+   "fecha": "2026-11-15T15:52:41Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "El PSOE promete \"blindar\" el mantenimiento de vías de tren con 19.000 millones y un Pacto de Estado por la seguridad ferroviaria",
+   "url": "https://www.20minutos.es/nacional/psoe-promete-blindar-mantenimiento-vias-tren-con-19-000-millones-un-pacto-estado-por-seguridad-ferroviaria_7061321_0.html",
+   "fecha": "2026-11-15T15:50:50Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "“FLORENTINO PÉREZ PUEDE PAGAR 300 MILLONES EN IMPUESTOS” Ada Colau y subir impuestos a los ricos",
+   "url": "https://www.youtube.com/watch?v=mswl-JRsIlQ",
+   "fecha": "2026-11-15T15:47:46Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "El PSOE promete blindar 19.000 millones hasta 2030 para mantener la red ferroviaria e impulsar un Pacto de Estado",
+   "url": "https://www.europapress.es/nacional/noticia-psoe-promete-blindar-19000-millones-2030-mantener-red-ferroviaria-impulsar-pacto-estado-20261115164705.html",
+   "fecha": "2026-11-15T15:47:05Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Jordi Wild cuestiona a Pedro Sánchez por sus vacaciones durante la crisis de Ceuta",
+   "url": "https://www.youtube.com/shorts/YJtTTM9xT4g",
+   "fecha": "2026-11-15T15:30:03Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "El programa del PSOE propone aumentar por ley la duración de los alquileres, gravar a los fondos buitres y un 1% del PIB a casas asequibles",
+   "url": "https://www.eldiario.es/politica/programa-psoe-propone-aumentar-ley-duracion-alquileres-gravar-grandes-buitres-1-pib-casas-asequibles_1_13665879.html",
+   "fecha": "2026-11-15T15:11:14Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Olalla Rodil anima a encher o auditorio Fuxan os Ventos no acto público do BNG que se celebrará o vindeiro mércores 18 ás 20h",
+   "url": "https://www.bng.gal/novas/olalla-rodil-anima-encher-auditorio-fuxan-ventos-acto-publico-do-bng-que-celebrara-vindeiro-mercores-18-20h/20261115155607043943.html",
+   "fecha": "2026-11-15T14:56:07Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "Los padres de Pedro Sánchez arropan a su hijo en el mitin de Alcorcón: \"Vivan las madres que nos parieron\"",
+   "url": "https://www.20minutos.es/nacional/los-padres-pedro-sanchez-arropan-su-hijo-mitin-alcorcon-vivan-las-madres-que-nos-parieron_7061307_0.html",
+   "fecha": "2026-11-15T14:47:58Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "🔷 El líder del PP ha condenado el ataque ayer al candidato delPP en Guipúzcoa",
+   "url": "https://www.youtube.com/shorts/gB_tvffS3CU",
+   "fecha": "2026-11-15T14:41:01Z",
+   "fuente": "antena3-youtube",
+   "canal": "Antena 3 Noticias",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Abascal advierte de que España \"no resiste cuatro años más\" de Sánchez y le avisa de que aceptará los resultados \"si no hay trampas\"",
+   "url": "https://www.20minutos.es/nacional/abascal-advierte-espana-no-resiste-cuatro-anos-mas-sanchez-avisa-aceptara-resultados-si-no-trampas_7061302_0.html",
+   "fecha": "2026-11-15T14:14:00Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Frente Amplio echa el resto para revalidar su escaño por Zaragoza: “Puede ser decisivo y se juega aquí”",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/frente-amplio-echa-el-resto-para-revalidar-su-escano-por-zaragoza-puede-ser-decisivo-y-se-juega-aqui.html",
+   "fecha": "2026-11-15T14:13:58Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "Sánchez se reúne con Lula en Moncloa este lunes aunque se cancela un acto de campaña por afonía del presidente brasileño",
+   "url": "https://www.europapress.es/nacional/noticia-sanchez-reune-lula-moncloa-lunes-cancela-acto-campana-afonia-presidente-brasileno-20261115150524.html",
+   "fecha": "2026-11-15T14:05:24Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "PEDRO Y LA BANDERA DE ESPAÑA",
+   "url": "https://www.youtube.com/shorts/J3lXJs2Xu0Q",
+   "fecha": "2026-11-15T14:04:19Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "VIVIENDA DESDE QUE SÁNCHEZ ESTÁ EN EL PODER",
+   "url": "https://www.youtube.com/shorts/mLGl9N6ZiUY",
+   "fecha": "2026-11-15T14:02:05Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "LOS IMPUESTOS A LOS RICOS DICE SÁNCHEZ",
+   "url": "https://www.youtube.com/shorts/dvTmzNVguWs",
+   "fecha": "2026-11-15T14:02:01Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "LAS ELECCIONES DE NUESTRA VIDA",
+   "url": "https://www.youtube.com/shorts/9moIJ9TDvjk",
+   "fecha": "2026-11-15T14:00:47Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Feijóo visitará a Guipúzcoa tras la agresión a su candidato y pide a Sánchez que diga a sus socios de Bildu que \"no violenten la campaña\"",
+   "url": "https://www.20minutos.es/nacional/feijoo-visitara-guipuzcoa-tras-agresion-candidato-pide-sanchez-diga-socios-bildu-no-violenten-campana_7061296_0.html",
+   "fecha": "2026-11-15T13:50:14Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "EH Bildu"
+   ]
+  },
+  {
+   "titulo": "Feijóo hará campaña en Guipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
+   "fecha": "2026-11-15T13:45:32Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
+   "fecha": "2026-11-15T13:44:55Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Pontón contrapón a milonga de Feijóo como bo xestor co seu legado en Galiza e chama a frealo nas urnas co voto ao BNG",
+   "url": "https://www.bng.gal/novas/ponton-contrapon-milonga-feijoo-como-bo-xestor-co-seu-legado-galiza-chama-frealo-nas-urnas-co-voto-ao-bng/20261115144447043940.html",
+   "fecha": "2026-11-15T13:44:47Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "🟢 GRAN ACTO PÚBLICO con Santiago Abascal en Cornellá de Llobregat",
+   "url": "https://www.youtube.com/watch?v=ZjnKOtnxSwY",
+   "fecha": "2026-11-15T13:16:01Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "PSOE / Pedro Sánchez en Alcorcón",
+   "url": "https://www.youtube.com/watch?v=VeWPZRNi_bA",
+   "fecha": "2026-11-15T13:12:57Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Feijóo llama \"gentuza\" a EH Bildu y pide a Sánchez que diga a \"sus socios que no violenten la campaña\"",
+   "url": "https://www.eldiario.es/politica/feijoo-llama-gentuza-eh-bildu-pide-sanchez-diga-socios-no-violenten-campana_1_13665372.html",
+   "fecha": "2026-11-15T13:07:29Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "EH Bildu"
+   ]
+  },
+  {
+   "titulo": "Feijóo pide concentrar el voto en PP para \"abrir un tiempo nuevo\" y acusa a Sánchez de liderar \"con incompetencia\"",
+   "url": "https://www.europapress.es/cantabria/noticia-feijoo-pide-concentrar-voto-pp-abrir-tiempo-nuevo-acusa-sanchez-liderar-incompetencia-20261115140501.html",
+   "fecha": "2026-11-15T13:05:01Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "🔴 #ÚLTIMAHORA Miles de personas se quedan fuera del mitin de VOX en CORNELLÁ por AFORO COMPLETO",
+   "url": "https://www.youtube.com/watch?v=dQHrzsHhVLo",
+   "fecha": "2026-11-15T12:56:12Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "🔵 Feijóo y Buruaga en un acto campaña en Santander",
+   "url": "https://www.youtube.com/watch?v=1I9HCcdIz-4",
+   "fecha": "2026-11-15T12:53:45Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Nogueras: “Les competències en immigració per a Catalunya són innegociables”",
+   "url": "https://junts.cat/actualitat/nogueras-les-competencies-en-immigracio-per-a-catalunya-son-innegociables/",
+   "fecha": "2026-11-15T12:45:56Z",
+   "fuente": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "Valido exige al Estado que cubra el 100% del coste real del transporte de mercancías para abaratar la cesta de la compra en Canarias",
+   "url": "https://coalicioncanaria.org/valido-exige-al-estado-que-cubra-el-100-del-coste-real-del-transporte-de-mercancias-para-abaratar-la-cesta-de-la-compra-en-canarias/",
+   "fecha": "2026-11-15T12:37:45Z",
+   "fuente": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "Irene Montero, en Sevilla: PP y Vox quieren tener esclavos \"negros, latinos y andaluces trabajadores\"",
+   "url": "https://www.20minutos.es/nacional/irene-montero-sevilla-pp-vox-quieren-tener-esclavos-negros-latinos-andaluces-trabajadores_7061289_0.html",
+   "fecha": "2026-11-15T12:21:06Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "VOX",
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "Los tribunales no paran en campaña electoral con declaraciones de los casos 'Leire', 'Koldo', 'Plus Ultra' o Ceuta",
+   "url": "https://www.europapress.es/nacional/noticia-tribunales-no-paran-campana-electoral-declaraciones-casos-leire-koldo-plus-ultra-ceuta-20261115125957.html",
+   "fecha": "2026-11-15T11:59:57Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Frente Amplio plantea permisos por cuidados a \"la familia elegida\" y una tarifa plana para autónomos que cobren menos del SMI",
+   "url": "https://www.20minutos.es/nacional/frente-amplio-propone-que-familia-elegida-pueda-tener-permisos-retribuidos-por-cuidados_7061277_0.html",
+   "fecha": "2026-11-15T11:51:05Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "LOS INALQUILABLES",
+   "url": "https://www.youtube.com/shorts/MMQC3MqJFEw",
+   "fecha": "2026-11-15T11:35:17Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Un año de la condena a García Ortiz: un indulto \"en la mesa\" del Gobierno y el TC estudiará su amparo después del 29N",
+   "url": "https://www.20minutos.es/nacional/un-ano-condena-garcia-ortiz-un-indulto-mesa-gobierno-tc-estudiara-su-amparo-despues-29n_7061275_0.html",
+   "fecha": "2026-11-15T11:32:35Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "LOS INALQUILABLES - Las malas políticas tienen consecuencias",
+   "url": "https://www.youtube.com/watch?v=BNZYl68bHLs",
+   "fecha": "2026-11-15T11:20:43Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Frente Amplio propone que la \"familia elegida\" pueda tener permisos retribuidos por cuidados",
+   "url": "https://www.europapress.es/nacional/noticia-frente-amplio-propone-familia-elegida-pueda-tener-permisos-retribuidos-cuidados-20261115121612.html",
+   "fecha": "2026-11-15T11:16:12Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "Un año de la condena a García Ortiz: un indulto \"en la mesa\" del Gobierno y el TC estudiará su amparo después del 29N",
+   "url": "https://www.europapress.es/nacional/noticia-ano-condena-garcia-ortiz-indulto-mesa-gobierno-tc-estudiara-amparo-despues-29n-20261115115951.html",
+   "fecha": "2026-11-15T10:59:51Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "¿Puedo votar a Gabriel Rufián (ERC), EH Bildu o PNV... en las elecciones generales si vivo en Madrid?",
+   "url": "https://www.20minutos.es/nacional/puedo-votar-gabriel-rufian-erc-eh-bildu-pnv-elecciones-generales-madrid_5149744_0.html",
+   "fecha": "2026-11-15T10:23:41Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "ERC",
+    "EH Bildu",
+    "EAJ-PNV"
+   ]
+  },
+  {
+   "titulo": "El PP cuelga su programa electoral en Spotify: \"No es una lista de canciones para distraer de los problemas de España\"",
+   "url": "https://www.20minutos.es/nacional/pp-cuelga-su-programa-electoral-spotify-no-es-una-lista-canciones-para-distraer-los-problemas-espana_7061249_0.html",
+   "fecha": "2026-11-15T10:16:11Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Ada Colau defiende a Jordi Wild de las críticas por sus palabras sobre violencia machista: \"Estoy segura de que esa no era su intención\"",
+   "url": "https://www.20minutos.es/nacional/ada-colau-defiende-jordi-wild-criticas-palabras-violencia-machista-segura-no-era-intencion_7061242_0.html",
+   "fecha": "2026-11-15T10:00:48Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "El pronóstico de Marcos de Quinto para las elecciones generales",
+   "url": "https://www.youtube.com/watch?v=dKNLfxB0t68",
+   "fecha": "2026-11-15T09:41:59Z",
+   "fuente": "antena3-youtube",
+   "canal": "Antena 3 Noticias",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Los colaboradores reaccionan a la aparición de Begoña en el mitin de arranque de campaña del PSOE",
+   "url": "https://www.youtube.com/watch?v=qJFjqiPTYuM",
+   "fecha": "2026-11-15T09:41:18Z",
+   "fuente": "antena3-youtube",
+   "canal": "Antena 3 Noticias",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Feijóo: \"Pido a los españoles un apoyo amplio para derogar lo más rápido posible el sanchismo\"",
+   "url": "https://www.europapress.es/nacional/noticia-feijoo-pido-espanoles-apoyo-amplio-derogar-mas-rapido-posible-sanchismo-20261115103206.html",
+   "fecha": "2026-11-15T09:32:06Z",
+   "fuente": "europapress",
+   "canal": "Europa Press - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Irene Montero: \"Si los votos de izquierdas sirven para que no cambie nada, el PP y Vox han ganado igual\" #PazCasaTrabajo29N…",
+   "url": "https://t.me/ahorapodemos/2870",
+   "fecha": "2026-11-15T09:19:01Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "Última hora sobre las elecciones generales y la actualidad política, en directo",
+   "url": "https://www.eldiario.es/politica/ultima-hora-elecciones-generales-actualidad-politica-directo_6_13665108.html",
+   "fecha": "2026-11-15T08:38:41Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Carlos H. Quero (Vox): \"La primera compra de una vivienda de los jóvenes españoles no puede tener impuestos\"",
+   "url": "https://www.20minutos.es/nacional/carlos-h-quero-vox-primera-compra-una-vivienda-los-jovenes-espanoles-no-puede-tener-impuestos_7057316_0.html",
+   "fecha": "2026-11-15T06:58:31Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Las estrategias detrás de los carteles del 29N: qué busca transmitir cada partido con la imagen de su líder",
+   "url": "https://www.20minutos.es/nacional/las-estrategias-detras-los-carteles-29n-que-busca-transmitir-cada-partido-con-imagen-su-lider_7060760_0.html",
+   "fecha": "2026-11-15T06:53:57Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "PSOE y PP recrudecen la pelea por el primer puesto en la recta final hacia el 29-N",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/psoe-y-pp-recrudecen-la-pelea-por-el-primer-puesto-en-la-recta-final-hacia-el-29-n.html",
+   "fecha": "2026-11-15T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Hacer campaña con tanques o con drones",
+   "url": "https://elpais.com/opinion/2026-11-15/hacer-campana-con-tanques-o-con-drones.html",
+   "fecha": "2026-11-15T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "El PSOE gana por la izquierda lo que pierde por la derecha, según el tercer ‘tracking’ de la campaña",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html",
+   "fecha": "2026-11-15T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Miriam Nogueras, candidata de Junts: “No me presento para poner o quitar presidentes españoles”",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/miriam-nogueras-candidata-de-junts-no-me-presento-para-poner-o-quitar-presidentes-espanoles.html",
+   "fecha": "2026-11-15T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "Cataluña, el granero socialista y un reto para el avance del PP",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/cataluna-el-granero-socialista-y-un-reto-para-el-avance-del-pp.html",
+   "fecha": "2026-11-15T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Maribel Vaquero, candidata del PNV: “No vamos a estar en ningún pacto con Vox. Somos incompatibles”",
+   "url": "https://elpais.com/espana/2026-11-15/maribel-vaquero-candidata-del-pnv-no-vamos-a-estar-en-ningun-pacto-con-vox-somos-incompatibles.html",
+   "fecha": "2026-11-15T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "VOX",
+    "EAJ-PNV"
+   ]
+  },
+  {
+   "titulo": "DIRECTO 🔵 Feijóo, Alfonso Rueda y Miguel Tellado intervienen en un acto en Santiago de Compostela",
+   "url": "https://www.youtube.com/watch?v=Nyt5DwI-td8",
+   "fecha": "2026-11-15T00:48:05Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "🔴 BRUTAL DISCURSO de ABASCAL ante MILES de PERSONAS en MURCIA: \"O ESPAÑA O LA MAFIA\"",
+   "url": "https://www.youtube.com/watch?v=Co5PDAxCydo",
+   "fecha": "2026-11-14T23:12:00Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "🔴 #ÚLTIMAHORA MÁS de 6.000 PERSONAS desbordan el MITIN DE VOX en MURCIA: REACCIÓN de ABASCAL",
+   "url": "https://www.youtube.com/watch?v=gy_NeBadxmo",
+   "fecha": "2026-11-14T23:00:01Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Gabriel Rufián desvela el contenido de una dedicatoria que una seguidora no podía descifrar: \"Letra de zurdo cerrado... perdón\"",
+   "url": "https://www.20minutos.es/nacional/gabriel-rufian-desvela-contenido-dedicatoria-seguidora-no-podia-descifrar-letra-zurdo-cerrado-perdon_7061206_0.html",
+   "fecha": "2026-11-14T21:58:43Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "ERC"
+   ]
+  },
+  {
+   "titulo": "¡GRACIAS MURCIA!",
+   "url": "https://www.youtube.com/shorts/3YwlR4GoBSU",
+   "fecha": "2026-11-14T21:41:45Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "A QUIEN MÁS HA ESTAFADO SÁNCHEZ ES A LAS MUJERES",
+   "url": "https://www.youtube.com/shorts/y0OAmRBTaAQ",
+   "fecha": "2026-11-14T20:54:19Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "EL PP TIENE UNA PREGUNTA QUE RESPONDER ANTES DEL 29N",
+   "url": "https://www.youtube.com/shorts/XQiOOQNQf3Y",
+   "fecha": "2026-11-14T20:53:55Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Abascal se encomienda a sus feudos del Levante para \"echar a la mafia\" del Gobierno: \"Meten miedo al mismo demonio\"",
+   "url": "https://www.elmundo.es/espana/2026/11/14/6af832e4e85eceaa6f8b4598.html",
+   "fecha": "2026-11-14T20:52:02Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "EL 29N: ESPAÑA O LA MAFIA",
+   "url": "https://www.youtube.com/shorts/YLYgd28UN54",
+   "fecha": "2026-11-14T20:48:32Z",
+   "fuente": "vox-youtube",
+   "canal": "VOX España",
+   "clase": "partido",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Cómo funciona y a quién beneficia el sistema electoral en España",
+   "url": "https://www.eldiario.es/politica/funciona-beneficia-sistema-electoral-espana_1_13609576.html",
+   "fecha": "2026-11-14T20:41:50Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Irene Montero: \"Si los votos de izquierdas sirven para que no cambie nada, el PP y Vox han ganado igual\"",
+   "url": "https://www.eldiario.es/politica/irene-montero-si-votos-izquierdas-sirven-no-cambie-pp-vox-han-ganado-igual_1_13661608.html",
+   "fecha": "2026-11-14T20:41:49Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "VOX",
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "Los tribunales marcan el arranque de campaña del 29N con decisiones clave que afectan al Gobierno y el PSOE",
+   "url": "https://www.eldiario.es/politica/tribunales-marcan-arranque-campana-29n-decisiones-clave-afectan-gobierno-psoe_1_13661635.html",
+   "fecha": "2026-11-14T20:41:48Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Ana Pontón pide apostar polo equipo da casa este 29N: “Por Galiza e por unha vida digna”",
+   "url": "https://www.bng.gal/novas/ana-ponton-pide-apostar-polo-equipo-da-casa-29n-galiza-vida-digna/20261114213414043931.html",
+   "fecha": "2026-11-14T20:34:14Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "Feijóo, sobre el Gobierno: \"Corrupción, machismo, incompetencia y soberbia\" - laSexta Noticias",
+   "url": "https://www.youtube.com/watch?v=mk8hZQXkhhY",
+   "fecha": "2026-11-14T20:13:55Z",
+   "fuente": "lasexta-youtube",
+   "canal": "laSexta Noticias",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Agreden con piedras y petardos a Jon Echeverría en Hernani y Feijóo reclama: \"Ni un paso atrás. Con todas las ganas de ganarles también a los socios de Sánchez\"",
+   "url": "https://www.elmundo.es/pais-vasco/2026/11/14/6af863cae85ecedc3b8b457b.html",
+   "fecha": "2026-11-14T19:27:33Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Carme da Silva chama a ateigar as urnas con votos ao BNG para dar un salto no peso político de Galiza e conseguir solucións aos problemas de galegas e galegos",
+   "url": "https://www.bng.gal/novas/carme-da-silva-chama-ateigar-urnas-votos-ao-bng-dar-salto-peso-politico-galiza-conseguir-solucions-aos-problemas-galegas-galegos/20261114202631043930.html",
+   "fecha": "2026-11-14T19:26:31Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "Feijóo promete acabar con los \"ocho años de corrupción, machismo, incompetencia y soberbia\" de Sánchez: \"Habrá limpieza\"",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af85c61fdddff4d488b456f.html",
+   "fecha": "2026-11-14T18:49:15Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Diferencias y similitudes de la campaña electoral actual con la de 2023 - laSexta Noticias",
+   "url": "https://www.youtube.com/watch?v=eR24URRvM5A",
+   "fecha": "2026-11-14T18:43:02Z",
+   "fuente": "lasexta-youtube",
+   "canal": "laSexta Noticias",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "El PSOE denuncia a la editora de Okdiario ante la Agencia Tributaria",
+   "url": "https://www.eldiario.es/politica/psoe-denuncia-editora-okdiario-agencia-tributaria_1_13664622.html",
+   "fecha": "2026-11-14T18:37:35Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Otegi reclama el apoyo del \"pueblo de Euskal Herria\" para darle una \"paliza democrática\" a los \"fascistas\" de PP y de Vox",
+   "url": "https://www.elmundo.es/pais-vasco/2026/11/14/6af89830e4d4d83e758b4595.html",
+   "fecha": "2026-11-14T17:44:33Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "VOX",
+    "EH Bildu"
+   ]
+  },
+  {
+   "titulo": "\"Cada vez es más fácil generar vídeos falsos que parecen reales\", IA en campaña en La Comentada",
+   "url": "https://www.youtube.com/shorts/4FGdtGpFIdg",
+   "fecha": "2026-11-14T17:00:24Z",
+   "fuente": "rtve-youtube",
+   "canal": "RTVE Noticias",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Irene Montero ha dejado un mensaje a Jordi Wild sobre los asesinatos machistas en España https://vm.tiktok.com/ZN85PT34e/",
+   "url": "https://t.me/ahorapodemos/2869",
+   "fecha": "2026-11-14T16:42:04Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "🗳️ Sánchez hace un llamamiento a una alta participación electoral que ha fijado en un 75%",
+   "url": "https://www.youtube.com/shorts/vBP1JmMf_3s",
+   "fecha": "2026-11-14T16:41:49Z",
+   "fuente": "antena3-youtube",
+   "canal": "Antena 3 Noticias",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Olalla Rodil: \"ante o avance dos discursos de odio, desde o BNG temos moi claro que ningunha persoa é ilegal e que traballaremos por unha Galiza inclusiva\"",
+   "url": "https://www.bng.gal/novas/olalla-rodil-avance-dos-discursos-odio-bng-temos-moi-claro-que-ningunha-persoa-ilegal-que-traballaremos-galiza-inclusiva/20261114170131043932.html",
+   "fecha": "2026-11-14T16:01:31Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "\"Tenemos un sistema ferroviario seguro\" - Pedro Sánchez sobre el accidente de Urda y su gestión",
+   "url": "https://www.youtube.com/watch?v=oT858-bW3xw",
+   "fecha": "2026-11-14T16:00:33Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "El Frente Amplio propone incluir gafas, audífonos y dentista en la sanidad pública",
+   "url": "https://movimientosumar.es/el-frente-amplio-propone-incluir-gafas-audifonos-y-dentista-en-la-sanidad-publica/",
+   "fecha": "2026-11-14T15:58:03Z",
+   "fuente": "sumar-web",
+   "canal": "Movimiento Sumar",
+   "clase": "partido",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "“NO QUISIERON NI SENTARSE A HABLAR”: Ada Colau por qué no está Podemos en Frente Amplio",
+   "url": "https://www.youtube.com/watch?v=8UfyV1CTIUs",
+   "fecha": "2026-11-14T15:45:13Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "Sumar / FA",
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "Jordi Wild pregunta directamente a Pedro Sánchez por sus cánticos de \"PEDRO SÁNCHEZ HIJO DE...\"",
+   "url": "https://www.youtube.com/watch?v=9xQKPa9KH58",
+   "fecha": "2026-11-14T15:15:32Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "¿Eras amigo de un narcotraficante? - Jordi Wild muestra a Feijóo sus fotos con Marcial Dorado",
+   "url": "https://www.youtube.com/watch?v=BbkqWNhQAVE",
+   "fecha": "2026-11-14T14:44:43Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Ana Pontón chama a concentrar o voto de País no BNG o 29N para que Galiza gañe e para avanzar en dereitos",
+   "url": "https://www.bng.gal/novas/ana-ponton-chama-concentrar-voto-pais-bng-29n-que-galiza-gane-avanzar-dereitos/20261114153038043929.html",
+   "fecha": "2026-11-14T14:30:38Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "El Frente Amplio aprieta al PSOE para defenderse de su llamada al voto útil: \"Queremos ir a por más\"",
+   "url": "https://www.eldiario.es/politica/frente-amplio-aprieta-psoe-defenderse-llamada-voto-util-queremos_1_13664090.html",
+   "fecha": "2026-11-14T14:10:36Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PSOE",
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "Un Pedro Sánchez muy confiado pese a las encuestas en contra pide a Feijóo que \"respete el resultado de las elecciones\"",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af8563be85ece10768b4595.html",
+   "fecha": "2026-11-14T13:59:49Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "👉Ada Colau ha inaugurado el primer fin de semana de campaña en Andalucía",
+   "url": "https://www.youtube.com/shorts/47U8a1DC8R4",
+   "fecha": "2026-11-14T13:39:00Z",
+   "fuente": "antena3-youtube",
+   "canal": "Antena 3 Noticias",
+   "clase": "medio",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "Irene Montero, a Jordi Wild: \"¿Qué valor le tienes a la vida de una mujer para decir que 44 asesinadas no son tantas?\"",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af86003e4d4d829148b45ac.html",
+   "fecha": "2026-11-14T13:27:22Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "Feijóo dice ahora que integrará Vivienda \"en una vicepresidencia\" sin especificar con qué rango",
+   "url": "https://www.eldiario.es/politica/feijoo-dice-ahora-integrara-vivienda-vicepresidencia-especificar-rango_1_13664079.html",
+   "fecha": "2026-11-14T13:25:45Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Valido: “Nuestros aeropuertos son nuestra alta velocidad y exigimos al Estado las inversiones que Canarias merece”",
+   "url": "https://coalicioncanaria.org/valido-nuestros-aeropuertos-son-nuestra-alta-velocidad-y-exigimos-al-estado-las-inversiones-que-canarias-merece/",
+   "fecha": "2026-11-14T13:18:39Z",
+   "fuente": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "Sánchez pide a Feijóo “aprender inglés” y “educación para la ciudadanía” para aceptar los resultados electorales",
+   "url": "https://www.eldiario.es/politica/sanchez-pide-feijoo-aprender-ingles-educacion-ciudadania-aceptar-resultados-electorales-29n_1_13664025.html",
+   "fecha": "2026-11-14T13:01:18Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Las entrevistas a los candidatos YA DISPONIBLES 🎙️",
+   "url": "https://www.youtube.com/shorts/gGuMCZCFm6M",
+   "fecha": "2026-11-14T13:00:08Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": []
+  },
+  {
+   "titulo": "Nogueras (Junts) admite que estas elecciones \"van de impedir la coalición entre PP y Vox\", aunque sigue con sus ataques al PSOE y manda un recado a Jordi Wild",
+   "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/14/6af84df021efa03e3e8b4591.html",
+   "fecha": "2026-11-14T12:55:37Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "PSOE",
+    "VOX",
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "PSOE / Pedro Sánchez en Palma",
+   "url": "https://www.youtube.com/watch?v=s1rwq8imSZ4",
+   "fecha": "2026-11-14T12:17:21Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Nogueras: “Qui la fa, la paga. És igual d’on vingui. A Catalunya, les lleis són per complir-les i la seguretat és un dret de tothom”",
+   "url": "https://junts.cat/actualitat/nogueras-qui-la-fa-la-paga-es-igual-don-vingui-a-catalunya-les-lleis-son-per-complir-les-i-la-seguretat-es-un-dret-de-tothom/",
+   "fecha": "2026-11-14T12:14:50Z",
+   "fuente": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "Feijóo, el superhéroe del cambio.",
+   "url": "https://www.youtube.com/watch?v=y5miad04PBs",
+   "fecha": "2026-11-14T12:07:28Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "El PNV ni facilitará un Gobierno con Vox ni repetirá legislatura",
+   "url": "https://www.youtube.com/watch?v=CpkKznq7r1o",
+   "fecha": "2026-11-14T10:24:18Z",
+   "fuente": "antena3-youtube",
+   "canal": "Antena 3 Noticias",
+   "clase": "medio",
+   "partidos": [
+    "VOX",
+    "EAJ-PNV"
+   ]
+  },
+  {
+   "titulo": "La solución de Santiago Abascal al problema de la vivienda: \"Hay que ordenar el país\"",
+   "url": "https://www.youtube.com/watch?v=gNHzINiO_yw",
+   "fecha": "2026-11-14T10:06:14Z",
+   "fuente": "antena3-youtube",
+   "canal": "Antena 3 Noticias",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Así te hemos contado la última hora sobre las elecciones generales y la actualidad política del 14 de noviembre de 2026",
+   "url": "https://www.eldiario.es/politica/ultima-hora-elecciones-generales-actualidad-politica-directo_6_13663660.html",
+   "fecha": "2026-11-14T08:59:38Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "DIRECTO🔵 Feijóo interviene en un mitin con jóvenes en Madrid",
+   "url": "https://www.youtube.com/watch?v=mF2QC4PQ3Pc",
+   "fecha": "2026-11-14T00:26:13Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "De qué se habló en las entrevistas de Jordi Wild: Ceuta con Sánchez, economía con Feijóo e inmigración con Colau",
+   "url": "https://www.eldiario.es/politica/hablo-entrevistas-jordi-wild-ceuta-sanchez-economia-feijoo-e-inmigracion-colau_1_13662907.html",
+   "fecha": "2026-11-13T21:53:29Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Sánchez busca una movilización histórica de la izquierda contra el PP y Vox que vuelva a echar por tierra los sondeos",
+   "url": "https://www.eldiario.es/politica/sanchez-busca-movilizacion-historica-izquierda-pp-vox-vuelva-echar-tierra-sondeos_1_13662791.html",
+   "fecha": "2026-11-13T21:53:28Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Sánchez, Feijóo y Colau se internan en el mundo no muy peligroso de Jordi Wild",
+   "url": "https://www.eldiario.es/politica/sanchez-feijoo-colau-internan-mundo-no-peligroso-jordi-wild_129_13662429.html",
+   "fecha": "2026-11-13T21:53:28Z",
+   "fuente": "eldiario",
+   "canal": "elDiario.es - Política",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Pontón pide un voto masivo ao BNG a favor de Galiza, dos dereitos sociais e dunha vida digna",
+   "url": "https://www.bng.gal/novas/ponton-pide-voto-masivo-ao-bng-favor-galiza-dos-dereitos-sociais-dunha-vida-digna/20261113213132043923.html",
+   "fecha": "2026-11-13T20:31:32Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "Nogueras: “La millor política social és que els diners dels catalans estiguin a Catalunya”",
+   "url": "https://junts.cat/actualitat/nogueras-la-millor-politica-social-es-que-els-diners-dels-catalans-estiguin-a-catalunya/",
+   "fecha": "2026-11-13T20:24:40Z",
+   "fuente": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "PSOE / Pedro Sánchez en Pamplona",
+   "url": "https://www.youtube.com/watch?v=0BKpUq1xPSk",
+   "fecha": "2026-11-13T19:56:28Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "BNG propón a xestión pública e directa dos dispositivos de protección das vítimas de violencia machista",
+   "url": "https://www.bng.gal/novas/bng-propon-xestion-publica-directa-dos-dispositivos-proteccion-das-vitimas-violencia-machista/20261113195045043922.html",
+   "fecha": "2026-11-13T18:50:45Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "PSOE / Pedro Sánchez en Arnedo (La Rioja)",
+   "url": "https://www.youtube.com/watch?v=GDKtvPh_9vw",
+   "fecha": "2026-11-13T17:00:17Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Presas sitúa o BNG como a única voz rebelde e insubmisa ante as decisións que prexudican o sector agrogandeiro",
+   "url": "https://www.bng.gal/novas/presas-situa-bng-como-unica-voz-rebelde-insubmisa-decisions-que-prexudican-sector-agrogandeiro/20261113174848043920.html",
+   "fecha": "2026-11-13T16:48:48Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "Presas erixe o BNG como “a única forza política” que poderá impulsar un tren con frecuencias e horarios dignos",
+   "url": "https://www.bng.gal/novas/presas-erixe-bng-como-unica-forza-politica-que-podera-impulsar-tren-frecuencias-horarios-dignos/20261113174520043918.html",
+   "fecha": "2026-11-13T16:45:20Z",
+   "fuente": "bng-web",
+   "canal": "BNG - Bloque Nacionalista Galego :: Últimas novas",
+   "clase": "partido",
+   "partidos": [
+    "BNG"
+   ]
+  },
+  {
+   "titulo": "Ayuso sobrepasa todas las líneas rojas en la precampaña del 29N - laSexta Noticias",
+   "url": "https://www.youtube.com/watch?v=pSNubtdCS2E",
+   "fecha": "2026-11-13T16:05:11Z",
+   "fuente": "lasexta-youtube",
+   "canal": "laSexta Noticias",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "¿Cómo se apuran las últimas horas ante de un debate electoral? - laSexta Noticias",
+   "url": "https://www.youtube.com/watch?v=5LIb28wrHDU",
+   "fecha": "2026-11-13T16:00:59Z",
+   "fuente": "lasexta-youtube",
+   "canal": "laSexta Noticias",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Valido exige limitar la compra de viviendas a no residentes para frenar la especulación en Canarias",
+   "url": "https://coalicioncanaria.org/valido-exige-limitar-la-compra-de-viviendas-a-no-residentes-para-frenar-la-especulacion-en-canarias/",
+   "fecha": "2026-11-13T13:06:43Z",
+   "fuente": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "Nogueras: “Els diners dels catalans han d’estar a Catalunya, no a Madrid”",
+   "url": "https://junts.cat/actualitat/nogueras-els-diners-dels-catalans/",
+   "fecha": "2026-11-13T11:33:45Z",
+   "fuente": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "The Wild Project #393 - Pedro Sánchez | Ábalos y Koldo, Ceuta y Marruecos, Su famosa hemeroteca",
+   "url": "https://www.youtube.com/watch?v=mStOFBvToUI",
+   "fecha": "2026-11-13T11:00:09Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Junts demana la compareixença del conseller d’Agricultura per l’obligació d’emmagatzemar el 12 % de l’oli d’oliva",
+   "url": "https://junts.cat/actualitat/junts-demana-la-compareixenca-del-conseller-dagricultura-per-lobligacio-demmagatzemar-el-12-de-loli-doliva/",
+   "fecha": "2026-11-13T10:34:18Z",
+   "fuente": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "The Wild Project #392 - Alberto Núñez Feijóo | Su foto con el narco, Pensiones, Ayuso y Corrupción",
+   "url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+   "fecha": "2026-11-13T09:00:10Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "PSOE / Este país es de gente valiente.",
+   "url": "https://www.youtube.com/watch?v=CTBRIaRbM7U",
+   "fecha": "2026-11-13T08:58:02Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Ibarrola asegura que la Ley Foral de Industria “sobrevivirá los meses que le quedan a María Chivite como presidenta del Gobierno de Navarra”",
+   "url": "https://www.upn.org/ibarrola-asegura-que-la-ley-foral-de-industria-sobrevivira-los-meses-que-le-quedan-a-maria-chivite-como-presidenta-del-gobierno-de-navarra/",
+   "fecha": "2026-11-13T08:16:51Z",
+   "fuente": "upn-web",
+   "canal": "UPN : Unión del Pueblo Navarro",
+   "clase": "partido",
+   "partidos": [
+    "UPN"
+   ]
+  },
+  {
+   "titulo": "The Wild Project #391 - Ada Colau | Inmigración masiva, Críticas a su alcaldía, Israel y flotilla",
+   "url": "https://www.youtube.com/watch?v=-ESmAhdixfo",
+   "fecha": "2026-11-13T07:00:06Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "Pablo Bustinduy (Frente Amplio): \"Nadie va a poder tener derecho a más de tres casas para especular\"",
+   "url": "https://www.20minutos.es/nacional/pablo-bustinduy-frente-amplio-nadie-va-poder-tener-derecho-tener-mas-tres-casas-para-especular-con-ellas_7059268_0.html",
+   "fecha": "2026-11-13T04:00:17Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "Sánchez y Feijóo vuelven a verse las caras en la campaña más polarizada de la historia marcada por Urda y la crisis de vivienda",
+   "url": "https://www.20minutos.es/nacional/arranca-campana-electoral-mas-polarizada-marcada-por-tragedia-urda-las-protestas-por-crisis-vivienda_7060306_0.html",
+   "fecha": "2026-11-13T04:00:00Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Sánchez pone \"la mano en el fuego\" por Zapatero ante Jordi Wild, pese a no contar con él en campaña: \"Creo en su inocencia\"",
+   "url": "https://www.20minutos.es/nacional/entrevistas-jordi-wild-directo-youtuber-publica-esta-manana-forma-sucesiva-las-entrevistas-colau-feijoo-sanchez_7060536_6.html",
+   "fecha": "2026-11-13T03:56:08Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Defiende Canarias - Elecciones 29N 2026",
+   "url": "https://www.youtube.com/watch?v=IuEqCRqgVu0",
+   "fecha": "2026-11-13T00:29:57Z",
+   "fuente": "cca-youtube",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "La desconfianza con Marlaska crece en el PSOE por la sensación de que no controla sectores de las Fuerzas de Seguridad",
+   "url": "https://www.elmundo.es/espana/2026/11/13/6af617bee4d4d8845c8b457f.html",
+   "fecha": "2026-11-13T00:27:23Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Valido llama a llenar las urnas de votos por Canarias: “Nuestra única prioridad es defender estas islas”",
+   "url": "https://coalicioncanaria.org/valido-llama-a-llenar-las-urnas-de-votos-por-canarias-nuestra-unica-prioridad-es-defender-estas-islas/",
+   "fecha": "2026-11-13T00:21:08Z",
+   "fuente": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "¿Y si…? SÍ. Vota Feijóo. Vota el cambio necesario.",
+   "url": "https://www.youtube.com/watch?v=cP7SGEItVhc",
+   "fecha": "2026-11-12T23:04:11Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Las medidas de Vox para el 29N: \"Ni un migrante más\" y \"prioridad nacional\" - laSexta Noticias",
+   "url": "https://www.youtube.com/watch?v=bAPPwyoX3V4",
+   "fecha": "2026-11-12T22:07:09Z",
+   "fuente": "lasexta-youtube",
+   "canal": "laSexta Noticias",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Arranca la campaña: Sánchez recurre a Begoña Gómez y Feijóo tira de migración - laSexta Noticias",
+   "url": "https://www.youtube.com/watch?v=Y19r1La4aYk",
+   "fecha": "2026-11-12T21:58:55Z",
+   "fuente": "lasexta-youtube",
+   "canal": "laSexta Noticias",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "El juez da 10 días al Tribunal de Cuentas para emitir un nuevo informe sobre las donaciones del PSOE que aclare los descuadres bancarios",
+   "url": "https://www.elmundo.es/espana/2026/11/12/6af62498e85ece93128b45a9.html",
+   "fecha": "2026-11-12T21:49:43Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Nogueras: “Catalunya els fa nosa, però els catalans no ens apartarem ni deixarem que decideixin per nosaltres”",
+   "url": "https://junts.cat/actualitat/nogueras-catalunya-els-fa-nosa-pero-els-catalans-no-ens-apartarem-ni-deixarem-que-decideixin-per-nosaltres/",
+   "fecha": "2026-11-12T20:08:57Z",
+   "fuente": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "PSOE / Pedro Sánchez en Sevilla",
+   "url": "https://www.youtube.com/watch?v=lybJUkTU1s0",
+   "fecha": "2026-11-12T19:42:21Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "DIRECTO🔵 Feijóo, Albiol y Alejandro Fernández clausuran un acto en Badalona",
+   "url": "https://www.youtube.com/watch?v=d2APJa-_Lx0",
+   "fecha": "2026-11-12T19:40:12Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Pedro Sánchez aborda con Claudia Sheinbaum los resultados de la XXX Cumbre Iberoamericana y la relación entre España y México",
+   "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/121126-sanchez-videollamada-sheinbaum.aspx?qfr=1",
+   "fecha": "2026-11-12T18:04:00Z",
+   "fuente": "moncloa",
+   "canal": "Noticias Destacadas del Presidente del Gobierno | La Moncloa",
+   "clase": "institucion",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "La Junta Electoral establece que las papeletas con el nombre tachado de Óscar Puente no serán válidas",
+   "url": "https://www.elmundo.es/espana/2026/11/12/6af5f76ae85eceda458b4573.html",
+   "fecha": "2026-11-12T17:37:34Z",
+   "fuente": "elmundo",
+   "canal": "España // elmundo",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Canadell: “Les pimes i autònoms catalans són una espècie a protegir”",
+   "url": "https://junts.cat/actualitat/canadell-les-pimes-i-autonoms-catalans-son-una-especie-a-protegir/",
+   "fecha": "2026-11-12T15:19:37Z",
+   "fuente": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "Junts reclama al Govern que garanteixi quatre bombers per torn als parcs d’Amposta i Ulldecona",
+   "url": "https://junts.cat/actualitat/junts-reclama-al-govern-que-garanteixi-quatre-bombers-per-torn-als-parcs-damposta-i-ulldecona/",
+   "fecha": "2026-11-12T14:37:01Z",
+   "fuente": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "Valido advierte de que el campo canario se juega su futuro si las ayudas europeas dejan de llegar directamente a las islas",
+   "url": "https://coalicioncanaria.org/valido-advierte-de-que-el-campo-canario-se-juega-su-futuro-si-las-ayudas-europeas-dejan-de-llegar-directamente-a-las-islas/",
+   "fecha": "2026-11-12T13:22:25Z",
+   "fuente": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "Junts aconsegueix que el Parlament reclami garantir l’atenció sanitària pública a totes les residències de gent gran de Lleida",
+   "url": "https://junts.cat/actualitat/junts-aconsegueix-que-el-parlament-reclami-garantir-latencio-sanitaria-publica-a-totes-les-residencies-de-gent-gran-de-lleida/",
+   "fecha": "2026-11-12T12:53:08Z",
+   "fuente": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "El Parlament reafirma per unanimitat el compromís amb la continuïtat de l’Hospital Comarcal de l’Alt Penedès",
+   "url": "https://junts.cat/actualitat/el-parlament-reafirma-per-unanimitat-el-compromis-amb-la-continuitat-de-lhospital-comarcal-de-lalt-penedes/",
+   "fecha": "2026-11-12T12:52:27Z",
+   "fuente": "junts-web",
+   "canal": "Junts",
+   "clase": "partido",
+   "partidos": [
+    "Junts"
+   ]
+  },
+  {
+   "titulo": "‼️ ¿Cesará algún día Sánchez a Marlaska? La brutalidad policial de ayer lo exige. Datos claros en esta intervención de Ione Belarra con nuestros contactos ✊🏽…",
+   "url": "https://t.me/ahorapodemos/2868",
+   "fecha": "2026-11-12T10:10:51Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "Siempre fueron buitres",
+   "url": "https://www.youtube.com/watch?v=Ofu1u2XqtVE",
+   "fecha": "2026-11-12T09:09:49Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "DIRECTO 🔵 Miguel Tellado y Jorge Azcón intervienen ante los medios de comunicación en Huesca.",
+   "url": "https://www.youtube.com/watch?v=W_4BbMcJpmE",
+   "fecha": "2026-11-11T23:59:03Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Valido exige al Estado medidas para que la artesanía y la cultura canaria no compitan en desigualdad por la lejanía",
+   "url": "https://coalicioncanaria.org/valido-exige-al-estado-medidas-para-que-la-artesania-y-la-cultura-canaria-no-compitan-en-desigualdad-por-la-lejania/",
+   "fecha": "2026-11-11T21:05:33Z",
+   "fuente": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "Ibarrola muestra su “firme condena” a los “lamentables incidentes” ocurridos en Pamplona con motivo de la huelga general",
+   "url": "https://www.upn.org/ibarrola-muestra-su-firme-condena-a-los-lamentables-incidentes-ocurridos-en-pamplona-con-motivo-de-la-huelga-general/",
+   "fecha": "2026-11-11T19:11:11Z",
+   "fuente": "upn-web",
+   "canal": "UPN : Unión del Pueblo Navarro",
+   "clase": "partido",
+   "partidos": [
+    "UPN"
+   ]
+  },
+  {
+   "titulo": "El doble discurso del PP contra los sindicatos - laSexta Noticias",
+   "url": "https://www.youtube.com/watch?v=vXeFNsCWAJ8",
+   "fecha": "2026-11-11T16:39:04Z",
+   "fuente": "lasexta-youtube",
+   "canal": "laSexta Noticias",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "SANTIAGO ABASCAL NO VENDRÁ A THE WILD PROJECT",
+   "url": "https://www.youtube.com/watch?v=dCt6jXEVx0A",
+   "fecha": "2026-11-11T14:34:08Z",
+   "fuente": "wildproject-youtube",
+   "canal": "The Wild Project",
+   "clase": "programa",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "DIRECTO 🔵 Alberto Núñez Feijóo presenta el programa electoral para el 29-N",
+   "url": "https://www.youtube.com/watch?v=VUuh0hMyUQo",
+   "fecha": "2026-11-11T00:21:04Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Valido exige al Estado una financiación justa para las universidades canarias que compense los sobrecostes de la ultraperiferia",
+   "url": "https://coalicioncanaria.org/valido-exige-al-estado-una-financiacion-justa-para-las-universidades-canarias-que-compense-los-sobrecostes-de-la-ultraperiferia/",
+   "fecha": "2026-11-10T18:48:14Z",
+   "fuente": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "Feijóo interviene en un acto en Baleares",
+   "url": "https://www.youtube.com/watch?v=osw0ETB8a3I",
+   "fecha": "2026-11-10T07:22:41Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "https://x.com/PODEMOS/status/2119844143216074992",
+   "url": "https://t.me/ahorapodemos/2867",
+   "fecha": "2026-11-09T17:39:00Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "PSOE / Sigues estos pasos para tu voto ERTA",
+   "url": "https://www.youtube.com/shorts/nVv2q6PWzGA",
+   "fecha": "2026-11-09T17:06:20Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "PSOE / Sigue estos pasos para tu voto CERA",
+   "url": "https://www.youtube.com/shorts/3LS_9IDBhPQ",
+   "fecha": "2026-11-09T16:14:08Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "UPN solicita mejorar el servicio de quejas y sugerencias del Ayuntamiento de Pamplona ante el aumento de las reclamaciones vecinales",
+   "url": "https://www.upn.org/upn-solicita-mejorar-el-servicio-de-quejas-y-sugerencias-del-ayuntamiento-de-pamplona-ante-el-aumento-de-las-reclamaciones-vecinales/",
+   "fecha": "2026-11-09T15:02:50Z",
+   "fuente": "upn-web",
+   "canal": "UPN : Unión del Pueblo Navarro",
+   "clase": "partido",
+   "partidos": [
+    "UPN"
+   ]
+  },
+  {
+   "titulo": "CC y Primero Canarias presentan diez grandes causas y cien medidas para defender Canarias en Madrid",
+   "url": "https://coalicioncanaria.org/cc-y-primero-canarias-presentan-diez-grandes-causas-y-cien-medidas-para-defender-canarias-en-madrid/",
+   "fecha": "2026-11-09T13:44:23Z",
+   "fuente": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "Alberto Núñez Feijóo interviene en un acto junto a Juanma Moreno en Málaga.",
+   "url": "https://www.youtube.com/watch?v=nKA8nrRXUP4",
+   "fecha": "2026-11-09T00:32:51Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "PSOE / Pedro Sánchez en Bilbao",
+   "url": "https://www.youtube.com/watch?v=bp1h7VuhYvw",
+   "fecha": "2026-11-08T12:09:11Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "Alberto Núñez Feijóo interviene en Valladolid",
+   "url": "https://www.youtube.com/watch?v=4EBO0n-muaM",
+   "fecha": "2026-11-08T00:45:32Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "PSOE / Pedro Sánchez en Tarragona",
+   "url": "https://www.youtube.com/watch?v=iXoeKLB4wzk",
+   "fecha": "2026-11-07T12:22:18Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "‼️ ‼️ ‼️ Esto está lleno y sigue llegando GENTE El enlace del streaming: https://www.youtube.com/watch?v=3YqlBKTu6DQ 📺 #IreneYGabrielEnMadrid ➡️ https://whatsapp.com/channel/0029Va8DejyIiRowrYG9PK0C…",
+   "url": "https://t.me/ahorapodemos/2866",
+   "fecha": "2026-11-07T11:11:56Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "PSOE / Pedro Sánchez en Valencia",
+   "url": "https://www.youtube.com/watch?v=C60eyQYiFSI",
+   "fecha": "2026-11-06T20:19:26Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "UPN lamenta que octubre haya sido “otro mes perdido” para haber bajado las listas de espera",
+   "url": "https://www.upn.org/upn-lamenta-que-octubre-haya-sido-otro-mes-perdido-para-haber-bajado-las-listas-de-espera/",
+   "fecha": "2026-11-06T15:48:53Z",
+   "fuente": "upn-web",
+   "canal": "UPN : Unión del Pueblo Navarro",
+   "clase": "partido",
+   "partidos": [
+    "UPN"
+   ]
+  },
+  {
+   "titulo": "#ElCambioNecesario",
+   "url": "https://www.youtube.com/watch?v=n-9NUFjfw3U",
+   "fecha": "2026-11-06T12:36:16Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "UPN advierte de que “lo mejor que le ocurrirá a la convivencia en Pamplona será dejar de tener al frente a quienes no condenan a ETA”",
+   "url": "https://www.upn.org/upn-advierte-de-que-lo-mejor-que-le-ocurrira-a-la-convivencia-en-pamplona-sera-dejar-de-tener-al-frente-a-quienes-no-condenan-a-eta/",
+   "fecha": "2026-11-06T12:27:45Z",
+   "fuente": "upn-web",
+   "canal": "UPN : Unión del Pueblo Navarro",
+   "clase": "partido",
+   "partidos": [
+    "UPN"
+   ]
+  },
+  {
+   "titulo": "Valido y Cabello reclaman medidas urgentes para garantizar la seguridad energética de Canarias",
+   "url": "https://coalicioncanaria.org/valido-y-cabello-reclaman-medidas-urgentes-para-garantizar-la-seguridad-energetica-de-canarias/",
+   "fecha": "2026-11-06T10:57:54Z",
+   "fuente": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "🔵DIRECTO: Ester Muñoz atiende a los medios de comunicación en Elda (Alicante)",
+   "url": "https://www.youtube.com/watch?v=Mc2CrTCiM5Y",
+   "fecha": "2026-11-05T23:39:35Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Pedro Sánchez aborda junto a Volodímir Zelenski la situación de la guerra en Ucrania y reafirma el apoyo de España",
+   "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/0551126-sanchez-zelenski-cumbre-iberoamericana.aspx?qfr=1",
+   "fecha": "2026-11-05T21:32:00Z",
+   "fuente": "moncloa",
+   "canal": "Noticias Destacadas del Presidente del Gobierno | La Moncloa",
+   "clase": "institucion",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "🌘 Que dice Irene que os vengáis este sábado con Rufián al Espacio Delicias a las 12.00 ✊ #29N Buenas noches compas y sigamos invitando a la gente al canal!…",
+   "url": "https://t.me/ahorapodemos/2865",
+   "fecha": "2026-11-05T20:34:51Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "Frente Amplio propone subir impuestos a grandes fortunas y empresas para mejorar servicios públicos y redistribuir la riqueza",
+   "url": "https://movimientosumar.es/frente-amplio-propone-subir-impuestos-a-grandes-fortunas-y-empresas-para-mejorar-servicios-publicos-y-redistribuir-la-riqueza/",
+   "fecha": "2026-11-05T15:47:52Z",
+   "fuente": "sumar-web",
+   "canal": "Movimiento Sumar",
+   "clase": "partido",
+   "partidos": [
+    "Sumar / FA"
+   ]
+  },
+  {
+   "titulo": "Valido y Cabello reclaman un aumento de las ayudas para el sector primario para reducir la dependencia del exterior",
+   "url": "https://coalicioncanaria.org/valido-y-cabello-exigen-un-aumento-de-las-ayudas-para-el-sector-primario-para-reducir-la-dependencia-del-exterior/",
+   "fecha": "2026-11-05T14:22:01Z",
+   "fuente": "cca-web",
+   "canal": "Coalición Canaria",
+   "clase": "partido",
+   "partidos": [
+    "CCa"
+   ]
+  },
+  {
+   "titulo": "UPN celebra que el informe solicitado al secretario municipal declara que “no se ajusta a derecho” la comisión de investigación de Asiron contra UPN",
+   "url": "https://www.upn.org/upn-celebra-que-el-informe-solicitado-al-secretario-municipal-declara-que-no-se-ajusta-a-derecho-la-comision-de-investigacion-de-asiron-contra-upn/",
+   "fecha": "2026-11-05T11:15:44Z",
+   "fuente": "upn-web",
+   "canal": "UPN : Unión del Pueblo Navarro",
+   "clase": "partido",
+   "partidos": [
+    "UPN"
+   ]
+  },
+  {
+   "titulo": "DIRECTO 🔵 Alberto Núñez Feijóo interviene en La Razón de…",
+   "url": "https://www.youtube.com/watch?v=2NKPeb6-Ucw",
+   "fecha": "2026-11-05T08:06:35Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Pedro Sánchez: \"Iberoamérica no es solo una historia que compartimos. Es, sobre todo, una decisión que seguimos tomando. La decisión de apostar por el diálogo, la cooperación y la paz\"",
+   "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/051126-sanchez-intervieve-sesion-plenaria-cumbre.aspx?qfr=1",
+   "fecha": "2026-11-05T00:00:00Z",
+   "fuente": "moncloa",
+   "canal": "Noticias Destacadas del Presidente del Gobierno | La Moncloa",
+   "clase": "institucion",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "‼️ QUEDA 1 SEMANA PARA LA HUELGA GENERAL DEL 11N ✊🏽 FEIJÓO ha dicho que quiere que se suspenda y esto es lo que le ha contestado IRENE MONTERO 🙌🏻 📲 LLENEMOS NUESTRAS REDES CON ESTE MENSAJE QUE…",
+   "url": "https://t.me/ahorapodemos/2862",
+   "fecha": "2026-11-04T22:24:51Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "UPN enmienda a la totalidad unos Presupuestos que “persisten en el error” de años anteriores",
+   "url": "https://www.upn.org/upn-enmienda-a-la-totalidad-unos-presupuestos-que-persisten-en-el-error-de-anos-anteriores/",
+   "fecha": "2026-11-04T11:47:11Z",
+   "fuente": "upn-web",
+   "canal": "UPN : Unión del Pueblo Navarro",
+   "clase": "partido",
+   "partidos": [
+    "UPN"
+   ]
+  },
+  {
+   "titulo": "El debate sobre el modelo ferroviario que nunca tendremos",
+   "url": "https://elpais.com/opinion/2026-11-04/el-debate-sobre-el-modelo-ferroviario-que-nunca-tendremos.html",
+   "fecha": "2026-11-04T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "DIRECTO 🔵 Feijóo interviene en el desayuno informativo de Europa Press",
+   "url": "https://www.youtube.com/watch?v=OoqsOkfwbxs",
+   "fecha": "2026-11-03T21:41:54Z",
+   "fuente": "pp-youtube",
+   "canal": "Partido Popular",
+   "clase": "partido",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "¡Aquí empieza algo importante! 💜 Acabamos de poner en marcha el canal PAZ, CASA Y TRABAJO en WhatsApp 🙌 Queremos que este sea el punto de encuentro de quienes vamos a empujar la campaña de Podemos y…",
+   "url": "https://t.me/ahorapodemos/2861",
+   "fecha": "2026-11-02T14:03:42Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "Channel photo updated",
+   "url": "https://t.me/ahorapodemos/2860",
+   "fecha": "2026-11-02T11:35:24Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "Ibarrola afirma que el acuerdo presupuestario de Chivite y Bildu “queda muy lejos de pretender resolver los problemas de los ciudadanos”",
+   "url": "https://www.upn.org/ibarrola-afirma-que-el-acuerdo-presupuestario-de-chivite-y-bildu-queda-muy-lejos-de-pretender-resolver-los-problemas-de-los-ciudadanos/",
+   "fecha": "2026-10-30T14:06:55Z",
+   "fuente": "upn-web",
+   "canal": "UPN : Unión del Pueblo Navarro",
+   "clase": "partido",
+   "partidos": [
+    "UPN"
+   ]
+  },
+  {
+   "titulo": "UPN participa este domingo en el tradicional homenaje a Pablo Sarasate y avanza que lo recuperará cuando vuelva a gobernar",
+   "url": "https://www.upn.org/upn-participa-este-domingo-en-el-tradicional-homenaje-a-pablo-sarasate-y-avanza-que-lo-recuperara-cuando-vuelva-a-gobernar/",
+   "fecha": "2026-10-30T11:35:29Z",
+   "fuente": "upn-web",
+   "canal": "UPN : Unión del Pueblo Navarro",
+   "clase": "partido",
+   "partidos": [
+    "UPN"
+   ]
+  },
+  {
+   "titulo": "Un regalito para Abascal y Feijóo.",
+   "url": "https://t.me/ahorapodemos/2858",
+   "fecha": "2026-10-27T22:34:17Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "La Junta Electoral da la razón a UPN por tercera vez y suspende otra jornada del Ayuntamiento de Pamplona en periodo electoral",
+   "url": "https://www.upn.org/la-junta-electoral-da-la-razon-a-upn-por-tercera-vez-y-suspende-otra-jornada-del-ayuntamiento-de-pamplona-en-periodo-electoral/",
+   "fecha": "2026-10-27T18:12:31Z",
+   "fuente": "upn-web",
+   "canal": "UPN : Unión del Pueblo Navarro",
+   "clase": "partido",
+   "partidos": [
+    "UPN"
+   ]
+  },
+  {
+   "titulo": "📺 La no entrevista a Irene Montero y Gabriel Rufián es esta noche a las 21:55h en La Revuelta, no confundirse. Lo vamos a pasar bien, así que pasaos.",
+   "url": "https://t.me/ahorapodemos/2856",
+   "fecha": "2026-10-27T12:17:32Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "PSOE / Pedro Sánchez en Gijón",
+   "url": "https://www.youtube.com/watch?v=UvbQhN1b-BE",
+   "fecha": "2026-10-26T21:13:37Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "🫰 Este sábado estaremos junto a Irene Montero y Gabriel Rufián en Madrid para hablar de lo básico: paz, casa y trabajo. Te esperamos a las 12h en Green Patio, Metro Estrecho. ¡No faltes!",
+   "url": "https://t.me/ahorapodemos/2855",
+   "fecha": "2026-10-26T15:37:42Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "Casa, vida, futuro. Gracias Barcelona 💜 💛",
+   "url": "https://t.me/ahorapodemos/2854",
+   "fecha": "2026-10-26T10:22:40Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "La razón de ser de la derecha es proteger los intereses de las élites, protege los obscenos beneficios de quienes creen que todo es un negocio y que lo quieren todo para ellos. 📹 Irene Montero",
+   "url": "https://t.me/ahorapodemos/2853",
+   "fecha": "2026-10-25T14:42:31Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "A Saïf le dispararon en la cara cuando era joven, fue torturado y amenazado. Hoy sigue luchando por Palestina. Ione Belarra entrevista a Saïf Abukeshek, de la Global Sumud Flotilla. Ya puedes verla…",
+   "url": "https://t.me/ahorapodemos/2852",
+   "fecha": "2026-10-25T10:33:00Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "Hoy Irene Montero y Gabriel Rufián han lanzado un mensaje claro en Barcelona: es hora de casa, vida y futuro, no de resignación. ¡A por todas este 29N!",
+   "url": "https://t.me/ahorapodemos/2848",
+   "fecha": "2026-10-24T17:31:00Z",
+   "fuente": "podemos-telegram",
+   "canal": "PODEMOS.",
+   "clase": "partido",
+   "partidos": [
+    "Podemos"
+   ]
+  },
+  {
+   "titulo": "PSOE / Nuevos Cantos",
+   "url": "https://www.youtube.com/watch?v=3UdJVVpOtsU",
+   "fecha": "2026-10-24T15:11:47Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  },
+  {
+   "titulo": "PSOE / Pedro Sánchez en Granada",
+   "url": "https://www.youtube.com/watch?v=ptynjYFKTpI",
+   "fecha": "2026-10-24T11:07:47Z",
+   "fuente": "psoe-youtube",
+   "canal": "PSOE",
+   "clase": "partido",
+   "partidos": [
+    "PSOE"
+   ]
+  }
+ ]
+}

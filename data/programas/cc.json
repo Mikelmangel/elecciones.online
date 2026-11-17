@@ -1,0 +1,1800 @@
+{
+ "siglas": "CCa",
+ "nombre": "Coalición Canaria-Municipalistas Primero Canarias",
+ "fuente_url": "https://coalicioncanaria.org/wp-content/uploads/2026/11/CCA-26-Programa_Electoral-29NOV.pdf",
+ "fetched_at": "2026-11-15T08:07:24Z",
+ "sha256": "3c40c0a6e38d8dd80ae1061d94b614f4e3f1b6492ec8c801834fb497f337044e",
+ "paginas": 23,
+ "propuestas": [
+  {
+   "area": "territorial",
+   "titular": "Exigir un calendario verificable para completar los traspasos pendientes del Estatuto de Autonomía",
+   "cita": "Exigiremos un calendario verificable para completar los traspasos y desarrollos pendientes del Estatuto de Autonomía",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Incluir en los traspasos el transporte aéreo interinsular y las autorizaciones de trabajo para extranjeros",
+   "cita": "Incluiremos la gestión del transporte aéreo interinsular y las autorizaciones de trabajo para personas extranjeras previstas en el Estatuto",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Oponerse a la recentralización y a cualquier retroceso en la capacidad de decisión de Canarias",
+   "cita": "Nos opondremos a la recentralización y a cualquier retroceso en la capacidad de Canarias para decidir sobre sus asuntos",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Reforzar la relación bilateral entre Canarias y el Estado",
+   "cita": "Reforzaremos la relación bilateral entre Canarias y el Estado",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Reclamar mecanismos de acuerdo sobre infraestructuras científicas y nombramientos en organismos estatales",
+   "cita": "Reclamaremos mecanismos de acuerdo sobre las infraestructuras científicas estratégicas y sobre los nombramientos en los organismos estatales radicados en Canarias",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Defender que una reforma constitucional recoja las singularidades de lejanía, insularidad y ultraperiferia",
+   "cita": "Defenderemos que una eventual reforma constitucional recoja las singularidades derivadas de la lejanía, la insularidad y la ultraperiferia",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Defender la integridad del REF y su actualización para que llegue al conjunto de las islas",
+   "cita": "Defenderemos la integridad del Régimen Económico y Fiscal, nuestro fuero histórico y un instrumento esencial para compensar desventajas permanentes",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Reclamar más capacidad canaria sobre los instrumentos del REF y rechazar reformas unilaterales del Estado",
+   "cita": "Reclamaremos más capacidad canaria para decidir sobre sus instrumentos y rechazaremos reformas unilaterales del Estado que prescindan de la participación del Gobierno y del Parlamento de Canarias",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Impedir que el REF se compute como financiación ordinaria de sanidad, educación y servicios sociales",
+   "cita": "Impediremos que los recursos del REF se computen como financiación ordinaria de la sanidad, la educación, la dependencia o los servicios sociales",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Exigir un sistema de financiación autonómica que reconozca el coste de un archipiélago alejado",
+   "cita": "Exigiremos un sistema de financiación autonómica suficiente y estable que reconozca el coste real de prestar servicios en un archipiélago alejado",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "La financiación autonómica deberá tener en cuenta población efectiva, fragmentación, pobreza y envejecimiento",
+   "cita": "Deberá tener en cuenta la población efectiva y su evolución, la fragmentación territorial, la pobreza y el envejecimiento",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Reclamar el cumplimiento de convenios de carreteras, vivienda, agua, costas e infraestructuras",
+   "cita": "Reclamaremos el cumplimiento de los convenios de carreteras, vivienda, agua, costas e infraestructuras educativas y turísticas",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Defender plazos de vigencia y ejecución de convenios que eviten perder recursos por retrasos ajenos a Canarias",
+   "cita": "Defenderemos plazos de vigencia y ejecución que permitan completar las actuaciones, sin perder recursos por retrasos ajenos a las administraciones canarias",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Desarrollar el Estatuto para dar a Canarias y sus cabildos un papel efectivo en puertos y aeropuertos",
+   "cita": "Desarrollaremos las previsiones del Estatuto para que el Gobierno de Canarias y los cabildos tengan un papel efectivo en la planificación, las inversiones, la estrategia y la gestión de los puertos y aeropuertos",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Exigir la aplicación del régimen específico de los aeropuertos canarios y actualizar sus inversiones",
+   "cita": "Exigiremos la aplicación efectiva del régimen específico de los aeropuertos canarios y la actualización de las inversiones para corregir las carencias de los aeropuertos no capitalinos",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Impulsar la mejora del Registro Especial de Buques de Canarias y negociar su gestión por Canarias",
+   "cita": "Impulsaremos también la mejora del Registro Especial de Buques de Canarias y la negociación de su gestión por la comunidad autónoma",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Impulsar la recuperación para uso civil de terrenos militares, como el campo de tiro de Pájara",
+   "cita": "Impulsaremos la recuperación para uso civil de terrenos e instalaciones militares en Canarias, entre ellos el campo de tiro de Pájara, en Fuerteventura",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Negociar el cese de la actividad militar en esos espacios y su cesión a las administraciones canarias",
+   "cita": "Negociaremos con el Estado el cese de la actividad militar en esos espacios, su cesión a las administraciones canarias",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Defender una financiación sanitaria que reconozca el coste de atender a ocho islas",
+   "cita": "Defenderemos una financiación sanitaria que reconozca el coste de atender a la población de ocho islas y permita planificar las plantillas y los centros",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Exigir una compensación estatal específica y actualizada por los sobrecostes sanitarios de la insularidad",
+   "cita": "Exigiremos al Estado una compensación específica y actualizada por los sobrecostes sanitarios de la insularidad y la lejanía",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Reclamar que la formación sanitaria especializada responda a las necesidades de Canarias",
+   "cita": "Reclamaremos que la formación sanitaria especializada responda a las necesidades estructurales de Canarias",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Promover el apoyo estatal a la movilidad de especialistas cuando sea más eficiente desplazar el servicio",
+   "cita": "Promoveremos el apoyo estatal a la movilidad de especialistas y otros profesionales cuando resulte más eficiente desplazar el servicio que al paciente",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Reclamar que los PGE refuercen las partidas de salud mental en Canarias",
+   "cita": "Reclamaremos que los Presupuestos Generales del Estado refuercen las partidas destinadas a la atención en salud mental en Canarias",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Exigir aportación estatal suficiente y estable para el sistema de dependencia",
+   "cita": "Exigiremos una aportación estatal suficiente, estable y acorde con las obligaciones del sistema de dependencia",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Impulsar una estrategia de envejecimiento y cuidados de larga duración",
+   "cita": "Impulsaremos una estrategia de envejecimiento y cuidados de larga duración que incluya formación de profesionales, innovación, accesibilidad y adaptación de los servicios al cambio climático",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Reforzar la financiación estatal de plazas públicas gratuitas de educación infantil de 0 a 3 años",
+   "cita": "Reforzaremos la financiación estatal para una oferta suficiente de plazas públicas gratuitas y de calidad",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Defender programas estatales específicos de pobreza infantil mientras Canarias supere la media",
+   "cita": "Defenderemos programas estatales específicos mientras Canarias mantenga indicadores de pobreza superiores a la media",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Priorizar infancia y familias con mayores dificultades en los recursos contra la desigualdad",
+   "cita": "La atención a la infancia y el apoyo a las familias con mayores dificultades serán prioritarios en la asignación de los recursos destinados a reducir la desigualdad",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Impulsar una política común de protección de la infancia mediante ayudas a la crianza",
+   "cita": "establecer una política común para reforzar la protección y el bienestar de la infancia mediante ayudas a la crianza, mayor acceso a la vivienda en hogares con menores",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Reclamar al Estado un sistema de cooperación para que Canarias tramite el ingreso mínimo vital",
+   "cita": "Reclamaremos al Estado un sistema de cooperación que permita a Canarias tramitar las solicitudes y el reconocimiento del ingreso mínimo vital",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Mejorar la coordinación del ingreso mínimo vital con las prestaciones autonómicas",
+   "cita": "Mejoraremos su coordinación con las prestaciones autonómicas",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Reclamar financiación estatal para aplicar el Pacto de Estado contra la violencia de género en todas las islas",
+   "cita": "Reclamaremos financiación estatal suficiente para aplicar el Pacto de Estado contra la violencia de género en todas las islas",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Reclamar al Estado la financiación de 1.400 plazas del Cuerpo General de la Policía Canaria",
+   "cita": "Reclamaremos al Estado la financiación de las 1.400 plazas del Cuerpo General de la Policía Canaria previstas en la propuesta de Decreto Canarias",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "pensiones",
+   "titular": "Reclamar que los complementos de renta canarios sean compatibles con las pensiones no contributivas",
+   "cita": "Reclamaremos al Estado que los complementos de renta que establezca Canarias sean compatibles con las pensiones no contributivas, estén exentos de tributación y no computen para reducir o retirar la prestación",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Exigir que los programas estatales y europeos para Canarias incorporen las necesidades de la discapacidad",
+   "cita": "Exigiremos que los programas estatales y europeos de vivienda, transporte, empleo y servicios públicos destinados a Canarias incorporen las necesidades de las personas con discapacidad",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Recuperar programas estatales de inversión en infraestructuras educativas",
+   "cita": "Recuperaremos programas estatales de inversión para corregir los déficits de las infraestructuras educativas y adaptar los centros a las nuevas necesidades",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Impulsar un fondo estatal de ocho años para cofinanciar vivienda pública y asequible",
+   "cita": "Impulsaremos un fondo estatal de ocho años para cofinanciar vivienda pública y asequible, con una asignación para Canarias ajustada a sus necesidades",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "El fondo permitirá construir, adquirir y rehabilitar viviendas y comprar suelo, edificios y promociones",
+   "cita": "Permitirá construir, adquirir y rehabilitar viviendas, además de comprar suelo, edificios y promociones disponibles",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Reclamar la cesión de suelos y edificios del Estado en Canarias para vivienda asequible",
+   "cita": "suelos y edificios del Estado y de sus entidades en Canarias que puedan destinarse a vivienda asequible y reclamaremos su cesión a las administraciones canarias competentes.",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Impulsar un plan estatal de regeneración de barrios, con demolición y reposición si la rehabilitación no basta",
+   "cita": "Impulsaremos un plan estatal de reposición y regeneración de barrios que incluya demolición y reposición cuando la rehabilitación sea insuficiente",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Reforzar ayudas a conservación, ascensores, aislamiento y eficiencia energética de viviendas",
+   "cita": "Reforzaremos las ayudas para conservación, ascensores, eliminación de barreras, aislamiento, fachadas, cubiertas, eficiencia energética, autoconsumo y adaptación climática",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Mejorar incentivos fiscales a pequeños propietarios que pongan viviendas en alquiler asequible",
+   "cita": "Mejoraremos los incentivos fiscales estatales para pequeños propietarios que incorporen voluntariamente viviendas a programas de alquiler asequible, con garantías públicas de cobro y conservación",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Vincular la financiación de rehabilitar viviendas vacías a su incorporación a programas de alquiler",
+   "cita": "La financiación de la rehabilitación de viviendas vacías se vinculará a su incorporación a esos programas durante un periodo suficiente",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Defender una regulación estatal estable del alquiler de larga duración que proteja a inquilinos y propietarios",
+   "cita": "Defenderemos una regulación estatal estable que proteja a inquilinos y propietarios y facilite el alquiler de larga duración",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Defender una línea estatal reforzada de vivienda joven, alquiler asequible y cooperativas",
+   "cita": "Defenderemos una línea estatal reforzada de vivienda joven, alquiler asequible y cooperativas",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Incluir fórmulas residenciales para estudiantes, alumnado de FP, jóvenes investigadores y trabajadores",
+   "cita": "Incluirá fórmulas residenciales para estudiantes, alumnado de formación profesional, jóvenes investigadores y trabajadores",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Impulsar reformas en las Cortes para limitar la compra de vivienda en Canarias por extranjeros",
+   "cita": "Impulsaremos en las Cortes Generales las reformas necesarias para limitar la compra de vivienda en Canarias por extranjeros",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Reclamar que el Estado defienda ante la UE un régimen específico para Canarias en compra de vivienda",
+   "cita": "Reclamaremos al Estado que defienda ante la Unión Europea un régimen específico para Canarias, atendiendo a nuestra condición de región ultraperiférica",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Promover las reformas necesarias para hacer viable una Ley Canaria de Residencia",
+   "cita": "Promoveremos las reformas estatales y europeas necesarias para hacer viable una Ley Canaria de Residencia que permita ordenar el crecimiento poblacional",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Defender cobertura jurídica para que Canarias y municipios limiten el uso turístico de vivienda con presión",
+   "cita": "Defenderemos la cobertura jurídica estatal y europea necesaria para que Canarias y sus municipios puedan modular y limitar los usos turísticos donde exista presión acreditada sobre la vivienda residencial",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Diferenciar en la norma el uso ocasional de una vivienda de su explotación profesional o intensiva",
+   "cita": "La normativa diferenciará el uso ocasional de una vivienda de la explotación profesional o intensiva",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Reformar procedimientos y informes sectoriales estatales para acortar plazos de vivienda protegida",
+   "cita": "Impulsaremos reformas de los procedimientos estatales y de los informes sectoriales para acortar los plazos",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Reclamar incentivos fiscales a la primera vivienda para jóvenes y familias con ingresos medios y bajos",
+   "cita": "Reclamaremos incentivos fiscales estatales a la primera vivienda para jóvenes y familias con ingresos medios y bajos",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Reclamar apoyo a la construcción industrializada para abaratar y acortar la vivienda protegida",
+   "cita": "apoyo a la construcción industrializada para reducir los costes y los plazos de construcción de vivienda protegida",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Reclamar ayudas estatales para proteger del calor las viviendas de hogares con menos recursos",
+   "cita": "Reclamaremos ayudas estatales para protección solar, aislamiento, ventilación, toldos, cerramientos y climatización eficiente en las viviendas de los hogares con menos recursos",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Reclamar que se actualicen las compensaciones por sobrecostes de insularidad y evaluar su efecto en precios",
+   "cita": "Reclamaremos al Estado que las compensaciones por los sobrecostes de la insularidad se actualicen y que se evalúe su efecto sobre los precios finales de los productos básicos",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Defender la financiación del Plan Integral de Empleo de Canarias y de programas del REF",
+   "cita": "Defenderemos la financiación del Plan Integral de Empleo de Canarias y de los programas específicos previstos en el REF",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Priorizar a quienes más dificultades tienen y vincular la formación a empleo estable",
+   "cita": "Priorizaremos a quienes encuentran más dificultades para acceder a un empleo y vincularemos la formación a oportunidades reales de trabajo estable y mejores salarios",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Reforzar ayudas estatales a quienes inician actividad autónoma y a autónomos con menores rendimientos",
+   "cita": "Reforzaremos las ayudas estatales a quienes empiezan una actividad por cuenta propia y a los autónomos con menores rendimientos",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Adaptar programas estatales de digitalización, innovación y financiación a la microempresa canaria",
+   "cita": "Adaptaremos los programas estatales de digitalización, innovación y financiación al tamaño y a los costes logísticos de la microempresa canaria",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Reclamar el cumplimiento del convenio de infraestructuras turísticas y programas de renovación de destinos",
+   "cita": "Reclamaremos el cumplimiento del convenio de infraestructuras turísticas, así como programas estatales de renovación de destinos maduros",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Evaluar y actualizar los instrumentos del REF para atraer inversión productiva que genere empleo estable",
+   "cita": "Evaluaremos y actualizaremos sus instrumentos para atraer inversión productiva e innovadora que genere empleo estable en Canarias",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Mantener el diferencial fiscal canario para la producción audiovisual",
+   "cita": "Mantendremos el diferencial fiscal canario para la producción audiovisual",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Reclamar incentivos fiscales y bonificaciones de cotizaciones ligados a mejoras salariales pactadas",
+   "cita": "Reclamaremos al Estado incentivos fiscales y bonificaciones en las cotizaciones ligados a mejoras salariales pactadas y a la productividad de las empresas canarias",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Defender medidas dirigidas a las retribuciones públicas más bajas",
+   "cita": "Defenderemos también las medidas dirigidas a las retribuciones públicas más bajas",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Impulsar un acuerdo con el Estado y la UE que elimine barreras y costes abusivos en el comercio electrónico",
+   "cita": "Impulsaremos un acuerdo con el Estado y la UE que elimine barreras y costes de intermediación abusivos en el comercio electrónico",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Exigir que se corrijan los cobros indebidos de IVA en compras por internet donde corresponda el IGIC",
+   "cita": "Exigiremos que las operaciones respeten nuestra fiscalidad y que se corrijan los cobros indebidos de IVA cuando corresponda aplicar el IGIC",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Defender la deducción del 60 % del IRPF en La Palma y su extensión a La Gomera y El Hierro",
+   "cita": "Defenderemos las medidas de la propuesta de Decreto Canarias para mantener la deducción del 60 % en el IRPF aplicable en La Palma y extenderla a La Gomera y El Hierro",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Reclamar la bonificación del 50 % de las cuotas empresariales a la Seguridad Social en las tres islas verdes",
+   "cita": "Reclamaremos también la bonificación del 50 % de las cuotas empresariales de la Seguridad Social en las tres islas",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Exigir que España defienda íntegramente el POSEI y su dotación diferenciada en el nuevo marco europeo",
+   "cita": "Exigiremos que España defienda íntegramente el programa europeo de apoyo al sector primario de las regiones ultraperiféricas, el POSEI",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Reclamar cada año el 100 % de la aportación estatal a las ayudas adicionales del POSEI",
+   "cita": "Reclamaremos cada año el 100 % de la aportación estatal a las ayudas adicionales autorizadas por la Unión Europea",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Reclamar mecanismos estatales que eviten una pérdida para el sector canario si baja el POSEI",
+   "cita": "reclamaremos mecanismos estatales que eviten una pérdida efectiva para el sector canario",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Actualizar medidas estatales frente a sobrecostes de energía, piensos, fertilizantes y transporte",
+   "cita": "Actualizaremos las medidas estatales frente a los sobrecostes de energía, alimentación animal, fertilizantes y transporte",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Reclamar apoyo a la producción local y a los seguros de agricultura, ganadería y pesca",
+   "cita": "Reclamaremos apoyo a la producción local y a los seguros de la agricultura, la ganadería y la pesca",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Exigir financiación estatal para prevenir y combatir plagas agrarias y sus daños",
+   "cita": "Exigiremos financiación estatal para prevenir y combatir las plagas y atender los daños que causan al sector agrario",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Reclamar financiación estatal y europea para incorporar jóvenes a agricultura, ganadería y pesca",
+   "cita": "Reclamaremos financiación estatal y europea para incorporar jóvenes a la agricultura, la ganadería y la pesca",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Exigir que España evalúe el impacto de acuerdos comerciales sobre producciones sensibles de Canarias",
+   "cita": "Exigiremos que España evalúe el impacto de los acuerdos comerciales internacionales sobre las producciones sensibles de Canarias",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Reclamar reglas para la flota artesanal, pesca suficiente de atún rojo y patudo y acceso a fondos europeos",
+   "cita": "Reclamaremos reglas adaptadas a la flota artesanal canaria, posibilidades de pesca suficientes",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Corregir las reglas estatales de transporte entre islas de residuos destinados a reciclaje o reutilización",
+   "cita": "Corregiremos las reglas estatales para que el transporte entre islas de residuos destinados a la reutilización, el reciclaje o el aprovechamiento no quede en desventaja",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Los materiales recuperados podrán acceder a compensaciones al transporte si se destinan a esos usos",
+   "cita": "Los materiales recuperados podrán acceder a compensaciones al transporte cuando se destinen realmente a esos usos",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Orientar programas estatales de innovación e industria hacia reparación, reutilización y reciclaje",
+   "cita": "Orientaremos los programas estatales de innovación e industria hacia la reparación, la reutilización, el reciclaje, el aprovechamiento de residuos y los nuevos materiales",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Reclamar aportación estatal al plan cuatrienal de empleo para menores de 35 años",
+   "cita": "Reclamaremos la aportación estatal al plan cuatrienal de empleo para menores de 35 años previsto en la propuesta de Decreto Canarias",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Reclamar financiación estatal para la formación profesional y dual, con infraestructuras y apoyo a empresas",
+   "cita": "Reclamaremos financiación estatal para la formación profesional y la formación dual, incluidas las infraestructuras y el apoyo a las empresas que participan en la formación",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Reforzar primeras experiencias laborales de calidad y vías de retorno del talento",
+   "cita": "Reforzaremos las primeras experiencias laborales de calidad y las vías para el retorno del talento",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Orientar la cualificación profesional hacia renovables, economía azul, industria, digitalización y cuidados",
+   "cita": "Orientaremos la cualificación profesional hacia las energías renovables, el almacenamiento energético, la economía azul, la industria, la digitalización, el sector audiovisual, la rehabilitación, los cuidados y los combustibles sostenibles.",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Exigir el cumplimiento y refuerzo de las becas del REF para quien estudia fuera de su isla",
+   "cita": "Exigiremos el cumplimiento y el refuerzo de las previsiones del REF para las becas de quienes deben desplazarse porque sus estudios no se ofrecen en su isla",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Reclamar criterios que corrijan las desventajas de la ultraperiferia en convocatorias estatales de I+D+i",
+   "cita": "Reclamaremos criterios que corrijan las desventajas de la ultraperiferia en las convocatorias estatales de investigación, desarrollo e innovación",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Defender financiación plurianual del Estado para modernizar las universidades públicas canarias",
+   "cita": "Defenderemos financiación plurianual del Estado para modernizar las universidades públicas canarias y reforzar la astrofísica, las ciencias marinas y la biotecnología",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Los grandes proyectos científicos deberán incorporar formación, transferencia y actividad empresarial local",
+   "cita": "Los grandes proyectos científicos en Canarias deberán incorporar formación, transferencia de conocimiento y creación de actividad empresarial local",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Reforzar la Plataforma Oceánica de Canarias (PLOCAN) como infraestructura científica",
+   "cita": "Reforzaremos la Plataforma Oceánica de Canarias, PLOCAN, como infraestructura científica y tecnológica española y europea",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Impulsar programas estatales de economía azul: energías marinas, biotecnología azul, robótica, acuicultura",
+   "cita": "Impulsaremos programas estatales para las energías marinas, la biotecnología azul, la robótica submarina, la observación oceánica, la acuicultura sostenible",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Promover financiación estatal y europea para ensayar soluciones en energía, agua, océanos y clima",
+   "cita": "Promoveremos financiación estatal y europea para proyectos que permitan ensayar y demostrar soluciones en energía, agua, océanos, biodiversidad, geotermia, economía circular y adaptación al cambio climático",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Reclamar la ampliación de traspasos de gestión del litoral con medios suficientes",
+   "cita": "Reclamaremos al Estado el desarrollo y la ampliación de los traspasos de competencias ejecutivas y de gestión sobre el litoral",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Exigir una planificación estatal que sustituya centrales térmicas obsoletas por soluciones renovables",
+   "cita": "Exigiremos una planificación estatal que sustituya progresivamente las instalaciones térmicas obsoletas por soluciones más eficientes, renovables y flexibles",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "La generación con combustibles fósiles deberá reducirse a medida que avancen las renovables",
+   "cita": "La generación con combustibles fósiles deberá reducirse a medida que avancen las renovables",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Impulsar la eólica marina en Gran Canaria con subastas y retribución adaptadas, y consenso social",
+   "cita": "Impulsaremos la eólica marina en Gran Canaria con planificación, subastas, conexión y retribución adaptadas a los sistemas insulares",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Todo proyecto eólico marino requerirá suficiente consenso social, político e institucional",
+   "cita": "Cualquier proyecto en las islas requerirá suficiente consenso social, político e institucional",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Reclamar un programa estatal extraordinario para redes de transporte, distribución y subestaciones",
+   "cita": "Reclamaremos un programa estatal extraordinario para redes de transporte y distribución, subestaciones, digitalización y nueva capacidad de conexión",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Ayudas estatales y europeas para baterías y almacenamiento en baja y media tensión",
+   "cita": "Impulsaremos ayudas estatales y europeas para baterías y almacenamiento en baja y media tensión",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Incluir líneas específicas para el bombeo de agua de mar en ciclo abierto como almacenamiento",
+   "cita": "Incluiremos líneas específicas para el bombeo de agua de mar en ciclo abierto como forma de almacenamiento",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Reformar la retribución de sistemas eléctricos no peninsulares para valorar almacenamiento y flexibilidad",
+   "cita": "Reformaremos la retribución de los sistemas eléctricos no peninsulares para valorar el almacenamiento, la flexibilidad, la gestión de la demanda",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Defender un marco estatal favorable al autoconsumo colectivo y a las comunidades energéticas",
+   "cita": "Defenderemos un marco estatal favorable al autoconsumo colectivo y a las comunidades energéticas",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Priorizar respaldo limpio en hospitales, centros de salud, desaladoras, depuradoras y telecomunicaciones",
+   "cita": "Priorizaremos estos recursos y los sistemas de respaldo limpio en hospitales, centros de salud, desaladoras, depuradoras y telecomunicaciones",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Mantener programas estatales estables de recarga de vehículos eléctricos sin vacíos entre convocatorias",
+   "cita": "Mantendremos programas estatales estables para la recarga de vehículos eléctricos, sin vacíos entre convocatorias",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Simplificar los trámites estatales para instalar puntos de recarga en comunidades, empresas y gasolineras",
+   "cita": "Simplificaremos los aspectos estatales que dificultan instalar puntos en comunidades de propietarios",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Los aeropuertos deberán reservar potencia y espacio para recarga rápida",
+   "cita": "Los aeropuertos deberán reservar potencia y espacio para la recarga rápida de vehículos particulares",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Reclamar ayudas reforzadas para taxis eléctricos",
+   "cita": "Reclamaremos ayudas reforzadas para los taxis eléctricos",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Adaptar programas estatales para electrificar flotas de vehículos de alquiler",
+   "cita": "Adaptaremos también los programas estatales para acelerar la electrificación de las flotas de alquiler",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Incorporar los puertos canarios a corredores marítimos verdes",
+   "cita": "Incorporaremos los puertos canarios a corredores marítimos verdes entre Europa, África y América",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Impulsar financiación y un marco normativo para que los barcos se conecten a la electricidad en puerto",
+   "cita": "Impulsaremos financiación estatal y europea y un marco normativo que permita a los barcos conectarse a la electricidad en puerto",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Reclamar apoyo estatal y europeo para infraestructuras de metanol renovable, hidrógeno y otros combustibles",
+   "cita": "Reclamaremos apoyo estatal y europeo para infraestructuras de producción, almacenamiento y suministro de metanol renovable, hidrógeno",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Incentivos estatales para producir combustibles sostenibles de aviación (SAF) en las islas",
+   "cita": "Impulsaremos incentivos estatales para producir en las islas combustibles sostenibles de aviación",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Exigir que España defienda ante la UE adaptaciones de las políticas climáticas de aviación y navegación",
+   "cita": "Exigiremos que España defienda ante la Unión Europea las adaptaciones necesarias de las políticas climáticas de aviación y navegación",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Reclamar un programa estatal plurianual de saneamiento y depuración para eliminar vertidos sin tratar",
+   "cita": "Reclamaremos un programa estatal plurianual que permita acelerar las obras prioritarias y corregir los déficits históricos",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Reclamar que los convenios hidráulicos estatales financien la regeneración del agua en las depuradoras",
+   "cita": "Reclamaremos que los convenios estatales de obras hidráulicas financien la regeneración del agua en las nuevas depuradoras",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Impulsar inversiones para usar agua depurada en agricultura y zonas verdes",
+   "cita": "Impulsaremos inversiones para emplearla en la agricultura y en zonas verdes",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Defender inversiones y normas estatales para garantizar el agua a hogares y agricultura",
+   "cita": "Defenderemos inversiones y normas estatales adaptadas a las islas para garantizar el abastecimiento a los hogares y al sector agrícola",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Reclamar compensaciones actualizadas por el sobrecoste del agua desalada, regenerada y reutilizada",
+   "cita": "Reclamaremos compensaciones actualizadas por el sobrecoste del agua desalada, regenerada y reutilizada",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Reclamar financiación para eficiencia, renovables y almacenamiento en desaladoras, depuradoras y redes",
+   "cita": "financiación para mejorar la eficiencia e incorporar renovables y almacenamiento en desaladoras, depuradoras, bombeos y redes",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Defender la creación y la financiación estable del Centro Nacional de Vulcanología en La Palma",
+   "cita": "Defenderemos la creación y financiación estable del Centro Nacional de Vulcanología con sede principal en La Palma",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Reclamar la aportación estatal del 50 % del mantenimiento del Centro Nacional de Vulcanología",
+   "cita": "Reclamaremos la aportación estatal del 50 % del coste de su mantenimiento prevista en la propuesta de Decreto Canarias",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Impulsar un fondo estatal para arbolado, sombra, refugios climáticos y drenaje urbano sostenible",
+   "cita": "Impulsaremos un fondo estatal para arbolado, corredores verdes, sombra, refugios climáticos, pavimentos permeables y sistemas de drenaje urbano sostenible",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Reclamar financiación estatal para dotar a centros educativos de sombra, aislamiento y climatización",
+   "cita": "Reclamaremos financiación estatal para dotar a los centros educativos de sombra, patios verdes, aislamiento, ventilación y climatización eficiente",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Adaptar hospitales y centros de salud al calor y priorizar residencias y centros de día",
+   "cita": "La adaptación de hospitales y centros de salud deberá proteger la continuidad asistencial y mantener la eficiencia energética. Priorizaremos también residencias y centros de día",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Reclamar financiación estatal para diagnósticos de vulnerabilidad al calor de equipamientos públicos",
+   "cita": "Reclamaremos al Estado financiación para diagnósticos de vulnerabilidad al calor que permitan identificar los equipamientos públicos más expuestos",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Diseñar las nuevas infraestructuras con financiación estatal significativa según escenarios climáticos futuros",
+   "cita": "Las nuevas infraestructuras con financiación estatal significativa deberán diseñarse considerando escenarios climáticos futuros",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Exigir contribución estatal para cumplir en Canarias los objetivos europeos de restauración de la naturaleza",
+   "cita": "Exigiremos una contribución específica del Estado para cumplir en Canarias los objetivos europeos de restauración de la naturaleza",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Reclamar financiación para restaurar dunas, playas, humedales y barrancos frente a erosión e inundaciones",
+   "cita": "Reclamaremos financiación estatal y europea para restaurar dunas, playas, humedales, barrancos y desembocaduras",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Impulsar cambios para que Canarias pueda pedir la activación temprana de la UME en incendios de nivel 1",
+   "cita": "Impulsaremos cambios en el marco estatal para que Canarias pueda solicitar la activación temprana de la Unidad Militar de Emergencias en incendios de nivel 1",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Acordar protocolos para desplazar preventivamente medios estatales ante fenómenos meteorológicos extremos",
+   "cita": "Acordaremos protocolos para desplazar preventivamente medios estatales ante episodios meteorológicos extremos",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Exigir el Plan Específico de Telecomunicaciones de Canarias previsto en el Estatuto",
+   "cita": "Exigiremos el Plan Específico de Telecomunicaciones de Canarias previsto en el Estatuto, dentro de la agenda digital estatal",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Proteger la bonificación del 75 % del transporte aéreo y marítimo de residentes",
+   "cita": "Protegeremos la bonificación del 75 % en el transporte aéreo y marítimo de residentes",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Reforzar supervisión y transparencia para detectar subidas artificiales de tarifas que absorban la ayuda",
+   "cita": "Reforzaremos la supervisión y la transparencia para detectar subidas artificiales de tarifas que absorban la ayuda",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Revisar las obligaciones de servicio público en rutas esenciales",
+   "cita": "Reclamaremos al Estado la revisión de las obligaciones de servicio público, que permiten exigir un servicio mínimo en las rutas necesarias",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Defender las conexiones directas entre La Palma, La Gomera y El Hierro",
+   "cita": "Defenderemos las conexiones directas entre La Palma, La Gomera y El Hierro previstas en la propuesta de Decreto Canarias",
+   "pagina": 18,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Impulsar el desarrollo de la quinta libertad aérea para abrir conexiones directas con terceros países",
+   "cita": "Impulsaremos el desarrollo efectivo de la quinta libertad aérea prevista en el REF para facilitar nuevas conexiones directas entre Canarias y terceros países",
+   "pagina": 18,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Exigir financiación estatal estable para mantener la gratuidad de guaguas y tranvías",
+   "cita": "Exigiremos financiación estatal estable que permita mantener la gratuidad del transporte público terrestre para los usuarios beneficiarios",
+   "pagina": 18,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Reclamar la aportación estatal al déficit del transporte público prevista en el Decreto Canarias",
+   "cita": "Reclamaremos además la aportación estatal al déficit del sistema prevista en la propuesta de Decreto Canarias",
+   "pagina": 18,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Defender la financiación estatal del 50 % del transporte público por carretera en Lanzarote y Fuerteventura",
+   "cita": "defenderemos la financiación estatal del 50 % de los proyectos, infraestructuras y equipamientos de transporte público por carretera",
+   "pagina": 18,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Reclamar un convenio estatal de diez años para el Tren de Gran Canaria",
+   "cita": "Reclamaremos un convenio estatal de diez años con financiación suficiente para ejecutar el Tren de Gran Canaria",
+   "pagina": 18,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Reclamar un tratamiento equivalente de financiación para los proyectos ferroviarios de Tenerife",
+   "cita": "un tratamiento equivalente para los proyectos ferroviarios de Tenerife",
+   "pagina": 18,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Exigir actualizar las compensaciones estatales al transporte de mercancías hasta el 100 % del coste real",
+   "cita": "Exigiremos la actualización de las compensaciones estatales para cubrir el 100 % del coste real y efectivo subvencionable",
+   "pagina": 18,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Exigir financiación sostenida para la recuperación de La Palma y seguimiento de las inversiones",
+   "cita": "Exigiremos financiación sostenida para la recuperación de La Palma y un seguimiento efectivo de las inversiones",
+   "pagina": 18,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Reclamar la continuidad del plan especial de empleo de La Palma y el reintegro de lo adelantado por Canarias",
+   "cita": "Reclamaremos la continuidad del plan especial de empleo y el reintegro de las aportaciones adelantadas por Canarias para la reconstrucción",
+   "pagina": 18,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Defender procedimientos de contratación de emergencia para reconstruir en La Palma",
+   "cita": "Defenderemos procedimientos de contratación de emergencia para reconstruir cuando las condiciones de seguridad permitan intervenir",
+   "pagina": 18,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Exigir que Estado y UE asuman los costes extraordinarios de salvamento, acogida y atención humanitaria",
+   "cita": "Exigiremos que el Estado y la Unión Europea asuman los costes extraordinarios del salvamento, la acogida y la atención humanitaria en la frontera atlántica",
+   "pagina": 18,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Exigir que la solidaridad territorial funcione con indicadores y plazos conocidos",
+   "cita": "Exigiremos que los mecanismos estatales de solidaridad territorial funcionen con indicadores de capacidad, plazos y financiación conocidos",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Activar traslados a otras comunidades al superar umbrales, sin negociar caso a caso",
+   "cita": "deberán activarse los traslados y la participación de otras comunidades autónomas sin depender de negociaciones caso a caso",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Impulsar los ajustes legales necesarios para que esa respuesta solidaria sea efectiva",
+   "cita": "Impulsaremos los ajustes legales necesarios para que esa respuesta sea efectiva",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Exigir financiación suficiente y previsible para menores extranjeros no acompañados en Canarias",
+   "cita": "Exigiremos al Estado financiación suficiente y previsible para atender a los menores extranjeros no acompañados acogidos en Canarias",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "El interés superior del menor deberá guiar traslados, atención y continuidad educativa y sanitaria",
+   "cita": "Su interés superior deberá guiar los traslados, las condiciones de atención y la continuidad educativa y sanitaria",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Reforzar la cooperación con Mauritania, Senegal, Marruecos, Cabo Verde y otros países de origen y tránsito",
+   "cita": "Reforzaremos la cooperación estable con Mauritania, Senegal, Marruecos, Cabo Verde y otros países de origen y tránsito",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Luchar contra las redes que se lucran con las personas migrantes",
+   "cita": "La respuesta incluirá la lucha contra las redes que se lucran a costa de las personas",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Canarias deberá participar en el diseño y la aplicación de las políticas migratorias que la afectan",
+   "cita": "Canarias deberá participar en el diseño y la aplicación de las políticas migratorias españolas y europeas que la afectan",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Defender financiación estatal y europea para programas de integración y convivencia intercultural",
+   "cita": "Defenderemos financiación estatal y europea para programas de integración, convivencia intercultural y prevención de conflictos en los territorios de primera acogida",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Combatir los discursos racistas y el uso del miedo para dividir a la sociedad",
+   "cita": "Combatiremos los discursos racistas y el uso del miedo para dividir a la sociedad canaria",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Reclamar cooperación y recursos del Estado para la atención social y sanitaria de canarios en el exterior",
+   "cita": "Reclamaremos cooperación y recursos del Estado para la atención social y sanitaria de los canarios del exterior",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Impulsar el apoyo a quienes quieran retornar y reforzar los vínculos culturales con nuevas generaciones",
+   "cita": "Impulsaremos el apoyo a quienes quieran retornar y reforzaremos los vínculos culturales con las nuevas generaciones",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Mantener ayudas estatales para desplazamientos de artistas y compañías canarias",
+   "cita": "Mantendremos ayudas estatales específicas para los desplazamientos de artistas y compañías canarias a circuitos estatales e internacionales",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Reforzar la presencia de la creación canaria en programas estatales y su proyección exterior",
+   "cita": "Reforzaremos la presencia de nuestra creación en los programas estatales y su proyección hacia Europa, América y África",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Reclamar que se eliminen los obstáculos administrativos y fiscales a la circulación de obras de artistas",
+   "cita": "Reclamaremos que se eliminen los obstáculos administrativos y fiscales que dificultan la circulación y exposición de las obras de artistas canarios",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Reclamar financiación estatal para desplazamientos de deportistas y clubes canarios a competiciones oficiales",
+   "cita": "Reclamaremos financiación estatal suficiente para los desplazamientos de deportistas y clubes canarios a las competiciones oficiales",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Exigir que España defienda en la UE los fondos específicos de las regiones ultraperiféricas",
+   "cita": "Exigiremos que España defienda en el próximo marco financiero plurianual de la Unión Europea los instrumentos y las dotaciones específicas para las regiones ultraperiféricas",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Reclamar evaluaciones y adaptaciones del artículo 349 cuando normas europeas afecten desproporcionadamente",
+   "cita": "Reclamaremos evaluaciones específicas y las adaptaciones previstas para las regiones ultraperiféricas",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Defender la continuidad y el fortalecimiento de INTERREG",
+   "cita": "Defenderemos la continuidad y el fortalecimiento de INTERREG",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Exigir que España defienda reglas y recursos para que centros y empresas canarias participen en Horizon",
+   "cita": "Exigiremos que España defienda reglas y recursos que faciliten la participación de universidades, centros de investigación y empresas canarias en Horizon",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Promover el reconocimiento estratégico europeo de la Macaronesia",
+   "cita": "Promoveremos el reconocimiento estratégico europeo de la Macaronesia, con Canarias, Madeira y las Azores",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Reforzar el papel de Canarias en la cooperación con África occidental y la diplomacia científica",
+   "cita": "Reforzaremos el papel de Canarias en la cooperación económica, científica, educativa y tecnológica con África occidental y en la diplomacia científica",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Impulsar nuevos cables submarinos y conexiones alternativas de telecomunicaciones",
+   "cita": "Impulsaremos nuevos cables submarinos y conexiones alternativas",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Reclamar la participación de instituciones canarias en asuntos exteriores con impacto directo en las islas",
+   "cita": "Reclamaremos la participación de las instituciones canarias en los asuntos exteriores con impacto directo sobre el archipiélago",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Defender ante el Estado y la UE una solución al conflicto del Sáhara Occidental según la ONU",
+   "cita": "Defenderemos ante el Estado y la UE una solución al conflicto del Sáhara Occidental conforme a las resoluciones de Naciones Unidas",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Defender el derecho del pueblo saharaui a decidir su futuro",
+   "cita": "defenderemos el derecho del pueblo saharaui a decidir su futuro y la protección de sus derechos humanos",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Defender recursos suficientes y competencias claras para municipios y cabildos",
+   "cita": "Defenderemos recursos suficientes y competencias claras para que puedan responder a las necesidades de su población",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Reclamar estabilidad en la participación de municipios y cabildos en tributos del Estado y en el FCI",
+   "cita": "Reclamaremos estabilidad en su participación en los tributos del Estado y en los recursos del Fondo de Compensación Interterritorial que correspondan a Canarias",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Defender reformas para que las administraciones canarias usen sus remanentes de tesorería",
+   "cita": "Defenderemos las reformas y los acuerdos estatales que permitan al Gobierno de Canarias, a los cabildos y a los ayuntamientos emplear sus remanentes de tesorería",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Reclamar flexibilidad fiscal para las instituciones que participan en la reconstrucción de La Palma",
+   "cita": "Reclamaremos la flexibilidad fiscal necesaria para las instituciones implicadas en la reconstrucción de La Palma",
+   "pagina": 21,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Impulsar cambios para que el Instituto Canario de Estadística acceda a datos tributarios y evalúe el REF",
+   "cita": "Impulsaremos los cambios estatales necesarios para que el Instituto Canario de Estadística pueda acceder a la información tributaria que permita evaluar el REF",
+   "pagina": 21,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Defender en las Cortes el cumplimiento íntegro de la Agenda Canaria y de la propuesta de Decreto Canarias",
+   "cita": "Defenderemos en las Cortes Generales el cumplimiento íntegro de la Agenda Canaria y las medidas de la propuesta de Decreto Canarias",
+   "pagina": 21,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Impulsar un informe público anual sobre las obligaciones estatales con Canarias y su ejecución",
+   "cita": "Impulsaremos un informe público anual sobre las obligaciones estatales con Canarias, que distinga las cantidades presupuestadas, transferidas y efectivamente ejecutadas",
+   "pagina": 21,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  }
+ ]
+}

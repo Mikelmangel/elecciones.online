@@ -1,0 +1,2760 @@
+{
+ "siglas": "ERC",
+ "nombre": "Esquerra Republicana de Catalunya",
+ "fuente_url": "https://esquerrarepublicana.cat/documents/e2026-programa.pdf",
+ "fetched_at": "2026-11-15T08:07:24Z",
+ "sha256": "61728d162a6e88d492d44a0b0994effb31f9e4abb85ebf8aea715d870a9b2e04",
+ "paginas": 48,
+ "propuestas": [
+  {
+   "area": "territorial",
+   "titular": "Negociar la convocatoria de un referéndum de autodeterminación en Cataluña con acompañamiento internacional",
+   "cita": "Negociar la convocatòria d’un referèndum d’autodeterminació a Catalunya amb acompanyament internacional, amb la Unió Europea i el Consell d’Europa com a facilitadors, en línia amb la resolució Cilevičs del Consell d’Europa i les bones pràctiques determinades per la Comissió de Venècia (2007).",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Derogar la «Ley Mordaza» y revisar la normativa que restringe protesta, movilización y libertad de expresión",
+   "cita": "En aquest sentit, cal derogar aquesta Llei i revisar tot el marc normatiu que restringeix drets fonamentals, com ara els de protesta, mobilització i llibertat d’expressió.",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Que la «Ley Mordaza» no se aplique en los territorios con competencias de seguridad transferidas",
+   "cita": "La llei mordassa, mentrestant, no s’hauria d’aplicar en els territoris amb les competències de seguretat transferides, perquè puguin usar íntegrament la seva pròpia norma en aquesta matèria.",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Suprimir los delitos de ofensa a sentimientos religiosos e injurias contra la Corona y las cámaras",
+   "cita": "Suprimir els delictes d’ofensa als sentiments religiosos i d’injúries i calúmnies contra la Corona i contra les assemblees legislatives.",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Aprobar una ley estatal sobre la desaparición forzosa de menores para garantizar verdad, justicia y reparación",
+   "cita": "Aprovar una llei estatal de desaparició forçosa de menors per garantir veritat, justícia i reparació.",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Reconocer a las víctimas del Servicio Militar Obligatorio (1976-2001) y trabajar por la verdad y la reparación",
+   "cita": "Reconèixer la realitat de les Víctimes del Servei Militar Obligatori (1976-2001) i treballar per aconseguir veritat i reparació.",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Desclasificar archivos militares, judiciales y administrativos sobre abusos en el servicio militar",
+   "cita": "Resulta urgent la desclassificació d’arxius militars, judicials i administratius relacionats amb abusos i morts de soldats a causa dels maltractaments en el servei militar obligatori.",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Promover una declaración de responsabilidad del Estado y reparación para víctimas del servicio militar",
+   "cita": "Cal promoure una declaració d’assumpció de responsabilitat política de l’Estat pel dolor i la manca de protecció als joves sota la seva custòdia i establir mecanismes de memòria i reparació per a les víctimes i les famílies afectades.",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Finalizar la Auditoría de Bienes Expoliados por el Franquismo a Entidades y Asociaciones",
+   "cita": "Finalitzar l’Auditoria de Béns Espoliats pel Franquisme a Entitats i Associacions.",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Traspasar a la Generalitat el edificio de la Prefectura de Policía de Via Laietana 43 para un centro memorial",
+   "cita": "Traspassar la titularitat de l’edifici de la Prefectura Superior de la Policia Nacional de Via Laietana 43 a la Generalitat de Catalunya, conjuntament amb el fons arxivístic i els recursos econòmics que s’estimin oportuns per convertir les dependències actuals en un centre memorialístic i commemoratiu.",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Aplicar el IBI a propiedades de confesiones religiosas y dejar sin efecto los acuerdos con la Santa Sede",
+   "cita": "Aplicar l’impost sobre béns immobles a totes les propietats de les confessions religioses, sense excepcionalitats i deixant sense efecte els acords de Govern de l’any 1979 amb la Santa Seu i les actualitzacions de l’any 2023, com també els acords de 1992 de l’Estat amb la resta de federacions religioses.",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Impulsar iniciativas parlamentarias para fiscalizar al rey y la casa real y poner fin a la monarquía",
+   "cita": "Impulsar totes les iniciatives parlamentàries oportunes per fiscalitzar l’activitat del rei d’Espanya, la casa reial i la família reial i totes les iniciatives que puguin influir a l’hora de posar fi a aquesta institució contrària al principi democràtic.",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Apoyar medidas de control de las instituciones de la monarquía, eliminación de sus privilegios y transparencia",
+   "cita": "Donar suport a totes les mesures que puguin contribuir al control de les institucions de la monarquia, l’eliminació dels seus privilegis, la transparència i la fiscalització de la seva activitat econòmica.",
+   "pagina": 8,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Aprobar una Ley del plurilingüismo para reforzar los derechos de las lenguas oficiales propias",
+   "cita": "Aprovar una Llei del plurilingüisme per reforçar els drets lingüístics i garantir una protecció més efectiva de les llengües oficials diferents del castellà.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Garantizar que cualquier ciudadano pueda relacionarse con el Estado en cualquier lengua oficial",
+   "cita": "Cal garantir que qualsevol ciutadà es pugui relacionar amb totes les institucions de l’Estat en qualsevol llengua oficial, amb plena validesa jurídica, independentment del lloc on sigui.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Hacer posible que administraciones con lengua propia se relacionen entre sí y con la AGE en esas lenguas",
+   "cita": "També cal fer possible que les administracions públiques dels territoris amb llengües oficials diferents del castellà es relacionin entre si i amb l’Administració General de l’Estat en aquestes llengües.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Regular el uso de las lenguas oficiales en los procedimientos administrativos",
+   "cita": "La llei ha de regular l’ús de les llengües oficials en els procediments administratius; exigir el coneixement de les llengües oficials pròpies de cada territori als treballadors de l’Administració de l’Estat (cossos policials, administració de justícia i tributària...); incorporar criteris lingüístics en la contractació pública; garantir la presència de les llengües oficials en l’etiquetatge; reforçar el paper de les llengües pròpies com a llengües vehiculars de l’ensenyament, i establir quotes mínimes de programació radiofònica en les llengües oficials diferents del castellà.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Exigir a empleados de la Administración del Estado conocer las lenguas oficiales de cada territorio",
+   "cita": "exigir el coneixement de les llengües oficials pròpies de cada territori als treballadors de l’Administració de l’Estat (cossos policials, administració de justícia i tributària...)",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Incorporar criterios lingüísticos en la contratación pública",
+   "cita": "incorporar criteris lingüístics en la contractació pública; garantir la presència de les llengües oficials en l’etiquetatge; reforçar el paper de les llengües pròpies com a llengües vehiculars de l’ensenyament, i establir quotes mínimes de programació radiofònica en les llengües oficials diferents del castellà.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Garantizar la presencia de las lenguas oficiales en el etiquetado",
+   "cita": "garantir la presència de les llengües oficials en l’etiquetatge; reforçar el paper de les llengües pròpies com a llengües vehiculars de l’ensenyament, i establir quotes mínimes de programació radiofònica en les llengües oficials diferents del castellà.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Reforzar el papel de las lenguas propias como lenguas vehiculares de la enseñanza",
+   "cita": "reforçar el paper de les llengües pròpies com a llengües vehiculars de l’ensenyament, i establir quotes mínimes de programació radiofònica en les llengües oficials diferents del castellà.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Establecer cuotas mínimas de programación radiofónica en las lenguas oficiales distintas del castellano",
+   "cita": "establir quotes mínimes de programació radiofònica en les llengües oficials diferents del castellà.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Reclamar el reconocimiento oficial del catalán, el occitano y la lengua de signos catalana en la Unión Europea",
+   "cita": "Reclamar el reconeixement oficial del català, l’occità i la llengua de signes catalana a la Unió Europea.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Instar al Estado a mantener la petición para que catalán, occitano y LSC sean oficiales en la UE",
+   "cita": "Instar l’Estat espanyol a mantenir i lluitar la petició perquè el català, l’occità i la llengua de signes catalana siguin llengües oficials a la Unió Europea i de treball al Parlament Europeu.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Establecer por ley una aportación mínima del Estado al cine y audiovisual en catalán y occitano",
+   "cita": "Establir per llei una aportació mínima de l’Estat espanyol al fons d’ajuts i crèdits per a la cinematografia i l’audiovisual en llengües catalana i occitana",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Garantizar que los productos audiovisuales sean accesibles a usuarios de lengua de signos catalana",
+   "cita": "garantir que els productes siguin igualment accessibles als usuaris de la llengua de signes catalana.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Establecer cuota de pantalla en cine y audiovisual para promover catalán, occitano y lengua de signos",
+   "cita": "establir una quota de pantalla en el sector cinematogràfic i audiovisual per promoure l’ús social de la llengües catalana i occitana i de la llengua de signes catalana",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Regular la obligación de las plataformas de publicar los datos de cumplimiento de las cuotas lingüísticas",
+   "cita": "regular l’obligació de les plataformes de publicar les dades de compliment de quotes lingüístiques.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Reforzar la cooperación entre los territorios de habla catalana y el reconocimiento de la unidad de la lengua",
+   "cita": "Reforçar la cooperació entre els territoris de parla catalana i el reconeixement de la unitat de la llengua.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Derogar el artículo 145 de la Constitución para facilitar la cooperación entre Cataluña, Valencia y Baleares",
+   "cita": "Derogar l’article 145 de la Constitució espanyola per facilitar la cooperació bilateral entre la Generalitat de Catalunya, la Generalitat Valenciana i el Govern de les Illes Balears",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Aprobar la equiparación de las denominaciones catalán y valenciano como sinónimas e intercambiables",
+   "cita": "cal aprovar l’equiparació de les denominacions català i valencià com a sinònimes i intercanviables.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Impulsar la enseñanza del catalán y del occitano en el exterior",
+   "cita": "Impulsar l’ensenyament del català i de l’occità a l’exterior.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Promover la colaboración con el Instituto Cervantes para ampliar la oferta y difusión del catalán",
+   "cita": "vies de col·laboració amb l’Instituto Cervantes per ampliar-ne l’oferta formativa i la difusió internacional.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Impulsar la elaboración y aplicación de planes lingüísticos en las empresas",
+   "cita": "Impulsar l’elaboració i aplicació de plans lingüístics a les empreses, garantir els drets lingüístics de les persones treballadores i usuàries, especialment en les empreses que presten serveis públics o reben finançament públic, i facilitar l’accés a la formació de català dins l’horari laboral.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Garantizar los derechos lingüísticos en empresas que presten servicios públicos o reciban fondos públicos",
+   "cita": "garantir els drets lingüístics de les persones treballadores i usuàries, especialment en les empreses que presten serveis públics o reben finançament públic",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Facilitar el acceso a la formación en catalán dentro del horario laboral",
+   "cita": "facilitar l’accés a la formació de català dins l’horari laboral.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Promover un gran pacto de país en defensa de la escuela catalana, la inmersión y el catalán vehicular",
+   "cita": "Promoure un gran pacte de país, amb la participació de les institucions, la comunitat educativa i les entitats socials, per defensar el model d’escola catalana, la immersió lingüística i el català com a llengua vehicular i de cohesió social",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Defender un modelo de escuela pública, laica, gratuita y de calidad con el catalán como lengua vehicular",
+   "cita": "Defensar un model d’escola pública, laica, gratuïta i de qualitat, amb el català com a llengua vehicular i d’acollida, com a eina de cohesió social, inclusió i igualtat d’oportunitats.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Garantizar que todo el alumnado alcance competencia plena en catalán y, en el Arán, en aranés",
+   "cita": "Garantir, amb recursos i formació del professorat, que tot l’alumnat assoleixi una competència plena en català i, a l’Aran, en aranès.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Impedir ingerencias del Estado y porcentajes lingüísticos modificando la ley educativa estatal",
+   "cita": "per impedir les ingerències de l’Estat, la imposició de percentatges lingüístics als centres i qualsevol vulneració dels projectes lingüístics i del model d’immersió de Catalunya.",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Exigir competencias exclusivas en educación y la plena soberanía de Cataluña sobre su sistema educativo",
+   "cita": "Exigir les competències exclusives en matèria educativa. Reclamar la plena sobirania de Catalunya per decidir, regular i gestionar el seu sistema educatiu, sense subordinació a les imposicions de l’Estat espanyol.",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Destinar el 6 % del PIB estatal a la educación",
+   "cita": "Destinar el 6 % del PIB estatal a l’educació i posar fi a l’infrafinançament del sistema educatiu, assegurant els recursos necessaris per reforçar l’escola pública, reduir les ràtios i millorar les condicions salarials del professorat.",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Transferir recursos educativos con criterios transparentes y sin nuevas obligaciones sin financiación",
+   "cita": "Transferir els recursos a les administracions educatives competents, amb criteris transparents i sense traslladar noves obligacions sense el finançament corresponent",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Asegurar la financiación estatal de la educación pública y gratuita de 0 a 3 años",
+   "cita": "Assegurar el finançament estatal de l’educació pública i gratuïta de 0 a 3 anys.",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Exigir protección y asesoramiento jurídico para centros y profesorado frente a presiones externas",
+   "cita": "Exigir mecanismes efectius de protecció i assessorament jurídic perquè els centres i el professorat puguin desenvolupar els seus projectes educatius sense pressions ni interferències externes.",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Asegurar que las administraciones competentes dicten los currículos sin ingerencias del Estado",
+   "cita": "Cal assegurar que les administracions competents en matèria educativa puguin dictar els currículums per a les etapes obligatòries i postobligatòries d’acord amb la realitat social, cultural i lingüística del país, sense ingerència ni imposicions de l’Estat.",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Aprobar un nuevo modelo de financiación para garantizar la soberanía de los Países Catalanes",
+   "cita": "Aprovar un nou model de finançament per garantir la sobirania dels Països Catalans i el benestar de la ciutadania.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Combatir el déficit fiscal y garantizar la financiación catalana cambiando el modelo según los acuerdos",
+   "cita": "Ara, resulta urgent combatre el dèficit fiscal i garantir el finançament de les institucions catalanes per mitjà de canvis de model en el sentit dels acords esmentats.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Condonar de forma efectiva los más de 17.100 millones de euros del FLA",
+   "cita": "Condonar de forma efectiva els més de 17.100 milions d’euros del FLA.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Llevar a cabo la tramitación del proyecto de ley impulsado por ERC sobre la deuda del FLA",
+   "cita": "Dur a terme la tramitació del projecte de llei impulsat per Esquerra Republicana, que suposa una reducció de deute de la Generalitat equivalent a la inversió que fa en quatre anys.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Mejorar la financiación local reformando el modelo de ingresos y aumentando los recursos propios",
+   "cita": "Millorar el marc de finançament local. Els ens locals són unes de les administracions més mal finançades de l’Estat. Cal reformar el model d’ingressos i augmentar els recursos propis de què disposen per reduir la dependència de l’Estat",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Constituir el Consorcio de la Zona Franca con mayoría de instituciones catalanas en sus órganos de gobierno",
+   "cita": "Constituir el Consorci de la Zona Franca amb majoria de les institucions catalanes en els òrgans de governança.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Impulsar un Plan de Soberanía Cultural para culminar el traspaso de museos y equipamientos a Cataluña",
+   "cita": "Impulsar un Pla de Sobirania Cultural per culminar el traspàs dels museus i equipaments culturals transferibles a Catalunya, incloent-hi el Museu Nacional Arqueològic de Tarragona",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Revisar la gobernanza del MNAC y MACBA para que las decisiones se tomen desde instituciones catalanas",
+   "cita": "revisar la governança del MNAC i del MACBA perquè les decisions estratègiques es prenguin des de les institucions catalanes.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Garantizar la financiación estructural de los traspasos culturales y auditar inversiones pendientes",
+   "cita": "Garantir que els traspassos vagin acompanyats del finançament estructural corresponent i auditar les inversions estatals pendents.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Exigir modificar la Ley del Patrimonio Histórico para crear un Fondo Catalán del 2 % Cultural",
+   "cita": "Exigir la modificació de la Llei del Patrimoni Històric espanyol perquè els recursos generats per les obres públiques estatals executades a Catalunya es transfereixin automàticament a la Generalitat, que gestionarà un Fons Català del 2 % Cultural",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Publicar cada año los recursos del 2 % cultural generados en Cataluña y la cantidad transferida",
+   "cita": "Cal una publicació anual de quins recursos s’han generat a Catalunya i quina quantitat s’ha transferit.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Exigir que las pinturas murales de la Sala Capitular de Sijena no sean desmontadas ni trasladadas del MNAC",
+   "cita": "Exigir que les pintures murals de la Sala Capitular de Sixena no siguin desmuntades ni traslladades del MNAC.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Reformar la ley de patrimonio para no trasladar bienes de fragilidad extraordinaria sin dictamen previo",
+   "cita": "Cal una reforma de la legislació estatal de patrimoni perquè cap bé cultural d’una fragilitat extraordinària pugui ser traslladat sense un dictamen tècnic previ que n’avali la viabilitat i en garanteixi la preservació.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Completar el Estatuto del Artista adaptando fiscalidad, Seguridad Social y protección a la intermitencia",
+   "cita": "Completar l’Estatut de l’Artista perquè la fiscalitat, la Seguretat Social i la protecció laboral s’adaptin de manera real a la intermitència del treball cultural.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Impulsar trato fiscal de ingresos irregulares, ampliar gastos deducibles y ajustar cuotas en cultura",
+   "cita": "impulsar un tractament fiscal adequat dels ingressos irregulars, ampliar les despeses deduïbles vinculades a l’activitat artística i creativa, i ajustar les quotes de cotització dels autònoms de la cultura als seus ingressos reals.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Ajustar las cuotas de cotización de los autónomos de la cultura a sus ingresos reales",
+   "cita": "ajustar les quotes de cotització dels autònoms de la cultura als seus ingressos reals.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Ampliar la prestación por inactividad, enfermedades profesionales y transición en el sector cultural",
+   "cita": "S’ha d’ampliar la prestació específica per cessament o períodes d’inactivitat, el reconeixement de malalties professionals i les mesures de transició professional.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Reservar al menos el 50 % del tiempo de emisión de obras europeas a obras en lenguas oficiales de España",
+   "cita": "Almenys el 50 % del temps d’emissió dedicat a obres audiovisuals europees es reservarà a obres en les llengües oficials de l’Estat o de les Comunitats Autònomes.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Reservar en TVE un mínimo del 25 % de esas obras a producciones en lenguas oficiales distintas del castellano",
+   "cita": "TVE reservarà un mínim del 25 % d’aquestes obres a produccions en les llengües oficials diferents del castellà.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Reservar a obras europeas al menos el 35 % del catálogo de las plataformas de televisión y vídeo a petición",
+   "cita": "les plataformes de televisió i de vídeo a petició reservaran a obres europees almenys el 35 % del seu catàleg",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Destinar el 25 % de la financiación anticipada de TV públicas a obras en lenguas oficiales propias",
+   "cita": "les televisions públiques hauran de destinar un 25 % del finançament anticipat d’obra audiovisual europea a obres en les llengües oficials diferents del castellà.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Ampliar competencias de reguladores audiovisuales autonómicos para ejercer funciones de la CNMC",
+   "cita": "Ampliar les competències de les autoritats reguladores autonòmiques com el Consell Audiovisual de Catalunya (CAC) i el Consell Audiovisual de la Comunitat Valenciana (CACV), perquè puguin exercir les funcions de la Comissió Nacional dels Mercats i la Competència (CNMC) mitjançant acords formals",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Garantizar la participación de los reguladores autonómicos en la representación del Estado en el Media Board",
+   "cita": "garantir la participació dels organismes reguladors autonòmics en la representació de l’Estat al Comitè Europeu dels Serveis de Mitjans de Comunicació (Media Board).",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Reconocer las radiotelevisiones públicas como servicios esenciales o infraestructuras críticas",
+   "cita": "Reconèixer les radiotelevisions públiques com a serveis públics essencials o d’infraestructures crítiques als efectes de les telecomunicacions a les radiotelevisions públiques, pel seu paper fonamental en el funcionament social i econòmic del país.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Defender el derecho de las selecciones catalanas a competir oficialmente en todas las disciplinas deportivas",
+   "cita": "Defensar el dret de les seleccions catalanes a competir oficialment a escala internacional en totes les disciplines esportives i a tenir representació pròpia en els organismes i les competicions internacionals.",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Impulsar modificar la Ley del Deporte para eliminar la obligación de jugar con la selección española",
+   "cita": "impulsar la modificació de la Llei de l’Esport espanyola per eliminar l’obligatorietat de participació dels esportistes amb la selecció espanyola sota amenaça de sanció.",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Cumplir los acuerdos de la Comisión Bilateral de julio de 2025 sobre competencias de la Generalitat en IRPF",
+   "cita": "Complir amb els acords de la Comissió Bilateral Generalitat Estat de juliol de 2025 sobre l’assumpció de competències en l’IRPF per part de la Generalitat",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Hacer efectivos los cambios legales para recaudar desde Cataluña todos los impuestos generados en ella",
+   "cita": "fent efectius els canvis legislatius pertinents per a la recaptació no només d’aquest tribut sinó de tots els impostos que es generen a Catalunya.",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Exigir el traspaso integral de las competencias en migración y asilo a Cataluña",
+   "cita": "Exigir el traspàs integral de les competències en migració i asil a Catalunya per garantir una gestió pròpia de l’acollida, l’avaluació de les necessitats i la integració, des d’una perspectiva de drets humans i inclusió social.",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Condicionar el Reglamento europeo de Retorno a garantías efectivas de los derechos fundamentales",
+   "cita": "Condicionar l’aplicació i el desenvolupament legislatiu del Reglament europeu de Retorn a garanties efectives dels drets fonamentals, per evitar la deriva punitiva i les deportacions automàtiques.",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Rechazar la creación de centros de retorno en países terceros",
+   "cita": "Rebutgem la creació de centres de retorn a països tercers i reclamem la màxima protecció jurídica, assistència legal independent i respecte als drets fonamentals durant tot el procés migratori.",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Reclamar la máxima protección jurídica y asistencia legal independiente en todo el proceso migratorio",
+   "cita": "reclamem la màxima protecció jurídica, assistència legal independent i respecte als drets fonamentals durant tot el procés migratori.",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Garantizar la competencia de los Mossos d'Esquadra como policía integral en todo el país, sin excepciones",
+   "cita": "Cal garantir la competència del Cos de Mossos d’Esquadra com a policia integral al conjunt del país, sense excepcions.",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Traspasar a la Generalitat todos los inmuebles de la Administración General del Estado en Cataluña",
+   "cita": "Traspassar a la Generalitat tots els immobles de l’Administració General de l’Estat a Catalunya.",
+   "pagina": 14,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Traspasar gratuitamente a Cataluña todas las viviendas de la SAREB y AGE con recursos para rehabilitarlas",
+   "cita": "cal que el govern espanyol, donant compliment a les competències exclusives en habitatge de la Generalitat de Catalunya, traspassi tots els habitatges de la SAREB i la resta d’organismes que depenen de l’AGE situats a Catalunya, conjuntament amb els recursos necessaris per rehabilitar-los i destinar-los a habitatge de protecció oficial.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Reclamar el traspaso de competencias y recursos para homologar y reconocer títulos extranjeros en Cataluña",
+   "cita": "Traspassar les competències en matèria d’homologació i reconeixement dels títols estrangers. Reclamar el traspàs de les funcions i els recursos necessaris perquè la Generalitat pugui gestionar l’homologació i el reconeixement de les titulacions obtingudes a l’estranger",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Completar el traspaso integral de la Inspección de Trabajo y Seguridad Social a la Generalitat",
+   "cita": "Completar el traspàs integral de la Inspecció de Treball i Seguretat Social. Culminar el traspàs previst a l’Estatut d’Autonomia, incloent-hi totes les funcions inspectores que encara romanen en l’àmbit estatal, com també el personal inspector i subinspector necessari per exercir-les, garantint-ne la dependència orgànica i funcional de la Generalitat de Catalunya, i dotant-la dels recursos econòmics, materials i organitzatius corresponents.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Acordar el traspaso de las políticas pasivas de empleo para pagar prestaciones por desempleo desde el SOC",
+   "cita": "Traspassar les polítiques passives a la Generalitat. Acordar amb l’Estat les cessions, delegacions i traspassos de competències i de béns patrimonials i personals necessaris a la Generalitat de Catalunya per fer efectiu el pagament de les prestacions contributives per atur i les prestacions assistencials per desocupació des del SOC.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Impulsar la reforma de la LOPJ para crear el Consejo de Justicia de Cataluña con sede en Barcelona",
+   "cita": "Crear el Consell de Justícia de Catalunya. Estructurar el govern judicial propi a Catalunya i, per a això, cal impulsar la reforma de la Llei Orgànica del Poder Judicial per fer possible la creació d’un Consell de Justícia de Catalunya, com a òrgan desconcentrat del CGPJ, amb seu a Barcelona",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Exigir al Estado alcanzar el 0,7 % en Ayuda Oficial al Desarrollo y cooperación europea directa para Cataluña",
+   "cita": "Esquerra Republicana exigim a l’Estat complir amb el compromís d’assolir el 0,7 % en Ajut Oficial al Desenvolupament i permetre a Catalunya participar de manera directa en programes europeus de cooperació.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Promover un embargo completo de armas a Israel, suspender acuerdos UE-Israel y apoyar el Estado de Palestina",
+   "cita": "Promoure un embargament complet d’armes a Israel per part de l’Estat. Donar suport a la Cort Internacional de Justícia i a la Cort Penal Internacional i exigir a l’Estat que pressioni perquè la Unió Europea suspengui els acords d’associació amb Israel mentre duri el genocidi i l’ocupació il·legal de Palestina. Cal reclamar també a l’Estat que continuï donant ple suport al reconeixement de l’Estat de Palestina.",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Defender el derecho a la autodeterminación, revertir la posición sobre el Sáhara y condicionar acuerdos",
+   "cita": "Defensar el dret a l’autodeterminació arreu. Reconèixer el dret a l’autodeterminació dels pobles, en línia amb la Carta de Nacions Unides i la jurisprudència internacional. El govern espanyol ha de revertir la posició respecte el Sàhara adoptada l’any 2022 i assumir les resolucions del Tribunal de Justícia de la Unió Europea",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Mantener el apoyo a Ucrania desde la UE y fomentar la vía diplomática y la negociación",
+   "cita": "Mantenir el suport a Ucraïna davant l’agressió russa, apostant tant per mantenir l’ajuda des de la Unió Europea com per fomentar la via diplomàtica i la negociació com a eines essencials de prevenció i resolució de conflictes.",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Fiscalizar el gasto de Defensa, evitar su ocultación y denunciar contratos a empresas condenadas",
+   "cita": "Fiscalitzar el model de Defensa espanyol i els seus programes especials d’armament. Garantir el compliment de la normativa pressupostària també al ministeri de defensa, evitar l’ocultació de despesa per motius polítics i denunciar l’adjudicació de contractes públics a empreses implicades i condemnades en casos de corrupció.",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Cumplir el 0,7 % de AOD y canalizar un porcentaje vinculante por cooperación descentralizada y feminista",
+   "cita": "Complir amb el compromís del 0,7 % d’Ajut Oficial al Desenvolupament. Donar el compliment efectiu al compromís del 0,7 % de l’AOD (Ajuda Oficial al Desenvolupament)",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Exigir al Estado aumentar la financiación del Institut Ramon Llull e incluir catalán y occitano en Erasmus+",
+   "cita": "Facilitar l’accés a l’ensenyament del català a l’exterior, exigint a l’Estat que augmenti el finançament de l’Institut Ramon Llull per ampliar la xarxa de lectorats i incloent el català i l’occità en l’oferta d’idiomes dels programes europeus d’educació (Erasmus+)",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Promover internacionalmente la lucha contra la pena de muerte ratificando el Segundo Protocolo Facultativo",
+   "cita": "Promoure internacionalment la lluita contra la pena de mort, impulsant la ratificació del Segon Protocol Facultatiu del Pacte Internacional dels Drets Civils i Polítics i el compliment amb la Convenció Europea de Drets Humans.",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Reclamar la participación de la Generalitat en la negociación de tratados internacionales en la ONU",
+   "cita": "Enfortir la governança multinivell a Nacions Unides: representació catalana en la negociació d’acords i tractats internacionals. Reclamar la participació de la Generalitat de Catalunya en la negociació de tractats internacionals en el marc de Nacions Unides dels àmbits de la seva competència",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Fomentar la autonomía estratégica de la UE con estrategia de seguridad propia basada en diplomacia",
+   "cita": "Fomentar l’autonomia geopolítica i estratègica de la Unió Europea apostant per una estratègia de seguretat pròpia basada en la diplomàcia i la solució negociada de conflictes, tant en els pressupostos dels estats membres com en el Marc Financer Pluriennal de la Unió Europea.",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Impulsar una nueva Ley de asilo que impida externalizar solicitudes y ampliar vías legales de migración",
+   "cita": "Posar fi a l’externalització de les fronteres i garantir vies legals i segures per migrar. Desenvolupar una política migratòria centrada en la protecció internacional, el respecte dels drets humans i les garanties legals",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Exigir que el Estado defienda la gobernanza multinivel en la UE y un impuesto digital europeo propio",
+   "cita": "Apostar per un pressupost europeu ambiciós i descentralitzat. Exigir a l’Estat espanyol que, durant les negociacions per al Marc Financer Pluriennal (MFP), defensi el principi de governança multinivell",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Promover la transposición de la Ley Electoral Europea sin umbrales de bloqueo y con voto desde los 16 años",
+   "cita": "Promoure la transposició de la Llei Electoral Europea, assegurant que garanteixi la pluralitat i la representativitat i que no s’utilitzen els llindars electorals i la configuració de circumscripcions com a minories de bloqueig contra minories nacionals ni contra la pluralitat política. En aquest marc, promoure també l’exercici del dret de vot a partir dels 16 anys.",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Exigir reformar la AECID para que la ACCD gestione directamente fondos europeos de cooperación delegada",
+   "cita": "Garantir l’accés directe dels actors descentralitzats als fons europeus de cooperació i descentralització de la Cooperació Delegada de la UE.",
+   "pagina": 17,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Impulsar una ley estatal por el art. 150.1 CE para delegar en la Generalitat legislar arrendamientos urbanos",
+   "cita": "Dotar la Generalitat de Catalunya de competències per al desplegament d’una llei d’arrendaments urbans catalana. Impulsar l’aprovació d’una legislació estatal, per la via de l’article 150.1 de la Constitució espanyola, que delegui formalment a la Generalitat de Catalunya la facultat de legislar de manera plena i integral en matèria d’arrendaments urbans.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Dedicar al menos el 1,5 % del PIB a políticas de vivienda en los PGE y transferirlo a las comunidades",
+   "cita": "Augment del finançament estatal en matèria d’habitatge. Cal garantir un finançament públic adequat a les polítiques d’habitatge i incloure’l als pressupostos generals de l’Estat, que dediqui a aquestes polítiques almenys l’1,5 % del Producte Interior Brut (PIB)",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Traspasar gratuitamente de inmediato inmuebles de SAREB y Casa 47 a la Generalitat con fondos para rehabilitar",
+   "cita": "Traspàs immediat de tots els immobles de la SAREB i Casa 47 a la Generalitat de Catalunya. Resulta urgent el traspàs immediat i gratuït de la titularitat d’aquests immobles a la Generalitat",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Modificar la ley básica de suelo para obligar a transformar suelo clasificado o aplicar venta forzosa",
+   "cita": "Modificar la legislació bàsica en matèria de sòl per garantir que el sòl classificat es posa a disposició de la construcció d’habitatge assequible. S’ha d’incorporar a la legislació bàsica en matèria de sòl el deure legal de transformar el sòl en el termini que fixi el planejament urbanístic",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Subir IVA e ITP a vivienda no habitual y reducir impuestos cuando se destine a primera residencia",
+   "cita": "Incrementar els tipus de l’IVA i l’ITP sobre la compra d’habitatge quan aquest es destini a usos diferents a l’habitatge habitual.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Elevar al 21 % el IVA aplicable al alquiler turístico, incluidos los gestionados por plataformas digitales",
+   "cita": "Augmentar l’IVA al lloguer turístic. Elevar el tipus d’IVA aplicable al lloguer turístic al 21 %, inclosos els habitatges oferts o gestionats per plataformes digitals.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Aplicar deducciones fiscales a rehabilitación, vivienda protegida y mejoras de eficiencia energética",
+   "cita": "Aplicar deduccions i incentius fiscals sobre la rehabilitació d’habitatge, la construcció d’habitatge protegit i les millores d’eficiència energètica als habitatges.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Reformar arrendamientos para evitar desahucios sin alternativa y compensar a pequeños propietarios",
+   "cita": "Millorar la regulació dels arrendaments per protegir els drets dels arrendataris i evitar els desnonaments de les persones vulnerables sense habitatge alternatiu i mantenir les compensacions als petits propietaris",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Imponer nuevas limitaciones y obligaciones fiscales a fondos buitre y grandes tenedores",
+   "cita": "Imposar noves limitacions i obligacions fiscals als fons voltors i grans tenidors que operin al mercat destinant pisos i cases a usos diferents dels d’habitatge habitual.",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Obligar a la AEAT a publicar datos inmobiliarios y remitir trimestralmente inmuebles de grandes tenedores",
+   "cita": "Garantir la transparència del mercat immobiliari i l’accés de les administracions competents a les dades de l’AEAT. Establir l’obligació de l’Agència Estatal d’Administració Tributària (AEAT) de publicar anualment, de manera desagregada territorialment, les dades relatives a les operacions de compravenda i als arrendaments d’immobles declarats",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Obligar a suministradoras de agua, luz y gas a dar datos a administraciones de vivienda y derechos",
+   "cita": "Garantir l’accés de les administracions competents a les dades dels subministraments bàsics. Establir l’obligació de les empreses subministradores d’aigua, electricitat i gas de facilitar a les administracions competents en matèria d’habitatge i drets socials la informació necessària",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Incrementar el Salario Mínimo Interprofesional estatal hasta el 60 % del salario medio bruto",
+   "cita": "Incrementar el Salari Mínim Interprofessional de l’estat fins al 60 % del salari mitjà brut d’acord amb les exigències del dret internacional comunitari i, en particular, de la Carta Social Europea.",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Transferir competencias a la Generalitat para fijar un salario mínimo catalán en 1.460 euros",
+   "cita": "Transferir les competències a la Generalitat de Catalunya per establir un salari mínim català (SMC) a 1.460 €.",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Traspasar recursos para crear una prestación universal por crianza desde 200 euros adaptada al coste de vida",
+   "cita": "Traspassar els recursos necessaris per a la creació d’una prestació universal per criança adaptada a cada territori. La distribució d’una prestació universal per criança a partir de 200 euros per família que s’elevi en aquells territoris amb un cost de vida més alt",
+   "pagina": 21,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Subir el tipo máximo del IRPF al capital del 30 % al 35 % y bajar tipos del trabajo bajo 35.000 euros",
+   "cita": "Dur a terme una reforma social de l’IRPF. Augmentar el tipus màxim de l’IRPF sobre els guanys de capital del 30 % al 35 % per acabar amb el tracte de favor respecte a les rendes del treball. Alhora, cal reduir els tipus de la fiscalitat del treball per als trams inferiors als 35.000 euros",
+   "pagina": 21,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Rebajar el IVA de alimentos básicos y productos de higiene",
+   "cita": "Dur a terme una reforma social de l’IVA. Rebaixar l’IVA aplicable a aliments bàsics i productes d’higiene",
+   "pagina": 21,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Reclamar una aportación estatal estructural para el transporte público y revertir el déficit de la ATM",
+   "cita": "Augmentar el finançament estructural del transport públic. Garantir unes tarifes assequibles i estables que fomentin l’ús del transport públic i redueixin la dependència del vehicle privat, mitjançant un model de finançament suficient i pluriennal",
+   "pagina": 21,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Diseñar un plan conjunto Estado-CCAA para reducir la inflación en alimentos, energía y vivienda",
+   "cita": "Dissenyar un pla de reducció sectorial de la inflació. Presentar un pla conjunt entre l’Administració General de l’Estat i les comunitats autònomes per combatre la inflació dels sectors on ha crescut més (aliments, energia, habitatge)",
+   "pagina": 21,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Automatizar la concesión del bono social eléctrico y ampliar sus umbrales de renta y consumo bonificado",
+   "cita": "Automatitzar i ampliar el bo social elèctric. Reduir els obstacles burocràtics per accedir al bo social elèctric, automatitzant-ne la concessió, ampliant els llindars de renda per accedir-hi i revisant els límits de consum bonificat",
+   "pagina": 21,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Hacer permanente el impuesto a grandes fortunas, subirlo sobre 10 M€ y crear tramo desde 100 M€",
+   "cita": "Fer permanent l’impost temporal de solidaritat de les grans fortunes, augmentant el tipus per a fortunes de més de 10 milions d’euros i creant un tram nou a partir de 100 milions d’euros.",
+   "pagina": 22,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Recuperar el impuesto a las grandes energéticas con exenciones para inversión en transición energética",
+   "cita": "Recuperar l’impost a les grans energètiques, consolidant la tributació dels beneficis i establint exempcions per incentivar la inversió en transició energètica.",
+   "pagina": 22,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Convertir el impuesto extraordinario a la banca en un tributo permanente",
+   "cita": "Convertir l’impost extraordinari a la banca en un tribut permanent.",
+   "pagina": 22,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Adoptar políticas para combatir el dumping fiscal de comunidades autónomas gobernadas por el PP",
+   "cita": "Adoptar les polítiques necessàries per combatre el dúmping fiscal de les comunitats autònomes governades pel Partit Popular, especialment la Comunitat de Madrid.",
+   "pagina": 22,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Avanzar hacia una fiscalidad justa europea para grandes corporaciones digitales y combatir la elusión fiscal",
+   "cita": "Avançar cap a una fiscalitat justa i coordinada a escala europea per a les grans corporacions digitals, assegurant que tributin de manera justa pels ingressos que generen, combatent l’elusió fiscal",
+   "pagina": 22,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Concluir la licencia bancaria plena del Institut Català de Finances bajo supervisión del BCE o Banco de España",
+   "cita": "Concloure l’obtenció de la llicència bancària plena per part de l’Institut Català de Finances, que el permeti créixer i operar com a node de la xarxa a Catalunya.",
+   "pagina": 22,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Establecer el servicio bancario universal garantizando efectivo y atención presencial con fondo sectorial",
+   "cita": "Establir l’obligatorietat del servei bancari universal.",
+   "pagina": 22,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Crear líneas públicas de crédito con avales parciales y convertir el ICO en banco de promoción industrial",
+   "cita": "Crear línies públiques de crèdit per al petit negoci amb repartiment de risc (avals parcials) i amb una banca pública que garanteixi el crèdit a la inversió productiva. Per fer-ho caldria convertir l’ICO en un banc de promoció amb capacitat de préstec directe a projectes industrials i de transició.",
+   "pagina": 22,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Impulsar inversión pública en tecnologías verdes críticas y reclamar a la UE una cláusula de inversión verde",
+   "cita": "Impulsar les inversions clau per fer front a l’emergència climàtica. Impulsar un programa ambiciós d’inversió pública en tecnologies verdes crítiques per a la transició ecològica i l’autonomia estratègica europea: bateries, panells solars, energia eòlica i bombes de calor",
+   "pagina": 22,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Eliminar exenciones al combustible de aviación y navegación y revisar la fiscalidad energética del gas",
+   "cita": "Consolidar una fiscalitat verda per a l’emergència climàtica. Eliminar les exempcions al combustible d’aviació i navegació, promovent les modificacions de normatives europees que pertoquin. Revisar també la fiscalitat energètica aplicada al consum del gas",
+   "pagina": 22,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Poner fin a la ley Beckham, eliminar el régimen favorable a teletrabajadores y exigir permanencia por ayudas",
+   "cita": "Eliminar la possibilitat de teletreballadors internacionals d’acollir-se a un règim fiscal favorable. Exigir també clàusules de permanència de l’activitat i garantia de manteniment de l’ocupació a empreses que s’acullin a ajudes públiques i deduccions a la inversió.",
+   "pagina": 23,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Permitir prórrogas de hasta 4 años en el pago de liquidaciones de tributos cedidos",
+   "cita": "Facilitar les pròrrogues en el pagament de tributs cedits. Modificar la legislació vigent i els reglaments que la despleguen per facilitar que, en les liquidacions dels tributs cedits, es puguin sol·licitar pròrrogues en el pagament fins a 4 anys",
+   "pagina": 23,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Fomentar pymes con financiación, morosidad cero, contratación pública accesible y simplificación",
+   "cita": "Fomentar pimes competitives: finançament, morositat zero i contractació pública accessible i fàcil eliminant intermediaris.",
+   "pagina": 23,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Blindar políticas de igualdad y reforzar la persecución de discursos racistas, misóginos y de odio en redes",
+   "cita": "Blindar les polítiques d’igualtat i combatre els discursos d’odi i discriminatoris. Establir garanties normatives, pressupostàries i institucionals que assegurin la continuïtat de les polítiques feministes, els serveis d’atenció i els recursos de prevenció de les violències masclistes.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Reformar la LO 1/2004 ante violencia económica, vicaria y digital, con peritajes gratuitos y retirada rápida",
+   "cita": "Reforçar i actualitzar la legislació contra totes les formes de violència masclista. Reformar la Llei orgànica 1/2004 i la resta de legislació estatal per garantir la prevenció, detecció, protecció i reparació davant totes les violències masclistes, incloses l’econòmica, la vicària i la digital.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Aprobar una ley integral contra la trata y crear un fondo estatal de indemnizaciones a víctimas",
+   "cita": "Aprovar una llei integral contra el tràfic i l’explotació d’éssers humans. Reforçar la prevenció, la persecució dels delictes i la protecció i reparació de les víctimes",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Reconocer permiso laboral retribuido por duelo gestacional entre la sexta semana y el día 179",
+   "cita": "Reconèixer el dret al dol gestacional, establint un permís laboral retribuït per les pèrdues gestacionals entre la sisena setmana i el dia 179 de gestació",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Equiparar permisos retribuïts de ambos progenitores en casos de muerte fetal desde el día 180",
+   "cita": "Garantir la igualtat de drets dels dos progenitors davant la pèrdua gestacional, equiparant la protecció i els permisos retribuïts en els casos de mort fetal a partir del dia 180 de gestació.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Equiparar familias monoparentales a numerosas en beneficios fiscales, sociales y laborales",
+   "cita": "Equiparar els drets de les famílies monoparentals als de les famílies nombroses, estenent els beneficis fiscals, socials i laborals",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Reconocer identidades no binarias en Registro Civil y documentos sin requisitos patologizadores",
+   "cita": "Reconèixer legalment les identitats no-binàries. Adaptar la normativa relativa al Registre Civil, la documentació identificativa i els procediments administratius per garantir-ne el reconeixement sense requisits patologitzadors",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Reformar el Código Civil y Registro Civil para eliminar discriminaciones en filiación de familias LGBTI+",
+   "cita": "Garantir la igualtat de drets de les famílies LGBTI+. Reformar la legislació civil i del Registre Civil per eliminar les discriminacions en la filiació de les famílies de dues mares, les persones trans i no-binàries i altres models familiars",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Reforzar la prohibición de prácticas de conversión y tipificar penalmente los casos graves o coercitius",
+   "cita": "Reforçar la prohibició de les pràctiques de conversió i perseguir-les penalment. Garantir la prohibició efectiva de les pràctiques que pretenen modificar o reprimir l’orientació sexual o la identitat de gènere",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Impulsar una ley estatal de memoria y reparación LGBTI+ por la persecución histórica institucional",
+   "cita": "Impulsar una llei estatal de memòria i reparació LGBTI+. Reconèixer i reparar la persecució històrica de les persones LGBTI+ per les institucions, incloent-hi la repressió de les persones trans, les lesbianes i les dones sotmeses al Patronato de Protección a la Mujer.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Obligar a identificar imágenes corporales retocadas en publicidad y redes y regular anuncios dañinos",
+   "cita": "Regular la pressió estètica en la publicitat i els entorns digitals. Obligar a identificar les imatges corporals retocades digitalment en la publicitat i els continguts comercials de les xarxes socials",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Financiar públicamente cotizaciones de personas cuidadoras familiares y priorizar su reinserción laboral",
+   "cita": "Protegir els drets socials i laborals de les persones cuidadores familiars. Garantir que cuidar un familiar no suposi perdre drets de Seguretat Social ni oportunitats laborals, assegurant les cotitzacions de les persones cuidadores no professionals amb finançament públic.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Reforzar garantías legales contra la discriminación racial y étnica en empleo, vivienda y servicios",
+   "cita": "Garantir la igualtat de tracte i oportunitats independentment de l’origen. Combatre la discriminació racial i ètnica en l’accés a l’ocupació, l’habitatge i els béns i serveis; reforçant les garanties legals davant les pràctiques discriminatòries",
+   "pagina": 25,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Reforzar la formación de jueces y fiscales en delitos de odio racistas y xenófobos y sus agravantes",
+   "cita": "Millorar la investigació i la resposta judicial davant els delictes d’odi racistes i xenòfobs. Reforçar la formació especialitzada de jutges, magistrats i fiscals en la identificació de la motivació racista i xenòfoba",
+   "pagina": 25,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Investigar y actuar legalmente contra organizaciones que promueven el racismo y la violencia",
+   "cita": "Actuar contra les organitzacions que promouen el racisme i la violència. Perseguir les estructures i organitzacions que fomentin de manera organitzada l’odi, la discriminació i la violència contra persones per raó d’origen o pertinença ètnica.",
+   "pagina": 25,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Exigir a plataformas digitales responsabilidad y denuncia accesible ante discursos racistas y desinformación",
+   "cita": "Frenar la difusió i l’amplificació dels discursos d’odi a les xarxes socials. Exigir a les plataformes digitals més responsabilitat davant la difusió de continguts racistes i xenòfobs",
+   "pagina": 25,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Derogar reformas laborales de 2010 y 2012, recuperar 45 días de indemnización y autorización previa en ERE",
+   "cita": "Derogar els aspectes de les reformes laborals de 2010 i 2012 que continuen vigents. Revertir l’abaratiment i la facilitació de l’acomiadament, recuperant la indemnització per acomiadament improcedent de 45 dies per any treballat, amb un màxim de 42 mensualitats, i els salaris de tramitació. Restablir l’autorització administrativa prèvia de l’autoritat laboral de la Generalitat per als acomiadaments col·lectius",
+   "pagina": 26,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Reformar el Estatuto de los Trabajadores para fijar indemnización sin tope en despidos sin causa",
+   "cita": "Establir una indemnització addicional per acomiadaments sense causa d’acord amb la resolució del Comitè Europeu de Drets Socials (CEDS).",
+   "pagina": 26,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Reducir la jornada laboral máxima a 37,5 horas semanales sin bajada salarial y reforzar registro y desconexión",
+   "cita": "Reduir la durada màxima de la jornada laboral setmanal a 37 hores i mitja sense reducció salarial. Modificar l’article 34 de l’Estatut dels Treballadors per garantir aquesta reducció legal de la jornada",
+   "pagina": 26,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "pensiones",
+   "titular": "Blindar la revalorización de las pensiones públicas de acuerdo con la inflación",
+   "cita": "Blindar la revaloració de les pensions per evitar la pèrdua de capacitat adquisitiva de les persones pensionistes. Cal garantir l’actualització de pensions públiques d’acord amb la inflació.",
+   "pagina": 26,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "pensiones",
+   "titular": "Revalorizar las pensions según el IPC de cada territorio para mantener el poder adquisitivo",
+   "cita": "Revalorar les pensions d’acord amb l’IPC de cada territori.",
+   "pagina": 26,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Actualizar la Ley de prevención de riscos laborales ante digitalización, cambio climático, género y edad",
+   "cita": "Actualitzar la Llei de prevenció de riscos laborals per garantir entorns de treball segurs i saludables. Reformar la legislació estatal per reduir la sinistralitat laboral i adaptar la prevenció als nous riscos derivats de la digitalització, el canvi climàtic i les transformacions del mercat de treball",
+   "pagina": 26,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Impulsar reforma laboral y mercantil para que trabajadores participen en consejos de administración",
+   "cita": "Avançar cap a la democratització de les empreses i la participació dels treballadors en la gestió. Impulsar una reforma de la legislació laboral i mercantil per garantir la participació efectiva de la representació legal de les persones treballadores en els consells d’administració de les empreses",
+   "pagina": 26,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "pensiones",
+   "titular": "Reconocer jubilación anticipada sin penalización en sectores penosos, conductores y Agents Rurals",
+   "cita": "Reconèixer el dret a la jubilació anticipada per raó de l’activitat professional mitjançant coeficients reductors als sectors que compleixin els requisits de perillositat.",
+   "pagina": 26,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Ampliar los permisos parentales retribuidos para disponer de más tiempo para la crianza",
+   "cita": "Ampliar els permisos per a la criança. Ampliar els permisos parentals retribuïts",
+   "pagina": 26,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Adaptar cotizaciones de autónomos a ingresos reales, reducir bajo el SMI y añadir tramos sobre 6.000 €/mes",
+   "cita": "Garantir un sistema de cotització just i progressiu per als treballadors autònoms. Adaptar les quotes als ingressos reals i a la capacitat econòmica de cada professional",
+   "pagina": 26,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Reformar el cese de actividad de autónomos, crear subsidio para mayores de 52 años y equiparar prestaciones",
+   "cita": "Equiparar la protecció social dels autònoms a la de les persones assalariades. Reformar la prestació per cessament d’activitat perquè esdevingui una protecció per desocupació efectiva",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Garantizar cuota cero a autónomos en enfermedad grave y bonificar la contratación de sustitutos",
+   "cita": "Garantir una quota zero per als autònoms en situacions de malaltia greu. Eximir els treballadors autònoms del pagament de les quotes des del moment en què es produeixi una situació de malaltia greu i establir bonificacions per a la contractació de substituts",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Invertir la carga de la prueba en juicios por falsos autónomos ante empresas con sentencias previas",
+   "cita": "Reforçar la lluita contra els falsos autònoms. Modificar la legislació perquè, en els procediments judicials de reconeixement de relació laborals contra empreses que hagin rebut sentències contràries per casos similars durant els 9 mesos anteriors a la interposició de la demanda, s’inverteixi la càrrega de la prova",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Ampliar gastos deducibles en IRPF para autónomos y reforzar progresividad en el impuesto de sociedades",
+   "cita": "Avançar cap a una fiscalitat més justa per als autònoms. Ampliar les despeses fiscalment deduïbles a l’IRPF vinculades a l’activitat econòmica",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "pensiones",
+   "titular": "Reforzar la pasarela al RETA de la Ley 2/2026 para mutualistas reconociendo todos los años aportados",
+   "cita": "Garantir la integració al RETA dels treballadors mutualistes en igualtat de drets. Reforçar la passarel·la al Règim Especial de Treballadors Autònoms (RETA) de la Llei 2/2026 per als mutualistes amb reconeixement de tots els anys aportats com a anys cotitzats.",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Garantizar competencias y traspasos para un sistema propio e integrado de formación profesional en Cataluña",
+   "cita": "Avançar cap a un sistema integrat de formació professional al llarg de la vida.",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Establecer coordinación y pasarelas de créditos entre FP, universidades, centros de investigación y empresas",
+   "cita": "Reforçar la vinculació de la formació professional amb la universitat, la recerca i la innovació.",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Impulsar itinerarios flexibles de formación continua y agilizar la acreditación de experiencia profesional",
+   "cita": "Facilitar la formació contínua i el reconeixement de les competències professionals.",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Garantizar financiación estable y equipamiento actualizado para centros de formación profesional",
+   "cita": "Reforçar els centres de formació professional i la vinculació amb el teixit productiu. Garantir un finançament estable i suficient dels centres de formació professional",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Hacer permanente la prohibición de cortes de suministro a hogares vulnerables y condonar deuda acumulada",
+   "cita": "Garantir la continuïtat de la prohibició de talls de subministrament i mantenir-los de forma permanent per a llars vulnerables.",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Exigir al Estado recursos para adaptar las cuantías del Ingreso Mínimo Vital al coste de vida en Cataluña",
+   "cita": "Exigir a l’Estat els recursos necessaris per adaptar l’ingrés mínim vital al cost de la vida a Catalunya.",
+   "pagina": 28,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Revisar la prestación CUME para simplificar trámites y garantizar su acceso a las familias",
+   "cita": "Garantir una CUME digna i accessible per a les famílies amb infants amb malalties greus. Revisar la prestació per cura de menors afectats per càncer o una altra malaltia greu (CUME)",
+   "pagina": 28,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Dignificar el SAD, prohibir externalizar camareras de piso, compensar empleadas del hogar e incluir patologías",
+   "cita": "Dignificar les condicions laborals de les treballadores del Servei d’Atenció Domiciliària (SAD), prohibir l’externalització de les tasques ordinàries de les cambreres de pis en el sector hoteler i reconèixer o compensar els períodes treballats per les empleades de la llar abans de 2022 que no van generar drets de protecció per desocupació. Incorporar la perspectiva de gènere al reconeixement de les malalties professionals",
+   "pagina": 28,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Sustituir los PERTE en 2026 por proyectos industriales estratégicos de gestión descentralizada",
+   "cita": "Adoptar una política industrial activa que aposti per grans projectes industrials a Catalunya. Cal substituir els PERTE, que acaben aquest 2026, per projectes estratègics amb una gestió descentralitzada",
+   "pagina": 29,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Ampliar el Programa Auto+ dando más peso a la fabricación en la UE y priorizar contratación pública local",
+   "cita": "Alinear la política industrial amb l’aposta del Made in Europe:",
+   "pagina": 29,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Simplificar puntos de recarga, crear ayudas a camiones cero emisiones e incentivar flotas eléctricas",
+   "cita": "Impulsar la descarbonització del sector del transport per carretera. Simplificar els procediments administratius per instal·lar punts de recàrrega públics i privats",
+   "pagina": 29,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Exigir a Industria defender el clúster químico de Tarragona como proyecto EU Critical Chemical Sites",
+   "cita": "Exigir que el Ministeri d’Indústria defensi davant la Comissió i el Consell la candidatura del clúster químic de Tarragona com a projecte estratègic en el marc del Pla d’Acció per a la Indústria Química de la UE (EU Critical Chemical Sites)",
+   "pagina": 29,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Incrementar la capacidad de decisión y soberanía de la Generalitat sobre la red y sistema eléctrico",
+   "cita": "Incrementar la capacitat de decisió i sobirania de la Generalitat de Catalunya sobre la xarxa elèctrica. Garantir la participació efectiva i l’increment de la capacitat de decisió de la Generalitat de Catalunya en la planificació, determinació de prioritats i governança sobre el seu sistema energètic",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Impulsar una nueva Ley de Bases del Sector Eléctrico y una Ley de Gases Renovables",
+   "cita": "Impulsar una nova legislació sobre el Sector Elèctric i la Llei dels Gasos Renovables. Cal una nova Llei de Bases del Sector Elèctric i una Llei dels Gasos Renovables en substitució de la Llei d’Hidrocarburs",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Modificar incentivos del RD 8/2023 para eliminar privilegios de grandes energéticas y diversificar el mercado",
+   "cita": "Eliminar els privilegis de les grans energètiques. Modificar els incentius del RD 8/2023 per evitar que les bonificacions fiscals per inversions en renovables funcionin com a subvencions que reforcin la posició de domini de l’oligopoli",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Recuperar y traspasar la titularidad y gestión de centrales hidroeléctricas a la Generalitat al caducar",
+   "cita": "Traspassar les centrals hidroelèctriques. Recuperar i traspassar la gestió i la titularitat pública de les centrals hidroelèctriques a la Generalitat de Catalunya a mesura que vagin caducant les concessions.",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Exigir al Estado un plan de inversiones y modernización de la red eléctrica catalana con calendario",
+   "cita": "Impulsar un pla urgent d’inversions i modernització de la xarxa elèctrica catalana. Exigir a l’Estat un pla d’inversions en les xarxes de transport i distribució elèctrica de Catalunya, amb projectes identificats, calendaris executables i compromisos anuals verificables.",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Condicionar autorizaciones de líneas eléctricas MAT al informe favorable de biodiversidad de la Generalitat",
+   "cita": "Garantir la capacitat de decisió de Catalunya sobre les grans infraestructures elèctriques. Condicionar l’autorització estatal de les línies d’evacuació elèctrica, especialment les de molt alta tensió (MAT), a l’informe favorable de l’òrgan competent en biodiversitat de la Generalitat de Catalunya.",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Transponer urgentemente las directivas NIS2 y CER para reforzar la ciberseguridad energética",
+   "cita": "Reforçar la ciberseguretat i la resiliència de les infraestructures energètiques. Transposar urgentment les directives europees NIS2 i CER",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Facilitar agregadores y comunidades energéticas en mercados eléctricos y crear plataforma neutral de datos",
+   "cita": "Democratitzar els mercats energètics i garantir l’accés transparent a les dades. Desenvolupar el marc normatiu europeu per facilitar la participació activa de la demanda, l’emmagatzematge, els agregadors independents i les comunitats energètiques locals",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Ampliar el radio de autoconsumo colectivo a 10 km en general y a 20 km en áreas rurales",
+   "cita": "Ampliar els radis d’autoconsum compartit. Modificar la legislació per ampliar l’àmbit de l’autoconsum col·lectiu fins als 10 km amb caràcter general i fins als 20.000 metres (20 km) en àrees rurals",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Agilizar trámites de autoconsumo compartido con plazos exigibles y apostar por el balance neto cero",
+   "cita": "Agilitzar de tràmits i balanç net zero. Agilitzar els tràmits de legalització de les instal·lacions d’autoconsum compartit",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Ampliar ayudas al autoconsumo y almacenamiento, reforzar CE IMPLEMENTA y apoyar comunidades energéticas",
+   "cita": "Impulsar l’autoconsum renovable, les comunitats energètiques i la resiliència del sistema. Ampliar els programes estatals d’ajuts per fomentar l’autoconsum individual i col·lectiu",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Impulsar ayudas para electrificar climatización y movilidad, aislar edificios y renovar electrodomésticos",
+   "cita": "Accelerar l’electrificació i l’eficiència energètica de les llars i el transport. Impulsar ajuts per substituir els combustibles fòssils per alternatives elèctriques en la climatització i la mobilitat, millorar l’aïllament dels edificis",
+   "pagina": 31,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Desplegar red de recarga eléctrica y de hidrógeno hacia 4.000 puntos de >350 kW y respaldo ferroviario",
+   "cita": "Impulsar les infraestructures de recàrrega i garantir la resiliència energètica del transport. Desplegar una xarxa de recàrrega de vehicles elèctrics i d’hidrogen alineada amb els objectius europeus",
+   "pagina": 31,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Aprobar paquete estatal de ayudas para electrificación industrial, almacenamiento y compra agregada en pymes",
+   "cita": "Garantir una energia competitiva i sostenible per a la indústria i les pimes. Aprovar un paquet estatal d’ajuts per accelerar l’electrificació industrial, l’eficiència energètica, l’emmagatzematge i la recuperació de calor.",
+   "pagina": 31,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Establecer compensación para pequeños inversores fotovoltaicos afectados por cambios retroactivos",
+   "cita": "Reparar els perjudicis causats als petits inversors en energies renovables. Establir mecanismes de compensació per als petits inversors fotovoltaics afectats per les modificacions retroactives del règim retributiu de les energies renovables",
+   "pagina": 31,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Recuperar el FNSSE, corregir agravios en redes de 25-30 kV e impulsar biometano e hidrógeno verde",
+   "cita": "Reformar la regulació energètica per reduir els costos i afavorir la descarbonització. Recuperar el Fons Nacional per a la Sostenibilitat del Sistema Elèctric",
+   "pagina": 31,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Flexibilizar la Ley 7/2022 de residuos para usar residuos agrarios, ganaderos y pesqueros en biogás",
+   "cita": "Flexibilització de la Llei de Residus (Llei 7/2022) per al sector primari. Modificar i flexibilitzar la Llei 7/2022 de residus i sòls contaminats per a una economia circular",
+   "pagina": 31,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Exigir aportación estatal obligatoria al Fondo de Transición Nuclear equivalente a la de la Generalitat",
+   "cita": "Contribució de l’Estat al Fons de Transició Nuclear. Exigir la contribució obligatòria de l’Estat al Fons de Transició Nuclear de la Generalitat de Catalunya",
+   "pagina": 31,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Modificar el Plan Hidrológico del Ebro para garantizar caudales ecológicos y proteger el Delta",
+   "cita": "Modificar el Pla Hidrològic de l’Ebre i garantir els cabals ecològics i l’equilibri mediambiental. Cal protegir el Delta de l’Ebre i el conjunt de l’ecosistema del riu.",
+   "pagina": 31,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Convocar Comisión Bilateral del Delta del Ebro y reclamar el traspaso de las cuencas catalanas de la CHE",
+   "cita": "Comissió Bilateral del Delta de l’Ebre i cessió de conques de la CHE. Convocar la comissió bilateral entre la Direcció General de Costes i la Generalitat de Catalunya",
+   "pagina": 31,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Reclamar convertir en subvención estatal directa los 435 millones para desalinizadoras de Tordera y Foix",
+   "cita": "Finançament estatal per a les dessalinitzadores de la Tordera i del Foix. Reclamar la modificació de la via de finançament establerta al RDL 4/2023 per convertir els 435 milions d’euros en una injecció directament estatal a fons perdut",
+   "pagina": 31,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Apoyar la ampliación de la ZEPA del Delta del Llobregat de 935 ha a 2.372 ha",
+   "cita": "Protecció i ampliació de la ZEPA del Delta del Llobregat. Donar suport a la iniciativa de la Generalitat per ampliar la Zona d’Especial Protecció per a les Aus (ZEPA) del delta del Llobregat de 935 ha a 2.372 ha",
+   "pagina": 32,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Desarrollar normativa estatal para permitir agua regenerada en limpieza de vehículos y granjas cárnicas",
+   "cita": "Ús d’aigua regenerada a la indústria càrnia. Desenvolupar la normativa estatal necessària per permetre l’ús d’aigua regenerada en activitats industrials i ramaderes",
+   "pagina": 32,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Alinear la planificación climática con reducir emisiones de CO2 un 65 % en 2030 y un 95 % en 2040",
+   "cita": "Alinear la planificació energètica i climàtica amb els objectius científics. Cal assegurar el compliment amb els objectius de reducció d’emissions de CO2 d’almenys el 65 % el 2030 i del 95 % el 2040",
+   "pagina": 32,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Crear ayudas periódicas a municipios rurales para redes de calor de biomasa forestal de proximidad",
+   "cita": "Impulsar una línia estable de subvencions per a xarxes de calor municipals de biomassa forestal.",
+   "pagina": 32,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Exigir un plan estatal anual contra la regresión y subida del mar en el Delta del Ebro",
+   "cita": "Protegir el delta de l’Ebre davant la regressió litoral i el canvi climàtic. Exigir un pla estatal anual acordat amb el territori per combatre la regressió",
+   "pagina": 32,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Exigir PAC y fondos pesqueros diferenciados en el MFP 2028-2034 con gestión directa de Cataluña",
+   "cita": "Descentralitzar la Política Agrària Comuna (PAC) i la gestió dels fons europeus destinats als sectors agrari i pesquer i al desenvolupament rural.",
+   "pagina": 32,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Rechazar ratificar el acuerdo UE-Mercosur y exigir cláusulas espejo en tratados agroalimentarios",
+   "cita": "Revertir els acords comercials lesius per a la sobirania alimentària i el sector primari català. El govern espanyol ha de rebutjar la ratificació de l’acord de lliure comerç UE-Mercosur",
+   "pagina": 32,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Exigir competencias e instrumentos para que la Generalitat ordene el espacio marítimo de sus costas",
+   "cita": "Garantir la capacitat de decisió sobre l’ordenació de l’espai marítim. Exigir que el govern de la Generalitat de Catalunya disposi de les competències i dels instruments necessaris per planificar i ordenar els usos de l’espai marítim de les seves costes",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Reformar la Ley de la cadena alimentaria para garantizar precios que cubran costes y reforzar observatorios",
+   "cita": "Reformar i garantir l’aplicació efectiva de la Llei de la cadena alimentària per assegurar preus justos a la pagesia.",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Impulsar la comercialización de vinos y espumosos catalanes y apoyar a pequeños productores y cooperativas",
+   "cita": "Promoure els vins i escumosos catalans i garantir la sostenibilitat del sector vitivinícola.",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Actualizar costes agrarios con combustibles y fertilizantes y repercutirlos en contratos alimentarios",
+   "cita": "Incorporar l’evolució dels preus dels combustibles i fertilitzants als costos de producció agrària.",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Aumentar la aportación a ENESA para abaratar seguros agrarios e incluir el mildiu en Cataluña",
+   "cita": "Reformar i territorialitzar el sistema d’assegurances agràries i ramaderes i incrementar el finançament d’ENESA.",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Exigir presupuesto estatal plurianual para modernizar regadíos, priorizando los Canals d’Urgell",
+   "cita": "Garantir el finançament estatal de la modernització dels regadius de Catalunya. Exigir a l’Estat una aportació pressupostària suficient i sostinguda per modernitzar les infraestructures de regadiu",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Regularizar la potencia real de embarcaciones pesqueras y revisar criterios de capacidad ante la UE",
+   "cita": "Regularitzar la potència real de les embarcacions pesqueres i adaptar els límits de capacitat de la flota.",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Reformar el régimen sancionador pesquero para evitar la exclusión automática de ayudas del FEMPA",
+   "cita": "Reformar el règim sancionador pesquer per garantir la proporcionalitat i evitar la pèrdua injustificada d’ajuts europeus.",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Reclamar cuotas o autorizaciones para capturas accidentales de atún rojo en flota de pequeños pelágicos",
+   "cita": "Regular les captures accidentals de tonyina vermella de la flota de petits pelàgics. Reclamar mecanismes específics d’assignació de quotes o autoritzacions",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Crear un fondo estatal (FEMUPF) para municipios forestales financiado con CO2 y combustibles fósiles",
+   "cita": "Crear un fons estatal per a municipis propietaris forestals (FEMUPF) per finançar la gestió sostenible dels boscos",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Impulsar una estrategia de soberanía digital hacia soluciones europeas abiertas y presencia del catalán",
+   "cita": "Avançar cap a una sobirania tecnològica i digital. Impulsar una estratègia de sobirania digital que redueixi la dependència de les grans corporacions tecnològiques",
+   "pagina": 34,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Proteger derechos laborales ante la automatización y repartir los aumentos de productividad tecnológica",
+   "cita": "Garantir que el progrés tecnològic es tradueixi en justícia social. Impulsar un model de societat digital en què la tecnologia i la intel·ligència artificial estiguin al servei de les persones",
+   "pagina": 34,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Reforzar la protección de datos, defender el cifrado y combatir vigilancia masiva y perfilado abusivo",
+   "cita": "Combatre els models de negoci basats en el seguiment sistemàtic de les persones, l’anàlisi de perfils abusiva i els dissenys digitals manipuladors o addictius. Reforçar els recursos de les autoritats de protecció de dades i els mecanismes de defensa dels drets de les persones usuàries, garantint una aplicació efectiva de la normativa europea.",
+   "pagina": 35,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Obligar a grandes plataformas a prevenir y detectar prácticas manipuladoras o adictivas en menores",
+   "cita": "Obligar les grans plataformes a establir mesures de prevenció, detecció i denúncia de pràctiques manipuladores o addictives. Garantir la protecció dels infants i adolescents davant la violència digital",
+   "pagina": 35,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Legislar para garantizar transparencia algorítmica, supervisión humana y auditoría independiente de la IA",
+   "cita": "Garantir una intel·ligència artificial transparent, auditable i al servei de les persones.",
+   "pagina": 35,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Reforzar la supervisión de la IA en empleo, educación, salud y justicia y defender la ley europea de IA",
+   "cita": "Una intel·ligència artificial que asseguri el respecte als drets fonamentals. Garantir que el desenvolupament i la utilització de la intel·ligència artificial respectin els drets fonamentals",
+   "pagina": 35,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Prohibir prácticas digitales que exploten vulnerabilidades o manipulen la conducta de menores",
+   "cita": "Protegir els drets de la infància i l’adolescència en l’entorn digital.",
+   "pagina": 35,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Impulsar una revisión integral de la normativa veterinaria para dignificar la profesión y quitar trabas",
+   "cita": "Dignificar i reconèixer de la professió veterinària. Impulsar una revisió integral del marc normatiu que regula l’exercici de la professió veterinària",
+   "pagina": 36,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Reconocer legalmente la violencia contra animales de compañía como forma de violencia vicaria",
+   "cita": "Reconèixer la violència contra els animals com a forma de violència vicària. Promoure el reconeixement legal de la violència exercida contra els animals de companyia",
+   "pagina": 36,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Modificar la ley de bienestar animal para eliminar las exclusiones de perros de caza y trabajo",
+   "cita": "Impulsar la modificació de la legislació estatal de protecció i benestar animal per eliminar les exclusions que afecten els gossos destinats a activitats de caça, treball i altres finalitats específiques.",
+   "pagina": 36,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Reformar el Código Penal para endurecer penas por maltrato animal y evitar devolver animales a condenados",
+   "cita": "Endurir la resposta al maltractament animal i garantir la protecció efectiva dels animals intervinguts. Impulsar la reforma del Codi Penal per reforçar les conseqüències dels delictes de maltractament",
+   "pagina": 36,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Crear órgano bilateral Generalitat-Estado y hacer operativa la Autoridad Aeroportuaria de Cataluña",
+   "cita": "Una nova governança per a la gestió catalana dels aeroports catalans. Avançar cap a la gestió des de Catalunya dels aeroports catalans d’interès general, superant l’actual model centralitzat d’Aena",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Traspasar la titularidad y gestión de los aeropuertos de Girona, Reus y Sabadell",
+   "cita": "Traspassar la titularitat i la gestió dels aeroports de Girona, Reus i Sabadell, sense renunciar al traspàs de la resta d’infraestructures aeroportuàries i portuàries dels Països Catalans.",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Conectar los aeropuertos de Girona y Reus con la red ferroviaria de alta velocidad",
+   "cita": "Connectar els aeroports de Girona i Reus amb la xarxa ferroviària d’alta velocitat.",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Financiar planes de aislamiento acústico en viviendas y equipamientos afectados por aeropuertos estatales",
+   "cita": "Reduir l’impacte acústic dels aeroports sobre la població. Impulsar i finançar plans d’aïllament acústic dels habitatges i equipaments afectats per les infraestructures aeroportuàries estatals a Catalunya",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Modificar el marco legal para aumentar la autonomía operativa y de gestión de las autoridades portuarias",
+   "cita": "Modificar el marc legal per incrementar l’autonomia operativa i de gestió de les autoritats portuàries, per reduir la burocràcia, guanyant agilitat i eficiència",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Constituir el Consorcio y la sociedad mixta paritaria de Inversiones de Cataluña para ejecutar obra estatal",
+   "cita": "Constituir el Consorci d’Inversions de Catalunya i la societat mixta d’inversions. Materialitzar els acords entre la Generalitat i l’Estat",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Ampliar encomiendas de gestión en vías de alta capacidad y traspasar carreteras estatales en Cataluña",
+   "cita": "Ampliar les encomanes de gestió i traspassar les carreteres estatals a Catalunya.",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Crear consorcio Estado-Generalitat e implantar la viñeta como pago único en vías de alta capacidad",
+   "cita": "Implementació de la vinyeta i finançament just de les vies d’alta capacitat a Catalunya. Crear un consorci Estat-Generalitat per mancomunar els actius de la xarxa viària i establir la vinyeta com a sistema únic de pagament i control de pas.",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Ampliar encomiendas de mejora de la N-260 (Eix Pirinenc) y traspasar su titularidad tras las inversiones",
+   "cita": "Accelerar la millora de l’Eix Pirinenc (N-260) i traspassar-ne la titularitat.",
+   "pagina": 39,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Acelerar la ejecución del tercer carril por sentido de la AP-7 entre Amposta y l’Hospitalet de l’Infant",
+   "cita": "Ampliar la capacitat de l’AP-7 a les Terres de l’Ebre. Accelerar la tramitació, la dotació pressupostària i l’execució del tercer carril per sentit de l’AP-7, entre Amposta i l’Hospitalet de l’Infant.",
+   "pagina": 39,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Finalizar la autovía A-27 Valls-Montblanc, accesos industriales en Lleida y actuaciones de A-2/N-II en Girona",
+   "cita": "Completar les connexions viàries estratègiques pendents. Finalitzar l’autovia A 27 entre Valls i Montblanc i garantir-ne la connexió amb l’AP-2.",
+   "pagina": 39,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Licitar en 2027 y financiar la ejecución de los nuevos accesos ferroviarios y viarios al Port de Barcelona",
+   "cita": "Executar els nous accessos ferroviaris i viaris al Port de Barcelona. Garantir la finalització dels projectes constructius, la licitació de les obres durant el 2027 i la consignació pressupostària necessària",
+   "pagina": 39,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Acelerar estudios y proyectos para desdoblar el tramo ferroviario entre Lleida y Picamoixons",
+   "cita": "Augmentar la capacitat ferroviària de mercaderies entre Lleida i el Port de Tarragona. Accelerar els estudis informatius, els projectes constructius i les inversions necessàries per desdoblar el tram ferroviari entre la futura estació intermodal de Lleida i Picamoixons.",
+   "pagina": 39,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Culminar el traspaso integral de Rodalies (R1, R2 Sud, R3, R4 Nord y R16) con vías, estaciones y recursos",
+   "cita": "Culminar el traspàs integral de Rodalies a la Generalitat. Accelerar el traspàs de l’operació dels serveis de Rodalies a la nova empresa Rodalies de Catalunya",
+   "pagina": 40,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Exigir a Adif mantenimiento preventivo en alta velocidad y reforzar obligaciones de operadoras ferroviarias",
+   "cita": "Garantir la seguretat i la fiabilitat de l’alta velocitat ferroviària. Exigir a Adif un manteniment preventiu adequat de les infraestructures d’alta velocitat",
+   "pagina": 40,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Traspasar progresivamente conservación y gestión de vías de Rodalies y controlar a Adif y Renfe",
+   "cita": "Descentralitzar la gestió i el manteniment de les infraestructures ferroviàries. Traspassar progressivament a Catalunya les funcions de conservació, manteniment i gestió de les infraestructures ferroviàries vinculades a Rodalies",
+   "pagina": 40,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Comprometer recursos plurianuales para el Plan de Rodalies 2026-2030, incluidos 1.400 millones adicionales",
+   "cita": "Garantir el finançament i l’execució íntegra del Pla de Rodalies 2026-2030. Comprometre els recursos necessaris per executar totes les actuacions del Pla de Rodalies 2026-2030, inclosos els 1.400 milions d’euros addicionals",
+   "pagina": 40,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Impulsar los estudios para desdoblar tramos de vía única en Arenys-Maçanet, Tarragona-Lleida y Lleida-Manresa",
+   "cita": "Impulsar els estudis i projectes necessaris per desdoblar els trams de via única dels corredors Arenys de Mar-Maçanet-Massanes, Tarragona-Lleida, Vic-Ripoll i Lleida-Cervera-Manresa",
+   "pagina": 40,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Impulsar la Línea Orbital Ferroviaria y licitar en 2027 el proyecto constructivo del tramo Granollers-Terrassa",
+   "cita": "Impulsar la Línia Orbital Ferroviària per connectar les ciutats de la regió metropolitana sense passar per Barcelona.",
+   "pagina": 40,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Impulsar los estudios necesarios para ejecutar el eje transversal ferroviario y garantizar su financiación",
+   "cita": "Impulsar els estudis necessaris per executar l’obra de l’eix transversal ferroviari. Garantir el futur finançament per construir la infraestructura de transport estratègica.",
+   "pagina": 40,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Acelerar proyectos y ejecución de los intercambiadores de Volpelleres y Hospital General en Sant Cugat",
+   "cita": "Executar els nous intercanviadors ferroviaris de Sant Cugat del Vallès. Accelerar la redacció dels projectes constructius i l’execució dels intercanviadors de Volpelleres",
+   "pagina": 40,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Acelerar obras del Corredor Mediterráneo, segregar mercancías en Tarragona y tercer hilo Figueres-Portbou",
+   "cita": "Culminar el Corredor Mediterrani i reforçar el transport ferroviari de mercaderies. Accelerar l’execució de les obres pendents del Corredor Mediterrani",
+   "pagina": 40,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Garantizar créditos de 2.018 M€ en 2026 y 7.200 M€ en 2027 y el 50 % estatal de la Ley de Dependencia",
+   "cita": "Garantir el finançament de la Llei d’Autonomia Personal i Atenció a la Dependència. Cal garantir l’execució pressupostària del suplement de crèdit de 2.018 MEUR per al 2026, 7.200 MEUR per al 2027 i el pressupost aprovat per als anys següents. Així mateix, vetllar pel compliment estricte del finançament del 50 % de l’Administració General de l’Estat.",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Equiparar al nivel A de la función pública a las educadoras y trabajadoras sociales",
+   "cita": "Equiparar a nivell A de les professionals del sector social. El col·lectiu d’Educadores i Treballadores Socials desenvolupen una funció central en la garantia dels drets socials",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Blindar una sanidad pública universal reforzando su capacidad asistencial y frenando la privatización",
+   "cita": "Defensar i enfortir el sistema sanitari públic. Blindar una sanitat pública, universal i de qualitat, reforçant la capacitat assistencial del sistema per reduir les llistes d’espera, garantir una atenció equitativa i frenar la privatització de la sanitat.",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Incrementar estructuralmente la financiación estatal sanitaria para ampliar plantillas y mejorar condiciones",
+   "cita": "Incrementar el finançament estatal del sistema públic de salut per garantir una atenció sanitària de qualitat i unes condicions laborals dignes.",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Blindar competencias exclusivas de la Generalitat en salud e impedir cualquier recentralización estatal",
+   "cita": "Blindar les competències de la Generalitat de Catalunya en matèria sanitària. Defensar el caràcter exclusiu de les competències de la Generalitat en matèria de salut i impedir qualsevol intent de recentralització o ingerència de l’Estat",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Incorporar al SNS atención oftalmológica y financiación pública universal de gafas graduadas y lentillas",
+   "cita": "Ampliar la cartera pública de serveis de salut visual i garantir l’accés universal a ulleres graduades i lents de contacte.",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Incorporar atención bucodental integral y gratuita al SNS asumiendo el Estado su coste",
+   "cita": "Incorporar l’atenció odontològica integral a la sanitat pública. Ampliar la cartera comuna de serveis del Sistema Nacional de Salut per garantir l’accés universal i gratuït a l’atenció bucodental",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Garantizar acceso universal y gratuito a atención psicológica y psicoterapia transfiriendo recursos estatales",
+   "cita": "Ampliar el finançament públic de l’atenció psicològica de la sanitat pública. Garantir l’accés universal i gratuït a l’atenció psicològica i a la salut mental",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Ejecutar el traspaso de seguridad en puertos y aeropuertos de Cataluña con calendario y efectivos",
+   "cita": "Assumir plenament les competències de seguretat als ports i aeroports. Reclamar l’execució efectiva del traspàs de les funcions de seguretat ciutadana, prevenció i investigació de delictes i manteniment de les infraestructures crítiques als ports i aeroports de Catalunya.",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Integrar plenamente a los Mossos d’Esquadra en Interpol y Europol en plano de igualdad",
+   "cita": "Garantir l’accés efectiu dels Mossos d’Esquadra a les bases de dades i als mecanismes de cooperació policial internacional. Atenent que el Cos de Mossos d’Esquadra, com a policia integral, és també encarregat de la lluita i prevenció en matèria antiterrorista i del crim organitzat, és imprescindible la plena integració del CME a organismes d’àmbit internacional com són la Interpol i l’Europol en pla d’igualtat amb els cossos policials espanyols.",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Permitir el acceso de Mossos d’Esquadra a bases de datos y órganos estatales contra terrorismo y crimen",
+   "cita": "Fer possible l’accés del Cos de Mossos d’Esquadra a les bases de dades d’àmbit estatal per protegir la seguretat ciutadana, la investigació criminal, la lluita contra el crim organitzat i el terrorisme",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Cumplir el acuerdo de incorporar 180 plazas judiciales en Cataluña entre 2026 y 2027 (20 M€/año)",
+   "cita": "Garantir més recursos judicials per agilitzar els procediments i acabar amb la impunitat. Cal continuar apostant pel desplegament de noves places de jutges i jutgesses a Catalunya, garantint el compliment de l’acord a iniciativa d’Esquerra Republicana per incorporar 180 places entre 2026 i 2027",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Revisar el Código Penal para aumentar penas por uso ilícito de armas de fuego, armas blancas y robo de cable",
+   "cita": "Millorar la resposta penal davant els delictes amb armes i el robatori de cable. Promoure una revisió del tractament penal de la tinença i l’ús il·lícit d’armes de foc, la possessió d’armes blanques prohibides i els robatoris de cable",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Reclamar el traspaso pleno de tráfico y seguridad vial a Cataluña, País Valencià e Illes Balears",
+   "cita": "Ampliar les competències de Catalunya en trànsit i seguretat viària. Reclamar el traspàs immediat de les competències plenes en matèria de trànsit i seguretat viària als governs de Catalunya, el País Valencià i les Illes Balears",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Modificar la LO 2/1986 para flexibilizar policías locales conjuntas y eliminar el límite poblacional",
+   "cita": "Reforçar les policies locals i facilitar la cooperació entre municipis. Impulsar la modificació de la disposició addicional cinquena de la Llei orgànica 2/1986, de forces i cossos de seguretat",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Promover la participación estable de Protección Civil de Cataluña en programas europeos de emergencias",
+   "cita": "Garantir la presència de Catalunya en la cooperació europea en protecció civil. Promoure una participació estable de Protecció Civil de Catalunya als programes europeus de prevenció, preparació i resposta davant d’emergències",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Modificar la Ley 7/1985 de régimen local para clarificar competencias y facilitar remunicipalizar",
+   "cita": "Cal modificar la Llei 7/1985, de 2 d’abril, reguladora de les bases del règim local PER clarificar les competències locals i flexibilitzar les condicions per remunicipalitzar serveis actualment externalitzats.",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Autorizar el endeudamiento gradual de ayuntamientos para inversiones hasta el 50 % de ingresos corrientes",
+   "cita": "Millora del finançament local i de la capacitat financera dels ens locals.",
+   "pagina": 44,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Reformar la Ley de Haciendas Locales para que todos los municipios participen en IRPF e IVA",
+   "cita": "Cal una reforma de la Llei 39/1988, de 28 de desembre, reguladora de les hisendes locals que actualitzi el finançament per exercir les competències que avui en dia tenen els ajuntaments i altres ens locals",
+   "pagina": 44,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Modificar la legislación del IBI para equiparar beneficios de familias monoparentales a numerosas",
+   "cita": "Cal modificar la legislació relativa a l’IBI per equiparar els beneficis per les famílies monoparentals als previstos per les famílies nombroses.",
+   "pagina": 44,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Rebajar de 20.000 a 10.000 habitantes el umbral de municipio turístico en su financiación",
+   "cita": "cal redefinir el concepte de municipi turístic rebaixant el llindar poblacional actual de 20.000 a 10.000 habitants i establint altres criteris alternatius més enllà del poblacional.",
+   "pagina": 44,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Derogar la LRSAL y reformar la Ley de Estabilidad Presupuestaria para dar flexibilidad a ayuntamientos",
+   "cita": "Derogar la Llei de Racionalització i Sostenibilitat de l’Administració Local (LRSAL) i reforma de la Llei Orgànica d’Estabilitat Pressupostària i Sostenibilitat Financera.",
+   "pagina": 44,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Recuperar competencias de la Generalitat para seleccionar y formar secretarios, interventores y tesoreros",
+   "cita": "Garantir secretaris, interventors i tresorers municipals per enfortir el món local. Recuperar i desplegar les competències de la Generalitat en la selecció i formació dels funcionaris d’habilitació nacional",
+   "pagina": 44,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Elevar al 1 % del PIB el gasto en universidades públicas y al 1,5 % del PIB en investigación para 2030",
+   "cita": "Incrementar el finançament de les universitats públiques i la recerca fins al 2030. Assumir el compromís d’incrementar plurianualment la inversió estatal en universitats en un 0,07 % del PIB per assolir una despesa pública de l’1 % del PIB el 2030",
+   "pagina": 45,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Acelerar contratos indefinidos de investigadores, quitar tasas de reposición y mejorar doctorado",
+   "cita": "Millorar les condicions laborals i reforçar les plantilles del sistema universitari i de recerca. Reduir la precarietat i la temporalitat, accelerar la contractació indefinida del personal investigador",
+   "pagina": 45,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Asegurar financiación basal estable para universidades, centros de investigación e infraestructuras",
+   "cita": "Reforçar el finançament basal de les universitats i els centres de recerca. Assegurar recursos estables per als centres de recerca",
+   "pagina": 45,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Atribuir a AQU las competencias reservadas a ANECA para acreditar profesorado y méritos en Cataluña",
+   "cita": "Assolir les competències plenes en matèria d’avaluació i acreditació universitàries. Ampliar les competències de l’Agència per a la Qualitat del Sistema Universitari de Catalunya (AQU)",
+   "pagina": 45,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Eliminar el distrito único universitario y planificar la formación sanitaria desde Cataluña",
+   "cita": "Eliminar el districte únic universitari. Cal que Catalunya pugui planificar l’accés a la universitat d’acord amb les necessitats del país.",
+   "pagina": 45,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Actualizar el RD 592/2014 de prácticas académicas externas para evitar sustituir empleos remunerados",
+   "cita": "Reformar la regulació de les pràctiques acadèmiques universitàries. Actualitzar el Reial decret 592/2014 per adaptar la regulació de les pràctiques acadèmiques externes a la realitat actual",
+   "pagina": 45,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Endurecer los requisitos para crear, reconocer y acreditar nuevas universidades",
+   "cita": "Enduriment dels requisits per a la creació, el reconeixement i l’autorització d’universitats, així com per a l’acreditació institucional.",
+   "pagina": 46,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  }
+ ]
+}

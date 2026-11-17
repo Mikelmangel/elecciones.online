@@ -1,0 +1,2990 @@
+{
+  "fuente": "boe_candidaturas",
+  "fuente_url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23103",
+  "fetched_at": "2026-11-17T01:15:34.536658+00:00",
+  "sha256": "e9eb451c308b4df907e180bf9a318f5d445adc7003232e41f4ed2ef5d30e7296",
+  "circunscripciones": [
+    {
+      "codigo": "01",
+      "nombre": "Araba/Álava",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE) PSE-EE",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Javier Hurtado Domínguez"
+        },
+        {
+          "denominacion": "EUSKAL HERRIA BILDU",
+          "siglas": "EH BILDU",
+          "cabeza_de_lista": "Mikel Otero Gabirondo"
+        },
+        {
+          "denominacion": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO",
+          "siglas": "EAJ-PNV",
+          "cabeza_de_lista": "Gorka Urtaran Agirre"
+        },
+        {
+          "denominacion": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+          "siglas": "ESCAÑOS EN BLANCO",
+          "cabeza_de_lista": "Raúl Aperribay Ganzábal"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Jonathan Romero Gámiz"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Saioa Martín Donoso"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Garbiñe Ruiz Noriega"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI/EUSKADIKO LANGILEEN ALDERDI KOMUNISTA",
+          "siglas": "PCTE/ELAK",
+          "cabeza_de_lista": "Liher Calleja Montero"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Leire Bengoa Chávarri"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Laura Barrenengoa Clemente"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Iñaki Oyarzábal De Miguel"
+        },
+        {
+          "denominacion": "FRENTE AMPLIO-FRONTE ZABALA",
+          "siglas": "FRENTE AMPLIO-FRONTE ZABALA",
+          "cabeza_de_lista": "José Damián García-Moreno López"
+        },
+        {
+          "denominacion": "FEMINISTAS AL CONGRESO",
+          "siglas": "PFAC",
+          "cabeza_de_lista": "Zuriñe Ojeda Santiago"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Cristina Elcuaz Arana"
+        }
+      ]
+    },
+    {
+      "codigo": "02",
+      "nombre": "Albacete",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Amparo Torres Valencoso"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Adrián Moreno Contreras"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Isabel Ferrer de la Cruz"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Alberto Martínez Cuartero"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Rubén Herrero de Castro"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Luisa María García Tárraga"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "María de los Llanos Soriano García"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Francisco Navarro Cebrián"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Juan Blanco Castellanos"
+        }
+      ]
+    },
+    {
+      "codigo": "03",
+      "nombre": "Alicante/Alacant",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Antonio Alfonso Francés Pérez"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Rodrigo Pastor García"
+        },
+        {
+          "denominacion": "PARTIDO AUTÓNOMOS",
+          "siglas": "PARTIDO AUTÓNOMOS",
+          "cabeza_de_lista": "Lydia Cañedo Oliver"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Casimiro Martín Soto"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Pablo Román Muñoz"
+        },
+        {
+          "denominacion": "COMPROMÍS: FRONT VALENCIÀ",
+          "siglas": "COMPROMIS-EUPV-PODEM-ERPV",
+          "cabeza_de_lista": "María Teresa Pérez Díaz"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "David García Gomis"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Jaime Barceló Ríos"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Macarena Montesinos De Miguel"
+        }
+      ]
+    },
+    {
+      "codigo": "04",
+      "nombre": "Almería",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Anabel Mateos Sánchez"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Emilio Gustavo Icasati Weidemüller"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Inmaculada María Jaén Pérez"
+        },
+        {
+          "denominacion": "ADELANTE ANDALUCÍA",
+          "siglas": "ADELANTE ANDALUCÍA",
+          "cabeza_de_lista": "Tania Ferre Carrión"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Eduardo José Milla Juan"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Rocío de Meer Méndez"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "María Carmen Crespo Díaz"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "María Mercedes Quero Molina"
+        },
+        {
+          "denominacion": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+          "siglas": "ESCAÑOS EN BLANCO",
+          "cabeza_de_lista": "Mariana García Hernández"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Mohsin Faiz Douhab"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Jésica Jiménez Gómez"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Zacarías Lucas Lekal Villegas"
+        }
+      ]
+    },
+    {
+      "codigo": "05",
+      "nombre": "Ávila",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Manuel Arribas Maroto"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Julio Blanco Rodríguez"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Pedro Hermosa González"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Jorge Moyano García"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Adrián Franco Barata"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Samuel Vázquez Álvarez"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Laura Ruiz Ginés"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Héctor Palencia Rubio"
+        },
+        {
+          "denominacion": "PARTIDO DEMÓCRATA SOCIAL JUBILADOS EUROPEOS",
+          "siglas": "P.D.S.J.E.",
+          "cabeza_de_lista": "Carmen Alicia Manchón Villaverde"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Pablo Garcinuño García"
+        }
+      ]
+    },
+    {
+      "codigo": "06",
+      "nombre": "Badajoz",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "María Yolanda García Seco"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Violeta Casado Sarti"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Ignacio Hoces Íñiguez"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Yago De Francisco González"
+        },
+        {
+          "denominacion": "NUEVO EXTREMEÑISMO - ADELANTE EXTREMADURA",
+          "siglas": "NEX",
+          "cabeza_de_lista": "Víctor Ramos Sánchez"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "María Teresa Tortonda Gordillo"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "María del Pilar Ramos Duro"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Inmaculada Soria Eugenio"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Amparo Botejara Sanz"
+        }
+      ]
+    },
+    {
+      "codigo": "07",
+      "nombre": "Illes Balears",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Selva Lucía Belmaña López"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA DE LAS ISLAS BALEARES",
+          "siglas": "PSIB-PSOE",
+          "cabeza_de_lista": "Francesca Lluch Armengol Socias"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "María Isabel Cerezo Sánchez"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Joan Luna Mateu"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Daniel Rodríguez Rincón"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "José Vicente Marí Bosó"
+        },
+        {
+          "denominacion": "ARAMÉS-FRONT AMPLI",
+          "siglas": "ARAMÉS-EU-MS",
+          "cabeza_de_lista": "Carme Gomila Domínguez"
+        }
+      ]
+    },
+    {
+      "codigo": "08",
+      "nombre": "Barcelona",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE)",
+          "siglas": "PSC",
+          "cabeza_de_lista": "Jordi Hereu Boher"
+        },
+        {
+          "denominacion": "JUNTS PER CATALUNYA",
+          "siglas": "JxCat",
+          "cabeza_de_lista": "Míriam Nogueras i Camero"
+        },
+        {
+          "denominacion": "ESQUERRA REPUBLICANA DE CATALUNYA",
+          "siglas": "ERC",
+          "cabeza_de_lista": "Gabriel Rufián Romero"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Daniel Carro Peralta"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Yolanda López Carreño"
+        },
+        {
+          "denominacion": "PARTIT COMUNISTA DELS TREBALLADORS DE CATALUNYA",
+          "siglas": "PCTC",
+          "cabeza_de_lista": "Maria Rodríguez-Farge Hijano"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Juan José Aizcorbe Torra"
+        },
+        {
+          "denominacion": "Comuns-Front Ampli",
+          "siglas": "COMUNS-FRONT AMPLI",
+          "cabeza_de_lista": "Ada Colau Ballano"
+        },
+        {
+          "denominacion": "PARTIT POPULAR / PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Xavier García Albiol"
+        },
+        {
+          "denominacion": "DEMOCRACIA para el siglo 21",
+          "siglas": "D21",
+          "cabeza_de_lista": "David Andrés Díaz"
+        },
+        {
+          "denominacion": "ALHORA",
+          "siglas": "ALHORA",
+          "cabeza_de_lista": "Jordi Graupera i Garcia Milà"
+        }
+      ]
+    },
+    {
+      "codigo": "09",
+      "nombre": "Burgos",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Gonzalo Herrero Burgos"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Esther Peña Camarero"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Marcos Santamaría Del Olmo"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Isabel Lara Benítez"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Eugenia Landaluce Miranda"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Elsa Colina Arreba"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Rubén Cabezón Milla"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Ángel Mariano Ibáñez Hernando"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Fernando José Saiz Martínez"
+        }
+      ]
+    },
+    {
+      "codigo": "10",
+      "nombre": "Cáceres",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Irene Pozas García"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Emilio José Paniagua Collazos"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Rubén Albalá Manuel"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Marcela Reigía Vales"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Mónica Pérez Gaite"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Cristina Elena Teniente Sánchez"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Álvaro Jaén Barbado"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Antonio Moreno Pérez"
+        },
+        {
+          "denominacion": "NUEVO EXTREMEÑISMO - ADELANTE EXTREMADURA",
+          "siglas": "NEX",
+          "cabeza_de_lista": "Ángel Andreo García"
+        }
+      ]
+    },
+    {
+      "codigo": "11",
+      "nombre": "Cádiz",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "José Manuel Albares Bueno"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Juan Vicente Parra Piñero"
+        },
+        {
+          "denominacion": "ADELANTE ANDALUCÍA",
+          "siglas": "ADELANTE ANDALUCÍA",
+          "cabeza_de_lista": "María Sánchez Barrada"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Francisco Anselmo Mesa González"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Laura María Gálvez Carmona"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Blanca Armario González"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Marcelino Laínez de los Reyes"
+        },
+        {
+          "denominacion": "Frente Amplio Andaluz",
+          "siglas": "FA",
+          "cabeza_de_lista": "Esther Francisca Gil de Reboleño Lastortres"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Julio de la Torre Lorenzo"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "María Gracia Clavijo Repetto"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "María José García-Pelayo Jurado"
+        }
+      ]
+    },
+    {
+      "codigo": "12",
+      "nombre": "Castellón/Castelló",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "María Jiménez Román"
+        },
+        {
+          "denominacion": "PARTIDO AUTÓNOMOS",
+          "siglas": "PARTIDO AUTÓNOMOS",
+          "cabeza_de_lista": "Carolina Queral Recatalá"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "David Fuentes Pinazo"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Álvaro González Álvaro"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Badr Ait Lamqadem Zahiri"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Alberto Teófilo Asarta Cuevas"
+        },
+        {
+          "denominacion": "FALANGE ESPAÑOLA DE LAS JONS",
+          "siglas": "FE de las JONS",
+          "cabeza_de_lista": "Andrónico Miguel Agustín Brun"
+        },
+        {
+          "denominacion": "COMPROMÍS: FRONT VALENCIÀ",
+          "siglas": "COMPROMIS-EUPV-PODEM-ERPV",
+          "cabeza_de_lista": "Ignasi García Felip"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Francisca Hernández Rodríguez"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Elena Albalat Aguilella"
+        }
+      ]
+    },
+    {
+      "codigo": "13",
+      "nombre": "Ciudad Real",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Isabel Rodríguez García"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Raúl Abengozar Galán"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Ricardo Chamorro Delmo"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "María Isabel Ruiz García"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "María Del Carmen Fúnez de Gregorio"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Juana Caro Marín"
+        }
+      ]
+    },
+    {
+      "codigo": "14",
+      "nombre": "Córdoba",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Alberto Mayoral de Lamo"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Angel Molina Ruiz"
+        },
+        {
+          "denominacion": "ADELANTE ANDALUCÍA",
+          "siglas": "ADELANTE ANDALUCÍA",
+          "cabeza_de_lista": "María del Carmen Sánchez Solís"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Eladio Barrado Prieto"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "José Ramírez del Río"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Ana Isabel Bastida Burgos"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Patricia María García Carmona"
+        },
+        {
+          "denominacion": "FALANGE ESPAÑOLA DE LAS JONS",
+          "siglas": "FE de las JONS",
+          "cabeza_de_lista": "Manuel Chacón Rodríguez"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Lorena Guerra Sánchez"
+        },
+        {
+          "denominacion": "FRENTE AMPLIO ANDALUZ",
+          "siglas": "FA",
+          "cabeza_de_lista": "Sebastián Pérez Gallardo"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Ana Belén Calzada Hombrado"
+        },
+        {
+          "denominacion": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+          "siglas": "ESCAÑOS EN BLANCO",
+          "cabeza_de_lista": "Carmen María Valderrama Crespo"
+        }
+      ]
+    },
+    {
+      "codigo": "15",
+      "nombre": "A Coruña",
+      "candidaturas": [
+        {
+          "denominacion": "Partido dos Socialistas de Galicia-PSOE",
+          "siglas": "PSdeG-PSOE",
+          "cabeza_de_lista": "Obdulia Taboadela Álvarez"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Manuel Fuentes Lamas"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Miguel Ángel Tellado Filgueira"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "María José García Hidalgo"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DOS TRABALLADORES DA GALIZA",
+          "siglas": "PCTG",
+          "cabeza_de_lista": "Daniel López García"
+        },
+        {
+          "denominacion": "BLOQUE NACIONALISTA GALEGO",
+          "siglas": "B.N.G.",
+          "cabeza_de_lista": "Néstor Rego Candamil"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Joel Novoa Arias"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Isabel Faraldo Calvo"
+        },
+        {
+          "denominacion": "Frente Amplio-Fronte Ampla",
+          "siglas": "FRENTE AMPLIO-FRONTE AMPLA",
+          "cabeza_de_lista": "José Luis Piñeiro García"
+        }
+      ]
+    },
+    {
+      "codigo": "16",
+      "nombre": "Cuenca",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Adrián Tabasco Bonilla"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Luis Carlos Sahuquillo García"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Rafael García Sáez"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Ismael Iván Vélez Cipriano"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Alejandro Fernández Suárez"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "José María Oviedo Oviedo"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Raquel Oliver Chico"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Miguel Ángel Hernández Pedreño"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Pedro José Contreras Racionero"
+        },
+        {
+          "denominacion": "FRENTE AMPLIO",
+          "siglas": "FA",
+          "cabeza_de_lista": "Francisco Javier Martínez Huerta"
+        }
+      ]
+    },
+    {
+      "codigo": "17",
+      "nombre": "Girona",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE)",
+          "siglas": "PSC",
+          "cabeza_de_lista": "Marc Lamuà Estañol"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Ivan Arroyo Laguna"
+        },
+        {
+          "denominacion": "JUNTS PER CATALUNYA",
+          "siglas": "JxCat",
+          "cabeza_de_lista": "Marta Madrenas i Mir"
+        },
+        {
+          "denominacion": "ESQUERRA REPUBLICANA DE CATALUNYA",
+          "siglas": "ERC",
+          "cabeza_de_lista": "Teresa Jordà Roura"
+        },
+        {
+          "denominacion": "Comuns-Front Ampli",
+          "siglas": "COMUNS-FRONT AMPLI",
+          "cabeza_de_lista": "Júlia Boada Danés"
+        },
+        {
+          "denominacion": "PARTIT COMUNISTA DELS TREBALLADORS DE CATALUNYA",
+          "siglas": "PCTC",
+          "cabeza_de_lista": "Tomás Ferreira Crubellati"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Arseniy Maximov Eudoqumova"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Ignasi Mulleras Vinzia"
+        },
+        {
+          "denominacion": "ALHORA",
+          "siglas": "ALHORA",
+          "cabeza_de_lista": "Júlia Ojeda Caba"
+        },
+        {
+          "denominacion": "PARTIT POPULAR / PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Diana Moya Redondo"
+        }
+      ]
+    },
+    {
+      "codigo": "18",
+      "nombre": "Granada",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Raúl Domínguez Rincón"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "María José Sánchez Sánchez"
+        },
+        {
+          "denominacion": "ADELANTE ANDALUCÍA",
+          "siglas": "ADELANTE ANDALUCÍA",
+          "cabeza_de_lista": "María Alcantud López"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Adrián García Barbarroja"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Rosa Alonso Domínguez"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Jacobo González-Robatto Perote"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Débora Godoy Izquierdo"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Alejandra Durán Parra"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Augustin Marie Ndour Ndong"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Jorge Saavedra Requena"
+        },
+        {
+          "denominacion": "Frente Amplio Andaluz",
+          "siglas": "FA",
+          "cabeza_de_lista": "Jesús Fernández Martín"
+        }
+      ]
+    },
+    {
+      "codigo": "19",
+      "nombre": "Guadalajara",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Carlos Calvo Fernández"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Jorge Miguel Perucha"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "José Carlos Albares Gallego"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Ángel López Maraver"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "María Jesús Merino Poyo"
+        },
+        {
+          "denominacion": "FRENTE AMPLIO",
+          "siglas": "FA",
+          "cabeza_de_lista": "Ernesto Martín Doménech"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Mario Javier Gallego Pareja"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Itziar Asenjo Domínguez"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Pedro Alfonso Cabello Albendea"
+        },
+        {
+          "denominacion": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+          "siglas": "FE de las JONS",
+          "cabeza_de_lista": "Juan Francisco Durán Carralero"
+        }
+      ]
+    },
+    {
+      "codigo": "20",
+      "nombre": "Gipuzkoa",
+      "candidaturas": [
+        {
+          "denominacion": "EUSKAL HERRIA BILDU",
+          "siglas": "EH BILDU",
+          "cabeza_de_lista": "Oihana Etxebarrieta Legrand"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE) PSE-EE",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Rafaela Romero Pozo"
+        },
+        {
+          "denominacion": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO",
+          "siglas": "EAJ-PNV",
+          "cabeza_de_lista": "Maribel Vaquero Montero"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "María Pilar Julia Otegui Serranos"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Leire Orbañanos Martínez"
+        },
+        {
+          "denominacion": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+          "siglas": "ESCAÑOS EN BLANCO",
+          "cabeza_de_lista": "Daniel Lizarralde Aguirre"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Juan Dios Dávila Garijo"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Maite Gartzia Ontiveros"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Jon Echeverría Franco"
+        },
+        {
+          "denominacion": "EUSKADIKO LANGILEEN ALDERDI KOMUNISTA/PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI",
+          "siglas": "ELAK/PCTE",
+          "cabeza_de_lista": "Eneko Lanz Llamas"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Rosa Rubio Sánchez"
+        }
+      ]
+    },
+    {
+      "codigo": "21",
+      "nombre": "Huelva",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Rafael Vicente Frías Ranea"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA DE HUELVA",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Gabriel Cruz Santana"
+        },
+        {
+          "denominacion": "ADELANTE ANDALUCÍA",
+          "siglas": "ADELANTE ANDALUCÍA",
+          "cabeza_de_lista": "Carmen María Martín Carrasco"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Tomás Fernández Ríos"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Cristina Reina Esojo"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "María del Pilar Miranda Plata"
+        },
+        {
+          "denominacion": "Frente Amplio Andaluz",
+          "siglas": "FA",
+          "cabeza_de_lista": "Rebeca Martín Sánchez"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "José Luis Rubio García"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Juana María Gómez Lorencio"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Hermes Gómez Escobar"
+        }
+      ]
+    },
+    {
+      "codigo": "22",
+      "nombre": "Huesca",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Begoña Nasarre Oliva"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Abel Escribano Bonacho"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Diego Cajal Orleans"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Ester Blanco Sánchez"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Rafael Pedraza Garrido"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Maria del Carmen Molero Lacarte"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Manuel Inurria Fernández"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Vicente Oliver Alexandre"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Ana Isabel Alós López"
+        },
+        {
+          "denominacion": "CHUNTA ARAGONESISTA-FRENTE AMPLIO ARAGÓN",
+          "siglas": "CHA-IU-MS-FRENTE AMPLIO",
+          "cabeza_de_lista": "José Luis Parra Pascau"
+        },
+        {
+          "denominacion": "FEDERACION DE LOS INDEPENDIENTES DE ARAGON",
+          "siglas": "FIA",
+          "cabeza_de_lista": "José María Abad Torres"
+        }
+      ]
+    },
+    {
+      "codigo": "23",
+      "nombre": "Jaén",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Erika Villegas Ruiz"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Isabel Uceda Cantero"
+        },
+        {
+          "denominacion": "ADELANTE ANDALUCÍA",
+          "siglas": "ADELANTE ANDALUCÍA",
+          "cabeza_de_lista": "Silvia Cano Contreras"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Juan Francisco Salinas Montoro"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Juan Javier Reverte López"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Francisco José Alcaraz Martos"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Noemí Pulido Galán"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Luis Mariano Camacho Nuñez"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Dolores Rodríguez López"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Francisca Amaro Lombardo"
+        },
+        {
+          "denominacion": "FRENTE AMPLIO",
+          "siglas": "FA",
+          "cabeza_de_lista": "Antonio Ortega Ruiz"
+        }
+      ]
+    },
+    {
+      "codigo": "24",
+      "nombre": "León",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Javier Alfonso Cendón"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "José Manuel Estébanez Fernández"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "María Natividad Franco Natal"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Enrique Jesús Pérez Suárez"
+        },
+        {
+          "denominacion": "PROYECTO ALANTRE",
+          "siglas": "P. ALANTRE",
+          "cabeza_de_lista": "José Antonio Fernández García"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Pablo Juan Calvo Liste"
+        },
+        {
+          "denominacion": "PARTIDO REGIONALISTA DEL PAIS LEONES",
+          "siglas": "PREPAL",
+          "cabeza_de_lista": "Manuela Iglesias Carreño"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Estrella Alonso Almazán"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Sixto Martínez Álvarez"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Ester Muñoz de la Iglesia"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Rubén Estévez Miguel"
+        },
+        {
+          "denominacion": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+          "siglas": "ESCAÑOS EN BLANCO",
+          "cabeza_de_lista": "María López Castellanos"
+        }
+      ]
+    },
+    {
+      "codigo": "25",
+      "nombre": "Lleida",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE)",
+          "siglas": "PSC",
+          "cabeza_de_lista": "Cristina Morón Molina"
+        },
+        {
+          "denominacion": "JUNTS PER CATALUNYA",
+          "siglas": "JxCat",
+          "cabeza_de_lista": "Isidre Gavín i Valls"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Albert Balasch Roque"
+        },
+        {
+          "denominacion": "ESQUERRA REPUBLICANA DE CATALUNYA",
+          "siglas": "ERC",
+          "cabeza_de_lista": "Inés Granollers i Cunillera"
+        },
+        {
+          "denominacion": "Comuns-Front Ampli",
+          "siglas": "COMUNS-FRONT AMPLI",
+          "cabeza_de_lista": "Montserrat Cortasa Gras"
+        },
+        {
+          "denominacion": "PARTIT COMUNISTA DELS TREBALLADORS DE CATALUNYA",
+          "siglas": "PCTC",
+          "cabeza_de_lista": "Guillem Cruz Lezcano"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Rafael Villafranca Merce"
+        },
+        {
+          "denominacion": "PARTIT ANIMALISTA AMB EL MEDI AMBIENT",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Iván Guijarro Vila"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Roger Melero Serra"
+        },
+        {
+          "denominacion": "ALHORA",
+          "siglas": "ALHORA",
+          "cabeza_de_lista": "Cristina Casol Segués"
+        }
+      ]
+    },
+    {
+      "codigo": "26",
+      "nombre": "La Rioja",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Elisa Garrido Jiménez"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Francisco Martínez Díaz"
+        },
+        {
+          "denominacion": "SE ACABO LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Juan Aparici Jerez"
+        },
+        {
+          "denominacion": "FRENTE AMPLIO",
+          "siglas": "FA",
+          "cabeza_de_lista": "Alba Díez Arrea"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Francisco Castro Portolés"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Ángel Alda Pérez"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "María Aranzazu Carrero Bacigalupe"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "María Concepción Gamarra Ruiz Clavijo"
+        },
+        {
+          "denominacion": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACIOS",
+          "siglas": "ESCAÑOS EN BLANCO",
+          "cabeza_de_lista": "María Carmen García Pellejero"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Rosalía Cortés Rodríguez"
+        }
+      ]
+    },
+    {
+      "codigo": "27",
+      "nombre": "Lugo",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO DOS SOCIALISTAS DE GALICIA-PSOE",
+          "siglas": "PSdeG-PSOE",
+          "cabeza_de_lista": "Patricia Otero Rodríguez"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Ximena Cheda Tuya"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Jesús Primitivo Rodríguez González"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Víctor Contreras Céspedes"
+        },
+        {
+          "denominacion": "BLOQUE NACIONALISTA GALEGO",
+          "siglas": "BNG",
+          "cabeza_de_lista": "Olalla Rodil Fernández"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Francisco José Conde López"
+        },
+        {
+          "denominacion": "FRENTE AMPLIO-FRONTE AMPLA",
+          "siglas": "FRENTE AMPLIO-FRONTE AMPLA",
+          "cabeza_de_lista": "Reyes Rodríguez García"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "María Ferreiro Carreiras"
+        }
+      ]
+    },
+    {
+      "codigo": "28",
+      "nombre": "Madrid",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Roberto Vaquero Arribas"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Pedro Sánchez Pérez-Castejón"
+        },
+        {
+          "denominacion": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+          "siglas": "FE de las JONS",
+          "cabeza_de_lista": "Norberto Pedro Pico Sanabria"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Santiago Abascal Conde"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Eva García de Madariaga Delgado"
+        },
+        {
+          "denominacion": "PARTIDO HUMANISTA",
+          "siglas": "PH",
+          "cabeza_de_lista": "José Luis Álvarez Cedena"
+        },
+        {
+          "denominacion": "DEMOCRACIA PARA EL SIGLO 21",
+          "siglas": "D21",
+          "cabeza_de_lista": "Miryan Mercedes González Durántez"
+        },
+        {
+          "denominacion": "IUSTITIA EUROPA",
+          "siglas": "IE",
+          "cabeza_de_lista": "Luis María Pardo Rodríguez"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "José Manuel Romero Melero"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Luis Alvise Pérez Fernández"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Alberto Núñez Feijóo"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Asier Esparza Billalabeitia"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Emilio Delgado Orgaz"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Irene Montero Gil"
+        }
+      ]
+    },
+    {
+      "codigo": "29",
+      "nombre": "Málaga",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Nicolás Navarro Ramírez"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "José Bernal Gutiérrez"
+        },
+        {
+          "denominacion": "ADELANTE ANDALUCÍA",
+          "siglas": "ADELANTE ANDALUCÍA",
+          "cabeza_de_lista": "Ana María Jiménez Navarro"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Eva Ramos Taillefer"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Carlos Hernández Quero"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Mercedes Gema Jiménez Martín"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Elías Bendodo Benasayag"
+        },
+        {
+          "denominacion": "ALTERNATIVA MALAGUEÑA",
+          "siglas": "29",
+          "cabeza_de_lista": "Emilio Felipe Guzmán Jiménez"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Antonio Jiménez Martínez de Ubago"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Micaela Jiménez Fortes"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Rafael Borrego Peña"
+        }
+      ]
+    },
+    {
+      "codigo": "30",
+      "nombre": "Murcia",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Luis Pons Burgueros"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "María González Veracruz"
+        },
+        {
+          "denominacion": "TERCERA EDAD EN ACCIÓN",
+          "siglas": "3e",
+          "cabeza_de_lista": "Domingo Díaz Carrillo"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Olmo Arquero Peinazo"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Joaquín Robles López"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Raquel Cardeñosa Cuesta"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Mirian Guardiola Salmerón"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Víctor Manuel Egío García"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Penélope Luna Palazón"
+        },
+        {
+          "denominacion": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+          "siglas": "ESCAÑOS EN BLANCO",
+          "cabeza_de_lista": "Ángel María Rey Albesa"
+        }
+      ]
+    },
+    {
+      "codigo": "31",
+      "nombre": "Navarra",
+      "candidaturas": [
+        {
+          "denominacion": "EUSKAL HERRIA BILDU",
+          "siglas": "EH BILDU",
+          "cabeza_de_lista": "Eneka Maiz Ulaiar"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Nerea León Miranda"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA DE NAVARRA-PSOE",
+          "siglas": "PSN-PSOE",
+          "cabeza_de_lista": "Elma Saiz Delgado"
+        },
+        {
+          "denominacion": "EGUZKILORE",
+          "siglas": "EGUZKILORE",
+          "cabeza_de_lista": "Francisco Javier Pérez Cueva"
+        },
+        {
+          "denominacion": "GEROA BAI",
+          "siglas": "GBAI",
+          "cabeza_de_lista": "Pablo Azcona Molinet"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "José Antonio Aparicio Martín"
+        },
+        {
+          "denominacion": "UNIÓN DEL PUEBLO NAVARRO EN COALICIÓN CON EL PARTIDO POPULAR",
+          "siglas": "UPN-PP",
+          "cabeza_de_lista": "Leticia San Martín Rodríguez"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Lidia Martínez Aranguibel"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "María Perpetuo Socorro Sada Ballesteros"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Virginia Alonso Aparicio"
+        },
+        {
+          "denominacion": "FRENTE AMPLIO-FRONTE ZABALA",
+          "siglas": "FRENTE AMPLIO-FRONTE ZABALA",
+          "cabeza_de_lista": "Javier Ibáñez Orayen"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Manuel Piñar Bautista"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Iker Maguregui Saiz"
+        }
+      ]
+    },
+    {
+      "codigo": "32",
+      "nombre": "Ourense",
+      "candidaturas": [
+        {
+          "denominacion": "Partido dos Socialistas de Galicia-PSOE",
+          "siglas": "PSdeG-PSOE",
+          "cabeza_de_lista": "María del Carmen Rodríguez Dacosta"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Laia González Gandia"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DOS TRABALLADORES DA GALIZA",
+          "siglas": "PCTG",
+          "cabeza_de_lista": "Brais Coello Vences"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Antonio José Naval Calviño"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Maria Jesús Morenza Fernández"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Abel Estévez González"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Ana Belén Vázquez Blanco"
+        },
+        {
+          "denominacion": "BLOQUE NACIONALISTA GALEGO",
+          "siglas": "BNG",
+          "cabeza_de_lista": "Noa Presas Bergantiños"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAIS XUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Rafael Manuel Fernández Alonso"
+        },
+        {
+          "denominacion": "Frente Amplio-Fronte Ampla",
+          "siglas": "FRENTE AMPLIO-FRONTE AMPLA",
+          "cabeza_de_lista": "Cristian González Vázquez"
+        }
+      ]
+    },
+    {
+      "codigo": "33",
+      "nombre": "Asturias",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Juan Sánchez Pérez"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Adriana Lastra Fernández"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Luis Álvarez Pérez"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "José María Figaredo Álvarez-Sala"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "José Ramón Bahamonde Nava"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Ástor García Suárez"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Manuel Antonio Pravia Fernández"
+        },
+        {
+          "denominacion": "PARTIDO UNIONISTA ESTADO DE ESPAÑA",
+          "siglas": "PUEDE",
+          "cabeza_de_lista": "José Luis Zapico Martínez"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Ángela Pumariega Menéndez"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Irene Jiménez López"
+        },
+        {
+          "denominacion": "FRENTE AMPLIU POR ASTURIES",
+          "siglas": "FA",
+          "cabeza_de_lista": "Juan Antonio González Ponte"
+        }
+      ]
+    },
+    {
+      "codigo": "34",
+      "nombre": "Palencia",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "María Luz Martínez Seijo"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Fernando Martínez Torres"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Matías Recio Juárez"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Alberto Pozo Díez"
+        },
+        {
+          "denominacion": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+          "siglas": "FE de las JONS",
+          "cabeza_de_lista": "Luis Miguel Pérez González"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Aitor Vega García"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Yeray Yáñez Ibáñez"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Milagros Marcos Ortega"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Miren Josu Moneo Viloria"
+        },
+        {
+          "denominacion": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+          "siglas": "ESCAÑOS EN BLANCO",
+          "cabeza_de_lista": "Alicia Calzada Bujedo"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Ana Belén Collantes Martín"
+        }
+      ]
+    },
+    {
+      "codigo": "35",
+      "nombre": "Las Palmas",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "María Dolores Corujo Berriel"
+        },
+        {
+          "denominacion": "LIBERACIÓN CANARIA",
+          "siglas": "LIB",
+          "cabeza_de_lista": "Daniel Falero Mesa"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Sergio Ramos Acosta"
+        },
+        {
+          "denominacion": "PARTIDO DRAGO CANARIAS",
+          "siglas": "D.R.G",
+          "cabeza_de_lista": "Héctor Morán Rodríguez"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Jorge García Cantarero"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Andrés Alberto Rodríguez Almeida"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Domingo González Perdomo"
+        },
+        {
+          "denominacion": "MUNICIPALISTAS PRIMERO CANARIAS-COALICIÓN CANARIA",
+          "siglas": "1.ºCAN-CCa",
+          "cabeza_de_lista": "Teodoro Claret Sosa Monzón"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Clara María Tejera González"
+        },
+        {
+          "denominacion": "POR UN MUNDO MÁS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Gara Rodríguez Gutiérrez"
+        },
+        {
+          "denominacion": "UNIDAD DEL PUEBLO CANARIO UPC",
+          "siglas": "NC-BC, PODEMOS, IU, SUMAR",
+          "cabeza_de_lista": "Luis Alberto Campos Jiménez"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Iris Cristina Sánchez Padrón"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DEL PUEBLO CANARIO",
+          "siglas": "PCPC",
+          "cabeza_de_lista": "Sonia María Iruela Padrón"
+        },
+        {
+          "denominacion": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+          "siglas": "ESCAÑOS EN BLANCO",
+          "cabeza_de_lista": "Valentín Tomás Labrada Ruiz"
+        }
+      ]
+    },
+    {
+      "codigo": "36",
+      "nombre": "Pontevedra",
+      "candidaturas": [
+        {
+          "denominacion": "Frente Obrero",
+          "siglas": "FO",
+          "cabeza_de_lista": "Xose Luis García Pazos"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Álvaro José Díaz-Mella López"
+        },
+        {
+          "denominacion": "Partido Comunista dos Traballadores da Galiza",
+          "siglas": "PCTG",
+          "cabeza_de_lista": "Miguel Riaño Roa"
+        },
+        {
+          "denominacion": "Partido dos Socialistas de Galicia-PSOE",
+          "siglas": "PSdeG-PSOE",
+          "cabeza_de_lista": "Abel Fermín Losada Álvarez"
+        },
+        {
+          "denominacion": "Escanos en Branco para deixar Escanos Baleiros",
+          "siglas": "ESCAÑOS EN BLANCO",
+          "cabeza_de_lista": "Joaquín Francisco Pérez Fernández"
+        },
+        {
+          "denominacion": "Partido Popular",
+          "siglas": "PP",
+          "cabeza_de_lista": "Julio García Comesaña"
+        },
+        {
+          "denominacion": "Frente Amplio - Fronte Ampla",
+          "siglas": "FRENTE AMPLIO - FRONTE AMPLA",
+          "cabeza_de_lista": "Gloria Alonso Domínguez"
+        },
+        {
+          "denominacion": "BLOQUE NACIONALISTA GALEGO",
+          "siglas": "BNG",
+          "cabeza_de_lista": "María Carme da Silva Méndez"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "David Díaz Garrido"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Lucas Meda Herbojo"
+        }
+      ]
+    },
+    {
+      "codigo": "37",
+      "nombre": "Salamanca",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Marco Pedro Pérez Graña"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "David Serrada Pariente"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "María Aurora Zarco Blanco"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Luis Eduardo Riesco Lorenzo"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Laura Magdalena Miguel"
+        },
+        {
+          "denominacion": "PARTIDO REGIONALISTA DEL PAIS LEONES",
+          "siglas": "PREPAL",
+          "cabeza_de_lista": "Rafael Diego Núñez"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Mario López Pascua"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "María del Carmen Seguín Kattán"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Miriam Ruiz Arias"
+        }
+      ]
+    },
+    {
+      "codigo": "38",
+      "nombre": "Santa Cruz de Tenerife",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "José Antonio Valbuena Alonso"
+        },
+        {
+          "denominacion": "Coalición Canaria-Municipalistas Primero Canarias",
+          "siglas": "CCa-1.ºCAN",
+          "cabeza_de_lista": "Cristina Valido García"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Gustavo González De Vega"
+        },
+        {
+          "denominacion": "PARTIDO DRAGO CANARIAS",
+          "siglas": "D.R.G",
+          "cabeza_de_lista": "Alberto Rodríguez Rodríguez"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Eduardo Zerolo Álvarez"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Yolanda Morales Pérez"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Antonio Coy García"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Alejandro Santiago Gómez Rodríguez"
+        },
+        {
+          "denominacion": "UNIDAD DEL PUEBLO CANARIO UPC",
+          "siglas": "NC-BC, PODEMOS, IU, SUMAR",
+          "cabeza_de_lista": "María Soledad Collado Mirabal"
+        },
+        {
+          "denominacion": "LIBERACIÓN CANARIA",
+          "siglas": "LIB",
+          "cabeza_de_lista": "Angélica María Calero Armas"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Pablo Janai García Canino"
+        },
+        {
+          "denominacion": "PARTIDO AUTÓNOMOS",
+          "siglas": "PARTIDO AUTÓNOMOS",
+          "cabeza_de_lista": "José Luis Arias Machuca"
+        }
+      ]
+    },
+    {
+      "codigo": "39",
+      "nombre": "Cantabria",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Susana Herrán Martín"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Raúl Díaz Roces"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Pablo Gómez Ruiz"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Emilio Jesús Del Valle Rodríguez"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Pablo Isidro Gómez"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "María Isabel Urrutía de los Mozos"
+        },
+        {
+          "denominacion": "FRENTE AMPLIO",
+          "siglas": "FA",
+          "cabeza_de_lista": "María Carmen Martín García"
+        }
+      ]
+    },
+    {
+      "codigo": "40",
+      "nombre": "Segovia",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Pablo de Mercado Alcalde"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "José Luis Aceves Galindo"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "José Manuel Eizaguirre Fernández-Palacios"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Jesús Angel Gascón Ames"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Gonzalo Babé Romero"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Rosa María Díaz García"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "María Soledad Alba Monfort"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Carlos Presa Irazábal"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Víctor Javier Borreguero García"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Pablo Pérez Coronado"
+        }
+      ]
+    },
+    {
+      "codigo": "41",
+      "nombre": "Sevilla",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Alejandro Rodríguez Prieto"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Alfonso Rodríguez Gómez de Celis"
+        },
+        {
+          "denominacion": "ADELANTE ANDALUCÍA",
+          "siglas": "ADELANTE ANDALUCÍA",
+          "cabeza_de_lista": "Luis María de los Santos Castillo"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Juan Antonio Sánchez Murillo González"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "María de los Reyes Romero Vilches"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Nasai Littarru Sampedro"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Clara Isabel Márquez Martínez"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Mar Cambrollé Jurado"
+        },
+        {
+          "denominacion": "Frente Amplio Andaluz",
+          "siglas": "FA",
+          "cabeza_de_lista": "Enrique Fernando Santiago Romero"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Juan Bravo Baena"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Noemí Reyes Roldán"
+        }
+      ]
+    },
+    {
+      "codigo": "42",
+      "nombre": "Soria",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Diego Gallardo de la Fuente"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Ezequiel Blanco López"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Rafael Alfonso Gómez Aguilar"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Luis Alfonso Rey de las Heras"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "José María Lorenzo Córdoba Alós"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Andrea Martínez Ruiz"
+        },
+        {
+          "denominacion": "SORIA ¡YA!",
+          "siglas": "SY",
+          "cabeza_de_lista": "Juan Antonio Palomar Sicilia"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Ángel Alberto Flores Gaitán"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Tomás Cabezón Casas"
+        },
+        {
+          "denominacion": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+          "siglas": "ESCAÑOS EN BLANCO",
+          "cabeza_de_lista": "Luis García Molina"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "María Luisa Muñoz González"
+        }
+      ]
+    },
+    {
+      "codigo": "43",
+      "nombre": "Tarragona",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIT DELS SOCIALISTES DE CATALUNYA (PSC-PSOE)",
+          "siglas": "PSC",
+          "cabeza_de_lista": "Ione Montalvo Aguirrezabala"
+        },
+        {
+          "denominacion": "ESQUERRA REPUBLICANA DE CATALUNYA",
+          "siglas": "ERC",
+          "cabeza_de_lista": "Norma Pujol Farré"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Olga Donaire Muñoz"
+        },
+        {
+          "denominacion": "JUNTS PER CATALUNYA",
+          "siglas": "JxCat",
+          "cabeza_de_lista": "Josep Maria Cruset i Domènech"
+        },
+        {
+          "denominacion": "PARTIT COMUNISTA DELS TREBALLADORS DE CATALUNYA",
+          "siglas": "PCTC",
+          "cabeza_de_lista": "Andreu Tomàs Martínez de Villa"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Jorge Sánchez Castro"
+        },
+        {
+          "denominacion": "Comuns-Front Ampli",
+          "siglas": "COMUNS-FRONT AMPLI",
+          "cabeza_de_lista": "Ester Roca Domedel"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Jordi Albert de la Fuente i Miró"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Bárbara Batalla Vargas"
+        },
+        {
+          "denominacion": "CONVERGENTS",
+          "siglas": "CNV",
+          "cabeza_de_lista": "Cristian Orellana Trujillo"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Charles Toja Muiños"
+        },
+        {
+          "denominacion": "PARTIT POPULAR / PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Mónica Landete Oliva"
+        },
+        {
+          "denominacion": "ALHORA",
+          "siglas": "ALHORA",
+          "cabeza_de_lista": "Miquel Bonet Pinyol"
+        }
+      ]
+    },
+    {
+      "codigo": "44",
+      "nombre": "Teruel",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Herminio Rufino Sancho Íñiguez"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Alba Waitara Casanova Collado"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Daniel Alda Chercoles"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "José Manuel Carrizosa Miguel"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Carlos Aranda Anquela"
+        },
+        {
+          "denominacion": "TERUEL EXISTE",
+          "siglas": "TERUEL EXISTE",
+          "cabeza_de_lista": "Tomás Guitarte Gimeno"
+        },
+        {
+          "denominacion": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+          "siglas": "FE de las JONS",
+          "cabeza_de_lista": "Santiago María Núñez Albesa"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Selena Tomasa Sánchez Galindo"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "José Alberto Herrero Bono"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Rafael Carlos Esteban Martín"
+        }
+      ]
+    },
+    {
+      "codigo": "45",
+      "nombre": "Toledo",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Milagros Tolón Jaime"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Cristina Martínez Ortega"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Antonio Cuñarro Alonso"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Manuel Mariscal Zabala"
+        },
+        {
+          "denominacion": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+          "siglas": "FE de las JONS",
+          "cabeza_de_lista": "José Ramón Jarones Martín-Aragón"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Carlos Velázquez Romo"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "María Ángeles Castellanos Valverde"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "José Alejandro Ávila Sánchez"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Miguel Ángel Alonso García-Largo"
+        }
+      ]
+    },
+    {
+      "codigo": "46",
+      "nombre": "Valencia/València",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Pilar Bernabé García"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Carmen López Manzano"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Gabriel Lorente Juan"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Ignacio Gil Lázaro"
+        },
+        {
+          "denominacion": "COMPROMÍS: FRONT VALENCIÀ",
+          "siglas": "COMPROMIS-EUPV-PODEM-ERPV",
+          "cabeza_de_lista": "Àgueda Micó Micó"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Kevin Pérez Hernández"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Irene Mercedes Mora Pérez"
+        },
+        {
+          "denominacion": "VALENCIA UNIDA",
+          "siglas": "VLC",
+          "cabeza_de_lista": "Vicente González-Lizondo Sánchez"
+        },
+        {
+          "denominacion": "RENACER RENAIXER",
+          "siglas": "RRB",
+          "cabeza_de_lista": "Miguel Ramón Martí Matias"
+        },
+        {
+          "denominacion": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+          "siglas": "FE de las JONS",
+          "cabeza_de_lista": "Alejo Herrero González de Cárdenas"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "María José Catalá Verdet"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Marta López Calatayud"
+        },
+        {
+          "denominacion": "AGENDA VALENCIANA",
+          "siglas": "AGENDA VALENCIANA",
+          "cabeza_de_lista": "José Ramón Chirivella Vila"
+        }
+      ]
+    },
+    {
+      "codigo": "47",
+      "nombre": "Valladolid",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Óscar Puente Santiago"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Alejandro López De Diego"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Onecha López Merino"
+        },
+        {
+          "denominacion": "PARTIDO NACIONALISTA DE CASTILLA Y LEÓN - UNION REFORMISTA CIUDADANA",
+          "siglas": "PANCAL-URCI",
+          "cabeza_de_lista": "María Yolanda Pérez López"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Eider Rodríguez Camps"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Pablo Sáez Alonso-Muñumer"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "María Hernandez García"
+        },
+        {
+          "denominacion": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+          "siglas": "FE de las JONS",
+          "cabeza_de_lista": "Francisco Javier Sanz Méndez"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "María Almudena Villarreal Vidal"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Ignacio Javier Díez Arauz"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "María Pardo Álvarez"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Abdul Gadiri Diallo Bah"
+        },
+        {
+          "denominacion": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+          "siglas": "ESCAÑOS EN BLANCO",
+          "cabeza_de_lista": "Katia García Casas"
+        }
+      ]
+    },
+    {
+      "codigo": "48",
+      "nombre": "Bizkaia",
+      "candidaturas": [
+        {
+          "denominacion": "EUZKO ALDERDI JELTZALEA-PARTIDO NACIONALISTA VASCO",
+          "siglas": "EAJ-PNV",
+          "cabeza_de_lista": "Idoia Sagastizabal Unzetabarrenetxea"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA DE EUSKADI-EUSKADIKO EZKERRA (PSOE) PSE-EE",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Patxi López Alvarez"
+        },
+        {
+          "denominacion": "EUSKAL HERRIA BILDU",
+          "siglas": "EH Bildu",
+          "cabeza_de_lista": "Oskar Matute Garcia de Jalón"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE EUSKADI/EUSKADIKO LANGILEEN ALDERDI KOMUNISTA",
+          "siglas": "PCTE/ELAK",
+          "cabeza_de_lista": "Sergio Saenz Álvarez"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Marco Antonio Moreno Asla"
+        },
+        {
+          "denominacion": "FRENTE AMPLIO",
+          "siglas": "FA",
+          "cabeza_de_lista": "Lander Martínez Hierro"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Jose Manuel de Pablos Bajo"
+        },
+        {
+          "denominacion": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+          "siglas": "PACMA",
+          "cabeza_de_lista": "Janire Asenjo García"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Oscar García Riesgo"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Esther Martínez Fernández"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Luis Maria Vega Castresana"
+        }
+      ]
+    },
+    {
+      "codigo": "49",
+      "nombre": "Zamora",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Antidio Fagúndez Campo"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Sócrates Fernández López"
+        },
+        {
+          "denominacion": "PARTIDO REGIONALISTA DEL PAIS LEONES",
+          "siglas": "PREPAL",
+          "cabeza_de_lista": "Francisco Iglesias Carreño"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "María Cynthia Garrote Ballestero"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Miguel Suárez Arca"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Miguel Ángel Guerra Cosme"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "María Montserrat Chimeno Viñas"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Francisco Ramos Orgaz"
+        },
+        {
+          "denominacion": "Frente Amplio",
+          "siglas": "FA",
+          "cabeza_de_lista": "Diego Bernardo Rosas"
+        }
+      ]
+    },
+    {
+      "codigo": "50",
+      "nombre": "Zaragoza",
+      "candidaturas": [
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "Samuel Pelayo Fosch"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Fernando Ángel Beltrán Blázquez"
+        },
+        {
+          "denominacion": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+          "siglas": "PCTE",
+          "cabeza_de_lista": "Marina Lapuente Rey"
+        },
+        {
+          "denominacion": "POR UN MUNDO MAS JUSTO",
+          "siglas": "MUNDO+JUSTO",
+          "cabeza_de_lista": "Jesús Miguel Sánchez Felipe"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "María Carmen Rouco Laliena"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PODEMOS",
+          "cabeza_de_lista": "Alicia Arteaga Lahuerta"
+        },
+        {
+          "denominacion": "FEDERACION DE LOS INDEPENDIENTES DE ARAGON",
+          "siglas": "F.I.A.",
+          "cabeza_de_lista": "Amadeo Escolán Remartínez"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "María del Rocío Dívar Conde"
+        },
+        {
+          "denominacion": "Chunta Aragonesista-Frente Amplio Aragón",
+          "siglas": "CHA-IU-MS-FRENTE AMPLIO",
+          "cabeza_de_lista": "Marina Rodríguez Hernando"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "María Cristina Falcón Aldana"
+        }
+      ]
+    },
+    {
+      "codigo": "51",
+      "nombre": "Ceuta",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Rafael Martínez Peñalver Mateos"
+        },
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Luis Manuel Tovar Gálvez"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "Ana Belén Cifuentes Cánovas"
+        },
+        {
+          "denominacion": "PODEMOS",
+          "siglas": "PAZ,CASA Y TRABAJO",
+          "cabeza_de_lista": "Ramón Rodríguez Casaubón"
+        },
+        {
+          "denominacion": "SE ACABO LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Carlos José Pavón Fumadó"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FRENTE OBRERO",
+          "cabeza_de_lista": "Manuel Marcos Vidal Tejada"
+        }
+      ]
+    },
+    {
+      "codigo": "52",
+      "nombre": "Melilla",
+      "candidaturas": [
+        {
+          "denominacion": "PARTIDO SOCIALISTA OBRERO ESPAÑOL",
+          "siglas": "PSOE",
+          "cabeza_de_lista": "Riduan Moh Abdelkader"
+        },
+        {
+          "denominacion": "FRENTE OBRERO",
+          "siglas": "FO",
+          "cabeza_de_lista": "David Vidal Mas"
+        },
+        {
+          "denominacion": "SE ACABÓ LA FIESTA",
+          "siglas": "SALF",
+          "cabeza_de_lista": "Susana Morillo Espinosa"
+        },
+        {
+          "denominacion": "VOX",
+          "siglas": "VOX",
+          "cabeza_de_lista": "José Miguel Tasende Souto"
+        },
+        {
+          "denominacion": "PARTIDO POPULAR",
+          "siglas": "PP",
+          "cabeza_de_lista": "Sofía Acedo Reyes"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "psoe-sanchez-wild-z7uqo-territorial-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=Z7UQOMy4spc",
+    "tema": "territorial",
+    "tipo": "posicion",
+    "cita_literal": "Pero aú, yo creo que aunque no hubiera habido indultos o amnistías, tampoco lo sería ya",
+    "contexto_minuto": "01:15"
+  },
+  {
+    "id": "psoe-sanchez-wild-z7uqo-defensa-exterior-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=Z7UQOMy4spc",
+    "tema": "defensa_exterior",
+    "tipo": "posicion",
+    "cita_literal": "A ver, la posición de España es la misma que se expresa en la resolución del Consejo de Seguridad de Naciones Unidas y a la cual, por cierto, se han adherido los principales países europeos, Francia, Alemania, Holanda, España.",
+    "contexto_minuto": "01:30"
+  },
+  {
+    "id": "psoe-sanchez-wild-z7uqo-seguridad-justicia-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=Z7UQOMy4spc",
+    "tema": "seguridad_justicia",
+    "tipo": "posicion",
+    "cita_literal": "nosotros como gobierno hemos llevado una propuesta a los grupos parlamentarios en el Congreso, está en el Congreso de los Diputados.",
+    "contexto_minuto": "03:58"
+  },
+  {
+    "id": "psoe-sanchez-wild-z7uqo-seguridad-justicia-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=Z7UQOMy4spc",
+    "tema": "seguridad_justicia",
+    "tipo": "posicion",
+    "cita_literal": "Desgraciadamente se ha acabado la legislatura y volverá en la próxima legislatura, pero ya es un debate más de los grupos parlamentarios que de la posición del Gobierno de España.",
+    "contexto_minuto": "04:04"
+  },
+  {
+    "id": "psoe-sanchez-wild-z7uqo-vivienda-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=Z7UQOMy4spc",
+    "tema": "vivienda",
+    "tipo": "compromiso",
+    "cita_literal": "yo creo que hay que responder a la involución con movilización y una movilización histórica que nos lleve a repetir 4 años más, a ser posible con una mayoría progresista en el parlamento que nos permita, por ejemplo, resolver cuestiones tan importantes como la vivienda.",
+    "contexto_minuto": "07:03"
+  }
+]

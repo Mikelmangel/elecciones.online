@@ -1,0 +1,82 @@
+[
+ {
+  "id": "bng-ponton-1",
+  "entrevista_url": "https://www.bng.gal/telebng/entrevista-completa-ana-ponton-tvg/20261014125952043614.html",
+  "tema": "economia",
+  "tipo": "cifra",
+  "cita_literal": "como é posible que tendo Galiza a débeda disparada, como temos neste momento consegue o BNG unha quita de 4.000 millóns de euros e o presidente da Xunta intenta boicotear?",
+  "contexto_minuto": "02:29"
+ },
+ {
+  "id": "bng-ponton-2",
+  "entrevista_url": "https://www.bng.gal/telebng/entrevista-completa-ana-ponton-tvg/20261014125952043614.html",
+  "tema": "infraestructuras",
+  "tipo": "compromiso",
+  "cita_literal": "temos que mellorar o ferrocarril, temos que conseguir que por fin se implanten as cercanías, temos que traballar para que se acabe con esa estafa da AP-9.",
+  "contexto_minuto": "03:43"
+ },
+ {
+  "id": "bng-ponton-3",
+  "entrevista_url": "https://www.bng.gal/telebng/entrevista-completa-ana-ponton-tvg/20261014125952043614.html",
+  "tema": "energia_clima",
+  "tipo": "compromiso",
+  "cita_literal": "Teremos eh que traballar para que a nosa riqueza eléctrica non sexa espoliada polos intereses centralistas e polas grandes eh multinacionais do sector, as grandes eléctricas.",
+  "contexto_minuto": "03:43"
+ },
+ {
+  "id": "bng-ponton-4",
+  "entrevista_url": "https://www.bng.gal/telebng/entrevista-completa-ana-ponton-tvg/20261014125952043614.html",
+  "tema": "vivienda",
+  "tipo": "cifra",
+  "cita_literal": "a xente ten que saber que mentres o Sr. Feijóo foi presidente da Xunta, entre 2015 e 2022, só se construíron 18 pisos en aluguer neste país",
+  "contexto_minuto": "05:23"
+ },
+ {
+  "id": "bng-ponton-5",
+  "entrevista_url": "https://www.bng.gal/telebng/entrevista-completa-ana-ponton-tvg/20261014125952043614.html",
+  "tema": "vivienda",
+  "tipo": "cifra",
+  "cita_literal": "e logo veu Rueda e dixo que en 2026 tería 1.800 vivendas en aluguer social.",
+  "contexto_minuto": "05:39"
+ },
+ {
+  "id": "bng-ponton-6",
+  "entrevista_url": "https://www.bng.gal/telebng/entrevista-completa-ana-ponton-tvg/20261014125952043614.html",
+  "tema": "vivienda",
+  "tipo": "cifra",
+  "cita_literal": "Entregou as primeiras 24 vivendas en 17 anos en Santiago de Compostela e das 1800 que prometeu que entregaría antes de que rematara o 2026, só entregou 98.",
+  "contexto_minuto": "05:59"
+ },
+ {
+  "id": "bng-ponton-7",
+  "entrevista_url": "https://www.bng.gal/telebng/entrevista-completa-ana-ponton-tvg/20261014125952043614.html",
+  "tema": "sanidad",
+  "tipo": "cifra",
+  "cita_literal": "un sobrecuste de 470 millóns de euros no hospital de Vigo, que pagamos os galegos e galegas ás construtoras amigas do Partido Popular",
+  "contexto_minuto": "08:38"
+ },
+ {
+  "id": "bng-ponton-8",
+  "entrevista_url": "https://www.bng.gal/telebng/entrevista-completa-ana-ponton-tvg/20261014125952043614.html",
+  "tema": "sanidad",
+  "tipo": "cifra",
+  "cita_literal": "ou que teñamos no noso país o maior concerto cunha ehm cun hospital privado como é o de Vigo, 100 millóns de euros dun contrato que non coñecemos e cunha opacidade total.",
+  "contexto_minuto": "08:55"
+ },
+ {
+  "id": "bng-ponton-9",
+  "entrevista_url": "https://www.bng.gal/telebng/entrevista-completa-ana-ponton-tvg/20261014125952043614.html",
+  "tema": "cultura",
+  "tipo": "posicion",
+  "cita_literal": "E para poder garantirllo, ao primeiro que había que tocar era o decreto da vergoña.",
+  "contexto_minuto": "10:33"
+ },
+ {
+  "id": "bng-ponton-10",
+  "entrevista_url": "https://www.bng.gal/telebng/entrevista-completa-ana-ponton-tvg/20261014125952043614.html",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "O BNG apoia a toda a xente que está loitando polo dereito a unha vivenda digna fronte á especulación.",
+  "contexto_minuto": "11:10"
+ }
+]

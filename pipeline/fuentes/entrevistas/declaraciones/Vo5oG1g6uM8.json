@@ -1,0 +1,26 @@
+[
+  {
+    "id": "psoe-sanchez-revuelta-defensa-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=Vo5oG1g6uM8",
+    "tema": "defensa_exterior",
+    "tipo": "cifra",
+    "cita_literal": "Es que tú fíjate, lo del 5% eh del gasto en defensa significa eh pues un ajuste de 60.000 millones de euros que tenemos que",
+    "contexto_minuto": "04:14"
+  },
+  {
+    "id": "psoe-sanchez-revuelta-defensa-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=Vo5oG1g6uM8",
+    "tema": "defensa_exterior",
+    "tipo": "cifra",
+    "cita_literal": "Europa, en lo que llevamos de meses de guerra, porque llevamos meses, no años de guerra en Irán, ya hemos gastado más de 100.000 millones de euros.",
+    "contexto_minuto": "07:28"
+  },
+  {
+    "id": "psoe-sanchez-revuelta-energia-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=Vo5oG1g6uM8",
+    "tema": "energia_clima",
+    "tipo": "cifra",
+    "cita_literal": "Nosotros en España, pues oye, los decretos que hemos eh que hemos que hemos aprobado precisamente para cubrir eh pues el impacto en en el precio de la gasolina o del gasoil, eh pues ya llevamos 12.000 millones de euros.",
+    "contexto_minuto": "07:40"
+  }
+]

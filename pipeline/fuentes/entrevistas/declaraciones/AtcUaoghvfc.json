@@ -1,0 +1,26 @@
+[
+  {
+    "id": "psoe-sanchez-wild-instituciones-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=AtcUaoghvfc",
+    "tema": "instituciones",
+    "tipo": "cifra",
+    "cita_literal": "En 2021 yo lo que decido después de unas elecciones en donde nos llevamos un revolcón en la Comunidad de Madrid eh es renovar el gobierno y salen eh creo recordar que si no fueron cinco fueron seis ministros.",
+    "contexto_minuto": "05:02"
+  },
+  {
+    "id": "psoe-sanchez-wild-instituciones-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=AtcUaoghvfc",
+    "tema": "instituciones",
+    "tipo": "cifra",
+    "cita_literal": "nosotros contratamos esos 40 y pico mil euros, contratamos los servicios de varios despachos de abogados.",
+    "contexto_minuto": "12:53"
+  },
+  {
+    "id": "psoe-sanchez-wild-seguridad-justicia-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=AtcUaoghvfc",
+    "tema": "seguridad_justicia",
+    "tipo": "posicion",
+    "cita_literal": "eso es un tema que yo he preguntado a los asesores jurídicos del del partido y en el momento en el que eh se pruebe que bueno, pues el partido ha sido afectado por por alguna eh actividad ilícita, nosotros no descartamos ninguna acción judicial.",
+    "contexto_minuto": "13:55"
+  }
+]

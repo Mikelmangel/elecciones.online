@@ -1,0 +1,24 @@
+{
+  "fuente": "partidos_referencia",
+  "eleccion_id": "generales-2026",
+  "partidos": [
+    { "slug": "pp", "siglas": "PP", "nombre": "Partido Popular", "ambito": "nacional", "grupoCongreso": "GP", "grupoEsCoalicion": false, "entrevistaKey": "PP" },
+    { "slug": "psoe", "siglas": "PSOE", "nombre": "Partido Socialista Obrero Español", "ambito": "nacional", "grupoCongreso": "GS", "grupoEsCoalicion": false, "entrevistaKey": "PSOE" },
+    { "slug": "vox", "siglas": "VOX", "nombre": "VOX", "ambito": "nacional", "grupoCongreso": "GVOX", "grupoEsCoalicion": false, "entrevistaKey": "VOX" },
+    { "slug": "frente-amplio", "siglas": "Sumar / FA", "nombre": "Frente Amplio / Sumar", "ambito": "nacional", "grupoCongreso": "GSUMAR", "grupoEsCoalicion": true, "entrevistaKey": "Frente Amplio" },
+    { "slug": "podemos", "siglas": "Podemos", "nombre": "Podemos", "ambito": "nacional", "grupoCongreso": "GMx", "grupoEsCoalicion": true, "entrevistaKey": "PODEMOS" },
+    { "slug": "pacma", "siglas": "PACMA", "nombre": "Partido Animalista Con el Medio Ambiente", "ambito": "nacional", "grupoCongreso": null, "grupoEsCoalicion": false, "entrevistaKey": "PACMA" },
+    { "slug": "salf", "siglas": "SALF", "nombre": "Se Acabó La Fiesta", "ambito": "nacional", "grupoCongreso": null, "grupoEsCoalicion": false, "entrevistaKey": "SALF", "programaSlug": "salf" },
+    { "slug": "d21", "siglas": "D21", "nombre": "Democracia para el siglo 21", "ambito": "nacional", "grupoCongreso": null, "grupoEsCoalicion": false, "entrevistaKey": "D21" },
+    { "slug": "mj", "siglas": "M+J", "nombre": "Por un Mundo Más Justo", "ambito": "nacional", "grupoCongreso": null, "grupoEsCoalicion": false, "entrevistaKey": "M+J", "programaSlug": "mj" },
+    { "slug": "psc", "siglas": "PSC", "nombre": "Partit dels Socialistes de Catalunya", "ambito": "regional", "territorio": "Cataluña", "grupoCongreso": "GS", "grupoEsCoalicion": false, "entrevistaKey": "PSC" },
+    { "slug": "eaj-pnv", "siglas": "EAJ-PNV", "nombre": "Partido Nacionalista Vasco", "ambito": "regional", "territorio": "País Vasco y Navarra", "grupoCongreso": "GV (EAJ-PNV)", "grupoEsCoalicion": false, "entrevistaKey": "EAJ-PNV" },
+    { "slug": "eh-bildu", "siglas": "EH Bildu", "nombre": "Euskal Herria Bildu", "ambito": "regional", "territorio": "País Vasco y Navarra", "grupoCongreso": "GEH Bildu", "grupoEsCoalicion": false, "entrevistaKey": "EH BILDU" },
+    { "slug": "erc", "siglas": "ERC", "nombre": "Esquerra Republicana de Catalunya", "ambito": "regional", "territorio": "Cataluña; en la C. Valenciana, dentro de la coalición de Compromís", "grupoCongreso": "GR", "grupoEsCoalicion": false, "entrevistaKey": "ERC" },
+    { "slug": "junts", "siglas": "Junts", "nombre": "Junts per Catalunya", "ambito": "regional", "territorio": "Cataluña", "grupoCongreso": "GJxCAT", "grupoEsCoalicion": false, "entrevistaKey": "JxCat" },
+    { "slug": "bng", "siglas": "BNG", "nombre": "Bloque Nacionalista Galego", "ambito": "regional", "territorio": "Galicia", "grupoCongreso": "GMx", "grupoEsCoalicion": true, "entrevistaKey": "BNG" },
+    { "slug": "cc", "siglas": "CCa", "nombre": "Coalición Canaria", "ambito": "regional", "territorio": "Canarias", "grupoCongreso": "GMx", "grupoEsCoalicion": true, "entrevistaKey": "CCa", "programaSlug": "cc" },
+    { "slug": "compromis", "siglas": "Compromís", "nombre": "Compromís-Front Valencià", "ambito": "regional", "territorio": "C. Valenciana", "grupoCongreso": "GMx", "grupoEsCoalicion": true, "entrevistaKey": "Compromís", "programaSlug": "compromis" },
+    { "slug": "upn", "siglas": "UPN", "nombre": "Unión del Pueblo Navarro", "ambito": "regional", "territorio": "Navarra", "grupoCongreso": "GMx", "grupoEsCoalicion": true, "entrevistaKey": "UPN" }
+  ]
+}

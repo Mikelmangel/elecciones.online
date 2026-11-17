@@ -1,0 +1,1200 @@
+{
+  "siglas": "SALF",
+  "nombre": "Se Acabó La Fiesta",
+  "fuente_url": "https://www.seacabolafiesta.com/SALF_Contrato_Electoral_29N.pdf?v=073425b9522d",
+  "fetched_at": "2026-11-16T06:55:00Z",
+  "sha256": "073425b9522da77608a0399923c2e0d3b9153776e8a0436ac8f0aea794b7893b",
+  "paginas": 40,
+  "propuestas": [
+    {
+      "area": "vivienda",
+      "titular": "Tu primera vivienda, un 35 % más barata",
+      "cita": "Tu primera vivienda, un 35 % más barata.",
+      "pagina": 5,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "El negocio de la casta con tu casa",
+      "cita": "Ley de neutralidad: la recaudación por vivienda no puede crecer más que el IPC y el exceso se devuelve bajando tipos.",
+      "pagina": 5,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Okupa fuera en 48 horas. Inquiokupa, en 30 días",
+      "cita": "Con denuncia y título de propiedad, la Policía desaloja en 48 horas.",
+      "pagina": 5,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Suelo público gratis y vivienda en propiedad",
+      "cita": "Todo el suelo de la Sareb y del Estado, en 12 meses, a concurso para construir vivienda protegida en propiedad a precio tasado.",
+      "pagina": 6,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Licencia en un mes o silencio positivo",
+      "cita": "Un mes obra menor, dos obra mayor, tres grandes desarrollos.",
+      "pagina": 6,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Los fondos pagan el 0 %. Se acabó",
+      "cita": "Las SOCIMI con más de 100 viviendas en alquiler tributan al 25 %, como cualquier empresa.",
+      "pagina": 6,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Hipoteca joven: el Estado avala tu entrada",
+      "cita": "Aval público del 20 % de entrada para menores de 40 en su primera vivienda.",
+      "pagina": 6,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Aval del Estado para que el casero",
+      "cita": "Seguro público de impago: doce meses de renta y daños garantizados; después, el Estado persigue al moroso.",
+      "pagina": 7,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Construir rápido: licencia automática en 15 días",
+      "cita": "Vivienda industrializada en suelo público y urbano consolidado con licencia automática y estándar técnico único: lo que vale en Sevilla vale en Bilbao.",
+      "pagina": 7,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Eliminación total del IBI",
+      "cita": "El IBI se elimina por completo, para todos.",
+      "pagina": 7,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Macrocárcel para asesinos, violadores, narcos y corruptos",
+      "cita": "Donde se ha hecho, los homicidios cayeron de 105 a 1 por 100.000 habitantes.",
+      "pagina": 8,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Cumplimiento íntegro",
+      "cita": "Prisión permanente revisable por violación a menores o con lesiones graves.",
+      "pagina": 8,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Agresores sexuales: registro público y castración química",
+      "cita": "Registro público de reincidentes, pulsera telemática de por vida y castración química voluntaria como condición de cualquier beneficio penitenciario.",
+      "pagina": 8,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Extranjero condenado: cumple la pena fuera",
+      "cita": "Convenios con terceros países para que los extranjeros condenados cumplan la pena allí, en prisiones de máxima dureza, no en una celda con televisión y permisos.",
+      "pagina": 9,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Guardia Civil y Policía: el mismo sueldo",
+      "cita": "Equiparación salarial real en dos años, jubilación a los 60 sin penalización y reconocimiento de profesión de riesgo.",
+      "pagina": 9,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Plan Estrecho: la Armada contra el narco",
+      "cita": "Apoyo permanente de la Armada y el Ejército del Aire, 180 millones en lanchas, drones y medios aéreos, y decomiso civil de todo bien del narcotráfico.",
+      "pagina": 9,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "La mili voluntaria: 1.600 euros al mes",
+      "cita": "De seis a doce meses, militar o civil, entre 18 y 30 años: 1.600 euros netos, formación oficial, puntos en todas las oposiciones, vivienda protegida preferente y 5.000 euros al terminar.",
+      "pagina": 9,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "La mili: quien sirve a España paga menos impuestos",
+      "cita": "Servir a España tiene que notarse en la nómina.",
+      "pagina": 9,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Justicia en 72 horas",
+      "cita": "Juicios rápidos en 72 horas para multirreincidentes y delitos flagrantes.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Legítima defensa: el que entra en tu casa",
+      "cita": "Presunción legal de legítima defensa en tu vivienda o negocio, incluido el uso de armas de fuego legalmente tenidas: quien irrumpe por la fuerza o de noche asume las consecuencias.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Policía judicial blindada",
+      "cita": "El agente que investiga a un político obedece al juez, no al ministro.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Triplicar la UCO, la UDEF y la UDYCO: 3.000",
+      "cita": "La UCO tiene 580 plazas y 3,5 millones de presupuesto propio; la UDEF ha perdido la mitad de sus agentes desde 2022.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Vigilantes de seguridad: protección penal reforzada, como bomberos y sanitarios",
+      "cita": "94.400 vigilantes cobran 1.161 euros de salario base y 24 euros de plus de peligrosidad, y seis de cada diez han sido agredidos.",
+      "pagina": 11,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Ningún contrato público por debajo del convenio. Jubilación a los 60",
+      "cita": "El Estado no vuelve a adjudicar vigilancia a precio de nómina impagada: precio mínimo de licitación igual al coste del convenio más estructura, pago directo al trabajador si la empresa no paga y exclusión de la contratación pública a quien incumpla.",
+      "pagina": 11,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "35.000 euros libres de IRPF para todos",
+      "cita": "Mínimo exento de 35.000 euros (hoy, 5.550), con reducción gradual hasta 50.000 para que ganar un euro más nunca cueste dinero.",
+      "pagina": 12,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "5.000 euros más por cada hijo",
+      "cita": "Cada hijo suma 5.000 euros al mínimo exento de cada progenitor: ni el padre ni la madre pagan IRPF por esa parte.",
+      "pagina": 12,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Fin de la subida de impuestos por inflación",
+      "cita": "Tarifa, mínimos y deducciones del IRPF actualizados cada año con el IPC, por ley.",
+      "pagina": 12,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Autónomos: eliminación total de la cuota",
+      "cita": "Cuota cero, total y para siempre: ningún autónomo vuelve a pagar cuota.",
+      "pagina": 12,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Sociedades: 20 %. 15 % si reinviertes",
+      "cita": "Del 25 al 20 % en dos años; 15 % sobre el beneficio reinvertido; 10 % los tres primeros años de una empresa nueva.",
+      "pagina": 13,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Sucesiones, Donaciones y Patrimonio: suprimidos",
+      "cita": "Heredar la casa de tus padres no es un hecho imponible.",
+      "pagina": 13,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Luz y agua al 4 % de IVA para siempre",
+      "cita": "La luz, del 21 al 4 %; el agua, del 10 al 4 %.",
+      "pagina": 13,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Regla de oro: un euro de rebaja, un euro",
+      "cita": "Ninguna bajada entra en vigor sin ahorro estructural certificado por la AIReF.",
+      "pagina": 13,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Hacienda demuestra. Tú no pruebas tu inocencia",
+      "cita": "Renta en una página, liquidación en 30 días, carga de la prueba para la Administración e intereses de demora simétricos: Hacienda devuelve con el mismo interés con el que cobra.",
+      "pagina": 13,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Tres quintos para subir impuestos. Y tu factura fiscal cada año",
+      "cita": "Toda subida de impuestos exigirá tres quintos del Congreso (reforma constitucional).",
+      "pagina": 13,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "territorial",
+      "titular": "Financiación autonómica justa, solidaria y responsable. Ni condonaciones ni moneda",
+      "cita": "Frente a modelos de financiación improvisados ad hoc por el sanchismo para contentar a sus socios separatistas y mantenerse un día más en el poder, defenderemos un sistema justo, solidario y responsable, regido por criterios objetivos y transparentes, iguales para todas las Comunidades Autónomas.",
+      "pagina": 14,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Encadenar a los políticos: techo constitucional a los impuestos",
+      "cita": "Reforma constitucional para establecer límites claramente definidos a la presión fiscal y al endeudamiento.",
+      "pagina": 14,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "El efectivo, derecho constitucional",
+      "cita": "Derecho a pagar y cobrar en efectivo sin límite de importe: se deroga el tope de 1.000 euros y España vetará el de 10.000 que impone Bruselas desde 2027.",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "La banca devuelve el rescate: 70.000 millones en 15 años",
+      "cita": "Ley de Devolución del Rescate: las entidades que se quedaron con las cajas rescatadas (CaixaBank, BBVA, Sabadell, Unicaja y Abanca) pagan 4.700 millones al año durante 15 años, en proporción a las ayudas que absorbieron, con tope del 40 % de su beneficio anual y el exceso aplazado con interés.",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Orden de expulsión = expulsión. En 48 horas",
+      "cita": "Identificación, orden y salida en 48 horas.",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Fin de las regularizaciones",
+      "cita": "Derogación de la regularización de 2026, revisión una por una de las concesiones y prohibición por ley orgánica de cualquier regularización masiva.",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Readmisión o nada",
+      "cita": "Veto español a cualquier acuerdo europeo que no lo exija.",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Paralización total de inmigración de países no colaboradores contra las mafias de trata",
+      "cita": "Para el resto, solo visados con contrato previo y cupo anual votado en el Congreso.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Prioridad hispanoamericana. Nacionalidad que se gana",
+      "cita": "Nacionalidad: diez años de residencia legal, examen de cultura y Constitución, sin antecedentes y sin depender de ayudas.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Residencia y nacionalidad revocables",
+      "cita": "Condena de más de un año: pérdida de la residencia.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Menores: prueba de edad antes, no después",
+      "cita": "Prueba radiológica y dental obligatoria antes de entrar en un centro de menores.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Hermanos Musulmanes: ilegalizados",
+      "cita": "Ilegalización e inclusión en la lista terrorista: Hamás, su rama, ya está.",
+      "pagina": 19,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Velo integral prohibido",
+      "cita": "Burka y niqab fuera del espacio público, como en Francia, Bélgica, Austria, Dinamarca, Países Bajos y Suiza.",
+      "pagina": 19,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Sin papeles, sin ayudas",
+      "cita": "Ninguna prestación no contributiva, ayuda al alquiler ni vivienda pública sin cinco años de residencia legal y cotización.",
+      "pagina": 19,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "Las pensiones de hoy, blindadas en la Constitución",
+      "cita": "Revalorización con el IPC y prohibición de recortes, con rango constitucional.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "El sobre naranja: la verdad por ley",
+      "cita": "Cada año recibes tu pensión estimada y el saldo de tu cuenta individual.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "Sistema mixto: tu cuenta, a tu nombre, heredable",
+      "cita": "Menores de 45 años: el 2 % del salario a una cuenta individual obligatoria, tuya, heredable, con comisión máxima del 0,3 %.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "Mochila austriaca",
+      "cita": "El 1,53 % del salario, a cargo de la empresa, a tu cuenta desde el primer día.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "Jubilación activa total",
+      "cita": "Cobra el 100 % de la pensión y sigue trabajando sin recortes ni cotizaciones extra.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "Pensión mínima de 1.000 euros con 35 años cotizados",
+      "cita": "Nadie que haya cotizado 35 años cobrará menos de 1.000 euros en 14 pagas.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "Pensiones de políticos: fuera",
+      "cita": "Sin complemento parlamentario (la pensión máxima con siete años de escaño), sin cesantías, sin oficinas, coches y escoltas vitalicios para expresidentes.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "Fondo de Reserva fuera del Gobierno",
+      "cita": "Fondo soberano con gestión profesional independiente y mandato de rentabilidad.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Autónomos: cotiza por lo que ganas, elige lo que cobrarás",
+      "cita": "Quien quiera más pensión, cotiza más, sin tramos impuestos.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "Cuentas claras cada mes",
+      "cita": "Cotizaciones por un lado, transferencias del Estado por otro, publicadas con cada nómina.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Una sola central de compras, no diecisiete",
+      "cita": "El 40 % del gasto sanitario son compras: 41.000 millones.",
+      "pagina": 22,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "60 días para operarte. Si no, donde tú elijas",
+      "cita": "60 días para cirugía, 30 para especialista, 7 para pruebas prioritarias.",
+      "pagina": 22,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Médicos y profesionales de la salud pagados como en Europa",
+      "cita": "Un médico de familia cobra aquí 79.000 euros; en Países Bajos, 135.000.",
+      "pagina": 22,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Una tarjeta, una historia clínica, una receta",
+      "cita": "Tu analítica de Sevilla se ve en Bilbao.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "10.000 camas y 1.500 UCI más",
+      "cita": "España tiene 2,8 camas por cada 1.000 habitantes; Europa, 5,1.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Cita con tu médico en 48 horas",
+      "cita": "Si no la hay, consulta privada pagada por el Sistema.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "La sanidad española es para los españoles",
+      "cita": "Tarjeta para españoles y residentes legales con cotización o cobertura.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Medicamentos: precios netos públicos y copago cero para quien no puede",
+      "cita": "Subasta nacional de genéricos y biosimilares.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Medicamentos gratis para los niños menores de 3 años",
+      "cita": "Copago cero en farmacia para todos los menores de 3 años, en toda España.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Salud mental sin lista de espera",
+      "cita": "Un psicólogo clínico por cada 10.000 habitantes en los centros de salud y atención en 15 días.",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Gerentes por concurso, no por carné",
+      "cita": "Dirección de hospitales por méritos con mandato de cinco años.",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Test de paternidad gratuito e inmediato en el hospital",
+      "cita": "Derecho a una prueba de paternidad gratuita e inmediata en el propio hospital, al nacer, salvo renuncia expresa de ambos progenitores.",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "La corrupción no prescribe",
+      "cita": "Hoy prescriben entre 5 y 15 años: el ladrón solo tiene que esperar.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Sin tercer grado, sin indulto, sin permisos",
+      "cita": "Cumplimiento íntegro para condenados por corrupción y prohibición legal de indulto.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Amnistías prohibidas en la Constitución",
+      "cita": "Prohibición, en todo caso, de los indultos a políticos corruptos, sin excepciones.",
+      "pagina": 26,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Devuelves el triple o no sales",
+      "cita": "Responsabilidad civil del triple, decomiso de todo patrimonio no justificado y ningún beneficio hasta restituir.",
+      "pagina": 26,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "El que denuncia cobra el 15 %",
+      "cita": "El 15 % de lo recuperado, libre de impuestos, con anonimato, protección laboral y una autoridad independiente con capacidad de sancionar.",
+      "pagina": 26,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Fiscal General independiente",
+      "cita": "Elegido por tres quintos del Congreso entre fiscales con 25 años de carrera, mandato de seis años no coincidente con la legislatura.",
+      "pagina": 27,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Anticorrupción con 100 fiscales. Vigilancia Aduanera y SEPBLAC al completo",
+      "cita": "La Fiscalía Anticorrupción tiene 29 fiscales y 31 funcionarios para toda España; la Antidroga, 15; Vigilancia Aduanera tiene el 54 % de sus plazas sin cubrir y el SEPBLAC recibió un 76 % más de alertas con la misma plantilla.",
+      "pagina": 27,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Fuera el Tribunal Constitucional: el control pasa a una sala del Supremo elegida",
+      "cita": "Fuera el Tribunal Constitucional: el control",
+      "pagina": 27,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Jueces independientes: CGPJ sin políticos y cárcel para quien dé instrucciones",
+      "cita": "Reforma de la Constitución para garantizar la independencia del Consejo General del Poder Judicial, con composición determinada por criterios excluyentes de cualquier influencia política: elección por jueces y magistrados, antigüedad y/o sorteo.",
+      "pagina": 28,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Acción popular blindada en la Constitución",
+      "cita": "La ley no podrá vetar ni restringir el ejercicio de la acción popular a ninguna persona física o jurídica, y podrá extender la posibilidad de ejercerla a entes sin personalidad.",
+      "pagina": 28,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Fin de los aforamientos",
+      "cita": "Los 17.621 aforados, juzgados por el mismo juez que tú.",
+      "pagina": 28,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Puertas giratorias cerradas, también hacia los órganos de control",
+      "cita": "Cinco años de incompatibilidad para pasar a empresas reguladas y cinco para que un exministro o dirigente de partido presida el Poder Judicial, la sala constitucional del Supremo, el Banco de España, la CNMC o el Defensor del Pueblo.",
+      "pagina": 28,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Contratación pública: todo electrónico, todo público",
+      "cita": "Plataforma única, subasta inversa y precios de referencia en tiempo real.",
+      "pagina": 29,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Todo gasto mayor de 1.000 euros, publicado en 24 horas",
+      "cita": "Portal único de todas las administraciones: pagos, contratos, subvenciones, nóminas de altos cargos y asesores, agendas y regalos.",
+      "pagina": 29,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "15 años y a casa",
+      "cita": "Límite de 15 años en cargos públicos remunerados.",
+      "pagina": 29,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Cuña fiscal del 41 al 29 %",
+      "cita": "Mínimo exento de 35.000, deflactación, el 0,9 % a tu cuenta y cero cotización del trabajador en el salario mínimo.",
+      "pagina": 30,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Contrato único con mochila",
+      "cita": "Un solo contrato indefinido con indemnización creciente de 12 a 33 días, más la mochila del 1,53 %.",
+      "pagina": 30,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Autónomos: cuota cero, IVA de caja, una ventanilla",
+      "cita": "Licencia de actividad en 24 horas por declaración responsable.",
+      "pagina": 30,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Absentismo: se acabó el escaqueo",
+      "cita": "Las mutuas dan el alta en contingencias comunes a los 15 días, con revisión del INSS en 72 horas.",
+      "pagina": 30,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Aprendiz pagado, no becario gratis",
+      "cita": "FP dual con contrato y salario del 50 % del convenio, pagado a medias por empresa y Estado.",
+      "pagina": 31,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Una norma entra, dos salen",
+      "cita": "Por cada regulación nueva que afecte a empresas, dos derogadas.",
+      "pagina": 31,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Protección al trabajador sin encarecer su contratación",
+      "cita": "Las bajas por enfermedad las paga la Seguridad Social desde el primer día, no la empresa, que hoy carga con los quince primeros.",
+      "pagina": 31,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "El paro de verdad: el fijo discontinuo cuenta como parado cuando no trabaja",
+      "cita": "Los fijos discontinuos se usan para reducir falsamente las cifras del paro: 640.900 personas sin actividad que no aparecen como paradas.",
+      "pagina": 32,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Oposiciones a ciegas",
+      "cita": "Todas las oposiciones y concursos 100 % anónimos y digitales, con tribunales sorteados y grabados.",
+      "pagina": 32,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Trabajar siempre deja más que la ayuda",
+      "cita": "Rechazar dos ofertas adecuadas: fin de la prestación.",
+      "pagina": 32,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Una ley para 20 años",
+      "cita": "Aprobada por dos tercios y blindada: no se cambia sin la misma mayoría.",
+      "pagina": 33,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Castellano garantizado, sin ir a juicio",
+      "cita": "Derecho a la enseñanza en castellano en toda España, exigible por la familia, con Alta Inspección estatal que sancio",
+      "pagina": 33,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "MIR docente",
+      "cita": "Dos años de prácticas remuneradas con tutor y examen nacional de acceso.",
+      "pagina": 33,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "El profesor es autoridad pública. Y cobra como tal",
+      "cita": "Autoridad pública en toda España, 10 % más de sueldo en la legislatura y menos burocracia: un profesor está para enseñar.",
+      "pagina": 33,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "FP desde los 15 y un tutor para cada",
+      "cita": "Aprendizaje remunerado desde los 15, tutor individual y fin del aprobado automático: se titula cuando se ha aprendido.",
+      "pagina": 33,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "El dinero sigue al alumno",
+      "cita": "Cheque escolar válido en pública, concertada y privada, con el mismo importe por alumno y resultados públicos de cada centro.",
+      "pagina": 34,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Despolitización de la educación",
+      "cita": "Los contenidos los fija un Consejo Académico independiente, no el Gobierno de turno.",
+      "pagina": 34,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Historia de España común y educación económica",
+      "cita": "El mismo temario de Historia en toda España.",
+      "pagina": 34,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Beca-salario de 2.000 euros para FP superior con déficit",
+      "cita": "Industria, construcción, energía, sanidad, digital.",
+      "pagina": 34,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Inglés real",
+      "cita": "5.000 auxiliares nativos más, certificación B2 al terminar Bachillerato pagada por el Estado y versión original en la televisión pública infantil.",
+      "pagina": 34,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Referéndum de renegociación europea; y de salida, si Bruselas se niega",
+      "cita": "Si Bruselas rechaza renegociar, segundo referéndum: la salida.",
+      "pagina": 35,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Veto a Mercosur, al recorte de la PAC",
+      "cita": "Mercosur se aplica desde mayo de 2026 contra el voto de Francia; el recorte del 20 % de la PAC quita 877 millones al año al campo español; la Ley de Restauración deja improductivo hasta el 40 % de la Red Natura.",
+      "pagina": 35,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Guerra a los Hermanos Musulmanes:                         Pe ley antiterrorista con penas máximas",
+      "cita": "Son la organización responsable del terrorismo en Europa.",
+      "pagina": 35,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Marruecos: bloqueo comercial total si bloquea un solo puerto español",
+      "cita": "Bloqueo comercial total a todo puerto marroquí si el país alauí sigue bloqueando un solo puerto español.",
+      "pagina": 36,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "territorial",
+      "titular": "Ceuta y Melilla, plaza franca: 0 % de IRPF",
+      "cita": "0 % de Sociedades y 0 % de cotizaciones.",
+      "pagina": 36,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "territorial",
+      "titular": "Canarias: 1.000 euros menos de IRPF por vivir en las islas. Y la ZEC al 0 %",
+      "cita": "Deducción de 1.000 euros en la cuota del IRPF para cada contribuyente residente en Canarias desde la renta de 2027: 1,09 millones de canarios.",
+      "pagina": 36,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Escudo del Estrecho y del Atlántico: 5.000 militares más en Ceuta y Melilla; antiaérea",
+      "cita": "El 30 de julio de 2026 había 243 guardias civiles en Ceuta frente a 27.550 entradas en un solo día.",
+      "pagina": 37,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Quien defiende Canarias, Ceuta y Melilla cobra el doble de plus de residencia, libre",
+      "cita": "La indemnización por residencia no se revisa de fondo desde 2007: 435 euros al mes para un soldado en Ceuta, 117 en Gran Canaria.",
+      "pagina": 37,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Gibraltar: la soberanía, sobre la mesa",
+      "cita": "El tratado de 2026 abre la Verja sin tocar la soberanía ni el privilegio fiscal: sociedades al 15 % y contrabando de tabaco a diario.",
+      "pagina": 37,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Sáhara: se retira la carta de Sánchez",
+      "cita": "El giro unilateral de 2022 a favor de Rabat costó 32 meses de bloqueo argelino: las exportaciones cayeron de 2.900 a 332 millones.",
+      "pagina": 38,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Hispanoamérica, primero: Comunidad Hispánica de naciones",
+      "cita": "Libre comercio, reconocimiento de títulos y cupos preferentes con las naciones hispanas que lo quieran; cumbre anual en Madrid; cámaras y embajadas reforzadas donde invierte España, segundo inversor del continente.",
+      "pagina": 38,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Defensa: el 2 % se gasta en España",
+      "cita": "33.123 millones en 2025, con prioridad a la industria nacional: 260.050 empleos.",
+      "pagina": 38,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Registro de agentes extranjeros y cero dinero foráneo en política",
+      "cita": "Ley de agentes extranjeros: quien trabaje para un gobierno, fundación o empresa extranjera se inscribe o comete delito.",
+      "pagina": 39,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Ayuda exterior: ni un euro sin readmisión ni respeto a España",
+      "cita": "4.550 millones al año de ayuda oficial al desarrollo.",
+      "pagina": 39,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "fuente": "auditoria_coherencia_xv_legislatura",
+  "actualizado": "2026-11-15T15:20:00Z",
+  "descripcion": "Contraste riguroso entre promesas electorales/declaraciones públicas previas y el voto real emitido en el Pleno del Congreso de los Diputados durante la XV Legislatura.",
+  "casos": [
+    {
+      "id_votacion": "30-1",
+      "titulo_llano": "Proposición de Ley Orgánica de amnistía para la normalización institucional en Cataluña",
+      "tipo_coherencia": "giro_de_voto",
+      "etiqueta": "Giro parlamentario tras acuerdo de investidura",
+      "resumen": "En la campaña de julio de 2023 el PSOE sostuvo que la amnistía no tenía cabida constitucional; tras necesitar los 14 votos de ERC y Junts para la investidura, registró y votó a favor de la Ley Orgánica.",
+      "partidos": [
+        {
+          "siglas": "PSOE",
+          "promesa_previa": "Declaraciones en campaña 2023 descartando aprobar una ley de amnistía por considerarla fuera del marco constitucional.",
+          "voto_emitido": "SÍ (120 votos)",
+          "coherencia": "CONTRADICCIÓN CON DECLARACIONES PREVIAS",
+          "motivo_oficial": "Defensa de la normalización política e institucional en Cataluña y cumplimiento del acuerdo de investidura."
+        },
+        {
+          "siglas": "PP",
+          "promesa_previa": "Rechazo total a cualquier amnistía o indulto generalizado.",
+          "voto_emitido": "NO (137 votos)",
+          "coherencia": "COHERENTE CON SU PROGRAMA",
+          "motivo_oficial": "Considera que vulnera la igualdad ante la ley (art. 14 CE) y la separación de poderes."
+        },
+        {
+          "siglas": "ERC",
+          "promesa_previa": "Línea roja de campaña: amnistía para todos los encausados del procés.",
+          "voto_emitido": "SÍ (7 votos)",
+          "coherencia": "COHERENTE CON SU PROGRAMA",
+          "motivo_oficial": "Desjudicialización del conflicto político catalán."
+        }
+      ],
+      "revisado": false,
+      "notas_verificacion": [
+        "El voto coincide con el acta, pero la \"promesa previa\" y el \"motivo oficial\" no tienen fuente descargada."
+      ]
+    },
+    {
+      "id_votacion": "15-3",
+      "titulo_llano": "Convalidación del RDL 7/2023 de reforma del subsidio asistencial por desempleo",
+      "tipo_coherencia": "division_bloque",
+      "etiqueta": "Ruptura en el bloque de investidura",
+      "resumen": "El decreto elevaba el subsidio de 480 € a 570 € pero reducía gradualmente la sobrecotización para la pensión de los mayores de 52 años (del 125 % al 100 %). Podemos votó NO junto a PP y VOX, tumbando el decreto.",
+      "partidos": [
+        {
+          "siglas": "SUMAR",
+          "promesa_previa": "Ampliar la cuantía y cobertura del subsidio por desempleo.",
+          "voto_emitido": "SÍ (26 votos)",
+          "coherencia": "CON MATICES (PAQUETE MEZCLADO)",
+          "motivo_oficial": "Aumentaba el subsidio inicial a 570 € y permitía compatibilizarlo, aunque incluía la rebaja de base del 125 % al 100 % en mayores de 52 años."
+        },
+        {
+          "siglas": "Podemos",
+          "promesa_previa": "No apoyar ningún recorte en pensiones futuras de desempleados vulnerables.",
+          "voto_emitido": "NO (6 de 8 en GMx)",
+          "coherencia": "COHERENTE CON SU ADVERTENCIA",
+          "motivo_oficial": "Rechazo a la disposición que rebajaba la base de cotización de mayores de 52 años; meses después Trabajo retiró ese punto."
+        },
+        {
+          "siglas": "PP",
+          "promesa_previa": "Vincular el subsidio a la búsqueda activa de empleo.",
+          "voto_emitido": "NO (137 votos)",
+          "coherencia": "COHERENTE CON SU PROGRAMA",
+          "motivo_oficial": "Crítica a la falta de consenso en el diálogo social."
+        }
+      ],
+      "revisado": false,
+      "notas_verificacion": [
+        "El voto coincide con el acta, pero la \"promesa previa\" y el \"motivo oficial\" no tienen fuente descargada."
+      ]
+    },
+    {
+      "id_votacion": "89-2",
+      "titulo_llano": "Convalidación del RDL 10/2024 (prórroga del gravamen temporal energético)",
+      "tipo_coherencia": "division_bloque",
+      "etiqueta": "Choque fiscal entre socios de investidura",
+      "resumen": "PSOE y Sumar pactaron prorrogar el impuesto extraordinario a las grandes energéticas, pero PNV y Junts votaron NO junto a PP y VOX para proteger las inversiones industriales en sus territorios, haciendo caer el tributo.",
+      "partidos": [
+        {
+          "siglas": "PSOE",
+          "promesa_previa": "Convertir en permanente el impuesto a las grandes corporaciones energéticas.",
+          "voto_emitido": "SÍ (120 votos)",
+          "coherencia": "NO LOGRÓ MAYORÍA PARLAMENTARIA",
+          "motivo_oficial": "Llevó el decreto al Pleno pero fue derogado por 183 votos en contra al no contar con Junts ni PNV."
+        },
+        {
+          "siglas": "EAJ-PNV",
+          "promesa_previa": "Proteger la industria vasca y exigir concertación foral de cualquier figura impositiva.",
+          "voto_emitido": "NO (5 votos)",
+          "coherencia": "COHERENTE CON SU PROGRAMA",
+          "motivo_oficial": "Rechazo a un gravamen sobre facturación que ponía en riesgo inversiones de descarbonización industrial."
+        },
+        {
+          "siglas": "JUNTS",
+          "promesa_previa": "No apoyar impuestos que amenacen inversiones químicas y energéticas en Tarragona.",
+          "voto_emitido": "NO (7 votos)",
+          "coherencia": "COHERENTE CON SU ADVERTENCIA",
+          "motivo_oficial": "Condicionó su voto a eximir a las empresas que invirtieran en Cataluña."
+        }
+      ],
+      "revisado": false,
+      "notas_verificacion": [
+        "El voto coincide con el acta, pero la \"promesa previa\" y el \"motivo oficial\" no tienen fuente descargada."
+      ]
+    },
+    {
+      "id_votacion": "175-3",
+      "titulo_llano": "Convalidación del RDL 8/2026 de medidas urgentes en materia de alquiler de vivienda",
+      "tipo_coherencia": "decreto_omnibus",
+      "etiqueta": "Vivienda y alquiler derrotado en el Pleno",
+      "resumen": "El decreto sobre medidas en el alquiler fue rechazado en el Congreso al votar en contra PP, VOX y Junts, y abstenerse el PNV.",
+      "partidos": [
+        {
+          "siglas": "PSOE",
+          "promesa_previa": "Intervenir el mercado de alquiler y regular contratos de temporada.",
+          "voto_emitido": "SÍ (121 votos)",
+          "coherencia": "DERROTADO EN EL PLENO",
+          "motivo_oficial": "Defensa de medidas de contención de rentas."
+        },
+        {
+          "siglas": "PP",
+          "promesa_previa": "Oposición frontal al control de precios y a la Ley Estatal de Vivienda.",
+          "voto_emitido": "NO (137 votos)",
+          "coherencia": "COHERENTE CON SU PROGRAMA",
+          "motivo_oficial": "Considera que el intervencionismo reduce la oferta de pisos en alquiler."
+        },
+        {
+          "siglas": "EAJ-PNV",
+          "promesa_previa": "Defensa del autogobierno vasco en competencia exclusiva de vivienda.",
+          "voto_emitido": "ABSTENCIÓN (5 votos)",
+          "coherencia": "MATIZADO POR COMPETENCIAS",
+          "motivo_oficial": "Reservas por invasión competencial estatal sobre normativa autonómica."
+        }
+      ],
+      "revisado": false,
+      "notas_verificacion": [
+        "El voto coincide con el acta, pero la \"promesa previa\" y el \"motivo oficial\" no tienen fuente descargada."
+      ]
+    },
+    {
+      "id_votacion": "159-23",
+      "titulo_llano": "Reforma del Código Penal en materia de multirreincidencia en hurtos",
+      "tipo_coherencia": "division_bloque",
+      "etiqueta": "Mayoría transversal en seguridad ciudadana",
+      "resumen": "La reforma para endurecer el castigo penal a la multirreincidencia salió adelante con una mayoría inusual: PP, PSOE, VOX, Junts y PNV votaron SÍ juntos, mientras Sumar y EH Bildu votaron NO y ERC se abstuvo.",
+      "partidos": [
+        {
+          "siglas": "PP",
+          "promesa_previa": "Endurecer las penas contra la multirreincidencia en hurtos comerciales y callejeros.",
+          "voto_emitido": "SÍ (136 votos)",
+          "coherencia": "COHERENTE CON SU PROGRAMA",
+          "motivo_oficial": "Impulso de la reforma penal para frenar la reincidencia delictiva."
+        },
+        {
+          "siglas": "PSOE",
+          "promesa_previa": "Reforzar la seguridad ciudadana y atender la demanda de alcaldes metropolitanos.",
+          "voto_emitido": "SÍ (120 votos)",
+          "coherencia": "ACUERDO TRANSVERSAL",
+          "motivo_oficial": "Votó a favor desmarcándose de su socio de Gobierno (Sumar)."
+        },
+        {
+          "siglas": "SUMAR",
+          "promesa_previa": "Rechazo al populismo punitivo en el Código Penal.",
+          "voto_emitido": "NO (24 votos)",
+          "coherencia": "COHERENTE CON SU DOCTRINA",
+          "motivo_oficial": "Considera que endurecer penas por hurtos leves satura juzgados sin resolver causas sociales."
+        }
+      ],
+      "revisado": false,
+      "notas_verificacion": [
+        "El voto coincide con el acta, pero la \"promesa previa\" y el \"motivo oficial\" no tienen fuente descargada."
+      ]
+    }
+  ]
+}

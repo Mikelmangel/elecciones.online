@@ -1,0 +1,114 @@
+[
+ {
+  "id": "psoe-sanchez-burgos-empleo-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "empleo",
+  "tipo": "cifra",
+  "cita_literal": "Nosotros lo hemos subido un 66% y el próximo año lo volveremos a subir.",
+  "contexto_minuto": "63:45"
+ },
+ {
+  "id": "psoe-sanchez-burgos-empleo-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "empleo",
+  "tipo": "compromiso",
+  "cita_literal": "el próximo año lo volveremos a subir. Y el siguiente también. Y el siguiente y el siguiente. Todos los años que gobernamos.",
+  "contexto_minuto": "63:45"
+ },
+ {
+  "id": "psoe-sanchez-burgos-empleo-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "empleo",
+  "tipo": "cifra",
+  "cita_literal": "Aquí en España, gracias a la reforma laboral y a la subida del salario mínimo interprofesional, 22,6 millones de trabajadores y trabajadoras cotizando la seguridad social.",
+  "contexto_minuto": "63:21"
+ },
+ {
+  "id": "psoe-sanchez-burgos-empleo-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "empleo",
+  "tipo": "cifra",
+  "cita_literal": "Más de 10 millones de mujeres afiliadas y cotizando también a la seguridad social, además de trabajar.",
+  "contexto_minuto": "63:29"
+ },
+ {
+  "id": "psoe-sanchez-burgos-empleo-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "empleo",
+  "tipo": "cifra",
+  "cita_literal": "podemos subir el salario mínimo interprofesional, aprobar una reforma laboral que reduce la temporalidad y al mismo tiempo concentrar el 85% de la creación total de empleo en la zona euro.",
+  "contexto_minuto": "66:44"
+ },
+ {
+  "id": "psoe-sanchez-burgos-economia-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "economia",
+  "tipo": "cifra",
+  "cita_literal": "En medio de un crecimiento plano en Europa, España va a triplicar la media de crecimiento de la zona euro",
+  "contexto_minuto": "64:49"
+ },
+ {
+  "id": "psoe-sanchez-burgos-impuestos-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "impuestos",
+  "tipo": "cifra",
+  "cita_literal": "eso significa 85,000 millones de euros de pérdida de recaudación",
+  "contexto_minuto": "71:13"
+ },
+ {
+  "id": "psoe-sanchez-burgos-empleo-5",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "empleo",
+  "tipo": "compromiso",
+  "cita_literal": "Yo quiero seguir reforzando el estado del bienestar, subir el salario mínimo interprofesional, revalorizar las pensiones y subir el sueldo a los funcionarios y funcionarias de nuestro país.",
+  "contexto_minuto": "71:48"
+ },
+ {
+  "id": "psoe-sanchez-burgos-pensiones-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "pensiones",
+  "tipo": "posicion",
+  "cita_literal": "Nuestras pensiones y nuestro sistema público de pensiones goza de una extraordinaria salud.",
+  "contexto_minuto": "73:36"
+ },
+ {
+  "id": "psoe-sanchez-burgos-pensiones-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "pensiones",
+  "tipo": "posicion",
+  "cita_literal": "la subida de salario mínimo interprofesional aumenta los ingresos de la seguridad social.",
+  "contexto_minuto": "64:06"
+ },
+ {
+  "id": "psoe-sanchez-burgos-empleo-6",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "empleo",
+  "tipo": "posicion",
+  "cita_literal": "que se siente con los sindicatos y que la negociación colectiva suba los salarios a la clase media trabajadora de nuestro país",
+  "contexto_minuto": "64:14"
+ },
+ {
+  "id": "psoe-sanchez-burgos-social-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "social",
+  "tipo": "compromiso",
+  "cita_literal": "La próxima legislatura quiero que sepáis las mujeres, porque la fuerza de las mujeres es la que nos va a hacer ganar y volver a gobernar otros próximos 4 años, que reformaremos la Constitución para blindar el derecho a abortar de las mujeres.",
+  "contexto_minuto": "75:29"
+ },
+ {
+  "id": "psoe-sanchez-burgos-cultura-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "cultura",
+  "tipo": "compromiso",
+  "cita_literal": "vamos a garantizar 4 años más de avance de España en derechos, en libertades y también en protección de la cultura, en una libre expresión de la cultura.",
+  "contexto_minuto": "61:12"
+ },
+ {
+  "id": "psoe-sanchez-burgos-defensa_exterior-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+  "tema": "defensa_exterior",
+  "tipo": "posicion",
+  "cita_literal": "nosotros somos coherentes y decimos que no a la guerra en Ucrania, como decimos que no a la guerra en Irán y decimos que no al genocidio en Gaza.",
+  "contexto_minuto": "67:21"
+ }
+]

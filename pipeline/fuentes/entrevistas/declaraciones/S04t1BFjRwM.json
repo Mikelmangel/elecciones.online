@@ -1,0 +1,42 @@
+[
+ {
+  "id": "erc-rufian-discurso-vivienda-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=S04t1BFjRwM",
+  "tema": "vivienda",
+  "tipo": "cifra",
+  "cita_literal": "Ustedes literalmente, o sea, el 82% de sus votantes, el 82% de sus votantes están a favor de estos decretos, el 82.",
+  "contexto_minuto": "05:22"
+ },
+ {
+  "id": "erc-rufian-discurso-vivienda-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=S04t1BFjRwM",
+  "tema": "vivienda",
+  "tipo": "cifra",
+  "cita_literal": "Y ustedes están defendiendo entre un 0,7, repito, un 0,7 de la población de Cataluña y un 1,2.",
+  "contexto_minuto": "05:34"
+ },
+ {
+  "id": "erc-rufian-discurso-vivienda-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=S04t1BFjRwM",
+  "tema": "vivienda",
+  "tipo": "cifra",
+  "cita_literal": "Están ustedes defendiendo a 40.000 personas en Cataluña, 40.000.",
+  "contexto_minuto": "05:47"
+ },
+ {
+  "id": "erc-rufian-discurso-vivienda-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=S04t1BFjRwM",
+  "tema": "vivienda",
+  "tipo": "cifra",
+  "cita_literal": "Somos casi 10 millones de personas en Cataluña.",
+  "contexto_minuto": "05:53"
+ },
+ {
+  "id": "erc-rufian-discurso-otros-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=S04t1BFjRwM",
+  "tema": "otros",
+  "tipo": "compromiso",
+  "cita_literal": "que mi partido no vuelva a pactar con ustedes para nada",
+  "contexto_minuto": "09:50"
+ }
+]

@@ -1,0 +1,98 @@
+[
+ {
+  "id": "pod-montero-rne-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+  "tema": "defensa_exterior",
+  "tipo": "cifra",
+  "cita_literal": "nos quedamos en la OTAN pagándole a Trump en armas esta misma semana 4200 millones de euros",
+  "contexto_minuto": "02:26"
+ },
+ {
+  "id": "pod-montero-rne-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+  "tema": "inmigracion",
+  "tipo": "posicion",
+  "cita_literal": "El cambio más importante que se ha dado en esta legislatura, que ha sido la regularización, es una medida que se ha arrancado desde las calles",
+  "contexto_minuto": "06:51"
+ },
+ {
+  "id": "pod-montero-rne-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+  "tema": "inmigracion",
+  "tipo": "posicion",
+  "cita_literal": "institucionalmente a Podemos se negó a apoyar un pacto racista que había hecho el gobierno con Junts para la transferencia de de las competencias migratorias",
+  "contexto_minuto": "07:10"
+ },
+ {
+  "id": "pod-montero-rne-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+  "tema": "instituciones",
+  "tipo": "cifra",
+  "cita_literal": "en 12 años no hemos tenido un solo caso de corrupción ni le pedimos 1 euro a los bancos",
+  "contexto_minuto": "08:16"
+ },
+ {
+  "id": "pod-montero-rne-5",
+  "entrevista_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+  "tema": "otros",
+  "tipo": "posicion",
+  "cita_literal": "Y quiero una izquierda que pueda, lógicamente, entenderse, dialogar y acordar cosas con el PSOE",
+  "contexto_minuto": "11:04"
+ },
+ {
+  "id": "pod-montero-rne-6",
+  "entrevista_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+  "tema": "instituciones",
+  "tipo": "posicion",
+  "cita_literal": "nosotros nunca vamos a facilitar que la derecha hm gobierne y que la derecha mande.",
+  "contexto_minuto": "12:43"
+ },
+ {
+  "id": "pod-montero-rne-7",
+  "entrevista_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+  "tema": "otros",
+  "tipo": "compromiso",
+  "cita_literal": "yo quiero que haya cambios y, por tanto, voy a condicionar todas las negociaciones a que esos cambios se puedan producir",
+  "contexto_minuto": "14:27"
+ },
+ {
+  "id": "pod-montero-rne-8",
+  "entrevista_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+  "tema": "infraestructuras",
+  "tipo": "posicion",
+  "cita_literal": "el dinero tiene que estar para los trenes, el dinero tiene que estar para la sanidad.",
+  "contexto_minuto": "15:35"
+ },
+ {
+  "id": "pod-montero-rne-9",
+  "entrevista_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+  "tema": "vivienda",
+  "tipo": "compromiso",
+  "cita_literal": "yo voy a pelear para que baje el precio de los alquileres,",
+  "contexto_minuto": "16:18"
+ },
+ {
+  "id": "pod-montero-rne-10",
+  "entrevista_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+  "tema": "impuestos",
+  "tipo": "posicion",
+  "cita_literal": "Yo quiero que ese dinero baje y para eso hay que freír a impuestos a las grandes fortunas.",
+  "contexto_minuto": "16:33"
+ },
+ {
+  "id": "pod-montero-rne-11",
+  "entrevista_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+  "tema": "empleo",
+  "tipo": "cifra",
+  "cita_literal": "que manda narices que un país democrático lleve 14 años sin tener una huelga general.",
+  "contexto_minuto": "19:12"
+ },
+ {
+  "id": "pod-montero-rne-12",
+  "entrevista_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+  "tema": "empleo",
+  "tipo": "posicion",
+  "cita_literal": "En una huelga se participa, se para la producción, se hacen piquetes informativos y se trabaja noche y día.",
+  "contexto_minuto": "20:59"
+ }
+]

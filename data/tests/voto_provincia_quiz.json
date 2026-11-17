@@ -1,0 +1,788 @@
+{
+  "fuente": "data/resultados_generales_2023.json + data/convocatoria_2026.json",
+  "version": "1.0.0",
+  "mas_renidas": [
+    {
+      "codigo": "17",
+      "nombre": "Girona",
+      "escanos_2023": 6,
+      "escanos_2026": 6,
+      "votos_validos": 322988,
+      "ultimo_escanio_partido": "JUNTS",
+      "siguiente_partido": "PP",
+      "margen_votos": 285,
+      "porcentaje_margen": 0.09
+    },
+    {
+      "codigo": "39",
+      "nombre": "Cantabria",
+      "escanos_2023": 5,
+      "escanos_2026": 5,
+      "votos_validos": 350150,
+      "ultimo_escanio_partido": "VOX",
+      "siguiente_partido": "PP",
+      "margen_votos": 404,
+      "porcentaje_margen": 0.12
+    },
+    {
+      "codigo": "43",
+      "nombre": "Tarragona",
+      "escanos_2023": 6,
+      "escanos_2026": 6,
+      "votos_validos": 368024,
+      "ultimo_escanio_partido": "JUNTS",
+      "siguiente_partido": "PSC",
+      "margen_votos": 1248,
+      "porcentaje_margen": 0.34
+    },
+    {
+      "codigo": "28",
+      "nombre": "Madrid",
+      "escanos_2023": 37,
+      "escanos_2026": 38,
+      "votos_validos": 3608673,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 1340,
+      "porcentaje_margen": 0.04
+    },
+    {
+      "codigo": "02",
+      "nombre": "Albacete",
+      "escanos_2023": 4,
+      "escanos_2026": 4,
+      "votos_validos": 221191,
+      "ultimo_escanio_partido": "PSOE",
+      "siguiente_partido": "VOX",
+      "margen_votos": 1412,
+      "porcentaje_margen": 0.64
+    },
+    {
+      "codigo": "37",
+      "nombre": "Salamanca",
+      "escanos_2023": 4,
+      "escanos_2026": 4,
+      "votos_validos": 199110,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 1495,
+      "porcentaje_margen": 0.75
+    },
+    {
+      "codigo": "38",
+      "nombre": "Santa Cruz de Tenerife",
+      "escanos_2023": 7,
+      "escanos_2026": 7,
+      "votos_validos": 494373,
+      "ultimo_escanio_partido": "PSOE",
+      "siguiente_partido": "SUMAR",
+      "margen_votos": 1565,
+      "porcentaje_margen": 0.32
+    },
+    {
+      "codigo": "51",
+      "nombre": "Ceuta",
+      "escanos_2023": 1,
+      "escanos_2026": 1,
+      "votos_validos": 33321,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 1587,
+      "porcentaje_margen": 4.76
+    },
+    {
+      "codigo": "44",
+      "nombre": "Teruel",
+      "escanos_2023": 3,
+      "escanos_2026": 3,
+      "votos_validos": 75913,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "EXISTE",
+      "margen_votos": 1946,
+      "porcentaje_margen": 2.56
+    },
+    {
+      "codigo": "29",
+      "nombre": "Málaga",
+      "escanos_2023": 11,
+      "escanos_2026": 11,
+      "votos_validos": 788338,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 2429,
+      "porcentaje_margen": 0.31
+    }
+  ],
+  "provincias": [
+    {
+      "codigo": "02",
+      "nombre": "Albacete",
+      "escanos_2023": 4,
+      "escanos_2026": 4,
+      "votos_validos": 221191,
+      "ultimo_escanio_partido": "PSOE",
+      "siguiente_partido": "VOX",
+      "margen_votos": 1412,
+      "porcentaje_margen": 0.64
+    },
+    {
+      "codigo": "03",
+      "nombre": "Alicante/Alacant",
+      "escanos_2023": 12,
+      "escanos_2026": 12,
+      "votos_validos": 899192,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "SUMAR",
+      "margen_votos": 16331,
+      "porcentaje_margen": 1.82
+    },
+    {
+      "codigo": "04",
+      "nombre": "Almería",
+      "escanos_2023": 6,
+      "escanos_2026": 6,
+      "votos_validos": 321242,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "VOX",
+      "margen_votos": 19319,
+      "porcentaje_margen": 6.01
+    },
+    {
+      "codigo": "01",
+      "nombre": "Araba/Álava",
+      "escanos_2023": 4,
+      "escanos_2026": 4,
+      "votos_validos": 169107,
+      "ultimo_escanio_partido": "EAJ-PNV",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 9376,
+      "porcentaje_margen": 5.54
+    },
+    {
+      "codigo": "33",
+      "nombre": "Asturias",
+      "escanos_2023": 7,
+      "escanos_2026": 7,
+      "votos_validos": 597032,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 7768,
+      "porcentaje_margen": 1.3
+    },
+    {
+      "codigo": "06",
+      "nombre": "Badajoz",
+      "escanos_2023": 5,
+      "escanos_2026": 5,
+      "votos_validos": 391461,
+      "ultimo_escanio_partido": "VOX",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 7004,
+      "porcentaje_margen": 1.79
+    },
+    {
+      "codigo": "07",
+      "nombre": "Balears (Illes)",
+      "escanos_2023": 8,
+      "escanos_2026": 8,
+      "votos_validos": 503280,
+      "ultimo_escanio_partido": "PSOE",
+      "siguiente_partido": "PP",
+      "margen_votos": 23079,
+      "porcentaje_margen": 4.59
+    },
+    {
+      "codigo": "08",
+      "nombre": "Barcelona",
+      "escanos_2023": 32,
+      "escanos_2026": 32,
+      "votos_validos": 2667478,
+      "ultimo_escanio_partido": "PSC",
+      "siguiente_partido": "SUMAR",
+      "margen_votos": 33552,
+      "porcentaje_margen": 1.26
+    },
+    {
+      "codigo": "48",
+      "nombre": "Bizkaia",
+      "escanos_2023": 8,
+      "escanos_2026": 8,
+      "votos_validos": 609693,
+      "ultimo_escanio_partido": "EH Bildu",
+      "siguiente_partido": "EAJ-PNV",
+      "margen_votos": 24613,
+      "porcentaje_margen": 4.04
+    },
+    {
+      "codigo": "09",
+      "nombre": "Burgos",
+      "escanos_2023": 4,
+      "escanos_2026": 4,
+      "votos_validos": 202569,
+      "ultimo_escanio_partido": "PSOE",
+      "siguiente_partido": "PP",
+      "margen_votos": 22334,
+      "porcentaje_margen": 11.03
+    },
+    {
+      "codigo": "39",
+      "nombre": "Cantabria",
+      "escanos_2023": 5,
+      "escanos_2026": 5,
+      "votos_validos": 350150,
+      "ultimo_escanio_partido": "VOX",
+      "siguiente_partido": "PP",
+      "margen_votos": 404,
+      "porcentaje_margen": 0.12
+    },
+    {
+      "codigo": "12",
+      "nombre": "Castellón/Castelló",
+      "escanos_2023": 5,
+      "escanos_2026": 5,
+      "votos_validos": 307930,
+      "ultimo_escanio_partido": "VOX",
+      "siguiente_partido": "SUMAR",
+      "margen_votos": 4727,
+      "porcentaje_margen": 1.54
+    },
+    {
+      "codigo": "51",
+      "nombre": "Ceuta",
+      "escanos_2023": 1,
+      "escanos_2026": 1,
+      "votos_validos": 33321,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 1587,
+      "porcentaje_margen": 4.76
+    },
+    {
+      "codigo": "13",
+      "nombre": "Ciudad Real",
+      "escanos_2023": 5,
+      "escanos_2026": 5,
+      "votos_validos": 282979,
+      "ultimo_escanio_partido": "VOX",
+      "siguiente_partido": "PP",
+      "margen_votos": 23430,
+      "porcentaje_margen": 8.28
+    },
+    {
+      "codigo": "15",
+      "nombre": "Coruña (A)",
+      "escanos_2023": 8,
+      "escanos_2026": 8,
+      "votos_validos": 677702,
+      "ultimo_escanio_partido": "BNG",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 12063,
+      "porcentaje_margen": 1.78
+    },
+    {
+      "codigo": "16",
+      "nombre": "Cuenca",
+      "escanos_2023": 3,
+      "escanos_2026": 3,
+      "votos_validos": 113808,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 2728,
+      "porcentaje_margen": 2.4
+    },
+    {
+      "codigo": "10",
+      "nombre": "Cáceres",
+      "escanos_2023": 4,
+      "escanos_2026": 4,
+      "votos_validos": 235851,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "VOX",
+      "margen_votos": 12741,
+      "porcentaje_margen": 5.4
+    },
+    {
+      "codigo": "11",
+      "nombre": "Cádiz",
+      "escanos_2023": 9,
+      "escanos_2026": 8,
+      "votos_validos": 637098,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 10504,
+      "porcentaje_margen": 1.65
+    },
+    {
+      "codigo": "14",
+      "nombre": "Córdoba",
+      "escanos_2023": 6,
+      "escanos_2026": 6,
+      "votos_validos": 448602,
+      "ultimo_escanio_partido": "SUMAR",
+      "siguiente_partido": "PP",
+      "margen_votos": 14807,
+      "porcentaje_margen": 3.3
+    },
+    {
+      "codigo": "20",
+      "nombre": "Gipuzkoa",
+      "escanos_2023": 6,
+      "escanos_2026": 6,
+      "votos_validos": 376621,
+      "ultimo_escanio_partido": "EAJ-PNV",
+      "siguiente_partido": "SUMAR",
+      "margen_votos": 2433,
+      "porcentaje_margen": 0.65
+    },
+    {
+      "codigo": "17",
+      "nombre": "Girona",
+      "escanos_2023": 6,
+      "escanos_2026": 6,
+      "votos_validos": 322988,
+      "ultimo_escanio_partido": "JUNTS",
+      "siguiente_partido": "PP",
+      "margen_votos": 285,
+      "porcentaje_margen": 0.09
+    },
+    {
+      "codigo": "18",
+      "nombre": "Granada",
+      "escanos_2023": 7,
+      "escanos_2026": 7,
+      "votos_validos": 502845,
+      "ultimo_escanio_partido": "SUMAR",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 9840,
+      "porcentaje_margen": 1.96
+    },
+    {
+      "codigo": "19",
+      "nombre": "Guadalajara",
+      "escanos_2023": 3,
+      "escanos_2026": 3,
+      "votos_validos": 140913,
+      "ultimo_escanio_partido": "VOX",
+      "siguiente_partido": "PP",
+      "margen_votos": 3058,
+      "porcentaje_margen": 2.17
+    },
+    {
+      "codigo": "21",
+      "nombre": "Huelva",
+      "escanos_2023": 5,
+      "escanos_2026": 5,
+      "votos_validos": 256804,
+      "ultimo_escanio_partido": "VOX",
+      "siguiente_partido": "PP",
+      "margen_votos": 19152,
+      "porcentaje_margen": 7.46
+    },
+    {
+      "codigo": "22",
+      "nombre": "Huesca",
+      "escanos_2023": 3,
+      "escanos_2026": 3,
+      "votos_validos": 119895,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 5477,
+      "porcentaje_margen": 4.57
+    },
+    {
+      "codigo": "23",
+      "nombre": "Jaén",
+      "escanos_2023": 5,
+      "escanos_2026": 5,
+      "votos_validos": 368731,
+      "ultimo_escanio_partido": "VOX",
+      "siguiente_partido": "PP",
+      "margen_votos": 25584,
+      "porcentaje_margen": 6.94
+    },
+    {
+      "codigo": "24",
+      "nombre": "León",
+      "escanos_2023": 4,
+      "escanos_2026": 4,
+      "votos_validos": 275240,
+      "ultimo_escanio_partido": "PSOE",
+      "siguiente_partido": "VOX",
+      "margen_votos": 10839,
+      "porcentaje_margen": 3.94
+    },
+    {
+      "codigo": "25",
+      "nombre": "Lleida",
+      "escanos_2023": 4,
+      "escanos_2026": 4,
+      "votos_validos": 184539,
+      "ultimo_escanio_partido": "PSC",
+      "siguiente_partido": "PP",
+      "margen_votos": 3509,
+      "porcentaje_margen": 1.9
+    },
+    {
+      "codigo": "27",
+      "nombre": "Lugo",
+      "escanos_2023": 4,
+      "escanos_2026": 4,
+      "votos_validos": 198566,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 6350,
+      "porcentaje_margen": 3.2
+    },
+    {
+      "codigo": "28",
+      "nombre": "Madrid",
+      "escanos_2023": 37,
+      "escanos_2026": 38,
+      "votos_validos": 3608673,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 1340,
+      "porcentaje_margen": 0.04
+    },
+    {
+      "codigo": "52",
+      "nombre": "Melilla",
+      "escanos_2023": 1,
+      "escanos_2026": 1,
+      "votos_validos": 27349,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 6504,
+      "porcentaje_margen": 23.78
+    },
+    {
+      "codigo": "30",
+      "nombre": "Murcia",
+      "escanos_2023": 10,
+      "escanos_2026": 10,
+      "votos_validos": 747797,
+      "ultimo_escanio_partido": "PSOE",
+      "siguiente_partido": "PP",
+      "margen_votos": 7379,
+      "porcentaje_margen": 0.99
+    },
+    {
+      "codigo": "29",
+      "nombre": "Málaga",
+      "escanos_2023": 11,
+      "escanos_2026": 11,
+      "votos_validos": 788338,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 2429,
+      "porcentaje_margen": 0.31
+    },
+    {
+      "codigo": "31",
+      "nombre": "Navarra",
+      "escanos_2023": 5,
+      "escanos_2026": 5,
+      "votos_validos": 341844,
+      "ultimo_escanio_partido": "PSOE",
+      "siguiente_partido": "SUMAR",
+      "margen_votos": 2855,
+      "porcentaje_margen": 0.84
+    },
+    {
+      "codigo": "32",
+      "nombre": "Ourense",
+      "escanos_2023": 4,
+      "escanos_2026": 4,
+      "votos_validos": 186271,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 6087,
+      "porcentaje_margen": 3.27
+    },
+    {
+      "codigo": "34",
+      "nombre": "Palencia",
+      "escanos_2023": 3,
+      "escanos_2026": 3,
+      "votos_validos": 96962,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 7097,
+      "porcentaje_margen": 7.32
+    },
+    {
+      "codigo": "35",
+      "nombre": "Palmas (Las)",
+      "escanos_2023": 8,
+      "escanos_2026": 8,
+      "votos_validos": 529337,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 6806,
+      "porcentaje_margen": 1.29
+    },
+    {
+      "codigo": "36",
+      "nombre": "Pontevedra",
+      "escanos_2023": 7,
+      "escanos_2026": 7,
+      "votos_validos": 573124,
+      "ultimo_escanio_partido": "PSOE",
+      "siguiente_partido": "PP",
+      "margen_votos": 11992,
+      "porcentaje_margen": 2.09
+    },
+    {
+      "codigo": "26",
+      "nombre": "Rioja (La)",
+      "escanos_2023": 4,
+      "escanos_2026": 4,
+      "votos_validos": 174663,
+      "ultimo_escanio_partido": "PSOE",
+      "siguiente_partido": "PP",
+      "margen_votos": 13769,
+      "porcentaje_margen": 7.88
+    },
+    {
+      "codigo": "37",
+      "nombre": "Salamanca",
+      "escanos_2023": 4,
+      "escanos_2026": 4,
+      "votos_validos": 199110,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 1495,
+      "porcentaje_margen": 0.75
+    },
+    {
+      "codigo": "38",
+      "nombre": "Santa Cruz de Tenerife",
+      "escanos_2023": 7,
+      "escanos_2026": 7,
+      "votos_validos": 494373,
+      "ultimo_escanio_partido": "PSOE",
+      "siguiente_partido": "SUMAR",
+      "margen_votos": 1565,
+      "porcentaje_margen": 0.32
+    },
+    {
+      "codigo": "40",
+      "nombre": "Segovia",
+      "escanos_2023": 3,
+      "escanos_2026": 3,
+      "votos_validos": 88613,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 12782,
+      "porcentaje_margen": 14.42
+    },
+    {
+      "codigo": "41",
+      "nombre": "Sevilla",
+      "escanos_2023": 12,
+      "escanos_2026": 12,
+      "votos_validos": 1059358,
+      "ultimo_escanio_partido": "SUMAR",
+      "siguiente_partido": "PP",
+      "margen_votos": 18200,
+      "porcentaje_margen": 1.72
+    },
+    {
+      "codigo": "42",
+      "nombre": "Soria",
+      "escanos_2023": 2,
+      "escanos_2026": 2,
+      "votos_validos": 50769,
+      "ultimo_escanio_partido": "PSOE",
+      "siguiente_partido": "SY",
+      "margen_votos": 5270,
+      "porcentaje_margen": 10.38
+    },
+    {
+      "codigo": "43",
+      "nombre": "Tarragona",
+      "escanos_2023": 6,
+      "escanos_2026": 6,
+      "votos_validos": 368024,
+      "ultimo_escanio_partido": "JUNTS",
+      "siguiente_partido": "PSC",
+      "margen_votos": 1248,
+      "porcentaje_margen": 0.34
+    },
+    {
+      "codigo": "44",
+      "nombre": "Teruel",
+      "escanos_2023": 3,
+      "escanos_2026": 3,
+      "votos_validos": 75913,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "EXISTE",
+      "margen_votos": 1946,
+      "porcentaje_margen": 2.56
+    },
+    {
+      "codigo": "45",
+      "nombre": "Toledo",
+      "escanos_2023": 6,
+      "escanos_2026": 6,
+      "votos_validos": 387200,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 20462,
+      "porcentaje_margen": 5.28
+    },
+    {
+      "codigo": "46",
+      "nombre": "Valencia/València",
+      "escanos_2023": 16,
+      "escanos_2026": 16,
+      "votos_validos": 1437161,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 22117,
+      "porcentaje_margen": 1.54
+    },
+    {
+      "codigo": "47",
+      "nombre": "Valladolid",
+      "escanos_2023": 5,
+      "escanos_2026": 5,
+      "votos_validos": 316309,
+      "ultimo_escanio_partido": "VOX",
+      "siguiente_partido": "PP",
+      "margen_votos": 14675,
+      "porcentaje_margen": 4.64
+    },
+    {
+      "codigo": "49",
+      "nombre": "Zamora",
+      "escanos_2023": 3,
+      "escanos_2026": 3,
+      "votos_validos": 103410,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 12596,
+      "porcentaje_margen": 12.18
+    },
+    {
+      "codigo": "50",
+      "nombre": "Zaragoza",
+      "escanos_2023": 7,
+      "escanos_2026": 7,
+      "votos_validos": 518705,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "PSOE",
+      "margen_votos": 26919,
+      "porcentaje_margen": 5.19
+    },
+    {
+      "codigo": "05",
+      "nombre": "Ávila",
+      "escanos_2023": 3,
+      "escanos_2026": 3,
+      "votos_validos": 97956,
+      "ultimo_escanio_partido": "PP",
+      "siguiente_partido": "VOX",
+      "margen_votos": 6117,
+      "porcentaje_margen": 6.24
+    }
+  ],
+  "preguntas": [
+    {
+      "id": "prov-1",
+      "pregunta": "¿Por cuántos votos se decidió el último escaño de Girona en las generales de 2023 (Junts frente al PP)?",
+      "opciones": [
+        "285 votos",
+        "2.850 votos",
+        "9.400 votos",
+        "24.000 votos"
+      ],
+      "respuesta_correcta": "285 votos",
+      "explicacion": "En Girona, solo 285 papeletas separaron el 6.º escaño (que fue para Junts) del PP según nuestro cálculo sobre el escrutinio oficial (BOE)."
+    },
+    {
+      "id": "prov-2",
+      "pregunta": "En Madrid (37 escaños en 2023, 38 en 2026), ¿por cuántos votos ganó el PP el último escaño frente al PSOE?",
+      "opciones": [
+        "1.340 votos",
+        "18.500 votos",
+        "42.000 votos",
+        "85.000 votos"
+      ],
+      "respuesta_correcta": "1.340 votos",
+      "explicacion": "Pese a emitirse más de 3,5 millones de votos válidos en Madrid, el último diputado (n.º 37) se decidió por solo 1.340 votos (el 0,04 %)."
+    },
+    {
+      "id": "prov-3",
+      "pregunta": "¿Qué dos provincias cambian su número de diputados el 29-N de 2026 respecto a 2023 por la población (art. 162 LOREG)?",
+      "opciones": [
+        "Madrid (+1) y Cádiz (-1)",
+        "Barcelona (+1) y Asturias (-1)",
+        "Valencia (+1) y León (-1)",
+        "Málaga (+1) y Zamora (-1)"
+      ],
+      "respuesta_correcta": "Madrid (+1) y Cádiz (-1)",
+      "explicacion": "El decreto de convocatoria (BOE-A-2026-20742) asigna 38 escaños a Madrid (+1) y 8 a Cádiz (-1) por variación de población."
+    },
+    {
+      "id": "prov-4",
+      "pregunta": "En Cantabria (5 escaños), ¿cuántos votos faltaron al PP en 2023 para arrebatarle el último diputado a VOX?",
+      "opciones": [
+        "404 votos",
+        "4.100 votos",
+        "11.200 votos",
+        "25.000 votos"
+      ],
+      "respuesta_correcta": "404 votos",
+      "explicacion": "En Cantabria el reparto D'Hondt dejó al PP a apenas 404 papeletas de distancia del 5.º diputado, que retuvo VOX."
+    },
+    {
+      "id": "prov-5",
+      "pregunta": "En Santa Cruz de Tenerife (7 escaños), ¿qué dos formaciones se jugaron el último escaño por 1.565 votos?",
+      "opciones": [
+        "PSOE frente a Sumar",
+        "PP frente a Coalición Canaria",
+        "VOX frente a PSOE",
+        "CCa frente a Sumar"
+      ],
+      "respuesta_correcta": "PSOE frente a Sumar",
+      "explicacion": "En Santa Cruz de Tenerife, el PSOE obtuvo el último escaño con 1.565 votos de ventaja sobre Sumar."
+    },
+    {
+      "id": "prov-6",
+      "pregunta": "¿Qué porcentaje mínimo de votos válidos (incluidos votos en blanco) exige la ley para entrar en el reparto D'Hondt provincial?",
+      "opciones": [
+        "3 % en la provincia",
+        "5 % en toda España",
+        "1 % en la provincia",
+        "No hay mínimo"
+      ],
+      "respuesta_correcta": "3 % en la provincia",
+      "explicacion": "El artículo 163.1.a de la LOREG (BOE-A-1985-11672) excluye del reparto en cada circunscripción a las candidaturas con menos del 3 % de los votos válidos emitidos."
+    },
+    {
+      "id": "prov-7",
+      "pregunta": "En Teruel (3 escaños), ¿por cuántos votos retuvo el PP su segundo escaño frente a Teruel Existe en 2023?",
+      "opciones": [
+        "1.946 votos",
+        "6.800 votos",
+        "14.200 votos",
+        "31.000 votos"
+      ],
+      "respuesta_correcta": "1.946 votos",
+      "explicacion": "Teruel Existe quedó a solo 1.946 votos de conseguir escaño frente al último cociente del PP en 2023."
+    },
+    {
+      "id": "prov-8",
+      "pregunta": "En Albacete (4 escaños), ¿qué margen decidió el último diputado entre PSOE y VOX?",
+      "opciones": [
+        "1.412 votos",
+        "7.500 votos",
+        "16.000 votos",
+        "29.000 votos"
+      ],
+      "respuesta_correcta": "1.412 votos",
+      "explicacion": "Solo 1.412 papeletas separaron al PSOE de VOX en el último escaño de Albacete (0,64 % de los votos válidos)."
+    }
+  ]
+}

@@ -1,0 +1,1810 @@
+{
+  "siglas": "PACMA",
+  "nombre": "Partido Animalista Con el Medio Ambiente",
+  "fuente_url": "https://pacma.es/wp-content/uploads/2026/11/PE_GENERALES_29N26.pdf",
+  "fetched_at": "2026-11-15T20:13:49Z",
+  "sha256": "6009e569e3bfd4f607b8831ade1d1ef33cbbda6033805e3ebc331d4dd0e30a1d",
+  "paginas": 82,
+  "propuestas": [
+    {
+      "area": "seguridad_justicia",
+      "titular": "Establecer la esterilización obligatoria y prohibir la compraventa de animales de compañía y su uso en",
+      "cita": "Es necesario resolver este problema en su origen, estableciendo la esterilización obligatoria, prohibiendo la compraventa de animales como compañía y su uso como instrumentos de caza.",
+      "pagina": 6,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Impulsar una Ley de Bienestar y Protección de los Animales que proteja a todos los animales sin",
+      "cita": "Desde PACMA lucharemos por tener una verdadera Ley de Bienestar y Protección de los Animales que proteja a todos los animales, sin distinciones, excepciones, ni exclusiones, como es la proposición de Ley General de Bienestar y Protección de los Animales, conocida popularmente como “Ley Cero”, que el Partido Animalista presentó ya en 2017 a las Cortes Generales.",
+      "pagina": 7,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Proponer prohibir el comercio y la exhibición comercial de animales de compañía para que solo sean",
+      "cita": "Desde PACMA proponemos la prohibición del comercio de animales como compañía, así como su exhibición y exposición al público con fines comerciales, de manera que solo puedan ser adoptados.",
+      "pagina": 8,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Proponer la esterilización obligatoria también de los perros realizada por profesionales veterinarios",
+      "cita": "Desde PACMA proponemos la esterilización obligatoria también de los perros, que, en todos los casos, deben realizarse por profesionales veterinarios. En aquellos casos en los que no sea aconsejable por razones de salud del animal, se valorarán otras medidas anticonceptivas, teniendo siempre como prioridad su salud y bienestar.",
+      "pagina": 8,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Impulsar campañas públicas subvencionadas de esterilización para protectoras y personas con pocos",
+      "cita": "Además, queremos impulsar que las diferentes administraciones públicas desarrollen campañas subvencionadas de esterilización de animales destinadas preferentemente a protectoras y personas con recursos insuficientes para afrontar la esterilización de los animales que tengan a su cargo.",
+      "pagina": 8,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Establecer el sacrificio cero diferenciándolo de la eutanasia prescrita por veterinarios ante mal",
+      "cita": "PACMA lleva muchos años trabajando para establecer el sacrificio cero, diferenciándolo de los supuestos de eutanasia del animal, con la finalidad de evitar un sufrimiento grave e irremediable, como consecuencia de padecer una enfermedad o lesión sin posibilidad de curación que no permita tener una calidad de vida compatible con los parámetros mínimos de bienestar animal",
+      "pagina": 8,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Articular mecanismos para que los ayuntamientos apliquen el método CER e impedir que sea un negocio",
+      "cita": "En primer lugar, es imprescindible articular mecanismos para que, por un lado, los ayuntamientos cumplan de manera efectiva con la Ley y, por otro, impedir que la gestión de las colonias se convierta en un negocio para empresas que nada tienen que ver con la protección de los animales, como ya sucede en muchos casos con el servicio de recogida y acogida de animales abandonados.",
+      "pagina": 9,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "territorial",
+      "titular": "Asegurar que los ayuntamientos asuman la alimentación y atención veterinaria de las colonias felinas con",
+      "cita": "Además, se debe asegurar que los ayuntamientos se hagan cargo tanto de la alimentación como de la atención y los tratamientos veterinarios que los gatos integrantes de las colonias requieran. Para ello, es necesario que las líneas de subvención que prevé la Ley estatal sean de una dotación suficiente y estable, dado que la efectividad del método requiere continuidad.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Implementar campañas informativas a la ciudadanía sobre el control de colonias felinas mediante el",
+      "cita": "Para un buen desarrollo, es igualmente necesaria la implementación de campañas de información dirigidas a la ciudadanía sobre el control poblacional de las colonias mediante el CER y sus beneficios, aún desconocidos para gran parte de la población.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Proponer prohibir animales cautivos para entretenimiento y reconvertir zoos y acuarios en reservas o",
+      "cita": "Por todo ello, el Partido Animalista propone la prohibición de mantener animales cautivos con fines de exposición, exhibición y/o entretenimiento, y que los zoológicos, acuarios y otros recintos con animales que no tengan como finalidad su cuidado, recuperación, custodia, reintroducción o mantenimiento, sean reconvertidos en centros de recuperación y rescate o reservas.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Proponer el fomento de proyectos tecnológicos para contemplar y estudiar animales en su entorno natural",
+      "cita": "En su lugar, propondremos el fomento de proyectos donde el uso de las últimas tecnologías permita contemplar y estudiar a los animales en sus entornos naturales, sin necesidad de interferir en el curso normal de su vida silvestre.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Exigir prohibir la asistencia y participación de menores en la tauromaquia y la caza y suprimir",
+      "cita": "Desde el Partido Animalista exigimos proteger a la infancia de la violencia de la tauromaquia y la caza, prohibiendo su asistencia y participación en estas actividades en las que se ejerce violencia extrema contra los animales, y avanzar hacia la supresión de las excepciones legales al maltrato y sufrimiento de los propios animales, permitidos también en otros espectáculos, como circos y delfinarios.",
+      "pagina": 11,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Impulsar la habilitación y puesta en marcha en España de santuarios para cetáceos en Europa",
+      "cita": "Por todo ello, desde PACMA hemos explicado al Gobierno que España debe liderar e impulsar la habilitación y puesta en marcha de alguno de los proyectos de santuarios para cetáceos en Europa.",
+      "pagina": 11,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "cultura",
+      "titular": "Proponer prohibir la utilización de animales en todo tipo de espectáculos, tradiciones y festejos",
+      "cita": "Por ello, propondremos establecer la prohibición de utilización de animales en todo tipo de espectáculos, tradiciones y festejos, tanto privados como públicos.",
+      "pagina": 12,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "cultura",
+      "titular": "Exigir prohibir emitir festejos con animales, retirarles toda subvención y derogar la Ley 18/2013 taurina",
+      "cita": "Mientras conseguimos una prohibición real, exigiremos la prohibición de su retransmisión televisiva o radiofónica, la retirada inmediata de toda subvención pública que reciban directa o indirectamente, así como de cualquier reconocimiento que los proteja como patrimonio o bien de interés cultural, empezando por derogar la Ley 18/2013, de 12 de noviembre, para la regulación de la Tauromaquia como patrimonio cultural",
+      "pagina": 12,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Abolir la caza e impulsar prohibir balines de plomo, ampliar perímetros y hacer test de alcohol a",
+      "cita": "Seguiremos luchando cada día hasta abolir esta práctica cruel e innecesaria, e impulsaremos medidas como la prohibición definitiva de la utilización de balines de plomo, la ampliación de la extensión de los perímetros de seguridad alrededor de los terrenos cinegéticos, la creación de un registro nacional sobre accidentes relacionados con la actividad cinegética y la obligatoriedad de realizar controles de alcoholemia y estupefacientes a los cazadores de manera regular, aleatoria y sin previo aviso",
+      "pagina": 13,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Impulsar la inclusión de los perros de caza en la Ley de protección animal y prohibir cazar con animales",
+      "cita": "Desde PACMA, mientras conseguimos la prohibición de la caza, impulsaremos la inclusión de los perros de caza en la Ley de protección animal con vistas siempre a la prohibición del empleo de animales como instrumentos para cazar, ya sean perros, aves, hurones u otros animales.",
+      "pagina": 14,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Prohibir expresamente la caza del lobo y del zorro para proteger a ambas especies",
+      "cita": "Desde PACMA queremos que se proteja a estas especies emblemáticas, tan injustamente criminalizadas y señaladas a expensas de los intereses de los sectores cinegético y ganadero, de manera que la caza del lobo y del zorro sean expresamente prohibidas.",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Abogar por campañas de educación ambiental sobre la conservación de la fauna silvestre, como el lobo y",
+      "cita": "Abogaremos, además, por el desarrollo de campañas de educación ambiental que sensibilicen a la población sobre la importancia de la conservación de la fauna silvestre y, especialmente, de especies como el lobo y el zorro, de manera que se erradiquen todas las falacias y la animadversión que cazadores y ganaderos han infundido durante décadas sobre ellas para tratar de justificar la persecución y el maltrato de estos animales.",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Proponer prohibir la cría y explotación de animales para el aprovechamiento de sus pieles",
+      "cita": "Por todo ello, PACMA propone prohibir la cría y explotación de animales para el aprovechamiento de sus pieles.",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Sustituir la Dirección General de Derechos de los Animales por otra en el ministerio de Medio Ambiente",
+      "cita": "Sustituiremos la actual Dirección General de Derechos de los Animales, incoherentemente dependiente de un ministerio cuyas competencias no tienen relación alguna con la mayoría de los animales, como es el Ministerio de Derechos Sociales, lo que desde su creación ha limitado toda capacidad de actuación más allá de los considerados de compañía, por una Dirección General de Bienestar y Protección de los Animales, dependiente del ministerio competente en Medio Ambiente, a la que corresponderá la dirección, coordinación, propuesta y ejecución de las políticas nacionales en materia de bienestar y protección animal.",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Prever por ley el deber de auxilio a animales que se encuentren desamparados, heridos o en peligro",
+      "cita": "Consideramos prever por ley el deber de auxilio a animales que se encuentren desamparados, heridos o en peligro manifiesto. La persona que lo advierta deberá comunicar los hechos a los servicios de emergencia o autoridad competente, que se encargarán de prestar la asistencia oportuna.",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Reconocer como entidades de utilidad pública a las asociaciones de protección y defensa de los animales",
+      "cita": "Las entidades de protección y defensa de los animales deben ser consideradas, cuando así lo soliciten, como entidades de utilidad pública, a todos los efectos.",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Impulsar ayudas públicas para las entidades colaboradoras de protección y defensa de los animales",
+      "cita": "Desde PACMA impulsaremos que los departamentos competentes en materia de protección animal establezcan ayudas para las entidades que hayan obtenido el título de entidades colaboradoras, destinadas a las actividades que lleven a cabo con relación a la protección y la defensa de los animales, a su cuidado y mantenimiento, a la ejecución de programas de adopción",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Reconocer a las entidades de protección animal como interesadas cualificadas en procedimientos",
+      "cita": "Además, deben tener la consideración de interesados cualificados en los procedimientos sancionadores en los casos en que hayan formulado la denuncia correspondiente o hayan formalizado la comparecencia en el expediente sancionador.",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Incluir la protección animal en la casilla del 0,7% del IRPF destinada a actividades de interés social",
+      "cita": "Otra propuesta de PACMA, que ya presentamos formalmente al Gobierno, es la inclusión de la protección animal como una de las actividades consideradas de interés social a tener en cuenta en la determinación de las bases reguladoras de las ayudas financiadas con el porcentaje fijado del rendimiento del IRPF, el conocido 0,7%, que los y las contribuyentes deciden destinar a actividades de interés general consideradas de interés social, marcando la casilla al efecto al realizar su declaración de la Renta.",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Reconocer legalmente los santuarios de animales como entidades de protección exentas de normativa",
+      "cita": "Desde PACMA llevamos una década luchando por el reconocimiento legal de los santuarios como entidades de protección y defensa de los animales, en los que se recupera y acoge a animales rescatados principalmente de la explotación de la industria ganadera y que, como tales, tengan la consideración y el apoyo recogidos en el anterior apartado.",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Crear centros de recuperación y rescate suficientes para alojar animales silvestres, salvajes o exóticos",
+      "cita": "Apostamos por establecer la previsión de creación de centros de recuperación y rescate suficientes y adecuados para alojar a las especies de animales silvestres, salvajes y/o exóticos, tras haber sufrido un accidente o agresión, haber sido rescatadas del tráfico ilegal, del abandono o de la cautividad de circos, zoológicos o particulares.",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Obligar por ley a elaborar protocolos de evacuación y rescate de animales en explotaciones, cotos y",
+      "cita": "Defendemos la obligatoriedad por ley de la elaboración de protocolos de evacuación y rescate de animales que se encuentren en explotaciones de toda índole y terrenos cinegéticos vallados, así como en centros, recintos, instalaciones o establecimientos dedicados al cuidado, mantenimiento, educación, guardería, residencia, recogida, acogida de animales y cualesquiera otros que cumplan análogas funciones, ante situaciones climatológicas extremas y ante fenómenos o desastres naturales o provocados por personas.",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Proponer la obligatoriedad de contar con protocolos de asistencia a la fauna silvestre en clima extremo",
+      "cita": "Por ello propondremos la obligatoriedad de contar con protocolos de asistencia a la fauna silvestre en condiciones climatológicas extremas.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Defender métodos de control poblacional no letales para fauna silvestre y urbana, como vacunas",
+      "cita": "Desde PACMA defendemos el uso de métodos de control poblacional no letales por ser más éticos, pero también efectivos, como las vacunas anticonceptivas que ya se han probado con éxito",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Establecer en la Ley de protección animal obligaciones mínimas de agua, alimento, refugio y atención",
+      "cita": "Por ello, es fundamental establecer en la Ley de protección animal, al menos, las siguientes obligaciones para las personas poseedoras de animales: • Proporcionarle agua fresca, limpia y potable, y un alimento completo en cantidad suficiente. • Proporcionarle un alojamiento cómodo y seguro, a resguardo de las inclemencias meteorológicas, que será sometido a una limpieza periódica.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Reformar los centros de acogida de animales y crear un servicio de atención veterinaria social a precio",
+      "cita": "Es por tanto necesario establecer unas pautas para una reforma integral de todos los centros de acogida, además de fomentar la adopción de los animales acogidos mediante la prestación de un servicio de atención veterinaria social, al que puedan acogerse las personas que hayan adoptado en la red de centros de acogida municipales, de manera que los animales adoptados reciban una asistencia y tratamiento veterinarios a precios reducidos.",
+      "pagina": 19,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Impartir cursos de etología y educación canina y felina dirigidos a profesionales y cuidadores",
+      "cita": "Para prevenir los problemas de comportamiento que pueden derivar del abandono y/o maltrato sufridos por los animales, consideramos imprescindible que se impartan cursos de etología y educación canina y felina, dirigidos tanto a profesionales como a cuidadores/as, lo que, sin duda, redundará en una mejora de la calidad de la vida de las personas adoptantes y, especialmente, de los animales.",
+      "pagina": 19,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Permitir y regular el acceso de animales al transporte público, albergues, residencias y casas de acogida",
+      "cita": "Abogaremos para se permita y regule el acceso de los animales al transporte público, a los albergues para personas sin hogar, a las residencias para mayores y a las casas de acogida y pisos tutelados para víctimas de violencia de género, de manera que las personas que tengan que alojarse en estos lugares no se vean abocadas, además, a tener que separarse de ellos, dejarlos atrás o dormir en la calle.",
+      "pagina": 19,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Proponer que los hospitales habiliten salas para que los pacientes ingresados reciban a sus animales",
+      "cita": "Por ello, desde PACMA proponemos que los hospitales permitan el acceso de animales, habilitando una zona o sala, donde las personas que se encuentren ingresadas puedan recibir la visita de sus animales de compañía. Para ello, promoveremos un plan conjunto entre el Consejo Interterritorial del Sistema Nacional de Salud, el Estado y las comunidades autónomas, con los protocolos de seguridad e higiene adecuados.",
+      "pagina": 19,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Prohibir la importación de especies alóctonas para compañía o explotación ganadera, piscícola, peletera",
+      "cita": "La primera medida que se debe tomar para prevenir los problemas que pueden derivarse de la introducción de especies, subespecies o razas geográficas alóctonas, que pueden llegar a constituir una amenaza para las especies autóctonas, los hábitats o los ecosistemas, es prohibir la importación de especies y subespecies alóctonas, tanto para su comercialización y tenencia como animales de compañía, como para su explotación ganadera, piscícola, peletera y cinegética.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Condicionar la tenencia de animales silvestres en cautividad a que no puedan ser reintroducidos en su",
+      "cita": "Desde PACMA llevamos años reclamando que se prohíba de manera absoluta la importación de especies alóctonas y que la tenencia de animales silvestres en cautividad debe estar condicionada a que el animal no pueda ser devuelto y reintroducido en su medio natural.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Defender métodos no letales de control de reproducción para especies alóctonas ya introducidas",
+      "cita": "Para el control poblacional de aquellas especies alóctonas que ya han sido introducidas, comercializadas y/o liberadas, que pueden llegar a constituir una amenaza para las especies autóctonas, los hábitats o los ecosistemas, defendemos el uso de técnicas y métodos no letales de control de reproducción, por ser más ético, pero también efectivo a la larga, como la esterilización o el suministro de vacunas y/o piensos anticonceptivos.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Proponer prohibir tener animales salvajes como compañía y mantener a los animales atados, encerrados o",
+      "cita": "Además de las ya expuestas en los anteriores epígrafes, propondremos incluir las siguientes prohibiciones: - Tener animales salvajes como animales de compañía. - Mantener a los animales atados, encerrados o enjaulados.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Prohibir tener animales de forma continuada en terrazas o patios y matar, dañar o molestar a fauna",
+      "cita": "- Tener de forma continuada animales en terrazas o patios, u otros lugares inapropiados. - Matar, dañar o molestar a animales silvestres.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Prohibir dar sustancias hormonales o químicas sin receta, marcar a fuego, mutilar o inmovilizar animales",
+      "cita": "- Suministrar a los animales sustancias hormonales o químicas que puedan causarles alteraciones de la salud, del metabolismo o del comportamiento, excepto por prescripción veterinaria. - Marcar a los animales a fuego o mediante cualquier otro método lacerante. - Practicar mutilaciones a los animales cuyo objeto sea modificar su apariencia o conseguir otros fines no curativos. - Utilizar cualquier artilugio, mecanismo o utensilio destinado a limitar o impedir la movilidad de los animales, salvo por prescripción veterinaria.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "cultura",
+      "titular": "Prohibir usar animales en atracciones feriales, deportes que impliquen su captura o muerte y rodajes",
+      "cita": "- Servirse de animales como blancos en atracciones feriales, concursos o competiciones. - Practicar actividades consideradas deportivas que impliquen el sufrimiento, la captura y/o la muerte de animales. - Matar, causar daño, sufrimiento o estrés a los animales en producciones audiovisuales, cinematográficas, televisivas, artísticas o publicitarias, espectáculos, actividades culturales, religiosas o cualquier otra similar, o bien hacer degradación, parodias, burlas o tratamientos antinaturales.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "cultura",
+      "titular": "Prohibir filmar con animales silvestres fuera de su medio natural, sacrificios rituales y ferias con",
+      "cita": "- Filmar con animales silvestres y/o salvajes para el cine, la televisión u otros medios de difusión, salvo que sea en su medio natural y siempre que no se interfiera en el curso normal de su vida silvestre. - Practicar sacrificios rituales de animales por motivos religiosos. - Utilizar animales en atracciones feriales y otras asimilables.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Prohibir el adiestramiento agresivo o lesivo, las peleas de animales y su uso como instrumentos de",
+      "cita": "- Adiestrar o entrenar a los animales mediante métodos que puedan perjudicar su salud y bienestar, obligándoles a superar sus fuerzas o capacidades naturales o utilizando medios que puedan provocar lesiones, dolores, sufrimientos o angustia. - Dar a los animales una educación agresiva, de ataque o defensa. - Emplear animales para adiestrar a otros animales en la pelea o el ataque. - Organizar, participar y/o asistir a peleas organizadas de animales, sin excepciones. - Valerse de animales como instrumentos de defensa, tanto personal como de propiedades.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Prohibir usar animales para tracción, carga o transporte turístico, sortearlos, exhibirlos o cría insana",
+      "cita": "- Utilizar animales como tracción de vehículos. - Someter a los animales a trabajos de carga. - Explotar animales como transporte turístico. - Sortear o hacer donación de un animal como premio, recompensa, gratificación o regalo de compensación. - Exhibir animales con finalidades lucrativas o de reclamo. - Llevar a cabo actuaciones o prácticas de selección genética de las que se deriven problemas o alteraciones graves en la salud de los animales.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Prohibir manipular animales como juguete, usar métodos dañinos de sujeción o imponerles actitudes",
+      "cita": "- Manipular artificialmente a los animales con objeto de hacerlos atractivos como diversión o juguete. - Emplear instrumentos o métodos dañinos de sujeción, retención o educación. - Usar instrumentos o aperos que puedan originar daños a los animales que los utilicen o porten. - Imponer a los animales la realización de comportamientos y actitudes ajenas e impropias de su condición o que impliquen trato vejatorio.",
+      "pagina": 22,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Endurecer las sanciones por infracciones contra animales aumentando la cuantía de multas e",
+      "cita": "Consideramos necesario un endurecimiento de las sanciones previstas, mediante un aumento considerable de la cuantía de las multas, así como de la duración y clasificación de las inhabilitaciones previstas.",
+      "pagina": 22,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Suprimir la multa alternativa en el delito de maltrato animal y elevar la prisión agravada a más de 5",
+      "cita": "Por todo ello, desde PACMA trabajaremos por la supresión de la pena de multa como alternativa a la pena de prisión, así como por un aumento de la pena de prisión que, en el tipo agravado, esté por encima de los cinco años. Consideramos fundamental, además, una ampliación de la inhabilitación para la tenencia o ejercicio de profesión, oficio o comercio que tenga relación con los animales del máximo posible, pues, quién ha maltratado cruelmente a un animal no debería volver a tener otro animal bajo su cuidado nunca.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Crear una unidad especializada en protección animal en la Fiscalía General del Estado",
+      "cita": "Consideramos necesaria la creación de una unidad especializada en protección animal en la Fiscalía General del Estado, responsable de la coordinación y supervisión de la actividad del Ministerio Fiscal en esta materia, unificando los criterios de actuación, para lo que podrá proponer al Fiscal General del Estado la emisión de las correspondientes instrucciones, con la finalidad de ofrecer una respuesta efectiva frente a los ilícitos penales contra los animales.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Crear unidades especializadas en bienestar y protección animal en las Fuerzas y Cuerpos de Seguridad del",
+      "cita": "Desde PACMA defendemos la necesidad de que los Cuerpos y Fuerzas de Seguridad del Estado cuenten con unidades especializadas en el bienestar y la protección de los animales. Estas unidades estarán integradas por agentes instruidos en bienestar y protección animal, incluyendo el adecuado manejo de los animales, y deberán estar equipadas con los medios y recursos materiales necesarios, como armas anestésicas y dardos tranquilizantes.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Impulsar programas de información y educación para prevenir el abandono y fomentar la adopción",
+      "cita": "Desde PACMA impulsaremos el desarrollo de programas de información y educación para promover entre la ciudadanía el respeto por los animales, prevenir el abandono y fomentar la adopción responsable de los mismos",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Fomentar contenidos de protección animal en las aulas y visitas a refugios y santuarios en vez de",
+      "cita": "Por ello, consideramos imprescindible el fomento de materias y/o contenidos relacionados con el respeto, el bienestar y la protección de los animales en los sistemas educativos. Desde PACMA queremos promover que las personas que trabajan y colaboran en protectoras y otras entidades de protección y defensa de los animales, sean invitadas a dar charlas informativas y educativas en las escuelas, así como las visitas a refugios y santuarios de animales en lugar de las visitas a “granjas escuela” y lugares similares, en los que la finalidad no es el bienestar y la protección de los animales.",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Promover la eliminación de las jaulas en las explotaciones ganaderas en España",
+      "cita": "Desde PACMA nos comprometemos a promover cuanto antes la eliminación de las jaulas en España.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Instar a prohibir la práctica de amputaciones a los animales que no tengan ninguna finalidad curativa",
+      "cita": "Por ello, el Partido Animalista instará a prohibir la práctica de amputaciones a los animales que no tengan ninguna finalidad curativa.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Prohibir la alimentación forzosa de animales y la comercialización del foie gras",
+      "cita": "Dieciocho países europeos han prohibido ya la alimentación forzosa. España, como siempre, a la cola en bienestar y protección animal, es uno de los cinco que aún lo permite.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Prohibir la alimentación forzosa de animales y la comercialización de productos derivados como el «foie",
+      "cita": "la prohibición de la alimentación forzosa de los animales, así como la comercialización de los productos derivados de esta cruel técnica.",
+      "pagina": 26,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Trabajar por la prohibición de los métodos de aturdimiento en mataderos que no garanticen ausencia de",
+      "cita": "Por ello, trabajaremos por la prohibición de, al menos, los métodos de aturdimiento que no garanticen la ausencia de sufrimiento para los animales.",
+      "pagina": 26,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Proponer la prohibición de los sacrificios rituales de animales sin aturdimiento previo por motivos",
+      "cita": "Desde el Partido Animalista propondremos la prohibición de los sacrificios rituales de animales por motivos religiosos.",
+      "pagina": 26,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Prohibir el sacrificio de pollitos macho por trituración sustituyéndolo por sexado embrionario del huevo",
+      "cita": "Algunos países europeos, como Alemania, Austria, Luxemburgo, Francia e Italia han prohibido ya el sacrificio por trituración, sustituyéndolo por prácticas alternativas, como las diseñadas para determinar el sexo de los polluelos pocos días después de que el huevo haya sido fertilizado, y antes de que esté formado el sistema nervioso, lo que permite que los huevos fecundados masculinos sean descartados y dejen de ser incubados. Es hora de que España también lo haga.",
+      "pagina": 27,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Modificar el etiquetado de productos de origen animal para indicar clonación, sistema de cría y",
+      "cita": "Por todo ello, propondremos una modificación de la legislación sobre etiquetado en España, que establezca que el etiquetado de los productos de origen animal deba indicar si proviene de animales clonados, el sistema de cría y el método de sacrificio.",
+      "pagina": 27,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Eliminar los viajes largos en el transporte de animales y prohibir las exportaciones de animales vivos",
+      "cita": "Consideramos fundamental eliminar los viajes largos y, sobre todo, prohibir las exportaciones de animales vivos a otros países.",
+      "pagina": 28,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Trabajar por prohibir exportar animales vivos y eliminar las ayudas actuales a los ganaderos por",
+      "cita": "El Partido Animalista trabajará por la prohibición de las exportaciones de animales vivos para su reproducción, engorde y/o sacrificio. Al mismo tiempo, impulsaremos la eliminación de las ayudas que, en la actualidad, reciben los ganaderos por estas exportaciones.",
+      "pagina": 29,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Proponer prohibir el uso de ingredientes de origen animal en cosméticos y productos de higiene personal",
+      "cita": "La prohibición en la Unión Europea de la comercialización de productos cosméticos y de higiene personal testados en animales, así como de los productos que contuvieran ingredientes que habían sido testados en animales, supuso un gran avance, pero desde el Partido Animalista consideramos necesario ir más allá, proponiendo la prohibición de utilizar ingredientes de origen animal en la elaboración de los productos cosméticos y de higiene personal.",
+      "pagina": 29,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Elaborar una Estrategia nacional para el fin de la experimentación en animales y financiar métodos",
+      "cita": "Desde PACMA proponemos: - Elaboración de una Estrategia nacional para el fin de la experimentación en animales y el desarrollo, promoción, difusión y uso de métodos sustitutivos. - Aumento de la financiación de proyectos de investigación dirigidos a encontrar métodos sustitutivos de la experimentación con animales.",
+      "pagina": 29,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Promover métodos sustitutivos éticos (bioinformática, tejidos humanos, IA) y divulgar experimentos",
+      "cita": "- Promooción y fomento del uso de los métodos sustitutivos éticos, como los modelos y herramientas bioinformáticas, el uso de big data, la bioingeniería, la tecnología de fluidos, los tejidos humanos, los cultivos celulares, los modelos tridimensionales y la IA. - Exigencia de la divulgación de los resultados de los experimentos realizados con animales, para evitar su duplicidad o repetición.",
+      "pagina": 30,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Agilizar la validación de métodos alternativos a la experimentación animal y que la industria los",
+      "cita": "- Agilización de los procesos de evaluación, validación y autorización de proyectos de nuevos métodos sustitutivos. - Apoyo a la labor de la Red Española para el Desarrollo de Métodos Alternativos a la Experimentación Animal. - Financiación por parte de la industria química y farmacéutica de la investigación de métodos sustitutivos, destinando parte de sus beneficios, tal y como hicieron en su momento las principales empresas y grupos comerciales de cosméticos.",
+      "pagina": 30,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Aprobar una Ley de Grandes Simios que proscriba su maltrato, cautividad, tráfico y comercialización",
+      "cita": "Desde PACMA hacemos nuestras las reivindicaciones de Proyecto Gran Simio y haremos todo lo posible por que se apruebe, por fin, una Ley de Grandes Simios, que les otorgue la dignidad y la protección que merecen; que preserve su especie; que proscriba su maltrato, su cautividad, su tráfico y comercialización.",
+      "pagina": 30,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Reclamar el reconocimiento de las clínicas veterinarias como centros sanitarios bajo el enfoque «Una",
+      "cita": "Desde PACMA reclamamos el reconocimiento de las clínicas veterinarias como centros sanitarios, dado que están directamente relacionados, no solo con la salud y bienestar de los animales, sino también con la salud pública, debido a su importancia en la prevención y vigilancia de las zoonosis y la seguridad sanitaria desde el enfoque de Una sola salud (One Health).",
+      "pagina": 31,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Reducir el IVA de los servicios veterinarios al tipo superreducido del 4% o a su exención",
+      "cita": "Este reconocimiento permitiría una necesaria reducción del IVA de los servicios veterinarios, no al tipo reducido del 10%, sino al tipo superreducido del 4% e, incluso, a su exención.",
+      "pagina": 31,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Introducir deducciones en el IRPF de hasta el 10% de los gastos veterinarios con un máximo de 500 €",
+      "cita": "Consideramos fundamental aliviar la carga financiera de las familias interespecie, para lo que planteamos la introducción de deducciones en el Impuesto sobre la Renta de las Personas Físicas (IRPF) estableciendo un límite de renta y permitiendo deducciones en la cuota a pagar, con la colaboración de los centros veterinarios, de manera que las familias interespecie se puedan deducir hasta un 10% de los gastos veterinarios, con un ahorro máximo de hasta 500€ anuales.",
+      "pagina": 31,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Modificar el RD 666/2023 de medicamentos veterinarios para excluir de PRESVET a los animales de compañía",
+      "cita": "Nos referimos al Real Decreto 666/2023, por el que se regula la distribución, prescripción, dispensación y uso de medicamentos veterinarios y que se aprobó, en teoría, para adaptar la normativa nacional al Reglamento Europeo sobre medicamentos veterinarios, pero que, como ya denunciamos en su momento, no es coherente con lo que establece el mismo. Y es que, si bien es cierto que el citado Reglamento obliga a los Estados a recabar los datos sobre el uso de antibióticos en animales -que España ha decidido hacer a través de los veterinarios, estableciendo la obligación de notificar cada prescripción a través del sistema informático PRESVET-, desde PACMA ya explicamos al Gobierno que no se debían incluir las prescripciones realizadas a los animales considerados de compañía, dado que el Reglamento Europeo los excluye.",
+      "pagina": 31,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Reflejar en el RD 666/2023 que no es necesario esperar a cultivos para dar antibióticos ni identificar",
+      "cita": "Desde PACMA insistimos en que la normativa europea, por un lado, es clara al establecer que no es necesario esperar a los resultados de dichas pruebas para administrar el antibiótico que el veterinario considere más oportuno y, por otro, que estas pruebas no son necesarias cuando el antibiótico está contenido en un medicamento autorizado en la UE, y así debería reflejarlo el RD 666/2023.",
+      "pagina": 32,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Integrar las renovables en el urbanismo, la edificación y el transporte e invertir en almacenamiento y",
+      "cita": "Apostamos por integrar las renovables en el urbanismo, en la edificación y en el transporte, por una cultura de la energía en el espacio urbano, en el que todas las tecnologías renovables se complementen, con edificios de consumo de energía casi nulo, sistemas alternativos de calefacción y refrigeración, un cambio modal del transporte de mercancías hacia el ferrocarril eléctrico y la expansión de los vehículos eléctricos.",
+      "pagina": 34,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Aprobar un nuevo Plan Nacional de Mejora de Calidad del Aire que mejore la medición y reduzca",
+      "cita": "Es urgente un nuevo Plan Nacional de Mejora de Calidad del Aire que no se limite a un catálogo de medidas genéricas, sino que, por un lado, incremente el esfuerzo por mejorar la medición y la información de la calidad del aire en nuestro país y, por otro, aborde las fuentes más nocivas de contaminación del aire y de cambio climático, incluyendo la combustión de combustibles fósiles, la ganadería y la agricultura intensivas, el transporte y la calefacción residencial.",
+      "pagina": 35,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "infraestructuras",
+      "titular": "Fomentar el desplazamiento peatonal, el transporte público y el uso de medios no motorizados como la",
+      "cita": "PACMA apuesta por medidas que reduzcan la demanda del transporte urbano, facilitando y fomentando el desplazamiento peatonal, el uso de transporte público y el de medios no motorizados, como la bicicleta, como medio de locomoción sostenible y saludable.",
+      "pagina": 36,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Fomentar el teletrabajo con incentivos fiscales, ayudas para equipamiento remoto y servicio de",
+      "cita": "Para reducir significativamente el tráfico rodado, descongestionar carreteras y transportes públicos, apostamos por el fomento del teletrabajo, con medidas que faciliten, incentiven y promuevan esta modalidad laboral, ya sea de manera continuada o con jornadas mixtas, tanto en la empresa pública como en la privada, autónomos/as y pymes, mediante un sistema de incentivos fiscales, ayudas directas para la contratación y/o el equipamiento de los puestos remotos, así como de un servicio de intermediación, entre empresas y personas trabajadoras.",
+      "pagina": 36,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Impulsar la creación de centros de trabajo intermedios en forma de «coworking» públicos en zonas a",
+      "cita": "Otra de nuestras propuestas es el impulso para la creación de centros de trabajo intermedios, en forma de coworking públicos, que se proyecten en zonas que necesiten ser revitalizadas y reactivadas económicamente, para reducir los trayectos y, a su vez, la densidad en las zonas congestionadas.",
+      "pagina": 36,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "infraestructuras",
+      "titular": "Promover la relocalización y el consumo de cercanía y apostar por el ferrocarril electrificado de",
+      "cita": "Con la finalidad de reducir el transporte de mercancías, es necesario promover la relocalización, fomentando el consumo de productos de cercanía, tanto de alimentos como de ropa, calzado y otros enseres necesarios para la vida diaria y apostar por el ferrocarril electrificado, que es uno de los principales aliados para reducir las emisiones de gases de efecto invernadero, con una concepción de servicio público y social, con un mayor uso de cercanías y medias distancias, que permitan la comunicación entre las diferentes comarcas, que atienda las necesidades de los residentes y que sea intermodal.",
+      "pagina": 36,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Aplicar un impuesto climático a los productos de origen animal en función de las emisiones de su",
+      "cita": "- Mayor carga impositiva a los productos de origen animal, aplicando un impuesto climático, cuyo gravamen se calcule en función de las emisiones generadas asociadas a la producción de cada alimento y cuya recaudación se destine a compensar el daño climático que causa su producción.",
+      "pagina": 37,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Incluir en el etiquetado alimentario la huella de carbono y una advertencia en carnes procesadas",
+      "cita": "- Etiquetado de los productos alimenticios que incluya la huella de carbono asociada a su producción, así como una advertencia en todas las carnes procesadas que hayan sido declaradas cancerígenas por la OMS.",
+      "pagina": 37,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Cesar las campañas institucionales de promoción cárnica y lanzar campañas sobre dieta vegetal y granjas",
+      "cita": "- Cese de campañas institucionales de promoción y publicidad del sector y sus productos. - Puesta en marcha de campañas sobre los beneficios para la salud de una dieta vegetal, así como de campañas que muestren la situación real en la que viven los animales en las granjas y las consecuencias medioambientales de la ganadería intensiva.",
+      "pagina": 37,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Subvencionar alimentos vegetales saludables como frutas, verduras, legumbres, semillas, cereales o algas",
+      "cita": "- Subvenciones a los alimentos vegetales saludables, cuya producción es más respetuosa con el medio ambiente, como frutas, verduras, legumbres, semillas, cereales o algas.",
+      "pagina": 38,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Aplicar mayor tipo impositivo a los lácteos de origen animal y menor a sus equivalentes de origen vegetal",
+      "cita": "- Mayor tipo impositivo a las leches, yogures, quesos y demás productos lácteos de origen animal y menor a sus equivalentes de origen vegetal, dado que, actualmente, los de origen animal tienen un IVA superreducido del 4%, mientras que los de origen vegetal tributan al 10%.",
+      "pagina": 38,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Cesar las autorizaciones de nuevas explotaciones ganaderas y avícolas o ampliaciones y revisar las",
+      "cita": "- Cese de autorizaciones para la instalación de nuevas explotaciones ganaderas y avícolas, y/o para la ampliación de las existentes. - Revisión de las autorizaciones concedidas con evaluaciones de impacto ambiental acumulado sobre el conjunto de proyectos.",
+      "pagina": 39,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Aprobar normativa estatal que limite el tamaño de las granjas, regule purines, aumente inspecciones y",
+      "cita": "- Normativa estatal que limite el tamaño y el número de animales de las explotaciones ganaderas y avícolas; que establezca como requisito la presentación de estudios específicos sobre afecciones al medio, así como de planes de abonado en todos los casos; y que regule la gestión de los purines. - Implantación de un mayor número de controles e inspecciones de las instalaciones, más exhaustivos, estrictos y regulares. - Cese de las subvenciones al sector.",
+      "pagina": 39,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Aplicar un impuesto climático a las explotaciones ganaderas y avícolas según las emisiones generadas",
+      "cita": "- Impuesto climático a las explotaciones ganaderas y avícolas, cuyo gravamen se calcule en función de las emisiones generadas asociadas a su producción, y cuya recaudación se destine a compensar el daño climático que causan.",
+      "pagina": 39,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Apostar por reconvertir la industria pesquera y las piscifactorías hacia otros sectores y cesar sus",
+      "cita": "Desde PACMA apostamos también por una reconversión de la industria pesquera hacia otros sectores, y el cese de las subvenciones al sector.",
+      "pagina": 40,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Defender el fin de la comercialización de carne y aletas de tiburón",
+      "cita": "Por ello, desde PACMA defendemos el fin de la comercialización de carne y aletas de tiburón.",
+      "pagina": 41,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Impulsar una norma nacional que prohíba tanto la producción como la importación de pulpos criados en",
+      "cita": "Por ello, desde PACMA impulsaremos, por un lado, una norma nacional que prohíba tanto la producción como la importación de pulpos criados en cautividad.",
+      "pagina": 42,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Modificar el delito de maltrato animal para proteger a los invertebrados también cuando viven en libertad",
+      "cita": "Por otro, la modificación del delito de maltrato animal de manera que los invertebrados queden protegidos en todos los casos, puesto que, como hemos señalado anteriormente, la pésima redacción de la reforma realizada en 2023 protege a los animales invertebrados solo cuando se encuentran bajo control humano y el maltrato a animales tan inteligentes y sensibles como pulpos y otros cefalópodos que viven en libertad continúa siendo impune.",
+      "pagina": 42,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Prohibir mantener a los crustáceos en hielo o con las pinzas atadas y prohibir que sean cocidos vivos",
+      "cita": "Por los mismos motivos, es una necesidad urgente proteger a los crustáceos que se destinan al consumo humano, al menos, prohibiendo que sean mantenidos en hielo y/o con las pinzas atadas, y que sean cocidos vivos.",
+      "pagina": 42,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Impulsar la prohibición del uso del glifosato y de otros herbicidas y plaguicidas peligrosos y apoyar lo",
+      "cita": "PACMA quiere impulsar la prohibición del uso del glifosato, así como el de otros herbicidas y plaguicidas peligrosos. En contrapartida, queremos fomentar y apoyar la producción orgánica, como sistema de gestión y producción agroalimentaria que combina las mejores prácticas ambientales junto con un elevado nivel de biodiversidad y de preservación de los recursos naturales.",
+      "pagina": 43,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Incrementar las subvenciones a la agricultura en detrimento de la ganadería y redistribuirlas a pequeñas",
+      "cita": "En particular, defendemos las siguientes medidas: - Incrementar las subvenciones a la agricultura en detrimento de las que recibe la ganadería. - Redistribuir las ayudas directas hacia las explotaciones más pequeñas y respetuosas con el medio ambiente.",
+      "pagina": 43,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Impulsar canales cooperativos agrícolas, apoyo al almacenamiento y formación profesional y técnica",
+      "cita": "- Preservar los métodos de producción tradicionales, regionales y locales. - Impulsar la creación de canales cooperativos y solidarios para la comercialización de productos, al margen de las multinacionales. - Favorecer la puesta en marcha de medidas de apoyo para el almacenamiento, la conservación y transformación de los productos hortofrutícolas. - Promover medidas de apoyo técnico a los/as profesionales del sector. - Reforzar los sistemas para la vigilancia, el análisis de alimentos y la alerta temprana. - Impulsar la formación a través de cursos de especialización y de formación profesional agrícola.",
+      "pagina": 44,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Desincentivar el monocultivo, abastecer comedores públicos con agricultura ecológica local y apoyar",
+      "cita": "- Desincentivar la agricultura basada en monocultivos que agota el suelo y perjudica la biodiversidad, y reorientarla hacia una agricultura diversificada y agroecológica, que utilice los principios regenerativos, de permacultura y naturales que restauran el suelo y los ecosistemas, mejoran la seguridad alimentaria y proporcionan alimentos ricos en nutrientes. - Incentivar el consumo de producto local, evitando costes de transporte y perjuicios al medio ambiente. - Implementar que los servicios de bares, cafeterías, restaurantes y comedores de dependencias públicas sean abastecidos por productos locales, procedentes de la agricultura ecológica. - Apoyar y subvencionar las energías renovables en las que se sustenten los sistemas de riego inteligentes de presión y caudal constante, que ahorran agua, son más eficientes y ecológicos.",
+      "pagina": 44,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Desincentivar productos de alto impacto ambiental, limitar el sobreembalaje e incentivar envases",
+      "cita": "Para ello es necesario poner en marcha políticas para desincentivar la producción y compraventa de los productos que tienen un mayor impacto ambiental, encarecer y limitar el sobre-embalaje y el uso de materiales no reciclables.",
+      "pagina": 44,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Implantar sistemas de retorno de envases e impulsar productos duraderos, reparables, reutilizables y",
+      "cita": "Por ello, desde el Partido Animalista proponemos políticas que impulsen la puesta en el mercado de productos duraderos, reparables, reutilizables y reciclables, con el objetivo de reducir el uso y consumo de recursos naturales, disminuir la producción de residuos, impulsar el sector de la reparación, relocalizar la creación de empleo y la generación de riqueza.",
+      "pagina": 45,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Exigir a los fabricantes ampliar garantías, facilitar la sustitución de piezas y permitir reparar en",
+      "cita": "Para combatir la obsolescencia programada, la legislación debe exigir a los fabricantes que amplíen las garantías, permitan extraer y sustituir piezas fácilmente para reparar los dispositivos, y que los usuarios puedan acudir a cualquier tienda de reparación para arreglar sus productos, sin verse obligados a acudir necesariamente a los servicios oficiales de los fabricantes.",
+      "pagina": 45,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Poner en marcha campañas de difusión y reeducación hacia un consumo responsable, planificado y sostenible",
+      "cita": "Por ello es fundamental también la puesta en marcha de campañas de difusión y reeducación hacia un consumo responsable, planificado y sostenible.",
+      "pagina": 45,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "infraestructuras",
+      "titular": "Promover tecnologías eficientes y digitalización de redes de agua, garantizar caudales y depuración",
+      "cita": "Para garantizar el buen estado de las masas de agua son necesarias políticas sectoriales que minimicen su consumo, garanticen caudales ambientales parecidos al régimen natural y aseguren la calidad del agua disponible. Las administraciones responsables deben respetar las llanuras de inundación y evitar la contaminación difusa o los usos excesivos. Es necesario promover el ahorro y la depuración del agua y garantizar una buena gestión pública.",
+      "pagina": 46,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Realizar campañas informativas contra el uso doméstico de detergentes y químicos tóxicos y vertidos a",
+      "cita": "Son necesarias campañas informativas destinadas a concienciar sobre los perjuicios medioambientales de utilizar detergentes y químicos tóxicos en el ámbito doméstico, como en la limpieza del hogar y la ropa, y fomentar, en su lugar, el uso de productos ecológicos o inocuos.",
+      "pagina": 46,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Proponer ampliar las zonas marinas y terrestres protegidas hasta abarcar al menos el 30% del territorio",
+      "cita": "PACMA propone ampliar las zonas marinas y terrestres protegidas, de manera que las áreas naturales protegidas de bosques, humedales, turberas, pastizales y ecosistemas costeros, que, actualmente solo suponen un 18% del territorio, abarquen, al menos, un 30% para 2030.",
+      "pagina": 47,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Impulsar una norma que obligue a adaptar infraestructuras públicas y privadas para proteger a la fauna",
+      "cita": "Desde PACMA impulsaremos el desarrollo de una norma que aborde las distintas problemáticas derivadas de las diferentes infraestructuras, que prevea medidas de protección de la fauna silvestre y establezca la obligatoriedad de adoptarlas, ya se trate de infraestructuras de titularidad pública como privada, adaptando las existentes y exigiendo que las nuevas las incorporen desde su construcción o instalación, con la finalidad de evitar o, al menos, reducir la mortalidad de la fauna silvestre.",
+      "pagina": 48,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Combatir la tala ilegal, impulsar la reforestación con especies autóctonas y prevenir los incendios",
+      "cita": "En nuestro país, urge una política forestal que ponga en valor los montes, que proteja los bosques y a los animales que los habitan; que ponga fin a la deforestación, combatiendo la tala ilegal e impulsando la reforestación con especies autóctonas; que prevenga los incendios forestales y recupere las zonas degradadas; que promueva en la sociedad los valores ambientales y sociales que atesoran.",
+      "pagina": 48,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Proponer prohibir la caza durante 30 años en terrenos afectados por incendios vinculados a intereses",
+      "cita": "Para evitar estas situaciones, de la misma manera que la Ley prohíbe el cambio de uso forestal durante 30 años de terrenos forestales incendiados, para evitar su quema por intereses urbanísticos, agrícolas, mineros…, así como toda actividad incompatible con la regeneración de la cubierta vegetal durante el periodo que determine la legislación autonómica, desde PACMA proponemos prohibir la práctica de la actividad cinegética durante 30 años en terrenos afectados por incendios vinculados a intereses relacionados con esta actividad, en términos extensivos.",
+      "pagina": 50,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Buscar alternativas al uso del fuego en el medio rural e incidir en medidas de selvicultura preventiva",
+      "cita": "En la misma línea, PACMA apuesta por el impulso de otras medidas como realizar estudios para encontrar alternativas al uso del fuego en el medio rural y fomentar esas alternativas, recompensando las buenas prácticas y haciendo mayores esfuerzos para sensibilizar a la población sobre el creciente peligro de incendio",
+      "pagina": 50,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Prohibir la pirotecnia y los farolillos voladores por riesgo de incendio y reforzar la selvicultura",
+      "cita": "creando más áreas cortafuegos, mediante el clareo, la poda y el desbroce, de manera que se dificulte el paso del fuego y se facilite la circulación de los equipos de extinción; adoptar medidas de prevención en los núcleos urbanos, urbanizaciones y residencias cercanas a zonas forestales; y prohibir la pirotecnia y los farolillos voladores, por el elevado riesgo que su uso supone en la provocación de incendios, realizando campañas informativas destinadas a concienciar a la ciudadanía sobre los perjuicios que entraña el uso de estos dispositivos.",
+      "pagina": 51,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Actualizar el Plan Director de la Red de Parques Nacionales y los PORN y PRUG con participación",
+      "cita": "Para ello, proponemos una actualización de las directrices contenidas en el Plan Director de la Red de Parques Nacionales, para actualizar, a su vez, los Planes de Ordenación de los Recursos Naturales (PORN), los Planes Rectores de Uso y Gestión (PRUG) y los Planes de Gestión, con una mayor representación de las entidades vinculadas a la protección, la defensa y el cuidado del medio ambiente y los animales, así como de los municipios afectados y sus entidades sociales.",
+      "pagina": 51,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Elaborar una Estrategia nacional de turismo sostenible y poner en marcha un Observatorio de Turismo",
+      "cita": "Desde PACMA proponemos: - Elaboración de una Estrategia nacional de turismo sostenible y respetuoso con los espacios naturales, el medio ambiente y los animales, con las ciudades y sus vecinos. - Puesta en marcha de un Observatorio de Turismo y Sostenibilidad.",
+      "pagina": 51,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "cultura",
+      "titular": "Retirar la declaración de Fiesta de Interés Turístico Nacional o Internacional a eventos que utilicen",
+      "cita": "- Retirada de las declaraciones de Fiesta de Interés Turístico Nacional o Internacional a todos aquellos eventos en los que se utilicen animales. Las Fiestas podrán mantener estas declaraciones si dejan de utilizar animales.",
+      "pagina": 52,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Desestacionalizar y distribuir el turismo por el territorio y limitar el volumen de visitas a espacios",
+      "cita": "- Estudio y adopción de medidas para impulsar la distribución del turismo por todo el territorio y en otras épocas del año, más allá del periodo estival. - Limitar la frecuencia y el volumen de las visitas a los espacios naturales.",
+      "pagina": 52,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Aprobar una ley nacional que controle la contaminación acústica y prohibir el uso de artificios",
+      "cita": "Proponemos una legislación nacional que controle y regule la contaminación acústica, protegiendo nuestra calidad de vida, estableciendo niveles óptimos de confort acústico, de manera que el ruido no resulte pernicioso para el descanso y la comunicación. Para ello, se debe tratar de eliminar, en la medida de lo posible, las fuentes molestas que producen el ruido, controlar la producción de este en el origen o llevar a cabo su reducción con medidas en el entorno. En particular, desde el Partido Animalista Con el Medio Ambiente consideramos necesario prohibir el uso de artificios pirotécnicos (petardos, fuegos artificiales, cohetes, …) y sus simulaciones.",
+      "pagina": 52,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Reformar la Ley de evaluación ambiental para someter a evaluación espectáculos con 100 kg o más de",
+      "cita": "Mientras conseguimos su prohibición absoluta, desde PACMA impulsaremos una reforma de la Ley de evaluación ambiental, para que los espectáculos con artificios pirotécnicos de, al menos, 100 o más kilos de pólvora deban someterse a una evaluación de impacto ambiental.",
+      "pagina": 53,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Desarrollar una normativa nacional que controle y regule la contaminación lumínica en el alumbrado",
+      "cita": "Para prevenir y minimizar estos efectos adversos, proponemos el desarrollo de una normativa nacional que controle y regule la contaminación lumínica, en base a un diseño de alumbrado nocturno que responda a criterios coherentes y racionales - que implicaría, además, un importante ahorro energético y, de manera indirecta, una disminución de las emisiones de gases contaminantes de la atmósfera - a través de medidas sencillas como ajustar la cantidad de luz a la estrictamente necesaria para desarrollar la actividad concreta; iluminar de arriba hacia abajo; apantallar los haces de luz; mantener las luces apagadas cuando no se desarrolle ninguna actividad; utilizar lámparas de alta eficacia lumínica adecuadas a la visión humana y a la actividad que se desarrolle; y emplear preferentemente luz naranja o blanca cálidas.",
+      "pagina": 53,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Elaborar una Estrategia Nacional de Seguridad Alimentaria y Nutrición con economatos sociales y precios",
+      "cita": "Para garantizar una alimentación adecuada para todas las personas, desde PACMA proponemos la elaboración de una Estrategia Nacional de Seguridad Alimentaria y Nutrición, que prevea medidas como el establecimiento de economatos sociales y el desarrollo de acuerdos con los comercios locales para garantizar el acceso a productos de alimentación con precios bonificados en función de la renta disponible, lo que, a su vez, dinamizaría el comercio local.",
+      "pagina": 54,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Impulsar programas de huertos urbanos ecológicos para personas desempleadas o en riesgo de exclusión",
+      "cita": "Otra de nuestras propuestas es el impulso de programas de huertos urbanos ecológicos, destinados a personas desempleadas y/o en riesgo de exclusión social, como una manera de garantizar, mediante la autogestión de esos huertos, una canasta básica de productos alimenticios y/o como ayuda para disponer de productos frescos de temporada.",
+      "pagina": 54,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Garantizar el acceso al agua a todas las personas mediante el establecimiento de un mínimo vital de agua",
+      "cita": "Desde PACMA defendemos que se garantice su acceso a todas las personas, especialmente a las que se encuentran en situación de vulnerabilidad, mediante el establecimiento de un mínimo vital de agua.",
+      "pagina": 54,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Introducir objetivos de reducción en la Estrategia contra la Pobreza Energética y facilitar el bono",
+      "cita": "Por ello, también son importantes políticas públicas que prevean mecanismos de comunicación entre los potenciales beneficiarios, los servicios sociales, las administraciones y/o las suministradoras, y otras medidas que faciliten el acceso al bono social eléctrico, que, actualmente, no llega a muchas personas en situación de pobreza severa, debido, sobre todo, a déficits de la información y a dificultades en la tramitación.",
+      "pagina": 55,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Impulsar y fomentar comunidades energéticas, especialmente en zonas rurales, mediante cooperativas",
+      "cita": "Desde PACMA también consideramos conveniente el impulso y fomento de comunidades energéticas, especialmente, en zonas rurales, a través de la creación de cooperativas que involucren a la comunidad local.",
+      "pagina": 55,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Reintegrar al sistema sanitario público los servicios privatizados, reforzar primaria y reducir listas",
+      "cita": "- Análisis de la situación actual de las infraestructuras sanitarias y evaluación de las necesidades para la mejora de la calidad asistencial. - Reintegración al sistema sanitario público los servicios privatizados. - Refuerzo de la atención primaria y de su conexión con el sistema sanitario. - Implementación de programas autonómicos de I+D+i, con financiación, gestión y recursos públicos. - Puesta en marcha de números gratuitos de información sanitaria. - Desarrollo de planes de atención sanitaria domiciliaria. - Elaboración de planes de mejora de las listas de espera para consultas, pruebas diagnósticas e intervenciones quirúrgicas. - Actualización de los planes de contingencia ante posibles epidemias y pandemias.",
+      "pagina": 56,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Garantizar una sanidad pública sin copagos ni costes adicionales para la ciudadanía",
+      "cita": "Un sistema de salud pública, por definición, debe garantizar una sanidad de calidad y sin costes adicionales para una ciudadanía que ya la financia a través de sus impuestos y con el porcentaje de sus salarios destinados a la Seguridad Social.",
+      "pagina": 56,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Impulsar campañas de educación para la salud que fomenten hábitos saludables de alimentación y ejercicio",
+      "cita": "Impulsaremos el desarrollo de campañas que promuevan el conocimiento, las aptitudes y actitudes necesarias entre la ciudadanía, para el cuidado de la salud mediante actividades educativas, comunicativas y de participación social, que fomenten hábitos saludables.",
+      "pagina": 56,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Reivindicar una mayor presencia de dietistas-nutricionistas en el sistema público de salud",
+      "cita": "Desde PACMA llevamos años reivindicando una mayor presencia de la figura del dietistanutricionista, dado que, en contraposición a la mayoría de los países europeos, España apenas cuenta con estos profesionales en el sistema público de salud.",
+      "pagina": 56,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Fomentar la negociación colectiva sobre salud laboral y ampliar competencias de los delegados de",
+      "cita": "Apostamos por la puesta en marcha de una intensa actividad negociadora para la consecución de acuerdos que desarrollen y complementen el marco normativo nacional, así como de la ampliación de las competencias de los delegados y delegadas, y miembros de los comités de prevención de riesgos laborales en las empresas, dotándoles de las herramientas necesarias que faciliten su labor.",
+      "pagina": 57,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Desarrollar programas de detección precoz de depresión y riesgo suicida, atención al «bullying» y más",
+      "cita": "- Desarrollar programas para la detección precoz de la depresión y del riesgo suicida, prestando especial atención a las víctimas de violencia de género, sus hijos e hijas; a los niños, niñas y adolescentes en el ámbito educativo; a las personas mayores; a las que padecen alguna patología crónica, discapacidad y/o dolor; a las que no tienen hogar y a las que se encuentren en situación de cumplimiento penitenciario. - Implementar acciones formativas dirigidas a mejorar la detección del suicidio para profesionales de los diferentes sectores: sanitario, educativo, servicios sociales, policía, etc. - Mejorar la atención a las personas con problemas de salud mental. - Mantener una continuidad asistencial a las personas con conductas suicidas y supervivientes del suicidio.",
+      "pagina": 58,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Impulsar las investigaciones sobre salud mental e incrementar los psiquiatras y psicólogos en la sanidad",
+      "cita": "- Impulsar las investigaciones sobre salud mental. - Incrementar el número de especialistas en psiquiatría y psicología en la sanidad pública.",
+      "pagina": 58,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Defender el impulso de una atención bucodental gratuita básica para todos y terapéutica para vulnerables",
+      "cita": "Desde PACMA defendemos el impulso de una atención bucodental gratuita, con una asistencia dental básica para todas las personas, un sistema terapéutico y preventivo para las que se encuentran en situación de vulnerabilidad, con la financiación de los elementos básicos para pacientes a los que les suponga una mejora en su calidad de vida.",
+      "pagina": 59,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Alcanzar un Pacto de Estado por la Educación y aumentar los fondos destinados a becas en todo el tramo",
+      "cita": "Desde el Partido Animalista defendemos, en concreto, el desarrollo de las siguientes medidas: - Aumento de los fondos destinados a becas en todo el tramo educativo.",
+      "pagina": 59,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Asignar plazas públicas de 0 a 3 años, gratuidad de libros con licencia «copyleft» y transporte y",
+      "cita": "- Asignación de plazas públicas suficientes para niños y niñas de 0 a 3 años. - Gratuidad y libre acceso a libros de texto. Defendemos la puesta en marcha de un proyecto de colaboración entre comunidades autónomas para la elaboración de libros de texto con licencia copyleft, de distribución y copia libre. - Transporte y menú escolar gratuito para los niños y niñas de familias en situación de vulnerabilidad.",
+      "pagina": 60,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Reducir la ratio de alumnado por docente, garantizar una escuela pública laica y ofrecer menú 100%",
+      "cita": "- Reducción de la ratio de alumnos y alumnas por profesor/a en todo el tramo educativo, para alcanzar una verdadera educación de calidad, con la suficiente atención personalizada al alumnado y una mejora de las condiciones de trabajo del profesorado. - Desarrollo de nuevas formas de enseñanza y aprendizaje, atractivas y adaptadas a la sociedad de hoy en día, a través del uso de las tecnologías de la información y la comunicación. - Fomento de una formación integral, diversificada e intercultural. - Garantía de desarrollo de una escuela pública realmente laica. - Refuerzo de los mecanismos de participación y representación estudiantil. - Disponibilidad de opción de menú 100% vegetal en todos los comedores de los centros educativos.",
+      "pagina": 60,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Implantar métodos pedagógicos integrales y fomentar extraescolares que promuevan el talento del alumnado",
+      "cita": "Es necesaria la implantación en los colegios e institutos de métodos pedagógicos integrales adecuados a las necesidades actuales, basados en el aprendizaje cooperativo, la detección y potenciación de las inteligencias múltiples, la creatividad y la innovación, la educación emocional, así como la no directividad, para garantizar la plena autonomía y excelencia de la diversidad del alumnado.",
+      "pagina": 60,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Garantizar atención temprana de 0 a 6 años, equipos contra el acoso escolar, revisar conciertos y más",
+      "cita": "- Medidas para garantizar la atención temprana a menores con discapacidad y sus familias, destinando recursos a la detección precoz, el diagnóstico y la atención de trastornos del desarrollo o situaciones de riesgo en la población infantil de 0 a 6 años. - Promoción de la detección precoz del maltrato infantil, el acoso escolar, y la discriminación en el ámbito escolar, a través de la creación de equipos multidisciplinares que asesoren, informen y formen a los y las profesionales que trabajan con niños y niñas y adolescentes. - Lucha efectiva contra el absentismo y el abandono escolar a través de la implantación de programas específicos. - Revisión de los criterios de concertación con la enseñanza privada para garantizar que los conciertos respeten criterios de servicio público y evitar que se fomente la segregación. - Ampliación del servicio de orientación de los centros de secundaria públicos con plazas de psicología y pedagogía. - Implantación de programas de mediación intercultural.",
+      "pagina": 61,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Incluir en la educación la empatía hacia los animales, corresponsabilidad, referentes femeninos y",
+      "cita": "PACMA propone en este ámbito la adopción de, al menos, las siguientes medidas: - Fomento y desarrollo del respeto y la empatía hacia los animales en los objetivos educativos transversales de todas las etapas educativas. - Promoción en los sistemas educativos de la participación de los y las estudiantes en el desarrollo y cambio de la ciudadanía hacia un modelo sostenible. - Implantación de programas específicos que desarrollen la corresponsabilidad y el reparto equitativo de las tareas domésticas y las responsabilidades familiares a fin de fomentar y educar desde la infancia en la igualdad de género. - Revisión de los planes de estudio y libros de texto con la finalidad de revertir la escasa presencia de mujeres en los materiales educativos e incluir como referentes formativos a las mujeres relevantes de la historia, la ciencia, la literatura, la filosofía y demás materias. - Desarrollo de planes de educación en los centros que den acceso a formación e información sobre la diversidad sexual, de género y familiar.",
+      "pagina": 61,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Crear departamentos de orientación académica y profesional en los centros de Educación Secundaria",
+      "cita": "Apostamos por la creación de departamentos de orientación académica y profesional en los centros de Educación Secundaria, que elaboren y pongan en marcha planes de actuación para cada curso, ciclo y etapa, con diferentes acciones que deberán ser implementadas.",
+      "pagina": 62,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "cultura",
+      "titular": "Fomentar disciplinas artísticas en centros públicos, subvencionar la creación y apoyar al cine con",
+      "cita": "- Fomento de la enseñanza de disciplinas artísticas, promocionando su oferta en los centros de educación públicos. - Incentivo de la creación artística, mediante subvenciones y programas de apoyo a las entidades culturales y a los artistas, que les faciliten las herramientas necesarias para su desarrollo: cesión de espacios e instalaciones, aportación de medios técnicos y de asesoramiento artístico para la preparación de sus proyectos. - Apoyo a la inversión y producción cinematográfica, así como promoción de la atracción de rodajes, producción y postproducción mediante incentivos fiscales.",
+      "pagina": 62,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "cultura",
+      "titular": "Crear residencias artísticas, apoyar artes escénicas y músicas y aprobar una Estrategia de Turismo",
+      "cita": "- Respaldo y acompañamiento en las diferentes fases de creación, producción y exhibición artística, con la creación de residencias artísticas, colaboración en la difusión del trabajo de los artistas y una oferta formativa de especialización, con profesionales de prestigio o a través de la realización de encuentros y foros. - Promoción e internacionalización de creadores y compañías de artes escénicas para la realización de giras nacionales e internacionales. - Elaboración de planes que ayuden a consolidar en nuestro país un sector de las artes escénicas y musicales de primer nivel. - Establecimiento de programas de apoyo a las músicas y danzas populares y contemporáneas que promuevan la creación, la visibilidad de nuevos talentos, la formación y la distribución en medios de comunicación, especialmente en radios y televisiones públicas. - Puesta en marcha y apoyo de iniciativas de protección, estudio y difusión del patrimonio cultural en sus múltiples expresiones: artística, histórica, paisajística y natural, industrial e inmaterial. - Aprobación de una Estrategia de Turismo Cultural para dar a conocer nuestro país con el valor añadido de la cultura y el patrimonio, destacando los festivales culturales y las fiestas populares más significativas, siempre que no impliquen la utilización de animales.",
+      "pagina": 63,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "cultura",
+      "titular": "Mejorar la accesibilidad de los espacios culturales e impulsar actividades gratuitas y descuentos en",
+      "cita": "Es fundamental mejorar la accesibilidad física y cognitiva de los espacios culturales, con salas accesibles, visitas guiadas y creación de materiales adaptados. Para que la cultura sea asequible, apostamos por el impulso de una oferta cultural amplia y variada, dirigida a todos los públicos, con actividades culturales gratuitas y a precios reducidos, como encuentros, muestras, exposiciones, festivales y otras actividades culturales, así como descuentos, bonificaciones y promociones para la compra de libros, entradas a conciertos y espectáculos de música y danza, cine, teatro, museos y otros espacios y actividades culturales.",
+      "pagina": 63,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "cultura",
+      "titular": "Impulsar las bibliotecas públicas como espacios de creación, intercambio, producción y formación cultural",
+      "cita": "Apostamos por el futuro de las bibliotecas públicas como espacios de referencia cultural, de creación, intercambio, producción y formación cultural, mediante su apertura a la realización de actividades, exposiciones, talleres, jornadas, ciclos, debates, conferencias y encuentros.",
+      "pagina": 63,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Alcanzar un Pacto de Estado por la Igualdad en el Empleo contra la discriminación laboral y salarial de",
+      "cita": "Por todo ello, es necesario un Pacto de Estado por la Igualdad en el Empleo, a través del cual se pueda combatir la discriminación laboral y salarial todavía existente y promover la presencia de mujeres en puestos de responsabilidad.",
+      "pagina": 64,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Reformar la LOREG para que las mujeres representen al menos la mitad de las candidaturas sin limitar su",
+      "cita": "En casos como el de la LOREG, la solución pasaba por establecer, no que las candidaturas deben tener una composición paritaria de mujeres y hombres, sino una composición equilibrada en la que las mujeres representen, al menos, la mitad de los candidatos/as, para no perjudicar la mayor y más relevante presencia de mujeres en candidaturas como las de PACMA, y así en otros ámbitos, sectores y empresas en las que la presencia de mujeres sea mayoritaria",
+      "pagina": 65,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Actualizar la Ley de conciliación, impulsar guarderías laborales e incluir permisos por animales",
+      "cita": "Se debe fomentar e incentivar la creación de guarderías en los propios centros de trabajo, tanto para el cuidado de niños y niñas como de animales de compañía, así como los permisos retribuidos en casos de fallecimiento, accidente o enfermedad grave de familiares, incluidos los animales.",
+      "pagina": 65,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Poner en marcha políticas familiares públicas de conciliación e igualdad de oportunidades",
+      "cita": "Desde el Partido Animalista defendemos la puesta en marcha de políticas familiares públicas, que apoyen la igualdad de oportunidades.",
+      "pagina": 65,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Aprobar un Plan nacional para promover la formación, el empleo y la accesibilidad de personas con",
+      "cita": "PACMA defiende la puesta en marcha de las siguientes medidas: - Elaboración y puesta en marcha de un Plan nacional para promover la formación, el empleo y la accesibilidad universal de las personas con discapacidad. - Mecanismos para la participación de estudiantes con discapacidad en los cursos de formación para el empleo, facilitando la adaptación de los materiales y puestos de formación.",
+      "pagina": 66,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Fomentar la FP en nuevas tecnologías y sectores tradicionales y un sistema de becas contra el abandono",
+      "cita": "Por todo ello, desde PACMA proponemos: - Fomento de un sistema de formación profesional que responda a las exigencias presentes y futuras del mercado laboral, potenciando la formación en nuevas tecnologías y la adaptación de los sectores tradicionales (agricultura, turismo, construcción). - Sistema de becas que apueste por una mayor preparación y cualificación de los jóvenes, y desincentive la incorporación a edades muy tempranas al mercado laboral.",
+      "pagina": 66,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Reformular criterios de matriculación contra la segregación e incorporar mediadores",
+      "cita": "Medidas contra la segregación escolar residencial, reformulando los algoritmos y criterios de matriculación y reparto de plazas para evitar la concentración excesiva de alumnado extranjero en determinados centros públicos, dado que la diversidad equilibrada mejora el rendimiento de los entornos vulnerables.",
+      "pagina": 67,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Impulsar una oferta turística alternativa sostenible cultural, rural y de interior",
+      "cita": "Desde PACMA proponemos la creación de un tejido de oferta turística alternativa al modelo actual, en los ámbitos cultural, deportivo, entorno rural, zonas de interior, congresos y negocios. Estos modelos de turismo deben implantarse de forma sostenible y respetuosa con el medio ambiente y los animales, las ciudades y sus vecinos/as. No requieren inversiones añadidas, pues se puede aprovechar la infraestructura ya existente creada alrededor del modelo actual.",
+      "pagina": 67,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Proponer una reconversión de centros de trabajo cerrados para reactivar el tejido industrial ético con",
+      "cita": "Desde el Partido Animalista proponemos una reconversión inteligente y efectiva de estos centros de trabajo, para reactivar e impulsar el crecimiento del tejido productivo industrial y empresarial, favoreciendo las nuevas iniciativas e incorporando la I+D+I, que permita la creación de empresas respetuosas con el medio ambiente, adaptadas a las exigencias que marca el desafío de la lucha contra el cambio climático y que puedan competir en el más alto nivel de desarrollo tecnológico en un escenario global.",
+      "pagina": 67,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Fomentar el empleo agrícola mediante formación, infraestructuras comunes y ayudas a la producción",
+      "cita": "Proponemos medidas de fomento del empleo en el sector, a través de programas de formación, asesoramiento técnico y empresarial, creación de infraestructuras comunes, subvenciones, bonificaciones y beneficios fiscales, dirigidas a la creación de un modelo de producción agrícola sostenible y ecológico, superando la producción extensiva tradicional, que busque la calidad de los productos, el respeto al medio ambiente, el impulso y la conservación del entorno rural, la inserción en el empleo de colectivos tradicionalmente excluidos y la cercanía al consumidor.",
+      "pagina": 68,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Ampliar las plazas de FP en construcción y orientar el sector a la rehabilitación energética y de",
+      "cita": "Desde PACMA apostamos por impulsar la oferta y el número de plazas de las acciones formativas de Formación Profesional para el Empleo en las diferentes ramas de la construcción, así como por una transformación del propio sector, que pase por la rehabilitación energética de viviendas y edificios, para hacerlos más eficientes y sostenibles. Esta medida debe combinarse con un esfuerzo en particular hacia la rehabilitación de inmuebles ubicados en los centros de las ciudades",
+      "pagina": 68,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Crear un fondo de financiación para dar a autónomos y pymes líneas de crédito a interés cero para",
+      "cita": "Por ello, proponemos la creación de un fondo de financiación destinado a facilitar el acceso de autónomos/as y pymes a líneas de crédito a interés cero, para apoyar el desarrollo de proyectos orientados a la consecución de alguno de los siguientes fines: - Crear empleo estable. - Incorporar tecnología medioambientalmente sostenible o técnicas que contribuyan a reducir el impacto medioambiental de la actividad. - Contribuir a mejorar las condiciones de bienestar de los animales.",
+      "pagina": 68,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Establecer bonificaciones fiscales, asesoramiento gratuito y menos burocracia para nuevas empresas y",
+      "cita": "- Política de mayores bonificaciones fiscales para emprendedores/as, startups y empresas innovadoras. - Ampliación del soporte y asesoramiento gratuito, por parte de los entes públicos, para la creación y primeros años de desarrollo de estos modelos de negocio. - Elaboración de un censo de las empresas de nueva creación, e integración en un portal web donde puedan darse a conocer y a través del cual se potencie el mecenazgo. - Fortalecimiento de los programas de formación, orientación y asesoramiento gratuitos, en materia fiscal, nuevas tecnologías, nuevos mercados, sostenibilidad medioambiental, calidad, atención al público, ... - Agilización de los procesos de creación de empresas y del inicio de las actividades, mediante la eliminación de trabas burocráticas y la simplificación administrativa de los trámites exigibles.",
+      "pagina": 69,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Construir masivamente vivienda pública y adquirir viviendas vacías para destinarlas a compra y alquiler",
+      "cita": "La solución real pasa por la construcción masiva de vivienda pública, así como por la adquisición de viviendas vacías, para destinarlas tanto a compra como a alquiler social.",
+      "pagina": 69,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Bonificar el 100% del IRPF o IBI a pequeños propietarios que alquilen por debajo del precio medio y",
+      "cita": "• Incentivos fiscales, ofreciendo bonificaciones del 100% en el IRPF o exenciones del IBI a los pequeños propietarios/as que pongan su vivienda en el mercado un 10% o 15% por debajo del precio medio de la zona; reduciendo temporalmente el Impuesto de Transmisiones Patrimoniales en viviendas de segunda mano y el IVA en viviendas de obra nueva, para compradores de primera vivienda habitual.",
+      "pagina": 70,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Ofrecer avales públicos ante impagos, registro obligatorio de alquiler temporal, recargos a fondos y",
+      "cita": "• Seguridad jurídica ante impagos, mediante seguros o avales públicos. • Persecución efectiva del fraude, blindando legalmente el uso del alquiler por habitaciones y de temporada mediante un registro obligatorio, evitando que se utilicen de forma fraudulenta para sortear la Ley de Vivienda. • Descentralización y teletrabajo, potenciando las infraestructuras de transporte (AVE, cercanías) y la conectividad digital en ciudades medianas y zonas rurales, para distribuir el empleo y la habitabilidad, rebajando la presión de demanda en capitales saturadas. • Desincentivar la compra especulativa, aplicando recargos fiscales a la compra de viviendas por parte de fondos de inversión y no residentes. • Restringir las licencias de pisos turísticos en cascos históricos y barrios tensionados.",
+      "pagina": 70,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Impulsar una reforma de la LAU que declare nulas las cláusulas que prohíban tener animales de compañía",
+      "cita": "Por ello, desde PACMA impulsaremos una reforma de la Ley Arrendamientos Urbanos que, de manera expresa, declare nulas las cláusulas que prohíban la tenencia de animales de compañía en los contratos.",
+      "pagina": 70,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Desarrollar un Plan de recuperación rural con un servicio de asesoramiento integral para vivir y",
+      "cita": "Desde PACMA proponemos, en esta misma línea, el desarrollo de un Plan de recuperación rural, que prevea la creación de un servicio de asesoramiento integral para las personas dispuestas a vivir y emprender en el entorno rural",
+      "pagina": 70,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Garantizar en el medio rural servicios públicos cercanos, plena conectividad territorial y bolsas de",
+      "cita": "Como medidas prioritarias de este Plan, en un ejercicio de gobernanza multinivel de los gobiernos estatal, autonómicos y locales, es fundamental la prestación y cercanía de los servicios públicos esenciales, el impulso a la innovación, la digitalización, la plena conectividad territorial, la capacitación digital de la población rural y el refuerzo de las bolsas de vivienda.",
+      "pagina": 71,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Aumentar la inversión en I+D+i, ofertar empleo público investigador, dar libre acceso y crear fondos de",
+      "cita": "Para favorecer la investigación, el desarrollo y la innovación, proponemos las siguientes medidas: - Mayor inversión en I+D+i. - Inclusión de la I+D entre los “sectores prioritarios”, emitiendo ofertas de empleo público y posibilidades de contratación en organismos públicos de investigación, universidades y centros tecnológicos. - Orientación de la I+D+i hacia el beneficio común, los retos sociales y medioambientales. - Libre acceso a los resultados de las investigaciones científicas financiadas con fondos públicos. - Creación y promoción de un portal digital de referencia que unifique y difunda las investigaciones realizadas en las universidades públicas, que ponga en contacto a las universidades de las diferentes comunidades autónomas entre sí, así como con las empresas privadas. - Puesta en marcha de programas de apoyo a la ciencia y formación de jóvenes investigadores, así como inversión en las infraestructuras deterioradas. - Apuesta por la potenciación de los centros de investigación tecnológica. - Apoyo de proyectos de innovación tecnológica en las pymes, con el objetivo de aumentar su productividad, eficiencia, presencia y reconocimiento a nivel nacional e internacional. - Creación de fondos público-privados de capital riesgo y mejora del sistema de incentivos fiscales a las empresas.",
+      "pagina": 71,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Aumentar becas pre y postdoctorales y financiar I+D contra la obsolescencia, productos «plant-based» y",
+      "cita": "- Aumento de las ayudas a la investigación tanto predoctorales como postdoctorales. - Financiación de proyectos enfocados a la perdurabilidad de los bienes de consumo, contra la obsolescencia programada. - Fomento de programas de desarrollo de productos plant-based. - Incentivación para el desarrollo y la aplicación de métodos alternativos a la experimentación en animales.",
+      "pagina": 72,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Implementar controles fiscales más rigurosos, tecnología avanzada y cooperación internacional contra el",
+      "cita": "Para ello proponemos la implementación de controles fiscales más rigurosos, el uso de tecnología avanzada para detectar actividades sospechosas, así como mejorar la cooperación entre los países para combatir el fraude fiscal internacional.",
+      "pagina": 72,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Implantar un sistema unificado de valoración de la eficacia y eficiencia de las partidas de gasto",
+      "cita": "Para medir la eficacia y eficiencia del gasto público, desde PACMA proponemos, además, implantar, de cara a los presupuestos del Estado, de las Comunidades Autónomas y de los ayuntamientos, un sistema unificado de valoración de la eficacia y eficiencia de las partidas de gastos que figuren en estos, publicando esta información e incorporando las consecuencias de esta a la gestión pública.",
+      "pagina": 72,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Eliminar los aforamientos para prevenir y luchar contra la corrupción",
+      "cita": "Para prevenir y luchar contra la corrupción proponemos las siguientes medidas: - Eliminación de los aforamientos.",
+      "pagina": 72,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Exigir publicar gastos electorales en 3 meses, aplicar GRECO, transparentar contratas y limitar libre",
+      "cita": "- Publicación por parte de los partidos políticos de la liquidación de gastos e ingresos electorales, en los tres meses siguientes a las elecciones. - Cumplimiento de las recomendaciones sobre transparencia del Consejo de Europa (GRECO), introduciendo en las Cortes Generales y en los parlamentos autonómicos códigos de conducta y normas que regulen los conflictos de intereses y la transparencia. - Ley de Transparencia efectiva, que prevea una transparencia en la actuación pública y mecanismo que garanticen el pleno acceso de la ciudadanía a la información. - Mayor transparencia y control en la contratación pública, uno de los principales focos de la corrupción. Queremos mejorar el acceso público de todos los datos relevantes a lo largo del proceso completo de contrataciones públicas, desde la licitación hasta la adjudicación y ejecución. Además, se deben establecer un mayor control y publicidad de los mecanismos de aprobación de sobrecostes. - Publicidad de la ejecución presupuestaria, haciendo públicos los datos de esta, con el mismo nivel de detalle que los presupuestos. - Actualización de las normas de contratación de personal no funcionario, reservando los cargos de libre designación al nivel superior de cada administración, limitando su número y exigiendo requisitos de idoneidad técnica.",
+      "pagina": 73,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Abrir espacios institucionales para consultas sobre políticas de gobierno e impulsar la democracia",
+      "cita": "En PACMA creemos en espacios institucionalmente abiertos para consultas sobre los contenidos de las políticas y programas de gobierno. Hoy en día podemos contar con las oportunidades que nos ofrecen las nuevas tecnologías para facilitar la información y la colaboración entre gobiernos, partidos, instituciones, movimientos sociales y ciudadanía, y avanzar hacia una democracia participativa que dé respuestas a las demandas de la sociedad.",
+      "pagina": 73,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Reformar la Ley de ILP reduciendo firmas, ampliando plazos y materias y obligando al Congreso a",
+      "cita": "Desde PACMA consideramos urgente una reforma de la Ley con la finalidad de facilitar el procedimiento, pero, sobre todo, de dotar a las ILP de la relevancia que merecen, a través de las siguientes medidas: - Reducción del número de firmas necesarias. - Ampliación del plazo para la recogida. - Incorporación de recursos y nuevas tecnologías para el procedimiento de recogida de firmas. - No exclusión de materias susceptibles de ser objeto de una ILP. - Toma en consideración obligatoria por el Congreso de los Diputados.",
+      "pagina": 74,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Reformar la LOREG hacia circunscripción única sin barrera electoral, sin aval de firmas y con envío",
+      "cita": "Desde PACMA defendemos una reforma de la LOREG hacia un sistema electoral justo, donde todos los votos tengan el mismo valor, a través de las siguientes medidas: - Cambio a un sistema electoral de circunscripción única, sin barrera electoral y con un reparto de escaños proporcional al número de votos. - Supresión del requisito de presentación de firmas para avalar las candidaturas de los partidos que aún no tengan representación. - Asignación de la subvención correspondiente a los votos de cada partido tras los comicios, con independencia de si ha obtenido o no representación, garantizando la actividad de todas las opciones políticas en función del apoyo social que reciben. - Igualdad en el acceso a los medios de comunicación públicos. Como parte del derecho de los partidos a concurrir a las elecciones en igualdad de condiciones, defendemos que sea asignada la misma cantidad de minutos para la emisión de los vídeos electorales a todos los partidos que se presenten. - Garantía de la cobertura informativa en los medios de comunicación públicos de las campañas de todos los partidos que concurran a las elecciones. - Eliminación o, en su defecto, reducción del uso de papel en las campañas electorales, remitiendo la propaganda, papeleta y sobre electoral, de todos los partidos que se presenten, en un único envío.",
+      "pagina": 74,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "infraestructuras",
+      "titular": "Fomentar internet gratuito para personas en exclusión, formación digital para mayores y estándares",
+      "cita": "Por todo ello, desde PACMA queremos fomentar la expansión de la comunicación inalámbrica, la elaboración de guías informativas y programas formativos gratuitos dirigidos a las personas mayores y a las personas en riesgo de exclusión social, la instalación de puntos de acceso a internet gratuito para personas en riesgo de exclusión social, el uso de estándares abiertos en los documentos electrónicos emitidos y/o reclamados por la Administración y la publicación de las herramientas y materiales desarrollados por la Administración con licencias de distribución libre.",
+      "pagina": 75,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Elegir por concurso público los consejos de RTVE y prohibir el reparto discrecional de publicidad",
+      "cita": "De cara a los medios públicos, se debe garantizar que los consejos de administración y la dirección de las radiotelevisiones públicas se elijan mediante concursos públicos basados en méritos profesionales, con mandatos que no coincidan con los ciclos electorales, así como sustituir las subvenciones anuales discrecionales por un modelo de financiación blindado a largo plazo, para impedir que el ejecutivo de turno amenace con recortes presupuestarios si la cobertura informativa le resulta incómoda. De cara a los medios privados, se debe prohibir el reparto discrecional de campañas pagadas por instituciones o empresas públicas. La ley debe obligar a que este dinero se distribuya exclusivamente mediante criterios técnicos verificables, como la audiencia auditada o el público objetivo de la campaña. Además, los medios deben hacer pública su estructura accionarial y sus deudas con entidades financieras o instituciones públicas. También es necesario aplicar medidas antimonopolio estrictas para evitar que grandes conglomerados empresariales controlen múltiples televisiones, radios y periódicos a la vez.",
+      "pagina": 75,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Implantar prevención educativa y sanitaria, unidades policiales 24h y ayudas económicas contra la",
+      "cita": "Además de las medidas de igualdad y equidad propuestas en anteriores epígrafes, desde PACMA proponemos medidas específicas contra la violencia sobre la mujer, como: - Programas educativos de prevención de violencia sobre la mujer en todas las etapas educativas. - Formación específica en la materia de todos los/as profesionales que intervengan en el proceso educativo, procurándoles las herramientas necesarias para la detección de situaciones de violencia machista en jóvenes. - Protocolos de detección precoz en el ámbito sanitario, con formación especializada para el personal sanitario. - Unidades policiales especializadas y disponibles las 24 horas, los 365 días del año, para atender los casos de violencia machista. - Potenciación de las unidades de valoración forense integral, con personal especializado. - Mejora de los mecanismos de protección para las víctimas. Estas mejoras han de pasar por articular en los presupuestos planes de ayudas económicas que les permitan rehacer sus vidas y que no se tramiten solo a través de las rentas activas de reinserción en casos muy graves de máxima necesidad. - Más recursos asistenciales y sociales para las víctimas con independencia del momento procesal en el que se encuentre su caso. - Fortalecimiento de la tutela judicial y del acceso a la justicia.",
+      "pagina": 76,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Reconocer legalmente la violencia vicaria sobre animales y admitirlos en casas de acogida de víctimas",
+      "cita": "- Reconocimiento legal de la violencia vicaria ejercida sobre los animales. - Incremento del número de casas de acogida, pisos tutelados y puntos de encuentro familiar. - Admisión de los animales a cargo de las mujeres víctimas de violencia machista a las casas de acogida y pisos tutelados.",
+      "pagina": 77,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Impulsar la prohibición de la asistencia y participación de menores en espectáculos violentos como toros",
+      "cita": "Queda claro que sólo PACMA es capaz de impulsar la prohibición de la asistencia y participación de menores en espectáculos, festejos y cualquier tipo de actividad en la que se ejerza violencia, como la tauromaquia y la caza.",
+      "pagina": 78,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Aumentar la atención domiciliaria, centros de día y residencias públicas y regular el acceso de animales",
+      "cita": "Desde PACMA impulsaremos las siguientes medidas: - Provisión de sistemas de monitoreo. - Incremento de los recursos para ofrecer un tratamiento domiciliario adecuado. - Fortalecimiento de los servicios de urgencias y transporte sanitario. - Aumento del número de centros de día, así como de los programas de actividades dirigidas a las personas mayores. - Desarrollo de programas de acompañamiento y soporte a la tercera edad para paliar las situaciones de soledad y exclusión. - Potenciación de la relación entre las redes de voluntariado y profesionales de la salud, ofreciendo una mejor atención. - Ampliación de las plazas en las residencias públicas para la tercera edad y personas con enfermedades crónicas. - Reconocimiento y condiciones dignas para el personal sanitario y asistencial. - Regulación del acceso de animales de compañía a las residencias.",
+      "pagina": 79,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "Reformar la Constitución para blindar las pensiones impidiendo recortar o privatizar el sistema público",
+      "cita": "Y, por supuesto, es inaplazable reformar la Constitución para blindar las pensiones, garantizando que el sistema público no pueda recortarse, ni privatizarse.",
+      "pagina": 80,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Reforzar la educación en diversidad sexual, prevenir la LGTBIfobia, apoyar a personas trans y familias",
+      "cita": "- Refuerzo de la inclusión de contenidos sobre la diversidad sexual, de género y familiar en los sistemas educativos. - Potenciación de la prevención del acoso y la violencia por homofobia, lesbofobia, bifobia y transfobia en los centros educativos. - Fortalecimiento de los programas de sensibilización y visibilización de la diversidad sexual, de género y familiar en el ámbito escolar, y desarrollo de campañas específicas para la prevención de la LGTBIfobia y del acoso por orientación sexual o identidad de género. - Promoción para la creación y/o el desarrollo de servicios de apoyo y orientación a jóvenes LGTBI+. - Fomento de programas de Información y Atención a personas LGTBI+, que contemplen también actuaciones de carácter formativo, informativo, de asesoramiento y sensibilización dirigidas tanto a profesionales como al conjunto de la población. - Impulso para el desarrollo de programas, servicios, campañas y/o actividades de apoyo psicológico y social dirigidos a personas LGTBI+ con objeto de ayudarles a enfrentar y superar la LGTBfobia, así como de apoyar a las personas trans a lo largo del proceso de transición. - Realización de campañas de normalización social y de respeto tanto a la diversidad sexual como familiar. - Inclusión y reconocimiento de las familias LGTBI+ en las políticas sobre familias.",
+      "pagina": 80,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Eliminar barreras arquitectónicas y aumentar la accesibilidad en edificios y transporte y plazas de",
+      "cita": "- Garantizar la libertad de circulación mediante la eliminación de las barreras arquitectónicas, el aumento de la accesibilidad en edificios y medios de transporte, y la creación de estacionamientos suficientes reservados.",
+      "pagina": 80,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Garantizar la accesibilidad cognitiva con pictogramas, lectura fácil y web comprensible y formar a",
+      "cita": "- Garantizar la accesibilidad cognitiva en todos los ámbitos esenciales, incorporando pictogramas, lectura fácil, señalización accesible y aplicaciones web comprensibles, contando con la participación de personas con discapacidad para sus validaciones. - Realizar campañas de formación en accesibilidad para todos los agentes implicados en la eliminación de las barreras existentes, programas de sensibilización para toda la ciudadanía y formación especializada para profesionales clave en ámbitos como la educación, la sanidad, la justicia, la administración o la seguridad.",
+      "pagina": 81,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Garantizar a las personas migrantes acceso a derechos, más plazas y equipos de acogida y campañas",
+      "cita": "Desde el Partido Animalista proponemos la adopción de las siguientes medidas: - Acceso unificado a todos los derechos, como la educación, la sanidad y el alojamiento para una inclusión efectiva. - Fomento de programas de acogida que garanticen unas condiciones dignas y comprendan actuaciones dirigidas a potenciar la autonomía y el bienestar de las personas refugiadas. - Aumento del número de plazas en los centros de acogida, con especial atención a la situación de los niños y niñas migrantes no acompañados. - Impulso de equipos técnicos multidisciplinares en los centros de acogida, que trabajen en coordinación con equipos de inclusión y jurídicos. - Mejora en la atención a personas inmigrantes y refugiadas, con asesoramiento sobre inmigración, refugio y retorno voluntario, incluyendo información sobre la protección animal y el protocolo que se debe seguir en caso de traer un animal desde otro país. - Puesta en marcha de programas y campañas contra la xenofobia, el racismo y la exclusión social.",
+      "pagina": 81,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "cultura",
+      "titular": "Impulsar alternativas de ocio saludable juvenil con talleres nocturnos, festivales, museos gratis y",
+      "cita": "- Cursos, talleres y encuentros en horario nocturno, los fines de semana. - Festivales de cine, música, danza, teatro y otros artes, de acceso gratuito o a precios accesibles. - Acceso libre a museos y monumentos. - Dotación al tejido asociativo juvenil de la capacidad, los medios y los recursos necesarios para desarrollar actividades culturales y de ocio alternativo. - Creación de espacios físicos donde la juventud pueda compartir sus inquietudes y creaciones a nivel artístico y cultural, así como desarrollar su talento (locales de ensayo, exposiciones, encuentros, debates, …). - Promoción del horario nocturno los fines de semana en los centros polideportivos y culturales.",
+      "pagina": 82,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "social",
+      "titular": "Obligar a ofrecer opciones de menú 100% vegetal en comedores y cafeterías de dependencias públicas",
+      "cita": "Para ello, propondremos que, en los contratos de prestación de estos servicios, se establezca la obligatoriedad de ofrecer opciones de menú elaborados sin ingredientes de origen animal, así como que se incentive su inclusión en el sector privado de la restauración.",
+      "pagina": 82,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    }
+  ]
+}

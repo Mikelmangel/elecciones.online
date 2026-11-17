@@ -1,0 +1,34 @@
+[
+  {
+    "id": "colau-revuelta-feminismo-social-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=7OGGjn8hjSo",
+    "tema": "social",
+    "tipo": "posicion",
+    "cita_literal": "yo creo que se han hecho muchos avances en temas de políticas de género, en temas de políticas LGTBI, la Ley Trans, por ejemplo. Creo que son avances muy importantes que no son solo para esos colectivos, son para todos y todas.",
+    "contexto_minuto": "00:19"
+  },
+  {
+    "id": "colau-revuelta-feminismo-social-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=7OGGjn8hjSo",
+    "tema": "social",
+    "tipo": "posicion",
+    "cita_literal": "Y entonces yo creo que el feminismo también tiene que servir para eso, ¿no? Y que hay que hacer pedagogía en ese sentido.",
+    "contexto_minuto": "04:10"
+  },
+  {
+    "id": "colau-revuelta-feminismo-instituciones-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=7OGGjn8hjSo",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "Entonces nosotros llevamos bajar los sueldos porque el sueldo de, por ejemplo, de alcaldesa de Barcelona era alto",
+    "contexto_minuto": "05:07"
+  },
+  {
+    "id": "colau-revuelta-feminismo-instituciones-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=7OGGjn8hjSo",
+    "tema": "instituciones",
+    "tipo": "cifra",
+    "cita_literal": "era un poco más de 100.000 euros al año.",
+    "contexto_minuto": "05:13"
+  }
+]

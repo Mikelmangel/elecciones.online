@@ -1,0 +1,626 @@
+[
+  {
+    "id": "pp-feijoo-wild-regeneracion-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "regeneracion_democratica",
+    "tipo": "posicion",
+    "cita_literal": "tenemos muy claro que no tenemos nada que ocultar. Queremos exponer cuál es nuestra propuesta y, oye, tú tienes un impacto enorme en la opinión pública en un segmento de población bastante amplio",
+    "contexto_minuto": "02:39"
+  },
+  {
+    "id": "pp-feijoo-wild-regeneracion-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "regeneracion_democratica",
+    "tipo": "posicion",
+    "cita_literal": "Yo no pertenezco a ningún bando. Yo creo en la centralidad política creo que hay cosas que son buenas y otras que son mejorables en distintos eh sensibilidades políticas",
+    "contexto_minuto": "06:30"
+  },
+  {
+    "id": "pp-feijoo-wild-regeneracion-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "regeneracion_democratica",
+    "tipo": "posicion",
+    "cita_literal": "esto es como un virus que cuando se inocula, cuando se expande, evidentemente afecta pues a a buena parte de la población política, ¿no? A mí también me ha afectado",
+    "contexto_minuto": "08:08"
+  },
+  {
+    "id": "pp-feijoo-wild-regeneracion-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "regeneracion_democratica",
+    "tipo": "posicion",
+    "cita_literal": "Yo yo me he entendido con mucha gente el soy. Eh, tengo amigos políticos en el Partido Socialista. Eh, no lo oculto. Yo he votado a Felipe González en 1982. es conocido.",
+    "contexto_minuto": "10:15"
+  },
+  {
+    "id": "pp-feijoo-wild-economia-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "economia",
+    "tipo": "compromiso",
+    "cita_literal": "Tenemos que aprobar, por ejemplo, dos presupuestos en el año 27.",
+    "contexto_minuto": "14:16"
+  },
+  {
+    "id": "pp-feijoo-wild-instituciones-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Mi digamos mi estructura ministerial estará entre 14 y 15 ministerios.",
+    "contexto_minuto": "17:07"
+  },
+  {
+    "id": "pp-feijoo-wild-social-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "social",
+    "tipo": "compromiso",
+    "cita_literal": "No, no lo quitamos. Las políticas de igualdad van a seguir.",
+    "contexto_minuto": "17:24"
+  },
+  {
+    "id": "pp-feijoo-wild-instituciones-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Mire, este gobierno se va a basar en la austeridad de altos cargos porque no son necesarios, porque son prescindibles",
+    "contexto_minuto": "17:53"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "Lo que se ha incrementado son más de 4 millones de ciudadanos, mayoritariamente inmigrantes, todos inmigrantes porque el saldo vegetativo de España es negativo.",
+    "contexto_minuto": "20:12"
+  },
+  {
+    "id": "pp-feijoo-wild-economia-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "economia",
+    "tipo": "posicion",
+    "cita_literal": "El crecimiento sano de la economía es conseguir mayor inversión pública, sobre todo inversión privada, traer inversión extranjera",
+    "contexto_minuto": "20:32"
+  },
+  {
+    "id": "pp-feijoo-wild-empleo-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "empleo",
+    "tipo": "compromiso",
+    "cita_literal": "Con esto hay cotizantes porque el objetivo es subir los salarios medios.",
+    "contexto_minuto": "20:58"
+  },
+  {
+    "id": "pp-feijoo-wild-impuestos-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "impuestos",
+    "tipo": "posicion",
+    "cita_literal": "Mi planteamiento es clarísimo bajar los impuestos, pero también digo, yo necesito explicar a los españoles como es el estado de las cuentas de mi país.",
+    "contexto_minuto": "22:00"
+  },
+  {
+    "id": "pp-feijoo-wild-pensiones-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "pensiones",
+    "tipo": "compromiso",
+    "cita_literal": "Yo me comprometo a la actualización de las pensiones de acuerdo con el índice de precios al consumo.",
+    "contexto_minuto": "23:04"
+  },
+  {
+    "id": "pp-feijoo-wild-pensiones-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "pensiones",
+    "tipo": "cifra",
+    "cita_literal": "Mira, aproximadamente estamos hablando de unos 50,000 millones más o menos, eh, que se transfieren de impuestos a pensiones.",
+    "contexto_minuto": "23:31"
+  },
+  {
+    "id": "pp-feijoo-wild-pensiones-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "pensiones",
+    "tipo": "compromiso",
+    "cita_literal": "Pretendo decirle a un señor que tiene 67 años, por ejemplo, que si quiere seguir trabajando, que yo le voy a facilitar el cobro parcial de su pensión y que será compatible con el sueldo si quiere ampliar su edad de jubilación.",
+    "contexto_minuto": "23:41"
+  },
+  {
+    "id": "pp-feijoo-wild-pensiones-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "pensiones",
+    "tipo": "posicion",
+    "cita_literal": "con los datos que tenemos, 67 años es una edad de jubilación correcta.",
+    "contexto_minuto": "24:37"
+  },
+  {
+    "id": "pp-feijoo-wild-pensiones-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "pensiones",
+    "tipo": "compromiso",
+    "cita_literal": "No tenemos previsto, te contesto, no tenemos previsto ampliar obligatoriamente la edad de jubilación después de los 67.",
+    "contexto_minuto": "24:45"
+  },
+  {
+    "id": "pp-feijoo-wild-empleo-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "empleo",
+    "tipo": "cifra",
+    "cita_literal": "Año 2018, gasto en asentismo, empresa de administración pública, 13,000 millones.",
+    "contexto_minuto": "25:52"
+  },
+  {
+    "id": "pp-feijoo-wild-empleo-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "empleo",
+    "tipo": "cifra",
+    "cita_literal": "Año 25, más de 1 millón de personas diarias no acuden a su puesto de trabajo.",
+    "contexto_minuto": "26:00"
+  },
+  {
+    "id": "pp-feijoo-wild-empleo-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "empleo",
+    "tipo": "cifra",
+    "cita_literal": "Mire, yo cuando estaba en Correos faltaban 5,000 personas a trabajar todos los días.",
+    "contexto_minuto": "27:07"
+  },
+  {
+    "id": "pp-feijoo-wild-empleo-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "empleo",
+    "tipo": "cifra",
+    "cita_literal": "Teníamos un absentismo del ocho, te estoy hablando del año 2000 y lo bajamos al cuatro.",
+    "contexto_minuto": "27:32"
+  },
+  {
+    "id": "pp-feijoo-wild-empleo-6",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "empleo",
+    "tipo": "cifra",
+    "cita_literal": "Bueno, los servidores de salud tienen un 13, un 14% del sentismo.",
+    "contexto_minuto": "27:53"
+  },
+  {
+    "id": "pp-feijoo-wild-impuestos-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "impuestos",
+    "tipo": "compromiso",
+    "cita_literal": "los que llevan 12 años y facturan menos de 85,000 € no pagarán IVA.",
+    "contexto_minuto": "29:32"
+  },
+  {
+    "id": "pp-feijoo-wild-impuestos-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "impuestos",
+    "tipo": "posicion",
+    "cita_literal": "Y es que no lo paga en Europa, es que eso es una directiva que el gobierno se ha negado a trasponer.",
+    "contexto_minuto": "29:42"
+  },
+  {
+    "id": "pp-feijoo-wild-impuestos-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "impuestos",
+    "tipo": "compromiso",
+    "cita_literal": "Digo, no facturarán IBA, por tanto, tendrán un 21% de margen, bien para bajar sus precios y ser más competitivo su negocio, o bien para mejorar sus resultados y su ganancia, ¿no?",
+    "contexto_minuto": "29:47"
+  },
+  {
+    "id": "pp-feijoo-wild-empleo-7",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "empleo",
+    "tipo": "compromiso",
+    "cita_literal": "Un autónomo que contrate a otro, el primer año de ese autónomo contratado, no pagará la cuota.",
+    "contexto_minuto": "30:03"
+  },
+  {
+    "id": "pp-feijoo-wild-empleo-8",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "empleo",
+    "tipo": "compromiso",
+    "cita_literal": "un autónomo que contrate a un segundo eh trabajador en función de la facturación que tenga, eh ese segundo trabajador no pagará el 50% a la cuota.",
+    "contexto_minuto": "30:12"
+  },
+  {
+    "id": "pp-feijoo-wild-social-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "social",
+    "tipo": "compromiso",
+    "cita_literal": "buscaremos todas las similitudes en el ámbito de la conciliación para que un autónomo no quede perjudicado por estar enfermo o perjudicado simplemente por conciliar o por ser madre o o formar una familia.",
+    "contexto_minuto": "30:30"
+  },
+  {
+    "id": "pp-feijoo-wild-impuestos-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "impuestos",
+    "tipo": "posicion",
+    "cita_literal": "han hecho una trampa que es no actualizar la tarifa del impuesto de la renta con la inflación",
+    "contexto_minuto": "31:40"
+  },
+  {
+    "id": "pp-feijoo-wild-empleo-9",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "empleo",
+    "tipo": "compromiso",
+    "cita_literal": "mi objetivo es que en esas patologías absolutamente invalidantes, patologías que ponen en riesgo la vida de las personas, pues debemos de pagar el 100%.",
+    "contexto_minuto": "32:27"
+  },
+  {
+    "id": "pp-feijoo-wild-empleo-10",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "empleo",
+    "tipo": "posicion",
+    "cita_literal": "a mí me han criticado por decir que hay que luchar contra el fraude laboral.",
+    "contexto_minuto": "32:52"
+  },
+  {
+    "id": "pp-feijoo-wild-economia-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "economia",
+    "tipo": "cifra",
+    "cita_literal": "yo cuando llegué a la Xunta en el año 2009 había un presupuesto aprobado que decía que los ingresos serían 10,000 millones.",
+    "contexto_minuto": "33:38"
+  },
+  {
+    "id": "pp-feijoo-wild-economia-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "economia",
+    "tipo": "cifra",
+    "cita_literal": "los ingresos eran 8,000. Ya ahí solo había un agujero de 2,000 millones.",
+    "contexto_minuto": "33:46"
+  },
+  {
+    "id": "pp-feijoo-wild-economia-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "economia",
+    "tipo": "cifra",
+    "cita_literal": "Galicia estuvo entre las tres o las cuatro comunidades autónomas de menor incremento de deuda pública.",
+    "contexto_minuto": "34:02"
+  },
+  {
+    "id": "pp-feijoo-wild-impuestos-6",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "impuestos",
+    "tipo": "cifra",
+    "cita_literal": "Porque cuando un presidente de gobierno incrementa la recaudación fiscal, un 69%, más de 220,000 millones de impuestos en el año 2026 que en el año 2018, cuando además recibe 80,000 millones de euros a fondo perdido de Europa",
+    "contexto_minuto": "36:11"
+  },
+  {
+    "id": "pp-feijoo-wild-defensa-exterior-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "defensa_exterior",
+    "tipo": "posicion",
+    "cita_literal": "en este momento el gobierno español está en el 1.2, en el 1.3, eh, el llegar al dos, al 2.5 es duplicar nuestro gasto en defensa y por tanto pido mayor plazo para conseguir el 3.5.",
+    "contexto_minuto": "38:58"
+  },
+  {
+    "id": "pp-feijoo-wild-defensa-exterior-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "defensa_exterior",
+    "tipo": "compromiso",
+    "cita_literal": "llegaré, haré la auditoría de gasto, explicaré cuál es el gasto en mi país y diré exactamente a qué gasto en defensa podemos llegar.",
+    "contexto_minuto": "39:37"
+  },
+  {
+    "id": "pp-feijoo-wild-defensa-exterior-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "defensa_exterior",
+    "tipo": "compromiso",
+    "cita_literal": "No me voy a enfrentar con los aliados, le voy a explicar cuáles son los problemas de España y si no puedo llegar al 2.4, pues me quedaré en el 2.3.",
+    "contexto_minuto": "39:37"
+  },
+  {
+    "id": "pp-feijoo-wild-instituciones-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "La primera transparencia de un presidente es someter a votación los presupuestos de su gobierno.",
+    "contexto_minuto": "40:26"
+  },
+  {
+    "id": "pp-feijoo-wild-instituciones-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "No hay ningún gobierno que pueda gastar un presupuesto si no tiene autorización de las cortes.",
+    "contexto_minuto": "40:44"
+  },
+  {
+    "id": "pp-feijoo-wild-defensa-exterior-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "defensa_exterior",
+    "tipo": "cifra",
+    "cita_literal": "Primero, hacerle caso a los informes del CNI, a los servicios de inteligencia de mi país, que ya el 26 y 27 de julio ya estaban advirtiendo que se estaba habiendo un movimiento en redes que con un seguimiento de más de 180,000 personas para invadir CEPTA.",
+    "contexto_minuto": "41:44"
+  },
+  {
+    "id": "pp-feijoo-wild-defensa-exterior-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "defensa_exterior",
+    "tipo": "posicion",
+    "cita_literal": "pues cogería la Constitución, vería en qué artículo pone que el ejército debe de eh garantizar la integridad territorial y avisaría a Marruecos que yo voy a despegar el ejército en la frontera.",
+    "contexto_minuto": "42:49"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "En el año 21 ya nos invadieron 15,000 personas en Teuta.",
+    "contexto_minuto": "43:07"
+  },
+  {
+    "id": "pp-feijoo-wild-defensa-exterior-6",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "defensa_exterior",
+    "tipo": "posicion",
+    "cita_literal": "vamos a ver, el ejército hay que desplegarlo eh, con anterioridad, obviamente, a la invasión, porque tú tienes información para esto.",
+    "contexto_minuto": "43:58"
+  },
+  {
+    "id": "pp-feijoo-wild-instituciones-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Toda aquella información que se le ha ocultado a los españoles, no se la voy a ocultar.",
+    "contexto_minuto": "47:56"
+  },
+  {
+    "id": "pp-feijoo-wild-defensa-exterior-7",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "defensa_exterior",
+    "tipo": "posicion",
+    "cita_literal": "No, no podemos estar cerrando acuerdos de comercio con Marrocos cuando Marruecos no respeta la frontera europea.",
+    "contexto_minuto": "48:17"
+  },
+  {
+    "id": "pp-feijoo-wild-defensa-exterior-8",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "defensa_exterior",
+    "tipo": "posicion",
+    "cita_literal": "No podemos considerar a Marruecos como un aliado estratégico de la Unión Europea cuando Marruecos invade la Unión Europea.",
+    "contexto_minuto": "48:29"
+  },
+  {
+    "id": "pp-feijoo-wild-defensa-exterior-9",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "defensa_exterior",
+    "tipo": "compromiso",
+    "cita_literal": "Por tanto, si volvemos otra vez a facilitar el acceso y la invasión de mi país ordenado o conocido por las fuerzas de seguridad de Marruecos, evidentemente esto conllevará una crisis sin precedentes con el reino de Marruecos",
+    "contexto_minuto": "48:53"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "compromiso",
+    "cita_literal": "yo voy a pedir a la gente su arraigo en la sociedad española. Voy a pedirle la aportación en la sociedad española.",
+    "contexto_minuto": "50:20"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "compromiso",
+    "cita_literal": "voy a pedirle eh que venga a España a aportar, ¿okay? Aprender nuestro idioma, aprender nuestro idioma, a respetar nuestras leyes y a integrarse socialmente y punto.",
+    "contexto_minuto": "50:20"
+  },
+  {
+    "id": "pp-feijoo-wild-vivienda-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "vivienda",
+    "tipo": "posicion",
+    "cita_literal": "Pues hombre, yo lo que sí puedo valorar en la vivienda son los años de censo en ese ayuntamiento.",
+    "contexto_minuto": "50:33"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "La conclusión es que es ilegal dentro de la Unión Europea, dentro de los tratados de la Unión Europea, no puedes hacer eso.",
+    "contexto_minuto": "51:09"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-6",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "Lo que sí puedes perfectamente es objetivar y decir, oiga, la el el censo histórico para una vivienda oficial o para una ayuda social es un requisito que se puntuará de acuerdo con la antigüedad que acordemos y por tanto el español tendrá muchas más posibilidades que una persona que lleva residiendo 15 años",
+    "contexto_minuto": "51:31"
+  },
+  {
+    "id": "pp-feijoo-wild-social-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "social",
+    "tipo": "cifra",
+    "cita_literal": "La información que nos han trasladado es que hay medio millón de inmigrantes cobrándolo sin haber trabajado una sola hora en el último año.",
+    "contexto_minuto": "52:18"
+  },
+  {
+    "id": "pp-feijoo-wild-social-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "social",
+    "tipo": "compromiso",
+    "cita_literal": "le voy a establecer un un camino hacia el empleo y van a tener la obligación de asumir un empleo de las características de la formación y de sus capacidades",
+    "contexto_minuto": "52:27"
+  },
+  {
+    "id": "pp-feijoo-wild-social-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "social",
+    "tipo": "compromiso",
+    "cita_literal": "evidentemente se le irá disminuyendo la ayuda hasta el cero.",
+    "contexto_minuto": "52:47"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-7",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "Y por tanto yo estoy a favor del reglamento retorno y estoy a favor que en determinados supuestos busquemos acuerdos con determinados países que estén dispuestos.",
+    "contexto_minuto": "53:17"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-8",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "compromiso",
+    "cita_literal": "yo voy a cambiar la política migratoria, entre otras cosas porque España es el país donde hay más inmigración irregular desde hace algunos años de toda Europa.",
+    "contexto_minuto": "53:44"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-9",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "La migración regular, la migración ordenada, la inmigración para trabajar, estos señores tendrán su permiso.",
+    "contexto_minuto": "54:05"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-10",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "compromiso",
+    "cita_literal": "Finalizado su contrato de trabajo, le vamos a expulsar del país, ¿no? Le vamos a dar otros plazos para que usted vuelva a encontrar otro trabajo.",
+    "contexto_minuto": "54:05"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-11",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "compromiso",
+    "cita_literal": "si usted entra de forma irregular, que también hay muchos casos, usted se tiene que ir.",
+    "contexto_minuto": "54:25"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-12",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "El 20% de la población española es de origen extranjero.",
+    "contexto_minuto": "55:24"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-13",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "Entonces, de ese 20% de origen extranjero, ya hay 6% que ya están nacionalizados, pero hay otro 14 que persiste, que no se ha nacionalizado porque no puede, porque no quiere o porque no se dan las circunstancias.",
+    "contexto_minuto": "55:43"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-14",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "desde que llegó Sánchez se ha incrementado el número de personas que viven en España de origen extranjero, un 60%.",
+    "contexto_minuto": "55:43"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-15",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "Cuando llegó en el año 2018 éramos aproximadamente 6 millones de personas de origen extranjero viviendo en España y hoy superamos los 10.",
+    "contexto_minuto": "56:05"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-16",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "Leía el otro día que aproximadamente aproximadamente un tercio, uno de cada tres inmigrantes que llegan a un cayuco, a una costa española, uno de cada tres no llega, se muere en el mar.",
+    "contexto_minuto": "56:13"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-17",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "España es el país único de la Unión Europea que está en este momento regularizando de forma indiscriminada a 1,3 millones de inmigrantes.",
+    "contexto_minuto": "56:30"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-18",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "Es evidente que esto ha sido una frivolidad manifiesta, una improvisación constante y tenemos serios problemas con la inmigración en España.",
+    "contexto_minuto": "56:30"
+  },
+  {
+    "id": "pp-feijoo-wild-inmigracion-19",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "La la lo irregular no puede producir derechos.",
+    "contexto_minuto": "56:47"
+  },
+  {
+    "id": "pp-feijoo-wild-justicia-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "justicia",
+    "tipo": "posicion",
+    "cita_literal": "Es que no había nada en narcotrófico. Lo que había es que se había dedicado en su momento y había tenido contrabando, ¿no? Contrabando de tabaco. Eh, no no había nada de narcotráfico.",
+    "contexto_minuto": "59:09"
+  },
+  {
+    "id": "pp-feijoo-wild-regeneracion-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "regeneracion_democratica",
+    "tipo": "posicion",
+    "cita_literal": "Es decir, yo soy responsable de mi biografía, respondo por ella. Si en 30 años que llevo en esto, esto es lo que hay, pues mira, eh, que la gente lo juzgue.",
+    "contexto_minuto": "60:03"
+  },
+  {
+    "id": "pp-feijoo-wild-regeneracion-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "regeneracion_democratica",
+    "tipo": "posicion",
+    "cita_literal": "Lo primero que hizo fue comparecer en el Parlamento gallego. Oiga, esto fue en el 13, volvió a haber elecciones en el 16, mayoría absoluta ampliada. Volvió a haber elecciones en el 20, mayoría absoluta ampliada.",
+    "contexto_minuto": "61:45"
+  },
+  {
+    "id": "pp-feijoo-wild-regeneracion-6",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "regeneracion_democratica",
+    "tipo": "posicion",
+    "cita_literal": "El Pep es un partido sólido donde nuestros mitings viene Rajoy, viene Aznar, viene por supuesto eh Ayuso. ¿Cómo no va a venir Ayuso?",
+    "contexto_minuto": "73:17"
+  },
+  {
+    "id": "pp-feijoo-wild-regeneracion-7",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "regeneracion_democratica",
+    "tipo": "posicion",
+    "cita_literal": "Aos es un activo de mi partido. La respuesta es sí. ¿Te cae bien? A mí me cae bien personalmente.",
+    "contexto_minuto": "74:27"
+  },
+  {
+    "id": "pp-feijoo-wild-regeneracion-8",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "regeneracion_democratica",
+    "tipo": "posicion",
+    "cita_literal": "pero este el PP no es una secta, ¿eh? Ni yo soy Sánchez. Yo no me cargo a la gente si me cae bien o mal.",
+    "contexto_minuto": "74:38"
+  },
+  {
+    "id": "pp-feijoo-wild-vivienda-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "vivienda",
+    "tipo": "posicion",
+    "cita_literal": "Y cuando veo que la comunidad adquiere un inmueble para eh provisionalmente ser la sede de de la zona de presidencia, me parece normal.",
+    "contexto_minuto": "75:35"
+  },
+  {
+    "id": "pp-feijoo-wild-defensa-exterior-10",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "defensa_exterior",
+    "tipo": "posicion",
+    "cita_literal": "Yo no yo no quiero llegar a eso porque eso conllevaría que tenemos un problema de seguridad máximo.",
+    "contexto_minuto": "79:52"
+  },
+  {
+    "id": "pp-feijoo-wild-defensa-exterior-11",
+    "entrevista_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+    "tema": "defensa_exterior",
+    "tipo": "compromiso",
+    "cita_literal": "España tiene que buscar alianzas en la Unión Europea máximas y en la OTAN.",
+    "contexto_minuto": "81:05"
+  }
+]

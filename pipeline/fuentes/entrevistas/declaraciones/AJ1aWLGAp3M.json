@@ -1,0 +1,74 @@
+[
+  {
+    "id": "vox-abascal-espejo-inmigracion-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=AJ1aWLGAp3M",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "Para eso quiere combatir principalmente la inmigración ilegal, que colapsa los servicios públicos, las ayudas sociales, que colapsa la atención hospitalaria, porque han dicho que la sanidad [música] pagada por los españoles es universal para todo el mundo.",
+    "contexto_minuto": "19:27"
+  },
+  {
+    "id": "vox-abascal-espejo-impuestos-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=AJ1aWLGAp3M",
+    "tema": "impuestos",
+    "tipo": "compromiso",
+    "cita_literal": "Quiere rebajas fiscales, quiere recortes en el [música] gasto eh político e ideológico, que es una brutalidad.",
+    "contexto_minuto": "19:41"
+  },
+  {
+    "id": "vox-abascal-espejo-vivienda-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=AJ1aWLGAp3M",
+    "tema": "vivienda",
+    "tipo": "compromiso",
+    "cita_literal": "Queremos también que se eliminen los impuestos relativos a la compra de la vivienda, que se liberalice el suelo para que se puedan construir más [música] viviendas.",
+    "contexto_minuto": "19:47"
+  },
+  {
+    "id": "vox-abascal-espejo-otros-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=AJ1aWLGAp3M",
+    "tema": "otros",
+    "tipo": "posicion",
+    "cita_literal": "Llegamos a un acuerdo en la Comunidad Valenciana sobre presupuestos con muchas medidas respecto al campo, en contra del fanatismo climático en materia migratoria, de rebajas fiscales, de reducción del gasto",
+    "contexto_minuto": "13:36"
+  },
+  {
+    "id": "vox-abascal-espejo-instituciones-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=AJ1aWLGAp3M",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "Y eso me parece muy bien que oye que que se sepa todo lo posible, que los que los historiadores lo conozcan, lo valoren.",
+    "contexto_minuto": "28:11"
+  },
+  {
+    "id": "vox-abascal-espejo-otros-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=AJ1aWLGAp3M",
+    "tema": "otros",
+    "tipo": "cifra",
+    "cita_literal": "Pues depende de los depende de los sitios, pero ya se hablaba de más de 400,000 personas a nivel nacional que habían votado a Pedro Sánchez y iban a votar a Vox.",
+    "contexto_minuto": "30:44"
+  },
+  {
+    "id": "vox-abascal-espejo-inmigracion-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=AJ1aWLGAp3M",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "Pero bueno, hemos visto incluso que se ha sacado de la manga una regularización masiva de de inmigrantes",
+    "contexto_minuto": "32:05"
+  },
+  {
+    "id": "vox-abascal-espejo-inmigracion-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=AJ1aWLGAp3M",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "De la nacionalización apresurada de 1,600,000 personas y del millón que pueden estar pendientes hasta [música] las elecciones siguientes.",
+    "contexto_minuto": "32:33"
+  },
+  {
+    "id": "vox-abascal-espejo-inmigracion-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=AJ1aWLGAp3M",
+    "tema": "inmigracion",
+    "tipo": "compromiso",
+    "cita_literal": "yo lo que digo es que vamos a hacer una auditoría de todas esas nacionalizaciones que se han hecho porque estamos convencidos de que muchas de ellas son fraudulentas.",
+    "contexto_minuto": "33:49"
+  }
+]

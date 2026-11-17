@@ -1,0 +1,42 @@
+[
+  {
+    "id": "vox-abascal-declaracion-instituciones-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=mSp55GAAq5g",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "Y por eso hoy quiero en primer lugar exigir elecciones libres, elecciones limpias y elecciones sin violencia.",
+    "contexto_minuto": "02:39"
+  },
+  {
+    "id": "vox-abascal-declaracion-inmigracion-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=mSp55GAAq5g",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "Y los españoles deben saber que nosotros estamos absolutamente preparados para ofrecerle a España las soluciones que nuestro país necesita y que deben atender en primer lugar a la prioridad nacional para que los españoles no estén más tiempo, no estén nunca más discriminados en su propia patria.",
+    "contexto_minuto": "03:28"
+  },
+  {
+    "id": "vox-abascal-declaracion-economia-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=mSp55GAAq5g",
+    "tema": "economia",
+    "tipo": "posicion",
+    "cita_literal": "Unas soluciones que deben atender también a la desregulación para quitarle a nuestra economía, a nuestro modelo productivo todas las corrupciones todas las ideologías y todo el ánimo confiscatorio que están ahogando a los autónomos, que están destruyendo las clases medias y que impiden salir adelante a las pequeñas y medianas empresas destruyendo también el futuro de los trabajadores españoles.",
+    "contexto_minuto": "03:54"
+  },
+  {
+    "id": "vox-abascal-declaracion-inmigracion-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=mSp55GAAq5g",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "Y por supuesto unas soluciones que deben atender a la remigración.",
+    "contexto_minuto": "04:22"
+  },
+  {
+    "id": "vox-abascal-declaracion-inmigracion-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=mSp55GAAq5g",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "Porque hay que revertir la invasión migratoria que tantas consecuencias negativas está teniendo para el bolsillo de los españoles para su seguridad para su asistencia sanitaria e incluso para su capacidad de acceder a una vivienda como hace años lo pudieron hacer otras generaciones de españoles.",
+    "contexto_minuto": "04:27"
+  }
+]

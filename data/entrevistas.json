@@ -1,0 +1,1138 @@
+{
+  "fuente": "entrevistas_y_debates_2026",
+  "fetched_at": "2026-11-17T01:15:34.999683+00:00",
+  "debates": [
+    {
+      "titulo": "Cara a cara: Pedro Sánchez y Alberto Núñez Feijóo (Academia de Televisión / RTVE)",
+      "fecha": "2026-11-19",
+      "medio": "RTVE / Academia de Televisión",
+      "formato": "debate",
+      "participantes": [
+        "PSOE",
+        "PP"
+      ],
+      "fuente_url": "https://www.rtve.es/rtve/20261114/rtve-emite-directo-pedro-sanchez-alberto-nunez-television-elecciones-29-noviembre-2026/17313913.shtml",
+      "nota": "Moderado por María Casado. Emisión en directo en La 1, Canal 24 Horas, RTVE Play y YouTube RTVE Noticias."
+    },
+    {
+      "titulo": "Gran Debate Parlamentario a 8 en RTVE",
+      "fecha": "2026-11-23",
+      "medio": "RTVE",
+      "formato": "debate",
+      "participantes": [
+        "PP",
+        "PSOE",
+        "VOX",
+        "Frente Amplio",
+        "ERC",
+        "EH BILDU",
+        "EAJ-PNV",
+        "JxCat"
+      ],
+      "fuente_url": "https://www.rtve.es/rtve/20261113/rtve-organiza-23n-debate-parlamentario-elecciones-29-noviembre-2026/17312014.shtml",
+      "nota": "Moderado por Xabier Fortes con portavoces de los grupos parlamentarios."
+    },
+    {
+      "titulo": "Guía de debates electorales del 29-N: fechas, horarios y dónde verlos",
+      "fecha": "2026-11-14",
+      "medio": "RTVE Noticias",
+      "formato": "debate",
+      "participantes": [
+        "PP",
+        "PSOE",
+        "VOX",
+        "Frente Amplio",
+        "ERC",
+        "EH BILDU",
+        "EAJ-PNV",
+        "JxCat"
+      ],
+      "fuente_url": "https://www.rtve.es/noticias/20261114/debates-electorales-29-n-11-n-horario-donde-ver-tv/17314377.shtml",
+      "nota": null
+    },
+    {
+      "titulo": "laSexta Debate: hablamos de lo que importa (debate económico a cuatro)",
+      "fecha": "2026-11-12",
+      "medio": "laSexta",
+      "formato": "debate",
+      "participantes": [
+        "PSOE",
+        "PP",
+        "VOX",
+        "Frente Amplio"
+      ],
+      "fuente_url": "https://www.lasexta.com/elecciones/generales/lasexta-amplia-cobertura-electoral-29n-sabados-domingos-rojo-vivo-campana_202611126af5feb4d3bddc0868af661a.html",
+      "nota": "Moderado por Ana Pastor, con Carlos Cuerpo (PSOE), Juan Bravo (PP), José María Figaredo (VOX) y Pablo Bustinduy (Frente Amplio)."
+    }
+  ],
+  "entrevistas": [
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "The Wild Project #393 - Pedro Sánchez",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-13",
+      "fuente_url": "https://www.youtube.com/watch?v=mStOFBvToUI",
+      "slug": "pedro-sanchez-the-wild-project",
+      "id": "mStOFBvToUI"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "The Wild Project #392 - Alberto Núñez Feijóo",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-13",
+      "fuente_url": "https://www.youtube.com/watch?v=1YlGArMx_N4",
+      "slug": "alberto-nunez-feijoo-the-wild-project",
+      "id": "1YlGArMx_N4"
+    },
+    {
+      "partido": "VOX",
+      "persona": "Santiago Abascal",
+      "titulo": "Entrevista en La Revuelta (09/11/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-09",
+      "fuente_url": "https://www.youtube.com/watch?v=wIKaqVcTZio",
+      "slug": "santiago-abascal-la-revuelta",
+      "id": "wIKaqVcTZio"
+    },
+    {
+      "partido": "VOX",
+      "persona": "Santiago Abascal",
+      "titulo": "Santiago Abascal sobre vivienda, impuestos y cambio climático en La Revuelta (09/11/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-09",
+      "fuente_url": "https://www.youtube.com/watch?v=tZeBj9MS9RQ",
+      "slug": "santiago-abascal-la-revuelta-vivienda-impuestos",
+      "id": "tZeBj9MS9RQ"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "The Wild Project #391 - Ada Colau",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-13",
+      "fuente_url": "https://www.youtube.com/watch?v=-ESmAhdixfo",
+      "slug": "ada-colau-the-wild-project",
+      "id": "-ESmAhdixfo"
+    },
+    {
+      "partido": "PODEMOS",
+      "persona": "Ione Belarra",
+      "titulo": "Entrevista a Ione Belarra en RNE",
+      "medio": "RNE · Canal Podemos (YouTube)",
+      "formato": "youtube",
+      "fecha": null,
+      "fuente_url": "https://www.youtube.com/watch?v=vsQUyZNPRos",
+      "slug": "ione-belarra-rne",
+      "id": "vsQUyZNPRos"
+    },
+    {
+      "partido": "ERC",
+      "persona": "Gabriel Rufián",
+      "titulo": "Entrevista completa a Gabriel Rufián en laSexta Xplica",
+      "medio": "laSexta",
+      "formato": "tv",
+      "fecha": "2026-11-08",
+      "fuente_url": "https://www.lasexta.com/programas/sexta-noche/entrevista-completa-gabriel-rufian-lasexta-xplica-hay-esperanza-pero-necesitamos-psoe-exigido_202611086af030a69a31a65adcd4435f.html",
+      "slug": "gabriel-rufian-lasexta",
+      "id": "gabriel-rufian-lasexta"
+    },
+    {
+      "partido": "JxCat",
+      "persona": "Míriam Nogueras",
+      "titulo": "Entrevista en El matí de Catalunya Ràdio",
+      "medio": "Catalunya Ràdio (3Cat)",
+      "formato": "radio",
+      "fecha": "2026-11-04",
+      "fuente_url": "https://www.3cat.cat/3cat/el-mati-de-9-a-10-h-lagora-04112026/audio/1296433/",
+      "slug": "miriam-nogueras-catalunya-radio",
+      "id": "miriam-nogueras-catalunya-radio"
+    },
+    {
+      "partido": "JxCat",
+      "persona": "Míriam Nogueras",
+      "titulo": "Miriam Nogueras (Junts): «Nuestra intención jamás ha sido dar estabilidad al gobierno de turno»",
+      "medio": "El Español · Congreso (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-06",
+      "fuente_url": "https://www.youtube.com/watch?v=wmMJD_pO_7c",
+      "slug": "miriam-nogueras-ser",
+      "id": "wmMJD_pO_7c"
+    },
+    {
+      "partido": "EH BILDU",
+      "persona": "Oskar Matute",
+      "titulo": "Entrevista a Oskar Matute en La Hora de La 1",
+      "medio": "RTVE · Canal EH Bildu (YouTube)",
+      "formato": "youtube",
+      "fecha": null,
+      "fuente_url": "https://www.youtube.com/watch?v=Elhd_2WKup0",
+      "slug": "oskar-matute-rtve",
+      "id": "Elhd_2WKup0"
+    },
+    {
+      "partido": "EAJ-PNV",
+      "persona": "Aitor Esteban",
+      "titulo": "Entrevista a Aitor Esteban en La 1",
+      "medio": "RTVE · Parlamento en Claro (YouTube)",
+      "formato": "youtube",
+      "fecha": null,
+      "fuente_url": "https://www.youtube.com/watch?v=-QvrY7fWBXo",
+      "slug": "aitor-esteban-rtve",
+      "id": "-QvrY7fWBXo"
+    },
+    {
+      "partido": "EAJ-PNV",
+      "persona": "Aitor Esteban",
+      "titulo": "Entrevista a Aitor Esteban en Onda Vasca",
+      "medio": "Onda Vasca",
+      "formato": "radio",
+      "fecha": null,
+      "fuente_url": "https://www.ondavasca.com/aitor-esteban-esta-clarisimo-que-vamos-a-mantener-el-grupo-parlamentario/",
+      "slug": "aitor-esteban-onda-vasca",
+      "id": "aitor-esteban-onda-vasca"
+    },
+    {
+      "partido": "BNG",
+      "persona": "Ana Pontón",
+      "titulo": "Entrevista completa a Ana Pontón en la TVG",
+      "medio": "TVG · TeleBNG",
+      "formato": "tv",
+      "fecha": "2026-10-14",
+      "fuente_url": "https://www.bng.gal/telebng/entrevista-completa-ana-ponton-tvg/20261014125952043614.html",
+      "slug": "ana-ponton-tvg",
+      "id": "ana-ponton-tvg"
+    },
+    {
+      "partido": "CCa",
+      "persona": "Cristina Valido",
+      "titulo": "Cristina Valido en Hablando Claro (Canal 4 Tenerife)",
+      "medio": "Canal 4 Tenerife (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-11",
+      "fuente_url": "https://www.youtube.com/watch?v=XkKd7nTnU9s",
+      "slug": "cristina-valido-canal-4-tenerife",
+      "id": "XkKd7nTnU9s"
+    },
+    {
+      "partido": "CCa",
+      "persona": "Cristina Valido",
+      "titulo": "Cristina Valido niega que CC esté siempre a favor de Sánchez en el Congreso: «Hemos votado muchas veces en contra, empezando por la amnistía»",
+      "medio": "Radio Marca Tenerife",
+      "formato": "radio",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://radiomarcatenerife.com/2026/11/cristina-valido-niega-que-cc-este-siempre-a-favor-de-sanchez-en-el-congreso-hemos-votado-muchas-veces-en-contra-empezando-por-la-amnistia/",
+      "slug": "cristina-valido-radio-marca",
+      "id": "cristina-valido-radio-marca"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Pedro Sánchez comenta la crisis de Ceuta | La Revuelta (22/10/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-22",
+      "fuente_url": "https://www.youtube.com/watch?v=NRWfm6AQ3KQ",
+      "slug": "pedro-sanchez-la-revuelta-ceuta",
+      "id": "NRWfm6AQ3KQ"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Pedro Sánchez responde las preguntas clásicas | La Revuelta (22/10/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-22",
+      "fuente_url": "https://www.youtube.com/watch?v=Vo5oG1g6uM8",
+      "slug": "pedro-sanchez-la-revuelta-preguntas",
+      "id": "Vo5oG1g6uM8"
+    },
+    {
+      "partido": "PODEMOS",
+      "persona": "Irene Montero y Gabriel Rufián",
+      "titulo": "Irene Montero y Gabriel Rufián responden las preguntas clásicas | La Revuelta (27/10/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-27",
+      "fuente_url": "https://www.youtube.com/watch?v=flIp3a69Kmk",
+      "slug": "irene-montero-gabriel-rufian-la-revuelta",
+      "id": "flIp3a69Kmk"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "Ada Colau responde las preguntas clásicas | La Revuelta (10/11/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-10",
+      "fuente_url": "https://www.youtube.com/watch?v=aE0n-MIdQRk",
+      "slug": "ada-colau-la-revuelta",
+      "id": "aE0n-MIdQRk"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Pedro Sánchez, en «Hoy por Hoy» con Aimar Bretos",
+      "medio": "Cadena SER (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-08-31",
+      "fuente_url": "https://www.youtube.com/watch?v=A_fyLE5ibhA",
+      "slug": "pedro-sanchez-hoy-por-hoy-ser",
+      "id": "A_fyLE5ibhA"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "El presidente del Gobierno entrevistado en «Mañaneros» de RTVE",
+      "medio": "RTVE Noticias (YouTube)",
+      "formato": "youtube",
+      "fecha": null,
+      "fuente_url": "https://www.youtube.com/watch?v=Vx89fkfjs_0",
+      "slug": "pedro-sanchez-mananeros-rtve",
+      "id": "Vx89fkfjs_0"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Entrevista a Alberto Núñez Feijóo en «Hoy por Hoy»",
+      "medio": "Cadena SER (YouTube)",
+      "formato": "youtube",
+      "fecha": null,
+      "fuente_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+      "slug": "alberto-nunez-feijoo-hoy-por-hoy-ser",
+      "id": "O08t6ZE8TYg"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Alberto Núñez Feijóo en Espejo Público — Entrevista completa",
+      "medio": "Antena 3 · Espejo Público (YouTube)",
+      "formato": "youtube",
+      "fecha": null,
+      "fuente_url": "https://www.youtube.com/watch?v=zP1puJqejW4",
+      "slug": "alberto-nunez-feijoo-espejo-publico",
+      "id": "zP1puJqejW4"
+    },
+    {
+      "partido": "VOX",
+      "persona": "Santiago Abascal",
+      "titulo": "Entrevista completa a Santiago Abascal en Espejo Público",
+      "medio": "Antena 3 · VOX España (YouTube)",
+      "formato": "youtube",
+      "fecha": null,
+      "fuente_url": "https://www.youtube.com/watch?v=AJ1aWLGAp3M",
+      "slug": "santiago-abascal-espejo-publico-completa",
+      "id": "AJ1aWLGAp3M"
+    },
+    {
+      "partido": "VOX",
+      "persona": "Santiago Abascal",
+      "titulo": "Santiago Abascal en Espejo Público sobre política exterior y Gobierno",
+      "medio": "Antena 3 · VOX España (YouTube)",
+      "formato": "youtube",
+      "fecha": null,
+      "fuente_url": "https://www.youtube.com/watch?v=bknJNwFpwZs",
+      "slug": "santiago-abascal-espejo-publico-exterior",
+      "id": "bknJNwFpwZs"
+    },
+    {
+      "partido": "PODEMOS",
+      "persona": "Ione Belarra",
+      "titulo": "Ione Belarra sobre los decretos de vivienda en Hora 25",
+      "medio": "Cadena SER · SER Podcast (YouTube)",
+      "formato": "youtube",
+      "fecha": null,
+      "fuente_url": "https://www.youtube.com/watch?v=WuXWiZ_riI0",
+      "slug": "ione-belarra-ser-vivienda",
+      "id": "WuXWiZ_riI0"
+    },
+    {
+      "partido": "ERC",
+      "persona": "Gabriel Rufián e Irene Montero",
+      "titulo": "Gabriel Rufián e Irene Montero en La Revuelta: los 50 mejores momentos (27/10/2026)",
+      "medio": "La Revuelta · RTVE / Política al Grano (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-27",
+      "fuente_url": "https://www.youtube.com/watch?v=fOUpIWmlOuI",
+      "slug": "gabriel-rufian-irene-montero-la-revuelta-resumen",
+      "id": "fOUpIWmlOuI"
+    },
+    {
+      "partido": "EAJ-PNV",
+      "persona": "Aitor Esteban",
+      "titulo": "Entrevista a Aitor Esteban en La 1 de RTVE (09/11/2026)",
+      "medio": "RTVE · EAJ-PNV (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-09",
+      "fuente_url": "https://www.youtube.com/watch?v=2gp6ZVbNONk",
+      "slug": "aitor-esteban-la-1-rtve",
+      "id": "2gp6ZVbNONk"
+    },
+    {
+      "partido": "EAJ-PNV",
+      "persona": "Aitor Esteban",
+      "titulo": "Entrevista a Aitor Esteban en laSexta (06/11/2026)",
+      "medio": "laSexta · EAJ-PNV (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-06",
+      "fuente_url": "https://www.youtube.com/watch?v=LxtrI1LxIuo",
+      "slug": "aitor-esteban-lasexta",
+      "id": "LxtrI1LxIuo"
+    },
+    {
+      "partido": "EH BILDU",
+      "persona": "Oskar Matute",
+      "titulo": "Entrevista a Oskar Matute en «El Pulso» de La Séptima",
+      "medio": "La Séptima · EH Bildu (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-01",
+      "fuente_url": "https://www.youtube.com/watch?v=axcJcXOjB84",
+      "slug": "oskar-matute-el-pulso-la-septima",
+      "id": "axcJcXOjB84"
+    },
+    {
+      "partido": "EH BILDU",
+      "persona": "Oskar Matute",
+      "titulo": "Entrevista a Oskar Matute sobre vivienda, EH Bildu y elecciones",
+      "medio": "Alex El Zurdo (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-01",
+      "fuente_url": "https://www.youtube.com/watch?v=b5UlZ8IDSh4",
+      "slug": "oskar-matute-entrevista-vivienda-elecciones",
+      "id": "b5UlZ8IDSh4"
+    },
+    {
+      "partido": "CCa",
+      "persona": "Cristina Valido",
+      "titulo": "Tiempo de Entrevista con Cristina Valido, diputada de Coalición Canaria",
+      "medio": "Canal 10 Televisión (YouTube)",
+      "formato": "youtube",
+      "fecha": null,
+      "fuente_url": "https://www.youtube.com/watch?v=HxY4G07Ugw0",
+      "slug": "cristina-valido-canal-10-tenerife",
+      "id": "HxY4G07Ugw0"
+    },
+    {
+      "partido": "SALF",
+      "persona": "Alvise Pérez",
+      "titulo": "Especial «Es la tarde de Huesca» con Alvise Pérez (30/01/2026)",
+      "medio": "Altoaragón Televisión (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-01-30",
+      "fuente_url": "https://www.youtube.com/watch?v=xtyVSvJKCUQ",
+      "slug": "alvise-perez-altoaragon-tv",
+      "id": "xtyVSvJKCUQ"
+    },
+    {
+      "partido": "ERC",
+      "persona": "Gabriel Rufián",
+      "titulo": "Entrevista completa a Gabriel Rufián sobre la izquierda y el 29-N",
+      "medio": "Diario Público (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://www.youtube.com/watch?v=PeWBx3_5fYw",
+      "slug": "gabriel-rufian-entrevista-completa-a-gabriel-rufian-sob-pewbx",
+      "id": "PeWBx3_5fYw"
+    },
+    {
+      "partido": "VOX",
+      "persona": "Santiago Abascal",
+      "titulo": "Mitin íntegro de campaña de Santiago Abascal en Murcia",
+      "medio": "EL PAÍS (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://www.youtube.com/watch?v=fvDjJeEgNN0",
+      "slug": "santiago-abascal-mitin-integro-de-campana-de-santiago-aba-fvdjj",
+      "id": "fvDjJeEgNN0"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "Intervención de Ada Colau en el acto de campaña del Frente Amplio en Sevilla",
+      "medio": "El Mundo (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://www.youtube.com/watch?v=OeCBkaxMmyg",
+      "slug": "ada-colau-intervencion-de-ada-colau-en-el-acto-de-oecbk",
+      "id": "OeCBkaxMmyg"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Intervención de Alberto Núñez Feijóo en Santiago de Compostela",
+      "medio": "elDiario.es (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://www.youtube.com/watch?v=t0w-5Fja5Uc",
+      "slug": "alberto-nunez-feijoo-intervencion-de-alberto-nunez-feijoo-en-t0w-5",
+      "id": "t0w-5Fja5Uc"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Resumen de la entrevista de Jordi Wild a Pedro Sánchez (Especial 29-N)",
+      "medio": "20minutos · The Wild Project (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-13",
+      "fuente_url": "https://www.youtube.com/watch?v=Z7UQOMy4spc",
+      "slug": "pedro-sanchez-resumen-de-la-entrevista-de-jordi-wild-a-z7uqo",
+      "id": "Z7UQOMy4spc"
+    },
+    {
+      "partido": "VOX",
+      "persona": "Santiago Abascal",
+      "titulo": "Acto público de inicio de campaña con Santiago Abascal en Madrid",
+      "medio": "EL PAÍS (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-13",
+      "fuente_url": "https://www.youtube.com/watch?v=v9PmDXcrEvQ",
+      "slug": "santiago-abascal-acto-publico-de-inicio-de-campana-con-sa-v9pmd",
+      "id": "v9PmDXcrEvQ"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "Careo y preguntas sobre vivienda a Ada Colau en The Wild Project",
+      "medio": "En Plata · The Wild Project (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-13",
+      "fuente_url": "https://www.youtube.com/watch?v=OSAYFCHz9fE",
+      "slug": "ada-colau-careo-y-preguntas-sobre-vivienda-a-ada-c-osayf",
+      "id": "OSAYFCHz9fE"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Acto de campaña de Pedro Sánchez en Sevilla (29-N)",
+      "medio": "EL PAÍS (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-12",
+      "fuente_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+      "slug": "pedro-sanchez-acto-de-campana-de-pedro-sanchez-en-sevi-fphve",
+      "id": "FphVEJnTPFs"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Presentación íntegra del plan de gobierno de Alberto Núñez Feijóo para el 29-N",
+      "medio": "Negocios TV (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-11",
+      "fuente_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+      "slug": "alberto-nunez-feijoo-presentacion-integra-del-plan-de-gobiern-3owor",
+      "id": "3OWoRjDZEVw"
+    },
+    {
+      "partido": "VOX",
+      "persona": "Santiago Abascal",
+      "titulo": "Intervención de Santiago Abascal tras su salida de The Wild Project",
+      "medio": "Negocios TV (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-11",
+      "fuente_url": "https://www.youtube.com/watch?v=GahdgP6ElYw",
+      "slug": "santiago-abascal-intervencion-de-santiago-abascal-tras-su-gahdg",
+      "id": "GahdgP6ElYw"
+    },
+    {
+      "partido": "VOX",
+      "persona": "Jordi Wild (sobre Santiago Abascal)",
+      "titulo": "Comunicado de Jordi Wild sobre la entrevista cancelada de Santiago Abascal",
+      "medio": "The Wild Project (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-11",
+      "fuente_url": "https://www.youtube.com/watch?v=dCt6jXEVx0A",
+      "slug": "jordi-wild-sobre-santiago-abascal-comunicado-de-jordi-wild-sobre-la-en",
+      "id": "dCt6jXEVx0A"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "Ada Colau expone su propuesta sobre la crisis de la vivienda en La Revuelta",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-11",
+      "fuente_url": "https://www.youtube.com/watch?v=fLF1gFLcM1U",
+      "slug": "ada-colau-ada-colau-expone-su-propuesta-sobre-la-c-flf1g",
+      "id": "fLF1gFLcM1U"
+    },
+    {
+      "partido": "SALF",
+      "persona": "Alvise Pérez",
+      "titulo": "Resumen de las propuestas de Se Acabó La Fiesta para el 29-N",
+      "medio": "SpainData (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-11",
+      "fuente_url": "https://www.youtube.com/watch?v=06KVAJM-aRs",
+      "slug": "alvise-perez-resumen-de-las-propuestas-de-se-acabo-la-06kva",
+      "id": "06KVAJM-aRs"
+    },
+    {
+      "partido": "VOX",
+      "persona": "Santiago Abascal",
+      "titulo": "Intervención y regalo de Santiago Abascal en La Revuelta (09/11/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-10",
+      "fuente_url": "https://www.youtube.com/watch?v=7vYZCZs_ufg",
+      "slug": "santiago-abascal-intervencion-y-regalo-de-santiago-abasca-7vyzc",
+      "id": "7vYZCZs_ufg"
+    },
+    {
+      "partido": "PODEMOS",
+      "persona": "Irene Montero",
+      "titulo": "Entrevista a Irene Montero en RNE sobre vivienda y huelga del 11-N",
+      "medio": "RNE · Canal Podemos (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-09",
+      "fuente_url": "https://www.youtube.com/watch?v=xwvDGUCpDhQ",
+      "slug": "irene-montero-entrevista-a-irene-montero-en-rne-sobre-xwvdg",
+      "id": "xwvDGUCpDhQ"
+    },
+    {
+      "partido": "EH BILDU",
+      "persona": "Oskar Matute",
+      "titulo": "Entrevista en profundidad a Oskar Matute sobre el 29-N",
+      "medio": "Diario Público (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-07",
+      "fuente_url": "https://www.youtube.com/watch?v=Pw35QG5m5S8",
+      "slug": "oskar-matute-entrevista-en-profundidad-a-oskar-matute-pw35q",
+      "id": "Pw35QG5m5S8"
+    },
+    {
+      "partido": "PODEMOS",
+      "persona": "Irene Montero",
+      "titulo": "Desayuno Informativo íntegro con Irene Montero, candidata de Podemos",
+      "medio": "Europa Press (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-06",
+      "fuente_url": "https://www.youtube.com/watch?v=uKwaoP_LWig",
+      "slug": "irene-montero-desayuno-informativo-integro-con-irene-m-ukwao",
+      "id": "uKwaoP_LWig"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Comparecencia de Alberto Núñez Feijóo ante los medios",
+      "medio": "Antena 3 Noticias (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-06",
+      "fuente_url": "https://www.youtube.com/watch?v=uikAWLKFR9I",
+      "slug": "alberto-nunez-feijoo-comparecencia-de-alberto-nunez-feijoo-an-uikaw",
+      "id": "uikAWLKFR9I"
+    },
+    {
+      "partido": "FO",
+      "persona": "Roberto Vaquero",
+      "titulo": "Análisis de campaña de Roberto Vaquero (Frente Obrero)",
+      "medio": "Canal Roberto Vaquero (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-04",
+      "fuente_url": "https://www.youtube.com/watch?v=92IgNewhFlc",
+      "slug": "roberto-vaquero-analisis-de-campana-de-roberto-vaquero-92ign",
+      "id": "92IgNewhFlc"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "Intervención de Ada Colau sobre responsabilidades políticas",
+      "medio": "Canal Frente Amplio (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-03",
+      "fuente_url": "https://www.youtube.com/watch?v=YOhshFWwBTE",
+      "slug": "ada-colau-intervencion-de-ada-colau-sobre-responsa-yohsh",
+      "id": "YOhshFWwBTE"
+    },
+    {
+      "partido": "JxCat",
+      "persona": "Míriam Nogueras",
+      "titulo": "L Entrevista a Míriam Nogueras, candidata de Junts al Congreso para el 29-N",
+      "medio": "Televisió de Girona (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-02",
+      "fuente_url": "https://www.youtube.com/watch?v=_j7slAaRQoE",
+      "slug": "miriam-nogueras-l-entrevista-a-miriam-nogueras-candidat-j7sl",
+      "id": "_j7slAaRQoE"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Mejores momentos de la entrevista a Pedro Sánchez en La Revuelta",
+      "medio": "EL PAÍS · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-23",
+      "fuente_url": "https://www.youtube.com/watch?v=IottJPy9nf8",
+      "slug": "pedro-sanchez-mejores-momentos-de-la-entrevista-a-pedr-iottj",
+      "id": "IottJPy9nf8"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Intervención y regalo de Pedro Sánchez en La Revuelta (22/10/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-23",
+      "fuente_url": "https://www.youtube.com/watch?v=60OqQBXbaF0",
+      "slug": "pedro-sanchez-intervencion-y-regalo-de-pedro-sanchez-e-60oqq",
+      "id": "60OqQBXbaF0"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Sección sobre Alberto Núñez Feijóo en La Revuelta (22/10/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-23",
+      "fuente_url": "https://www.youtube.com/watch?v=Kt6dzhi7BCI",
+      "slug": "alberto-nunez-feijoo-seccion-sobre-alberto-nunez-feijoo-en-la-kt6dz",
+      "id": "Kt6dzhi7BCI"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Mitin íntegro de precampaña de Pedro Sánchez en Burgos",
+      "medio": "EL PAÍS (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-21",
+      "fuente_url": "https://www.youtube.com/watch?v=aYetccH2Neo",
+      "slug": "pedro-sanchez-mitin-integro-de-precampana-de-pedro-san-ayetc",
+      "id": "aYetccH2Neo"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "Acto íntegro de presentación de la coalición Frente Amplio",
+      "medio": "EL PAÍS (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-17",
+      "fuente_url": "https://www.youtube.com/watch?v=48K4Fihw2eM",
+      "slug": "ada-colau-acto-integro-de-presentacion-de-la-coali-48k4f",
+      "id": "48K4Fihw2eM"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Spot oficial del Partido Popular: España, tu esfuerzo merecerá la pena",
+      "medio": "Partido Popular (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-11",
+      "fuente_url": "https://www.youtube.com/watch?v=7xZ7_pBPRJk",
+      "slug": "alberto-nunez-feijoo-spot-oficial-del-partido-popular-espana-7xz7",
+      "id": "7xZ7_pBPRJk"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Spot oficial del PSOE: La Fuerza de la Gente",
+      "medio": "PSOE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-10",
+      "fuente_url": "https://www.youtube.com/watch?v=kwd5DuNToO4",
+      "slug": "pedro-sanchez-spot-oficial-del-psoe-la-fuerza-de-la-g-kwd5d",
+      "id": "kwd5DuNToO4"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Declaración institucional de convocatoria de elecciones generales del 29-N",
+      "medio": "La Moncloa (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-05",
+      "fuente_url": "https://www.youtube.com/watch?v=no7hQPOX-dw",
+      "slug": "pedro-sanchez-declaracion-institucional-de-convocatori-no7hq",
+      "id": "no7hQPOX-dw"
+    },
+    {
+      "partido": "VOX",
+      "persona": "Santiago Abascal",
+      "titulo": "Declaración institucional de Santiago Abascal ante el adelanto electoral",
+      "medio": "VOX España (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-05",
+      "fuente_url": "https://www.youtube.com/watch?v=mSp55GAAq5g",
+      "slug": "santiago-abascal-declaracion-institucional-de-santiago-ab-msp55",
+      "id": "mSp55GAAq5g"
+    },
+    {
+      "partido": "ERC",
+      "persona": "Gabriel Rufián",
+      "titulo": "Discurso íntegro de Gabriel Rufián en el Congreso previo al adelanto electoral",
+      "medio": "Vozpópuli (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-02",
+      "fuente_url": "https://www.youtube.com/watch?v=S04t1BFjRwM",
+      "slug": "gabriel-rufian-discurso-integro-de-gabriel-rufian-en-el-s04t1",
+      "id": "S04t1BFjRwM"
+    },
+    {
+      "partido": "PODEMOS",
+      "persona": "Irene Montero",
+      "titulo": "Entrevista a Irene Montero en RNE (precampaña)",
+      "medio": "RNE · Canal Podemos (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-09-22",
+      "fuente_url": "https://www.youtube.com/watch?v=k7XLWRck9cM",
+      "slug": "irene-montero-entrevista-a-irene-montero-en-rne-preca-k7xlw",
+      "id": "k7XLWRck9cM"
+    },
+    {
+      "partido": "PODEMOS",
+      "persona": "Irene Montero",
+      "titulo": "Acto íntegro de lanzamiento de la candidatura de Irene Montero (Podemos)",
+      "medio": "EL PAÍS (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-09-12",
+      "fuente_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+      "slug": "irene-montero-acto-integro-de-lanzamiento-de-la-candid-ciijb",
+      "id": "CIijbBpYazc"
+    },
+    {
+      "partido": "SALF",
+      "persona": "Alvise Pérez",
+      "titulo": "Entrevista íntegra a Alvise Pérez en Antena Huelva Radio",
+      "medio": "Antena Huelva Radio (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-03-31",
+      "fuente_url": "https://www.youtube.com/watch?v=wiOO_m0GhPw",
+      "slug": "alvise-perez-entrevista-integra-a-alvise-perez-en-ant-wioo",
+      "id": "wiOO_m0GhPw"
+    },
+    {
+      "partido": "SALF",
+      "persona": "Alvise Pérez",
+      "titulo": "Entrevista a Alvise Pérez en Hoy Aragón sobre autónomos y trabajadores",
+      "medio": "HOY ARAGÓN (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-01-19",
+      "fuente_url": "https://www.youtube.com/watch?v=EHS2cOS6VCA",
+      "slug": "alvise-perez-entrevista-a-alvise-perez-en-hoy-aragon-ehs2c",
+      "id": "EHS2cOS6VCA"
+    },
+    {
+      "partido": "SALF",
+      "persona": "Alvise Pérez",
+      "titulo": "Entrevista a Alvise Pérez en The Objective",
+      "medio": "The Objective (YouTube)",
+      "formato": "youtube",
+      "fecha": "2025-11-04",
+      "fuente_url": "https://www.youtube.com/watch?v=34b8u1aGrhg",
+      "slug": "alvise-perez-entrevista-a-alvise-perez-en-the-objecti-34b8u",
+      "id": "34b8u1aGrhg"
+    },
+    {
+      "partido": "VOX",
+      "persona": "Santiago Abascal",
+      "titulo": "La Revuelta — Programa completo con Santiago Abascal (09/11/2026)",
+      "medio": "RTVE Play (La Revuelta)",
+      "formato": "tv",
+      "fecha": "2026-11-09",
+      "fuente_url": "https://www.rtve.es/play/videos/la-revuelta/programa-09-11-26-santiago-abascal/17306884/",
+      "slug": "santiago-abascal-la-revuelta-programa-completo-rtve-play",
+      "id": "rtve-17306884"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "La Revuelta — Programa completo con Pedro Sánchez (22/10/2026)",
+      "medio": "RTVE Play (La Revuelta)",
+      "formato": "tv",
+      "fecha": "2026-10-22",
+      "fuente_url": "https://www.rtve.es/play/videos/la-revuelta/programa-22-10-2026-pedro-sanchez/17279095/",
+      "slug": "pedro-sanchez-la-revuelta-programa-completo-rtve-play",
+      "id": "rtve-17279095"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "Ada Colau opina sobre el estado actual del feminismo | La Revuelta (10/11/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-11",
+      "fuente_url": "https://www.youtube.com/watch?v=7OGGjn8hjSo",
+      "slug": "ada-colau-la-revuelta-feminismo",
+      "id": "7OGGjn8hjSo"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "Ada Colau sobre los impuestos a las grandes fortunas | La Revuelta (10/11/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-11",
+      "fuente_url": "https://www.youtube.com/watch?v=P-58uErhbwc",
+      "slug": "ada-colau-la-revuelta-impuestos",
+      "id": "P-58uErhbwc"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Candela Peña y Pedro Sánchez en La Revuelta (22/10/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-23",
+      "fuente_url": "https://www.youtube.com/watch?v=TuhmoNMJ-tM",
+      "slug": "pedro-sanchez-candela-pena-la-revuelta",
+      "id": "TuhmoNMJ-tM"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Pedro Sánchez sobre la relación con Donald Trump | La Revuelta (22/10/2026)",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-10-23",
+      "fuente_url": "https://www.youtube.com/watch?v=JVBuhlEfWbs",
+      "slug": "pedro-sanchez-la-revuelta-estados-unidos",
+      "id": "JVBuhlEfWbs"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "¿En serio no sabía que CEUTA iba a ser invadida? - Pedro Sánchez da sus explicaciones",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-15",
+      "fuente_url": "https://www.youtube.com/watch?v=H6BIJGeRdkI"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Feijóo define a Pedro Sánchez y no deja indiferente a nadie",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-15",
+      "fuente_url": "https://www.youtube.com/watch?v=xjuv3_SQM2w"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Feijóo habla de su relación con AYUSO y de la gran polémica con el piso de 6,7 millones",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-15",
+      "fuente_url": "https://www.youtube.com/watch?v=nq4Pu2kt7Vk"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Jordi Wild ataca a Pedro Sánchez por la corrupción de sus amigos (Ábalos, Koldo, Cerdán)",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-15",
+      "fuente_url": "https://www.youtube.com/watch?v=AtcUaoghvfc"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "“FLORENTINO PÉREZ PUEDE PAGAR 300 MILLONES EN IMPUESTOS” Ada Colau y subir impuestos a los ricos",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-15",
+      "fuente_url": "https://www.youtube.com/watch?v=mswl-JRsIlQ"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Jordi Wild cuestiona a Pedro Sánchez por sus vacaciones durante la crisis de Ceuta",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-15",
+      "fuente_url": "https://www.youtube.com/shorts/YJtTTM9xT4g"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "\"Tenemos un sistema ferroviario seguro\" - Pedro Sánchez sobre el accidente de Urda y su gestión",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://www.youtube.com/watch?v=oT858-bW3xw"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "“NO QUISIERON NI SENTARSE A HABLAR”: Ada Colau por qué no está Podemos en Frente Amplio",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://www.youtube.com/watch?v=8UfyV1CTIUs"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Jordi Wild pregunta directamente a Pedro Sánchez por sus cánticos de \"PEDRO SÁNCHEZ HIJO DE...\"",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://www.youtube.com/watch?v=9xQKPa9KH58"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "¿Eras amigo de un narcotraficante? - Jordi Wild muestra a Feijóo sus fotos con Marcial Dorado",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://www.youtube.com/watch?v=BbkqWNhQAVE"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Feijóo, sobre el Gobierno: \"Corrupción, machismo, incompetencia y soberbia\" - laSexta Noticias",
+      "medio": "laSexta (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://www.youtube.com/watch?v=mk8hZQXkhhY"
+    },
+    {
+      "partido": "VOX",
+      "persona": "VOX",
+      "titulo": "Las medidas de Vox para el 29N: \"Ni un migrante más\" y \"prioridad nacional\" - laSexta Noticias",
+      "medio": "laSexta (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-12",
+      "fuente_url": "https://www.youtube.com/watch?v=bAPPwyoX3V4"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Arranca la campaña: Sánchez recurre a Begoña Gómez y Feijóo tira de migración - laSexta Noticias",
+      "medio": "laSexta (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-12",
+      "fuente_url": "https://www.youtube.com/watch?v=Y19r1La4aYk"
+    },
+    {
+      "partido": "PP",
+      "persona": "PP",
+      "titulo": "🔷 El líder del PP ha condenado el ataque ayer al candidato delPP en Guipúzcoa",
+      "medio": "Antena 3 Noticias (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-15",
+      "fuente_url": "https://www.youtube.com/shorts/gB_tvffS3CU"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "PSOE",
+      "titulo": "Los colaboradores reaccionan a la aparición de Begoña en el mitin de arranque de campaña del PSOE",
+      "medio": "Antena 3 Noticias (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-15",
+      "fuente_url": "https://www.youtube.com/watch?v=qJFjqiPTYuM"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "👉Ada Colau ha inaugurado el primer fin de semana de campaña en Andalucía",
+      "medio": "Antena 3 Noticias (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://www.youtube.com/shorts/47U8a1DC8R4"
+    },
+    {
+      "partido": "VOX",
+      "persona": "VOX",
+      "titulo": "El PNV ni facilitará un Gobierno con Vox ni repetirá legislatura",
+      "medio": "Antena 3 Noticias (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://www.youtube.com/watch?v=CpkKznq7r1o"
+    },
+    {
+      "partido": "VOX",
+      "persona": "Santiago Abascal",
+      "titulo": "La solución de Santiago Abascal al problema de la vivienda: \"Hay que ordenar el país\"",
+      "medio": "Antena 3 Noticias (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-14",
+      "fuente_url": "https://www.youtube.com/watch?v=gNHzINiO_yw"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Feijóo habla sobre Ayuso y la polémica con el piso de 6,7 millones",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-16",
+      "fuente_url": "https://www.youtube.com/shorts/8l-vzQ9RmzQ"
+    },
+    {
+      "partido": "Frente Amplio",
+      "persona": "Ada Colau",
+      "titulo": "Jordi Wild discute a Ada Colau su retorno a la política cuando hace un año decía que era imposible",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-16",
+      "fuente_url": "https://www.youtube.com/watch?v=toHoIyBiXiE"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Feijóo opina sobre VOX y SANTIAGO ABSACAL, su socio en Moncloa si ganan las elecciones",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-16",
+      "fuente_url": "https://www.youtube.com/watch?v=DKqiqPhG6pg"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "¿Ego? Jordi Wild pregunta a Pedro Sánchez por qué no se retira de la política y vive más tranquilo",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-16",
+      "fuente_url": "https://www.youtube.com/watch?v=wDbSqOD29JA"
+    },
+    {
+      "partido": "PP",
+      "persona": "Alberto Núñez Feijóo",
+      "titulo": "Feijóo habla sobre las PENSIONES y cómo piensan mantenerlas - Jordi Wild no lo tiene nada claro",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-16",
+      "fuente_url": "https://www.youtube.com/watch?v=8EAz3v6pZtA"
+    },
+    {
+      "partido": "PSOE",
+      "persona": "Pedro Sánchez",
+      "titulo": "Pedro Sánchez le ofrece su teléfono a Jordi Wild para que compruebe que no tiene nada raro",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-16",
+      "fuente_url": "https://www.youtube.com/watch?v=mYQNd7t2ky8"
+    },
+    {
+      "partido": "PP",
+      "persona": "PP",
+      "titulo": "El Barómetro de laSexta sitúa a PP y Vox con una sólida mayoría que supera el 51% - laSexta Noticias",
+      "medio": "laSexta (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-16",
+      "fuente_url": "https://www.youtube.com/watch?v=vjQRoehrTMg"
+    },
+    {
+      "partido": "PP",
+      "persona": "PP",
+      "titulo": "El PP busca robar votos a Vox con la migración y colando su prioridad nacional - laSexta Noticias",
+      "medio": "laSexta (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-16",
+      "fuente_url": "https://www.youtube.com/watch?v=Dfa5MMG1V1U"
+    },
+    {
+      "partido": "JxCat",
+      "persona": "Míriam Nogueras",
+      "titulo": "Hablamos con Míriam Nogueras sobre la viralidad de su 'Teléfono Rojo' con Susanna",
+      "medio": "Antena 3 Noticias (YouTube)",
+      "formato": "youtube",
+      "fecha": "2026-11-16",
+      "fuente_url": "https://www.youtube.com/watch?v=Hfxabqrpp4w"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+ "fuente": "boe_convocatoria",
+ "generado": "2026-11-17T01:15:34+00:00",
+ "fuente_url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20742",
+ "fetched_at": "2026-11-15T07:53:10+00:00",
+ "sha256": "5e1ae58f61d1031e085a1e60d1cccd86dd28d72639dd4d2b0ffded9ae5cb565e",
+ "fecha_eleccion": "2026-11-29",
+ "titulo": "Real Decreto 806/2026, de 5 de octubre, de disolución del Congreso de los Diputados y del Senado y de convocatoria de elecciones.",
+ "circunscripciones": [
+  {
+   "codigo": "01",
+   "nombre": "Araba/Álava",
+   "diputados": 4
+  },
+  {
+   "codigo": "02",
+   "nombre": "Albacete",
+   "diputados": 4
+  },
+  {
+   "codigo": "03",
+   "nombre": "Alicante/Alacant",
+   "diputados": 12
+  },
+  {
+   "codigo": "04",
+   "nombre": "Almería",
+   "diputados": 6
+  },
+  {
+   "codigo": "05",
+   "nombre": "Ávila",
+   "diputados": 3
+  },
+  {
+   "codigo": "06",
+   "nombre": "Badajoz",
+   "diputados": 5
+  },
+  {
+   "codigo": "07",
+   "nombre": "Illes Balears",
+   "diputados": 8
+  },
+  {
+   "codigo": "08",
+   "nombre": "Barcelona",
+   "diputados": 32
+  },
+  {
+   "codigo": "09",
+   "nombre": "Burgos",
+   "diputados": 4
+  },
+  {
+   "codigo": "10",
+   "nombre": "Cáceres",
+   "diputados": 4
+  },
+  {
+   "codigo": "11",
+   "nombre": "Cádiz",
+   "diputados": 8
+  },
+  {
+   "codigo": "12",
+   "nombre": "Castellón/Castelló",
+   "diputados": 5
+  },
+  {
+   "codigo": "13",
+   "nombre": "Ciudad Real",
+   "diputados": 5
+  },
+  {
+   "codigo": "14",
+   "nombre": "Córdoba",
+   "diputados": 6
+  },
+  {
+   "codigo": "15",
+   "nombre": "A Coruña",
+   "diputados": 8
+  },
+  {
+   "codigo": "16",
+   "nombre": "Cuenca",
+   "diputados": 3
+  },
+  {
+   "codigo": "17",
+   "nombre": "Girona",
+   "diputados": 6
+  },
+  {
+   "codigo": "18",
+   "nombre": "Granada",
+   "diputados": 7
+  },
+  {
+   "codigo": "19",
+   "nombre": "Guadalajara",
+   "diputados": 3
+  },
+  {
+   "codigo": "20",
+   "nombre": "Gipuzkoa",
+   "diputados": 6
+  },
+  {
+   "codigo": "21",
+   "nombre": "Huelva",
+   "diputados": 5
+  },
+  {
+   "codigo": "22",
+   "nombre": "Huesca",
+   "diputados": 3
+  },
+  {
+   "codigo": "23",
+   "nombre": "Jaén",
+   "diputados": 5
+  },
+  {
+   "codigo": "24",
+   "nombre": "León",
+   "diputados": 4
+  },
+  {
+   "codigo": "25",
+   "nombre": "Lleida",
+   "diputados": 4
+  },
+  {
+   "codigo": "26",
+   "nombre": "La Rioja",
+   "diputados": 4
+  },
+  {
+   "codigo": "27",
+   "nombre": "Lugo",
+   "diputados": 4
+  },
+  {
+   "codigo": "28",
+   "nombre": "Madrid",
+   "diputados": 38
+  },
+  {
+   "codigo": "29",
+   "nombre": "Málaga",
+   "diputados": 11
+  },
+  {
+   "codigo": "30",
+   "nombre": "Murcia",
+   "diputados": 10
+  },
+  {
+   "codigo": "31",
+   "nombre": "Navarra",
+   "diputados": 5
+  },
+  {
+   "codigo": "32",
+   "nombre": "Ourense",
+   "diputados": 4
+  },
+  {
+   "codigo": "33",
+   "nombre": "Asturias",
+   "diputados": 7
+  },
+  {
+   "codigo": "34",
+   "nombre": "Palencia",
+   "diputados": 3
+  },
+  {
+   "codigo": "35",
+   "nombre": "Las Palmas",
+   "diputados": 8
+  },
+  {
+   "codigo": "36",
+   "nombre": "Pontevedra",
+   "diputados": 7
+  },
+  {
+   "codigo": "37",
+   "nombre": "Salamanca",
+   "diputados": 4
+  },
+  {
+   "codigo": "38",
+   "nombre": "Santa Cruz de Tenerife",
+   "diputados": 7
+  },
+  {
+   "codigo": "39",
+   "nombre": "Cantabria",
+   "diputados": 5
+  },
+  {
+   "codigo": "40",
+   "nombre": "Segovia",
+   "diputados": 3
+  },
+  {
+   "codigo": "41",
+   "nombre": "Sevilla",
+   "diputados": 12
+  },
+  {
+   "codigo": "42",
+   "nombre": "Soria",
+   "diputados": 2
+  },
+  {
+   "codigo": "43",
+   "nombre": "Tarragona",
+   "diputados": 6
+  },
+  {
+   "codigo": "44",
+   "nombre": "Teruel",
+   "diputados": 3
+  },
+  {
+   "codigo": "45",
+   "nombre": "Toledo",
+   "diputados": 6
+  },
+  {
+   "codigo": "46",
+   "nombre": "Valencia/València",
+   "diputados": 16
+  },
+  {
+   "codigo": "47",
+   "nombre": "Valladolid",
+   "diputados": 5
+  },
+  {
+   "codigo": "48",
+   "nombre": "Bizkaia",
+   "diputados": 8
+  },
+  {
+   "codigo": "49",
+   "nombre": "Zamora",
+   "diputados": 3
+  },
+  {
+   "codigo": "50",
+   "nombre": "Zaragoza",
+   "diputados": 7
+  },
+  {
+   "codigo": "51",
+   "nombre": "Ceuta",
+   "diputados": 1
+  },
+  {
+   "codigo": "52",
+   "nombre": "Melilla",
+   "diputados": 1
+  }
+ ]
+}

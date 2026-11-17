@@ -1,0 +1,50 @@
+[
+ {
+  "id": "podemos-belarra-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=vsQUyZNPRos",
+  "tema": "defensa_exterior",
+  "tipo": "cifra",
+  "cita_literal": "Estamos en máximos históricos, se ha subido un 122% el gasto militar y eso es dinero que no ha ido a nuestros servicios públicos.",
+  "contexto_minuto": "06:25"
+ },
+ {
+  "id": "podemos-belarra-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=vsQUyZNPRos",
+  "tema": "inmigracion",
+  "tipo": "posicion",
+  "cita_literal": "el único avance reseñable que se puede destacar de esta legislatura en clave progresista es la regularización, algo que le arrancó Podemos al Partido Socialista a cambio de negociar la delegación de competencias migratorias a Cataluña.",
+  "contexto_minuto": "05:56"
+ },
+ {
+  "id": "podemos-belarra-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=vsQUyZNPRos",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "nos pongamos en un proyecto que realmente sirva para bajar los precios de los alquileres, como está demandando la gente en las acampadas.",
+  "contexto_minuto": "08:55"
+ },
+ {
+  "id": "podemos-belarra-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=vsQUyZNPRos",
+  "tema": "vivienda",
+  "tipo": "compromiso",
+  "cita_literal": "Hay que ir con firmeza a decir que vamos a expropiar las viviendas de los fondos buitre para hacer un parque de alquiler social.",
+  "contexto_minuto": "15:33"
+ },
+ {
+  "id": "podemos-belarra-5",
+  "entrevista_url": "https://www.youtube.com/watch?v=vsQUyZNPRos",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "Una izquierda que diga claramente que hay que expropiar las viviendas de los fondos buitre para ponerlos en alquiler social.",
+  "contexto_minuto": "18:40"
+ },
+ {
+  "id": "podemos-belarra-6",
+  "entrevista_url": "https://www.youtube.com/watch?v=vsQUyZNPRos",
+  "tema": "instituciones",
+  "tipo": "posicion",
+  "cita_literal": "Ojalá cuando podíamos hubiéramos cambiado la ley la ley electoral.",
+  "contexto_minuto": "19:40"
+ }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "generales-2026",
+  "nombre": "Elecciones generales 2026",
+  "tipo": "generales",
+  "fecha_eleccion": "2026-11-29",
+  "legislatura": "XV",
+  "escanos_totales": 350,
+  "mayoria_absoluta": 176,
+  "circunscripciones": 52,
+  "apertura_urnas": "09:00",
+  "cierre_urnas_peninsula": "20:00",
+  "cierre_urnas_canarias": "21:00"
+}

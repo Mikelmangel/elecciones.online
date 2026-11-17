@@ -1,0 +1,26 @@
+[
+  {
+    "id": "fa-colau-presentacion-vivienda-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=48K4Fihw2eM",
+    "tema": "vivienda",
+    "tipo": "posicion",
+    "cita_literal": "hemos venido a a intervenir el mercado de la vivienda para defender el derecho a la vivienda, no para defender a los especuladores como han hecho ellos hasta ahora.",
+    "contexto_minuto": "80:09"
+  },
+  {
+    "id": "fa-colau-presentacion-vivienda-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=48K4Fihw2eM",
+    "tema": "vivienda",
+    "tipo": "cifra",
+    "cita_literal": "hicimos una normativa de tanteo y y retracto y conseguimos expropiar centenares, más de 1.600 viviendas de los grandes propietarios y de los fondos buitres para pasarlos al alquiler social",
+    "contexto_minuto": "78:29"
+  },
+  {
+    "id": "fa-colau-presentacion-vivienda-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=48K4Fihw2eM",
+    "tema": "vivienda",
+    "tipo": "cifra",
+    "cita_literal": "en Barcelona existe un protocolo de ciudad donde ya se han construido más de 1000 viviendas en régimen de cooperación, de cesión de uso",
+    "contexto_minuto": "79:00"
+  }
+]

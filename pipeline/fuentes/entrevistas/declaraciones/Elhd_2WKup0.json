@@ -1,0 +1,26 @@
+[
+ {
+  "id": "bildu-matute-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=Elhd_2WKup0",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "porque yo me niego a enfrentar el debate desde la lógica de inquilinos o rentistas.",
+  "contexto_minuto": "01:14"
+ },
+ {
+  "id": "bildu-matute-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=Elhd_2WKup0",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "Y lo hemos dicho siempre, estos decretos están muy lejos, pero muy lejos, por falta de ambición, de lo que nos gustaría. Lo señalábamos en su momento. Suficientes, no. Necesarios, sí, absolutamente sí.",
+  "contexto_minuto": "01:35"
+ },
+ {
+  "id": "bildu-matute-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=Elhd_2WKup0",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "Y de lo que se trata es eso, de dar respuesta a esto, porque el derecho a la vivienda no puede ser eh una lógica eh sometida a la posibilidad de tener una vivienda, sino que tiene que ser una garantía desde la que construir un proyecto a futuro.",
+  "contexto_minuto": "01:47"
+ }
+]

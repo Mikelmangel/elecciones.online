@@ -1,0 +1,90 @@
+[
+ {
+  "id": "fa-colau-wild-vivienda-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=OSAYFCHz9fE",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "hay que bajar los alquileres para que todo el mundo nos pueda pagar y eso no sea un problema, como pasa en Alemania",
+  "contexto_minuto": "00:52"
+ },
+ {
+  "id": "fa-colau-wild-vivienda-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=OSAYFCHz9fE",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "si luego hay una situación concreta de un pequeño propietario donde el inquilino, por lo que sea, no paga, ahí la administración tiene que intervenir",
+  "contexto_minuto": "01:08"
+ },
+ {
+  "id": "fa-colau-wild-vivienda-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=OSAYFCHz9fE",
+  "tema": "vivienda",
+  "tipo": "cifra",
+  "cita_literal": "nosotros por ejemplo compramos 1600 viviendas a precio inferior al de mercado",
+  "contexto_minuto": "02:29"
+ },
+ {
+  "id": "fa-colau-wild-vivienda-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=OSAYFCHz9fE",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "yo creo que el ayuntamiento tiene que hacer un servicio de mediación y en pocas semanas realojar a esa familia",
+  "contexto_minuto": "03:17"
+ },
+ {
+  "id": "fa-colau-wild-vivienda-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=OSAYFCHz9fE",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "si es delincuencial no van a querer mediar, no van a querer arreglar nada, entonces tienes que denunciar por la vía legal",
+  "contexto_minuto": "03:27"
+ },
+ {
+  "id": "fa-colau-wild-vivienda-5",
+  "entrevista_url": "https://www.youtube.com/watch?v=OSAYFCHz9fE",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "pero si estamos hablando de un pequeño propietario y de una ocupación delincuencial para mí tiene que ser lo más rápido",
+  "contexto_minuto": "03:52"
+ },
+ {
+  "id": "fa-colau-wild-inmigracion-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=OSAYFCHz9fE",
+  "tema": "inmigracion",
+  "tipo": "posicion",
+  "cita_literal": "La inmigración en sí mismo yo afirmo que no es un problema la inmigración",
+  "contexto_minuto": "04:55"
+ },
+ {
+  "id": "fa-colau-wild-inmigracion-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=OSAYFCHz9fE",
+  "tema": "inmigracion",
+  "tipo": "posicion",
+  "cita_literal": "De prevención, de decir, bueno, si llega mucha gente que, por ejemplo, le cuesta hablar el idioma, pues poner muchos más cursos de idiomas",
+  "contexto_minuto": "08:48"
+ },
+ {
+  "id": "fa-colau-wild-inmigracion-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=OSAYFCHz9fE",
+  "tema": "inmigracion",
+  "tipo": "cifra",
+  "cita_literal": "7 millones de inmigrantes que hay en el país aportan [carraspeo] el 10% de las contribuciones a la Seguridad Social y suponen solo un 1% del gasto público",
+  "contexto_minuto": "09:27"
+ },
+ {
+  "id": "fa-colau-wild-social-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=OSAYFCHz9fE",
+  "tema": "social",
+  "tipo": "cifra",
+  "cita_literal": "Hay eh este año 44 asesinatos, ¿no? De mujeres por parte de hombres",
+  "contexto_minuto": "05:21"
+ },
+ {
+  "id": "fa-colau-wild-seguridad_justicia-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=OSAYFCHz9fE",
+  "tema": "seguridad_justicia",
+  "tipo": "posicion",
+  "cita_literal": "quien comete un delito la paga y para eso existe policía, para eso existen jueces y existen cárceles para los delitos más graves",
+  "contexto_minuto": "16:47"
+ }
+]

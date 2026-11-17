@@ -1,0 +1,66 @@
+[
+  {
+    "id": "psoe-sanchez-revuelta-vivienda-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=IottJPy9nf8",
+    "tema": "vivienda",
+    "tipo": "cifra",
+    "cita_literal": "Hay estudios que te dicen que el 60% de la desigualdad que ahora mismo se sufre en España es como consecuencia de la de la imposibilidad de acceder a una vivienda.",
+    "contexto_minuto": "02:58"
+  },
+  {
+    "id": "psoe-sanchez-revuelta-vivienda-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=IottJPy9nf8",
+    "tema": "vivienda",
+    "tipo": "posicion",
+    "cita_literal": "tú necesitas por un lado construir viviendas, o sea, hay como dos dos pedales en esa en esa bicicleta. Uno, la construcción de viviendas y dos, la regulación pública.",
+    "contexto_minuto": "03:15"
+  },
+  {
+    "id": "psoe-sanchez-revuelta-vivienda-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=IottJPy9nf8",
+    "tema": "vivienda",
+    "tipo": "cifra",
+    "cita_literal": "tú puedes construir muchas viviendas, fíjate que antes de la crisis financiera España construyó 4 millones y medio de viviendas.",
+    "contexto_minuto": "03:29"
+  },
+  {
+    "id": "psoe-sanchez-revuelta-vivienda-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=IottJPy9nf8",
+    "tema": "vivienda",
+    "tipo": "posicion",
+    "cita_literal": "La clave no es construir solamente el mayor número de viviendas posible.",
+    "contexto_minuto": "03:45"
+  },
+  {
+    "id": "psoe-sanchez-revuelta-vivienda-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=IottJPy9nf8",
+    "tema": "vivienda",
+    "tipo": "posicion",
+    "cita_literal": "La clave es construir vivienda asequible.",
+    "contexto_minuto": "03:45"
+  },
+  {
+    "id": "psoe-sanchez-revuelta-defensa_exterior-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=IottJPy9nf8",
+    "tema": "defensa_exterior",
+    "tipo": "posicion",
+    "cita_literal": "hemos tratado de tener unas relaciones lo más constructivas posibles con el país vecino, en este caso con Marruecos.",
+    "contexto_minuto": "04:11"
+  },
+  {
+    "id": "psoe-sanchez-revuelta-inmigracion-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=IottJPy9nf8",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "Ten en cuenta que de un lado a otro de la frontera tienes eh una renta per cápita ocho veces superior.",
+    "contexto_minuto": "04:27"
+  },
+  {
+    "id": "psoe-sanchez-revuelta-inmigracion-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=IottJPy9nf8",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "Y aparte tú necesitas la cooperación, en este caso de Marruecos, para poder frenar en su parte esa llegada tan masiva.",
+    "contexto_minuto": "04:42"
+  }
+]

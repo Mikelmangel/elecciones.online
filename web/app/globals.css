@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+:root {
+  --bg-paper: #faf7f2;
+  --bg-card: #ffffff;
+  --bg-subtle: #f3efe6;
+  --ink-primary: #111318;
+  --ink-secondary: #3f4450;
+  --ink-muted: #686e7c;
+  --border-warm: #e4dfd3;
+  --border-strong: #c9c1b0;
+  --accent-civic: #991b1b;
+  --accent-civic-soft: #fef2f2;
+  --font-serif: var(--font-source-serif), "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+  --font-sans: var(--font-jakarta), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+body {
+  background-color: var(--bg-paper);
+  color: var(--ink-primary);
+  font-family: var(--font-sans);
+  line-height: 1.6;
+}
+
+h1, h2, .font-editorial {
+  font-family: var(--font-serif);
+  letter-spacing: -0.02em;
+}
+
+/* 17px de base: casi todo el texto del sitio está en clases rem pequeñas */
+html { font-size: 106.25%; }
+h1, h2 { text-wrap: balance; }
+::selection { background: var(--accent-civic); color: #fff; }
+:focus-visible { outline: 2px solid var(--ink-primary); outline-offset: 2px; border-radius: 2px; }
+a { text-underline-offset: 0.2em; }
+.tabular-nums, table { font-variant-numeric: tabular-nums; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}

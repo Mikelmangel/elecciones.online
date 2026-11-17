@@ -1,0 +1,25 @@
+# elecciones.online — Portal informativo neutral sobre elecciones en España
+
+> Portal ciudadano independiente sobre las Elecciones Generales de España (29 de noviembre de 2026) y la actividad parlamentaria de la XV Legislatura. Cada propuesta incluye cita literal y página del programa oficial en PDF; cada votación enlaza al acta nominal del Congreso de los Diputados.
+
+## Rutas canónicas principales
+
+- Portada: https://elecciones.online/
+- Comparador de programas por tema: https://elecciones.online/espana/generales/2026/comparador/vivienda
+- Votaciones del Congreso (2.175 actas XV Legislatura): https://elecciones.online/espana/congreso/xv-legislatura/votaciones
+- Matriz de 38 votaciones clave por grupo: https://elecciones.online/espana/congreso/xv-legislatura/votaciones/clave
+- Entrevistas y vídeos con minutaje interactivo: https://elecciones.online/espana/generales/2026/entrevistas
+- Hemeroteca (Decretos Ómnibus y Dicho vs. Hecho): https://elecciones.online/espana/generales/2026/hemeroteca
+- Candidaturas proclamadas BOE (52 circunscripciones): https://elecciones.online/espana/generales/2026/candidaturas
+- Calendario electoral y plazos LOREG: https://elecciones.online/espana/generales/2026/calendario
+- Histórico electoral 1977-2023: https://elecciones.online/espana/generales/historico
+- Resultados oficiales 2023 por provincia: https://elecciones.online/espana/generales/2023
+- Guías prácticas para votar: https://elecciones.online/espana/generales/2026/guias
+- Test de afinidad y brújula política 2D: https://elecciones.online/tests/afinidad
+
+## Reglas editoriales y fuentes primarias
+
+- Programas electorales: cita literal + número de página del PDF oficial.
+- Votaciones: datos nominales oficiales de congreso.es.
+- Candidaturas y convocatoria: Boletín Oficial del Estado (BOE).
+- Verificaciones: solo se publican veredictos y datos oficiales con revisión humana (`revisado: true`) y enlace a fuente primaria (INE, Banco de España, IGAE, AEAT, BOE, Congreso).

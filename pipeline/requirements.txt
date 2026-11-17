@@ -1,0 +1,3 @@
+# Dependencias de Python del pipeline (el resto es biblioteca estándar)
+pytest>=9
+curl_cffi>=0.17   # solo pipeline/fuentes/entrevistas/fetch.py

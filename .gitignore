@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+node_modules/
+.next/
+# binarios descargados: se regeneran con fetch, se identifican por sha256
+**/data/raw/
+pipeline/**/raw/
+*.sqlite
+*.sqlite-*

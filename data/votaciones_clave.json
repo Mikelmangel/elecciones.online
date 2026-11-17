@@ -1,0 +1,234 @@
+{
+  "fuente": "congreso_votaciones_clave",
+  "criterio": "Reformas constitucionales, votaciones finales de Leyes Orgánicas, objetivos de estabilidad presupuestaria y convalidaciones de Reales Decretos-leyes rechazadas o aprobadas con margen <= 20 votos (XV Legislatura).",
+  "votaciones": [
+    {
+      "id": "15-1",
+      "tema": "economia",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 6/2023 (Plan de Recuperación, justicia y función pública)"
+    },
+    {
+      "id": "15-3",
+      "tema": "empleo",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 7/2023 (reforma del subsidio por desempleo — rechazado)"
+    },
+    {
+      "id": "15-4",
+      "tema": "social",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 8/2023 (prórroga de medidas anticrisis y escudo social)"
+    },
+    {
+      "id": "15-5",
+      "tema": "economia",
+      "categoria": "Estabilidad presupuestaria",
+      "titulo_llano": "Objetivos de estabilidad presupuestaria y deuda pública (enero 2024)"
+    },
+    {
+      "id": "16-2",
+      "tema": "social",
+      "categoria": "Reforma constitucional",
+      "titulo_llano": "Tramitación en lectura única de la reforma del artículo 49 de la Constitución (personas con discapacidad)"
+    },
+    {
+      "id": "26-16",
+      "tema": "economia",
+      "categoria": "Estabilidad presupuestaria",
+      "titulo_llano": "Objetivos de estabilidad presupuestaria y deuda pública (febrero 2024)"
+    },
+    {
+      "id": "30-1",
+      "tema": "territorial",
+      "categoria": "Ley Orgánica",
+      "titulo_llano": "Ley Orgánica de amnistía: votación del nuevo dictamen (14 de marzo de 2024)"
+    },
+    {
+      "id": "52-44",
+      "tema": "social",
+      "categoria": "Ley Orgánica",
+      "titulo_llano": "Ley Orgánica de representación paritaria y presencia equilibrada de mujeres y hombres"
+    },
+    {
+      "id": "54-10",
+      "tema": "seguridad_justicia",
+      "categoria": "Ley Orgánica",
+      "titulo_llano": "Proyecto de Ley Orgánica del Derecho de Defensa"
+    },
+    {
+      "id": "56-65",
+      "tema": "instituciones",
+      "categoria": "Ley Orgánica",
+      "titulo_llano": "Reforma de la Ley Orgánica del Poder Judicial y del Estatuto del Ministerio Fiscal"
+    },
+    {
+      "id": "56-77",
+      "tema": "economia",
+      "categoria": "Estabilidad presupuestaria",
+      "titulo_llano": "Objetivos de estabilidad presupuestaria y deuda pública (julio 2024 — rechazado)"
+    },
+    {
+      "id": "60-2",
+      "tema": "seguridad_justicia",
+      "categoria": "Ley Orgánica",
+      "titulo_llano": "Modificación de la Ley Orgánica 7/2014 sobre intercambio de antecedentes penales"
+    },
+    {
+      "id": "76-40",
+      "tema": "seguridad_justicia",
+      "categoria": "Ley Orgánica",
+      "titulo_llano": "Ley Orgánica de medidas en materia de eficiencia del Servicio Público de Justicia"
+    },
+    {
+      "id": "89-1",
+      "tema": "pensiones",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 9/2024 (revalorización de pensiones, transporte y escudo social — rechazado)"
+    },
+    {
+      "id": "89-2",
+      "tema": "impuestos",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 10/2024 (gravamen temporal energético — rechazado)"
+    },
+    {
+      "id": "106-15",
+      "tema": "inmigracion",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 2/2025 (acogida de menores extranjeros no acompañados)"
+    },
+    {
+      "id": "106-18",
+      "tema": "instituciones",
+      "categoria": "Ley Orgánica",
+      "titulo_llano": "Modificación de la Ley Orgánica 1/2002 reguladora del derecho de asociación"
+    },
+    {
+      "id": "109-14",
+      "tema": "economia",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 4/2025 (respuesta a la amenaza arancelaria y apoyo comercial)"
+    },
+    {
+      "id": "128-17",
+      "tema": "energia_clima",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 7/2025 (medidas urgentes de refuerzo del sistema eléctrico — rechazado)"
+    },
+    {
+      "id": "136-87",
+      "tema": "defensa_exterior",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 10/2025 (embargo de armas y medidas respecto a Gaza)"
+    },
+    {
+      "id": "151-18",
+      "tema": "economia",
+      "categoria": "Estabilidad presupuestaria",
+      "titulo_llano": "Objetivos de estabilidad presupuestaria y deuda pública (noviembre 2025 — rechazado)"
+    },
+    {
+      "id": "154-14",
+      "tema": "economia",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 15/2025 (medidas urgentes para favorecer la actividad inversora)"
+    },
+    {
+      "id": "154-29",
+      "tema": "economia",
+      "categoria": "Estabilidad presupuestaria",
+      "titulo_llano": "Objetivos de estabilidad presupuestaria y deuda pública (diciembre 2025 — rechazado)"
+    },
+    {
+      "id": "156-1",
+      "tema": "social",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 16/2025 (prórroga de medidas frente a situaciones de vulnerabilidad — rechazado)"
+    },
+    {
+      "id": "159-23",
+      "tema": "seguridad_justicia",
+      "categoria": "Ley Orgánica",
+      "titulo_llano": "Reforma del Código Penal en materia de multirreincidencia"
+    },
+    {
+      "id": "164-22",
+      "tema": "social",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 2/2026 (medidas frente a situaciones de vulnerabilidad social — rechazado)"
+    },
+    {
+      "id": "164-25",
+      "tema": "economia",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 4/2026 (accesibilidad equitativa a bienes y servicios — rechazado)"
+    },
+    {
+      "id": "169-53",
+      "tema": "instituciones",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 6/2026 (modificación de la Ley 20/2022 de Memoria Democrática)"
+    },
+    {
+      "id": "169-55",
+      "tema": "instituciones",
+      "categoria": "Reforma constitucional",
+      "titulo_llano": "Reforma del artículo 69.3 de la Constitución (senador propio para Formentera)"
+    },
+    {
+      "id": "175-3",
+      "tema": "vivienda",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 8/2026 (medidas en el alquiler — rechazado)"
+    },
+    {
+      "id": "185-39",
+      "tema": "seguridad_justicia",
+      "categoria": "Ley Orgánica",
+      "titulo_llano": "Modificación del artículo 80 de la Ley Orgánica General Penitenciaria"
+    },
+    {
+      "id": "191-22",
+      "tema": "seguridad_justicia",
+      "categoria": "Ley Orgánica",
+      "titulo_llano": "Modificación del Código Penal para penalizar las terapias de conversión"
+    },
+    {
+      "id": "191-24",
+      "tema": "infraestructuras",
+      "categoria": "Ley Orgánica",
+      "titulo_llano": "Transferencia de la titularidad y competencias de la autopista AP-9 a Galicia"
+    },
+    {
+      "id": "191-29",
+      "tema": "economia",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 15/2026 (créditos extraordinarios a organismos — rechazado)"
+    },
+    {
+      "id": "192-50",
+      "tema": "economia",
+      "categoria": "Estabilidad presupuestaria",
+      "titulo_llano": "Objetivos de estabilidad presupuestaria y deuda pública (julio 2026 — rechazado)"
+    },
+    {
+      "id": "192-51",
+      "tema": "empleo",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 16/2026 sobre el servicio público de RTVE (rechazado)"
+    },
+    {
+      "id": "193-20",
+      "tema": "economia",
+      "categoria": "Estabilidad presupuestaria",
+      "titulo_llano": "Objetivos de estabilidad presupuestaria y deuda pública (23 julio 2026 — rechazado)"
+    },
+    {
+      "id": "198-16",
+      "tema": "instituciones",
+      "categoria": "Real Decreto-ley",
+      "titulo_llano": "Convalidación del RDL 21/2026 (transparencia e integridad de grupos de interés — rechazado)"
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+[
+ {
+  "id": "pp-feijoo-ser-instituciones-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "instituciones",
+  "tipo": "compromiso",
+  "cita_literal": "yo renuevo ese compromiso porque estoy convencido que mi partido va a ganar",
+  "contexto_minuto": "01:38"
+ },
+ {
+  "id": "pp-feijoo-ser-instituciones-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "instituciones",
+  "tipo": "compromiso",
+  "cita_literal": "yo me he comprometido a en derogar la ley de memoria democrática",
+  "contexto_minuto": "05:57"
+ },
+ {
+  "id": "pp-feijoo-ser-instituciones-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "instituciones",
+  "tipo": "compromiso",
+  "cita_literal": "me he comprometido, vamos a ver si legalmente es posible, pero me he comprometido a que ninguna formación política en España pueda llevar en sus listas electorales a personas condenadas por terrorismo",
+  "contexto_minuto": "06:14"
+ },
+ {
+  "id": "pp-feijoo-ser-seguridad-justicia-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "seguridad_justicia",
+  "tipo": "compromiso",
+  "cita_literal": "me he comprometido también a tener una política penitenciaria honesta",
+  "contexto_minuto": "06:27"
+ },
+ {
+  "id": "pp-feijoo-ser-economia-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "economia",
+  "tipo": "compromiso",
+  "cita_literal": "Yo me comprometo a mejorar la economía de mi país, a que la economía de mi país crezca de forma sana, a no dopar la economía con la deuda",
+  "contexto_minuto": "12:15"
+ },
+ {
+  "id": "pp-feijoo-ser-economia-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "economia",
+  "tipo": "cifra",
+  "cita_literal": "El señor Sánchez ha incrementado la deuda en un 44%, casi 600.000 millones de euros",
+  "contexto_minuto": "12:26"
+ },
+ {
+  "id": "pp-feijoo-ser-economia-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "economia",
+  "tipo": "cifra",
+  "cita_literal": "resulta que tiene eh un un incremento de la deuda pública al 44%",
+  "contexto_minuto": "13:25"
+ },
+ {
+  "id": "pp-feijoo-ser-economia-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "economia",
+  "tipo": "cifra",
+  "cita_literal": "Eso supone 40.000 millones de gastos de intereses todos los años",
+  "contexto_minuto": "13:31"
+ },
+ {
+  "id": "pp-feijoo-ser-vivienda-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "vivienda",
+  "tipo": "compromiso",
+  "cita_literal": "Y por eso quiero construir un millón de viviendas",
+  "contexto_minuto": "13:50"
+ },
+ {
+  "id": "pp-feijoo-ser-vivienda-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "vivienda",
+  "tipo": "cifra",
+  "cita_literal": "construyendo un millón de viviendas vamos a conseguir 500.000 empleos y eso va a mover la economía",
+  "contexto_minuto": "13:54"
+ },
+ {
+  "id": "pp-feijoo-ser-empleo-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "empleo",
+  "tipo": "compromiso",
+  "cita_literal": "mi objetivo es que suba, no solo el salario mínimo, sino que suba el salario medio y que la gente mejore su poder adquisitivo",
+  "contexto_minuto": "14:11"
+ },
+ {
+  "id": "pp-feijoo-ser-vivienda-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "vivienda",
+  "tipo": "cifra",
+  "cita_literal": "la vivienda ha subido un 33% más que la media de los salarios en España en los últimos años",
+  "contexto_minuto": "14:21"
+ },
+ {
+  "id": "pp-feijoo-ser-economia-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "economia",
+  "tipo": "cifra",
+  "cita_literal": "Y la cesta de la compra ha subido un 44% más",
+  "contexto_minuto": "14:26"
+ },
+ {
+  "id": "pp-feijoo-ser-empleo-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "empleo",
+  "tipo": "compromiso",
+  "cita_literal": "El compromiso del Partido Popular, le vuelvo a reiterar, es reunirme con los sindicatos y con los agentes sociales y pactar el salario mínimo",
+  "contexto_minuto": "14:46"
+ },
+ {
+  "id": "pp-feijoo-ser-empleo-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "empleo",
+  "tipo": "posicion",
+  "cita_literal": "no voy a caer en la trampa de que el Partido Popular esté en contra de subir el salario mínimo",
+  "contexto_minuto": "15:11"
+ },
+ {
+  "id": "pp-feijoo-ser-empleo-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "empleo",
+  "tipo": "posicion",
+  "cita_literal": "para que suba el salario medio tiene que subir el salario mínimo",
+  "contexto_minuto": "15:21"
+ },
+ {
+  "id": "pp-feijoo-ser-empleo-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "empleo",
+  "tipo": "posicion",
+  "cita_literal": "el Partido Popular está a favor de discutir con los sindicatos, con la patronal y con el gobierno los asuntos del salario mínimo, como los asuntos de las pensiones",
+  "contexto_minuto": "15:22"
+ },
+ {
+  "id": "pp-feijoo-ser-impuestos-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "impuestos",
+  "tipo": "posicion",
+  "cita_literal": "que nosotros votamos a que estuviera exento, pero el gobierno que quería que estuviese incluido",
+  "contexto_minuto": "16:12"
+ },
+ {
+  "id": "pp-feijoo-ser-empleo-5",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "empleo",
+  "tipo": "cifra",
+  "cita_literal": "el 30% aproximadamente del incremento del salario mínimo se lo lleva el gobierno, ya sea vía impuestos o vía cotizaciones",
+  "contexto_minuto": "16:25"
+ },
+ {
+  "id": "pp-feijoo-ser-vivienda-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "vivienda",
+  "tipo": "compromiso",
+  "cita_literal": "vamos a hacer casas a un 30% más baratas que las del mercado, porque vamos a disminuir el impacto del suelo en el precio vivienda",
+  "contexto_minuto": "16:41"
+ },
+ {
+  "id": "pp-feijoo-ser-impuestos-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "impuestos",
+  "tipo": "compromiso",
+  "cita_literal": "le vamos a decir a una persona de menos de 40 años que no va a pagar impuestos en el momento de la compra",
+  "contexto_minuto": "16:50"
+ },
+ {
+  "id": "pp-feijoo-ser-impuestos-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "impuestos",
+  "tipo": "compromiso",
+  "cita_literal": "le vamos a bajar un 60% el impuesto de transmisiones y de IVA",
+  "contexto_minuto": "16:56"
+ },
+ {
+  "id": "pp-feijoo-ser-impuestos-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "impuestos",
+  "tipo": "compromiso",
+  "cita_literal": "ese 40% restante no tiene que pagarlo en el momento de la compra porque se va a aplazar y lo va a poder pagar en los plazos en los que paga la hipoteca",
+  "contexto_minuto": "16:59"
+ },
+ {
+  "id": "pp-feijoo-ser-vivienda-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "vivienda",
+  "tipo": "cifra",
+  "cita_literal": "España es el país con una emancipación más tarde de la Unión Europea, más de 30 años",
+  "contexto_minuto": "17:15"
+ },
+ {
+  "id": "pp-feijoo-ser-vivienda-5",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "vivienda",
+  "tipo": "compromiso",
+  "cita_literal": "le vamos a garantizar el 100%, completar el 100% del aval",
+  "contexto_minuto": "17:23"
+ },
+ {
+  "id": "pp-feijoo-ser-vivienda-6",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "vivienda",
+  "tipo": "compromiso",
+  "cita_literal": "me he comprometido en los 100 primeros días aprobar una ley antiocupación, aprobar una reforma de la ley de propiedad horizontal y aprobar una ley del suelo",
+  "contexto_minuto": "17:28"
+ },
+ {
+  "id": "pp-feijoo-ser-vivienda-7",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "vivienda",
+  "tipo": "compromiso",
+  "cita_literal": "tienen que dar la licencia a 90 días y si no la dan, se podrá empezar a construir el edificio",
+  "contexto_minuto": "17:46"
+ },
+ {
+  "id": "pp-feijoo-ser-impuestos-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "impuestos",
+  "tipo": "posicion",
+  "cita_literal": "he hecho una propuesta de deflactación, de actualización de la tarifa del IRPF",
+  "contexto_minuto": "18:45"
+ },
+ {
+  "id": "pp-feijoo-ser-energia-clima-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "energia_clima",
+  "tipo": "posicion",
+  "cita_literal": "he hecho una propuesta de mantenimiento a las centrales nucleares",
+  "contexto_minuto": "18:49"
+ },
+ {
+  "id": "pp-feijoo-ser-instituciones-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "instituciones",
+  "tipo": "cifra",
+  "cita_literal": "48 leyes hemos aprobado en el Senado, 48 leyes",
+  "contexto_minuto": "19:06"
+ },
+ {
+  "id": "pp-feijoo-ser-instituciones-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "instituciones",
+  "tipo": "cifra",
+  "cita_literal": "48 leyes en el Senado que no se pueden ni discutir en el Congreso",
+  "contexto_minuto": "19:50"
+ },
+ {
+  "id": "pp-feijoo-ser-vivienda-8",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "Para construir vivienda, se necesita una ley que facilite las licencias",
+  "contexto_minuto": "21:27"
+ },
+ {
+  "id": "pp-feijoo-ser-pensiones-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "pensiones",
+  "tipo": "posicion",
+  "cita_literal": "como para mí las pensiones no se pueden tocar",
+  "contexto_minuto": "23:31"
+ },
+ {
+  "id": "pp-feijoo-ser-pensiones-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "pensiones",
+  "tipo": "compromiso",
+  "cita_literal": "mi compromiso personal como candidato a la presidencia del gobierno consiste en actualizar anualmente las pensiones conforme al IPC y en garantizar la viabilidad de las pensiones para los jóvenes",
+  "contexto_minuto": "23:39"
+ },
+ {
+  "id": "pp-feijoo-ser-pensiones-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "pensiones",
+  "tipo": "compromiso",
+  "cita_literal": "voy a constituir, a reactivar el Pacto de Toledo, donde sentaré a los sindicatos, a la patronal, a los partidos políticos y al gobierno y llevaremos un plan para hacerlo",
+  "contexto_minuto": "23:57"
+ },
+ {
+  "id": "pp-feijoo-ser-economia-5",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "economia",
+  "tipo": "compromiso",
+  "cita_literal": "Haremos una auditoría para saber exactamente el estado de las cuentas",
+  "contexto_minuto": "25:10"
+ },
+ {
+  "id": "pp-feijoo-ser-sanidad-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "sanidad",
+  "tipo": "cifra",
+  "cita_literal": "Hay más de 2 millones de actos médicos anulados",
+  "contexto_minuto": "25:50"
+ },
+ {
+  "id": "pp-feijoo-ser-pensiones-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "pensiones",
+  "tipo": "compromiso",
+  "cita_literal": "yo doy mi palabra y mi compromiso de que aseguro la actualización del IPC con las pensiones",
+  "contexto_minuto": "26:00"
+ },
+ {
+  "id": "pp-feijoo-ser-pensiones-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "pensiones",
+  "tipo": "compromiso",
+  "cita_literal": "las pensiones se van a actualizar conforme al IPC y que vamos a buscar un sistema de viabilidad",
+  "contexto_minuto": "26:26"
+ },
+ {
+  "id": "pp-feijoo-ser-instituciones-5",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "instituciones",
+  "tipo": "compromiso",
+  "cita_literal": "Lo voy a meter dentro de otros ministerios, yo no voy a mantener 22 ministerios",
+  "contexto_minuto": "28:19"
+ },
+ {
+  "id": "pp-feijoo-ser-social-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "social",
+  "tipo": "compromiso",
+  "cita_literal": "le voy a decir a la ministra o al ministro que lleve Igualdad que se encargue de otras cosas",
+  "contexto_minuto": "28:25"
+ },
+ {
+  "id": "pp-feijoo-ser-social-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "social",
+  "tipo": "compromiso",
+  "cita_literal": "yo garantizo que las mujeres en España tengan, en el caso de una decisión de interrupción del embarazo, los mejores médicos y la mayor la mejor asistencia sanitaria y que puedan ejercerlo de acuerdo con las leyes de mi país",
+  "contexto_minuto": "29:33"
+ },
+ {
+  "id": "pp-feijoo-ser-social-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "social",
+  "tipo": "posicion",
+  "cita_literal": "es que una chica de 16 años debería de tener el el conocimiento de sus padres, es mi opinión personal",
+  "contexto_minuto": "30:40"
+ },
+ {
+  "id": "pp-feijoo-ser-social-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "social",
+  "tipo": "posicion",
+  "cita_literal": "creo que ese debate es un debate que procede volver a darlo y yo volveré a darlo",
+  "contexto_minuto": "30:52"
+ },
+ {
+  "id": "pp-feijoo-ser-social-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "social",
+  "tipo": "posicion",
+  "cita_literal": "Yo creo honradamente que una niña de 16 años que comparta con sus padres una decisión vital, trascendente e irreversible como hacer un aborto es lo correcto",
+  "contexto_minuto": "31:08"
+ },
+ {
+  "id": "pp-feijoo-ser-social-5",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "social",
+  "tipo": "compromiso",
+  "cita_literal": "yo lo voy a plantear, sí, sí, lo voy a plantear porque me parece que es una reflexión que la sociedad española tiene derecho a hacerse",
+  "contexto_minuto": "31:30"
+ },
+ {
+  "id": "pp-feijoo-ser-social-6",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "social",
+  "tipo": "compromiso",
+  "cita_literal": "que yo me comprometo a buscar una solución para el problema económico",
+  "contexto_minuto": "32:34"
+ },
+ {
+  "id": "pp-feijoo-ser-social-7",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "social",
+  "tipo": "compromiso",
+  "cita_literal": "esta ley de eutanasia desde luego la vamos a reformar, sí",
+  "contexto_minuto": "34:05"
+ },
+ {
+  "id": "pp-feijoo-ser-social-8",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "social",
+  "tipo": "posicion",
+  "cita_literal": "en esta ley de eutanasia el papel del médico, el papel del especialista, es un papel secundario",
+  "contexto_minuto": "34:14"
+ },
+ {
+  "id": "pp-feijoo-ser-cultura-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "cultura",
+  "tipo": "posicion",
+  "cita_literal": "Transparentar los criterios de ayudas en el ámbito de la cultura a mí me parece correcto",
+  "contexto_minuto": "37:48"
+ },
+ {
+  "id": "pp-feijoo-ser-cultura-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "cultura",
+  "tipo": "posicion",
+  "cita_literal": "con dinero público hacer eh partidismo, pues, me parece que no",
+  "contexto_minuto": "38:19"
+ },
+ {
+  "id": "pp-feijoo-ser-cultura-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=O08t6ZE8TYg",
+  "tema": "cultura",
+  "tipo": "posicion",
+  "cita_literal": "La cultura sin censura, la la cultura reivindicativa, absolutamente a favor",
+  "contexto_minuto": "38:45"
+ }
+]

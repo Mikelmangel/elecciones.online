@@ -1,0 +1,18 @@
+[
+  {
+    "id": "erc-rufian-revuelta-energia_clima-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=fOUpIWmlOuI",
+    "tema": "energia_clima",
+    "tipo": "posicion",
+    "cita_literal": "Pues no puedes ganar dinero con que la gente ponga la calefacción.",
+    "contexto_minuto": "05:25"
+  },
+  {
+    "id": "podemos-montero-revuelta-territorial-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=fOUpIWmlOuI",
+    "tema": "territorial",
+    "tipo": "posicion",
+    "cita_literal": "Y yo prefiero que Cataluña no se vaya de España, pero creo que Cataluña tiene derecho a decidir.",
+    "contexto_minuto": "03:54"
+  }
+]

@@ -1,0 +1,634 @@
+[
+  {
+    "id": "pp-feijoo-presentacion-otros-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "otros",
+    "tipo": "cifra",
+    "cita_literal": "Gobernamos para el 70% de la población española, somos el partido de mayor experiencia de gestión y somos el partido que gestiona más servicios públicos en España.",
+    "contexto_minuto": "21:13"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "Yo no voy a hacer un sanchismo de derechas.",
+    "contexto_minuto": "24:16"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "Lo que más me gusta de este programa es que será fácilmente evaluable dentro de 4 años.",
+    "contexto_minuto": "26:37"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Yo quiero que los españoles, si lo consideran oportuno, lo guarden y que dentro de 4 años lo juzguen, que comprueben al final de la legislatura punto por punto si hemos cumplido nuestra palabra.",
+    "contexto_minuto": "26:55"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "no me refugiaré en la herencia recibida.",
+    "contexto_minuto": "27:16"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "Por tanto, lo primero es que España no necesita un Estado más grande, lo que necesita es un Estado que funcione.",
+    "contexto_minuto": "28:43"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "cifra",
+    "cita_literal": "A España no le hacen falta 22 ministerios ni miles de asesores ni centenares de organismos que no se sabe para qué valen",
+    "contexto_minuto": "28:58"
+  },
+  {
+    "id": "pp-feijoo-presentacion-economia-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "economia",
+    "tipo": "compromiso",
+    "cita_literal": "En los 10 primeros días sí vamos a auditar el gasto de la Administración General del Estado.",
+    "contexto_minuto": "29:42"
+  },
+  {
+    "id": "pp-feijoo-presentacion-economia-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "economia",
+    "tipo": "compromiso",
+    "cita_literal": "Revisaremos todas las ayudas, los contratos públicos y las subvenciones otorgadas.",
+    "contexto_minuto": "29:49"
+  },
+  {
+    "id": "pp-feijoo-presentacion-economia-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "economia",
+    "tipo": "compromiso",
+    "cita_literal": "Si encontramos fraude lo denunciaremos. Y si encontramos gastos que no responden al interés general los eliminaremos.",
+    "contexto_minuto": "29:49"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-6",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "No habrá incentivo alguno para quien conduce una empresa pública al desastre.",
+    "contexto_minuto": "30:11"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-7",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "En mi gobierno nadie será premiado por gestionar mal, ya sea el presidente de Correos o el presidente de ADIF.",
+    "contexto_minuto": "30:28"
+  },
+  {
+    "id": "pp-feijoo-presentacion-economia-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "economia",
+    "tipo": "cifra",
+    "cita_literal": "Una hora de uno de los 3 millones y medio de autónomos cuando pierde en un trámite innecesario esa hora no la puede dedicar a su negocio.",
+    "contexto_minuto": "30:41"
+  },
+  {
+    "id": "pp-feijoo-presentacion-economia-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "economia",
+    "tipo": "compromiso",
+    "cita_literal": "Nos sumaremos a la petición de una moratoria regulatoria en Europa y nos aplicaremos el cuento en España.",
+    "contexto_minuto": "31:14"
+  },
+  {
+    "id": "pp-feijoo-presentacion-economia-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "economia",
+    "tipo": "compromiso",
+    "cita_literal": "Cada norma nueva tendrá que eliminar tres vigentes.",
+    "contexto_minuto": "31:21"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-8",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "ampliar los supuestos de declaración responsable, reconocer de oficio lo que le corresponde",
+    "contexto_minuto": "31:28"
+  },
+  {
+    "id": "pp-feijoo-presentacion-territorial-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "territorial",
+    "tipo": "compromiso",
+    "cita_literal": "No habrá un vacío del Estado en ninguna comunidad autónoma.",
+    "contexto_minuto": "32:18"
+  },
+  {
+    "id": "pp-feijoo-presentacion-territorial-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "territorial",
+    "tipo": "compromiso",
+    "cita_literal": "Asegurar Asegurar la unidad de los recursos, asegurar la unidad de la Agencia Tributaria, asegurar la unidad de la Caja única de la Seguridad Social",
+    "contexto_minuto": "32:28"
+  },
+  {
+    "id": "pp-feijoo-presentacion-inmigracion-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "inmigracion",
+    "tipo": "compromiso",
+    "cita_literal": "España tiene que recuperar el control de sus fronteras y yo me comprometo a ello porque lo tengo muy claro.",
+    "contexto_minuto": "32:58"
+  },
+  {
+    "id": "pp-feijoo-presentacion-inmigracion-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "Las vías legales para llegar a España tienen que funcionar.",
+    "contexto_minuto": "33:10"
+  },
+  {
+    "id": "pp-feijoo-presentacion-inmigracion-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "Los retornos de quienes no tienen derecho a permanecer tienen que ser efectivos",
+    "contexto_minuto": "33:10"
+  },
+  {
+    "id": "pp-feijoo-presentacion-inmigracion-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "la inmigración tiene que ajustarse a la capacidad real de acogida de nuestro país",
+    "contexto_minuto": "33:10"
+  },
+  {
+    "id": "pp-feijoo-presentacion-inmigracion-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "La inmigración irregular no puede seguir siendo la puerta de entrada a España",
+    "contexto_minuto": "33:27"
+  },
+  {
+    "id": "pp-feijoo-presentacion-seguridad_justicia-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "seguridad_justicia",
+    "tipo": "posicion",
+    "cita_literal": "El crimen organizado no puede campar a sus anchas en ningún territorio de España.",
+    "contexto_minuto": "34:18"
+  },
+  {
+    "id": "pp-feijoo-presentacion-seguridad_justicia-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "seguridad_justicia",
+    "tipo": "compromiso",
+    "cita_literal": "Los violentos tienen que tener un castigo mayor y vandalizar las calles y los negocios tiene que salir muy caro al que lo hace.",
+    "contexto_minuto": "34:29"
+  },
+  {
+    "id": "pp-feijoo-presentacion-seguridad_justicia-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "seguridad_justicia",
+    "tipo": "posicion",
+    "cita_literal": "Y la multirreincidencia tiene que tener una respuesta más eficaz.",
+    "contexto_minuto": "34:37"
+  },
+  {
+    "id": "pp-feijoo-presentacion-seguridad_justicia-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "seguridad_justicia",
+    "tipo": "compromiso",
+    "cita_literal": "El que roba se va a la cárcel y el ocupa se va a la calle.",
+    "contexto_minuto": "34:48"
+  },
+  {
+    "id": "pp-feijoo-presentacion-seguridad_justicia-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "seguridad_justicia",
+    "tipo": "compromiso",
+    "cita_literal": "sí, sí, prisión permanente revisable para los depredadores sexuales y para el el asesino que se niega a revelar dónde está el cuerpo de su víctima.",
+    "contexto_minuto": "35:15"
+  },
+  {
+    "id": "pp-feijoo-presentacion-seguridad_justicia-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "seguridad_justicia",
+    "tipo": "posicion",
+    "cita_literal": "Las fuerzas y cuerpos de seguridad del Estado que nos protegen merecen recursos, merecen reconocimiento y merecen autoridad.",
+    "contexto_minuto": "35:59"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-9",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Por tanto, vamos a reformar el suplicatorio para que jamás se pueda traducir en impunidad.",
+    "contexto_minuto": "37:27"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-10",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Vamos a reducir los aforamientos, vamos a endurecer las penas por malversación de fondos públicos",
+    "contexto_minuto": "37:39"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-11",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "mi gobierno no indultará a ningún político condenado por corrupción, nunca, de ninguna manera.",
+    "contexto_minuto": "37:39"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-12",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "El poder tiene que tener límites y yo quiero contrapoderes, contrapoderes que puedan decirme que no.",
+    "contexto_minuto": "38:29"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-13",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Hay que presentar presupuestos todos los años, queridos amigos.",
+    "contexto_minuto": "39:04"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-14",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Pues ya les digo, vamos a presentar presupuesto todos los años y el año que viene toca presentar dos.",
+    "contexto_minuto": "39:38"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-15",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "En primavera el del año 2027 y a finales de año el del año 2028.",
+    "contexto_minuto": "39:43"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-16",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Y un gobierno debe poder ser controlado.",
+    "contexto_minuto": "40:02"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-17",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "tiene que rendir cuentas, contestar a las preguntas de control y celebrar anualmente y obligatoriamente el debate sobre el Estado de la Nación.",
+    "contexto_minuto": "40:02"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-18",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "Y eso empieza porque los condenados por terrorismo no tengan cabida en las instituciones, no sean homenajeados ni puedan participar en la elaboración de nuestras leyes",
+    "contexto_minuto": "40:40"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-19",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "Pero además, el fiscal general del Estado tiene que dejar de estar a las órdenes de una ideología.",
+    "contexto_minuto": "41:22"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-20",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "Los organismos reguladores que actúan de árbitros deben de ser dirigidos por personas competentes e imparciales.",
+    "contexto_minuto": "41:30"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-21",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "La independencia del Tribunal Constitucional ha de ser una prioridad.",
+    "contexto_minuto": "41:30"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-22",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Y, por supuesto, cumpliremos nuestro compromiso de que los jueces elijan a los jueces.",
+    "contexto_minuto": "41:50"
+  },
+  {
+    "id": "pp-feijoo-presentacion-territorial-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "territorial",
+    "tipo": "compromiso",
+    "cita_literal": "Que los derechos no dependan del lugar de residencia.",
+    "contexto_minuto": "43:27"
+  },
+  {
+    "id": "pp-feijoo-presentacion-sanidad-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "sanidad",
+    "tipo": "compromiso",
+    "cita_literal": "Que algo tan sencillo como una tarjeta sanitaria se reconozca en otra parte de España.",
+    "contexto_minuto": "43:27"
+  },
+  {
+    "id": "pp-feijoo-presentacion-economia-6",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "economia",
+    "tipo": "compromiso",
+    "cita_literal": "Que una empresa pueda crecer en todo el territorio sin pedir un permiso nuevo en cada comunidad.",
+    "contexto_minuto": "43:27"
+  },
+  {
+    "id": "pp-feijoo-presentacion-social-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "social",
+    "tipo": "compromiso",
+    "cita_literal": "Que quien contribuya a sostener la nación tenga prioridad en el acceso a las prestaciones.",
+    "contexto_minuto": "43:43"
+  },
+  {
+    "id": "pp-feijoo-presentacion-cultura-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "cultura",
+    "tipo": "compromiso",
+    "cita_literal": "O que se enseñe en español en toda España.",
+    "contexto_minuto": "43:43"
+  },
+  {
+    "id": "pp-feijoo-presentacion-inmigracion-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "inmigracion",
+    "tipo": "compromiso",
+    "cita_literal": "La nacionalidad dejará de regalarse y su adquisición exigirá lealtad a nuestra nación, a nuestra lengua y a nuestros valores.",
+    "contexto_minuto": "44:05"
+  },
+  {
+    "id": "pp-feijoo-presentacion-social-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "social",
+    "tipo": "posicion",
+    "cita_literal": "Que ninguna circunstancia personal, ni la discapacidad, ni la dependencia, ni la soledad limite la autonomía de nadie.",
+    "contexto_minuto": "44:22"
+  },
+  {
+    "id": "pp-feijoo-presentacion-pensiones-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "pensiones",
+    "tipo": "compromiso",
+    "cita_literal": "Las pensiones se revalorizarán todos los años sí o sí, porque las hemos revalorizado siempre.",
+    "contexto_minuto": "44:51"
+  },
+  {
+    "id": "pp-feijoo-presentacion-pensiones-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "pensiones",
+    "tipo": "posicion",
+    "cita_literal": "de garantizar el sistema público de pensiones, no solo de",
+    "contexto_minuto": "44:51"
+  },
+  {
+    "id": "pp-feijoo-presentacion-energia_clima-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "energia_clima",
+    "tipo": "compromiso",
+    "cita_literal": "Me encargaré me encargaré, insisto, de que España disponga de un plan de energía y de que España disponga de un plan nacional del agua.",
+    "contexto_minuto": "46:06"
+  },
+  {
+    "id": "pp-feijoo-presentacion-infraestructuras-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "infraestructuras",
+    "tipo": "compromiso",
+    "cita_literal": "Y, por supuesto, me encargaré de que España disponga de un plan de infraestructuras que permita revertir tanto deterioro.",
+    "contexto_minuto": "46:19"
+  },
+  {
+    "id": "pp-feijoo-presentacion-infraestructuras-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "infraestructuras",
+    "tipo": "compromiso",
+    "cita_literal": "Lo haremos con el sector anteponiendo el mantenimiento y la conservación a la nueva construcción.",
+    "contexto_minuto": "46:19"
+  },
+  {
+    "id": "pp-feijoo-presentacion-infraestructuras-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "infraestructuras",
+    "tipo": "cifra",
+    "cita_literal": "Necesitamos 300.000 millones en 15 años.",
+    "contexto_minuto": "46:35"
+  },
+  {
+    "id": "pp-feijoo-presentacion-educacion-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "educacion",
+    "tipo": "compromiso",
+    "cita_literal": "un menor de 0 a 3 años necesita una escuela infantil gratuita y la cofinanciaremos con las comunidades autónomas.",
+    "contexto_minuto": "47:13"
+  },
+  {
+    "id": "pp-feijoo-presentacion-educacion-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "educacion",
+    "tipo": "posicion",
+    "cita_literal": "Un niño de 3 a 12 necesita una educación de calidad, profesores con autoridad y ningún adoctrinamiento.",
+    "contexto_minuto": "47:13"
+  },
+  {
+    "id": "pp-feijoo-presentacion-otros-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "otros",
+    "tipo": "posicion",
+    "cita_literal": "Un adolescente necesita un contexto digital más seguro y una protección contra el acoso y también lo tendrá.",
+    "contexto_minuto": "47:32"
+  },
+  {
+    "id": "pp-feijoo-presentacion-educacion-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "educacion",
+    "tipo": "posicion",
+    "cita_literal": "Quien cumple 18 necesita una formación profesional adaptada al empleo y una enseñanza universitaria a la altura de las mejores del mundo",
+    "contexto_minuto": "47:51"
+  },
+  {
+    "id": "pp-feijoo-presentacion-vivienda-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "vivienda",
+    "tipo": "cifra",
+    "cita_literal": "Hace falta 1 millón de viviendas y la mayor ayuda de la historia a los jóvenes para que la puedan pagar y lo haremos.",
+    "contexto_minuto": "48:08"
+  },
+  {
+    "id": "pp-feijoo-presentacion-impuestos-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "impuestos",
+    "tipo": "compromiso",
+    "cita_literal": "Si el coste de vida sigue disparado para las familias, tenemos que bajar la presión fiscal que soportan cada vez que llenan la cesta de la compra o el depósito de la gasolina",
+    "contexto_minuto": "48:16"
+  },
+  {
+    "id": "pp-feijoo-presentacion-sanidad-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "sanidad",
+    "tipo": "compromiso",
+    "cita_literal": "Quien necesita ayuda sanitaria debe tener una sanidad pública con médicos profesionales sanitarios y la tendrá.",
+    "contexto_minuto": "48:31"
+  },
+  {
+    "id": "pp-feijoo-presentacion-impuestos-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "impuestos",
+    "tipo": "cifra",
+    "cita_literal": "Un 69% ha subido la recaudación fiscal en nuestro país.",
+    "contexto_minuto": "49:14"
+  },
+  {
+    "id": "pp-feijoo-presentacion-impuestos-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "impuestos",
+    "tipo": "posicion",
+    "cita_literal": "Lo que no es aceptable es que se siga haciendo caja con la inflación.",
+    "contexto_minuto": "49:26"
+  },
+  {
+    "id": "pp-feijoo-presentacion-impuestos-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "impuestos",
+    "tipo": "compromiso",
+    "cita_literal": "Hay margen para bajarlos y yo lo haré y eso tiene que tener recompensa.",
+    "contexto_minuto": "50:27"
+  },
+  {
+    "id": "pp-feijoo-presentacion-empleo-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "empleo",
+    "tipo": "posicion",
+    "cita_literal": "Y añado, trabajar tiene que compensar más que no hacerlo.",
+    "contexto_minuto": "50:27"
+  },
+  {
+    "id": "pp-feijoo-presentacion-empleo-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "empleo",
+    "tipo": "compromiso",
+    "cita_literal": "yo creo que hay que proteger mejor a los enfermos graves de determinadas patologías cuando están de baja.",
+    "contexto_minuto": "50:38"
+  },
+  {
+    "id": "pp-feijoo-presentacion-empleo-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "empleo",
+    "tipo": "posicion",
+    "cita_literal": "En muchos casos quien padece hoy una enfermedad severa no percibe el 100% de su salario. Yo no lo comparto.",
+    "contexto_minuto": "50:49"
+  },
+  {
+    "id": "pp-feijoo-presentacion-empleo-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "empleo",
+    "tipo": "compromiso",
+    "cita_literal": "España necesita un plan contra el absentismo laboral fraudulento.",
+    "contexto_minuto": "51:03"
+  },
+  {
+    "id": "pp-feijoo-presentacion-social-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "social",
+    "tipo": "compromiso",
+    "cita_literal": "Y además también crearemos una renta de activación que reúna el ingreso mínimo vital y los diferentes subsidios en un solo camino hacia el empleo.",
+    "contexto_minuto": "51:19"
+  },
+  {
+    "id": "pp-feijoo-presentacion-social-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "social",
+    "tipo": "compromiso",
+    "cita_literal": "Lo haremos en colaboración con las comunidades autónomas y será compatible con el trabajo desde el primer día.",
+    "contexto_minuto": "51:30"
+  },
+  {
+    "id": "pp-feijoo-presentacion-social-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "social",
+    "tipo": "compromiso",
+    "cita_literal": "Cada beneficiario firmará un acuerdo de formación y búsqueda de empleo con seguimiento verificable",
+    "contexto_minuto": "51:41"
+  },
+  {
+    "id": "pp-feijoo-presentacion-social-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "social",
+    "tipo": "compromiso",
+    "cita_literal": "rechazar empleos adecuados de forma reiterada y sin causa justificada supondrá la pérdida graduada de las ayudas.",
+    "contexto_minuto": "51:41"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-23",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Si en algún momento pierdo la confianza del Congreso, convocaré elecciones.",
+    "contexto_minuto": "55:06"
+  },
+  {
+    "id": "pp-feijoo-presentacion-defensa_exterior-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "defensa_exterior",
+    "tipo": "compromiso",
+    "cita_literal": "España seguirá comprometida con la paz, con la democracia, con la determinación en su defensa y en la defensa de Europa.",
+    "contexto_minuto": "55:36"
+  },
+  {
+    "id": "pp-feijoo-presentacion-territorial-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "territorial",
+    "tipo": "posicion",
+    "cita_literal": "Por supuesto, creo en una España diversa y descentralizada como garantiza la Constitución.",
+    "contexto_minuto": "55:55"
+  },
+  {
+    "id": "pp-feijoo-presentacion-instituciones-24",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Y puedo jurar que un gobierno que yo presida jamás va a intentar adueñarse del Estado, aunque llegara a tener 10 millones de votos.",
+    "contexto_minuto": "56:15"
+  },
+  {
+    "id": "pp-feijoo-presentacion-otros-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=3OWoRjDZEVw",
+    "tema": "otros",
+    "tipo": "cifra",
+    "cita_literal": "Aquí vienen 249 medidas. ¿Por qué no son 250? Porque son 249.",
+    "contexto_minuto": "57:39"
+  }
+]

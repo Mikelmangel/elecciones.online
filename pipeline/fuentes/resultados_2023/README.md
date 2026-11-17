@@ -1,0 +1,9 @@
+# resultados_2023
+
+- **Qué es:** resultados oficiales definitivos del Congreso, 23-J-2023, por circunscripción (Cuadros I, II y III de la Resolución de 30-VIII-2023 de la Presidencia de la JEC, BOE núm. 209 de 1-IX-2023, págs. 122201-122274). Id `BOE-A-2023-18907`.
+- **URLs:** XML `https://www.boe.es/diario_boe/xml.php?id=BOE-A-2023-18907`, PDF `https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf`. Corrección `BOE-A-2023-19537` (16-IX-2023): solo afecta a un dato del Senado (Madrid); no toca el Congreso.
+- **Frecuencia:** dato cerrado; se descarga una vez (`python fetch.py`, idempotente), `python parse.py` genera `data/resultados_generales_2023.json`.
+- **Rarezas:** el Cuadro I (censo, votantes, válidos, blanco, nulos) es una imagen en el XML pero texto nativo en el PDF, así que sale del PDF con `pdftotext -layout` (poppler); los Cuadros II y III salen del XML. El PDF es nativo (`pdfimages -list`: solo logos). El BOE tiene un typo (`9.938.` en Geroa Bai, Total estatal) que el parser tolera. `votos_candidaturas` se guarda además porque es una columna del Cuadro I.
+- **Tests:** `scraper/.venv/bin/python -m pytest pipeline/fuentes/resultados_2023/tests`.
+- **Siglas y agrupación:** `nacional` es la suma literal por siglas; coincide con la fila "Total estatal" del BOE en las 59 candidaturas. El BOE ya da una sola candidatura por columna en toda España (no hay nombres distintos por provincia). Para que un humano decida: `PSOE` y `PSC` (PSC-PSOE, Cataluña) son siglas separadas; `ESPAÑA VACIADA` y `EV-PCAS-TC` (ambas "España Vaciada", sin escaño) también; `CUP-PR`, `PDeCAT-E-CiU`, `NC-bc` figuran solo en el Cuadro III (sin escaño). Las candidaturas "sin escaño" (Cuadro III) llevan `escanos: 0`.
+- **Cuadro III y votos 0:** una celda vacía = la candidatura no se presentó ahí y no se incluye en esa provincia.

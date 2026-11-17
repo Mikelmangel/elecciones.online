@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pnv-esteban-la1-instituciones-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=2gp6ZVbNONk",
+    "tema": "instituciones",
+    "tipo": "cifra",
+    "cita_literal": "Es que en esta legislatura necesitaban cuatro votos esa mayoría PP Vox. Nosotros teníamos cinco y dijimos que no.",
+    "contexto_minuto": "02:40"
+  },
+  {
+    "id": "pnv-esteban-la1-instituciones-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=2gp6ZVbNONk",
+    "tema": "instituciones",
+    "tipo": "compromiso",
+    "cita_literal": "Una mayoría que tenga eh como componente a Vox no la vamos a apoyar nunca",
+    "contexto_minuto": "02:51"
+  },
+  {
+    "id": "pnv-esteban-la1-pensiones-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=2gp6ZVbNONk",
+    "tema": "pensiones",
+    "tipo": "posicion",
+    "cita_literal": "Yo creo que, bueno, nosotros tenemos claro que hay que defender un modelo público de pensiones",
+    "contexto_minuto": "04:46"
+  },
+  {
+    "id": "pnv-esteban-la1-instituciones-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=2gp6ZVbNONk",
+    "tema": "instituciones",
+    "tipo": "posicion",
+    "cita_literal": "tendría que hacerlo en los derechos fundamentales y para eso hace falta dos tercios de ambas cámaras, disolver ambas cámaras, hacer nuevas elecciones y que las nuevas cámaras lo ratificaran.",
+    "contexto_minuto": "05:52"
+  },
+  {
+    "id": "pnv-esteban-la1-pensiones-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=2gp6ZVbNONk",
+    "tema": "pensiones",
+    "tipo": "posicion",
+    "cita_literal": "Pero respondiendo a su pregunta, sí, el modelo público de pensiones hay que defenderlo y la subida del IPC también.",
+    "contexto_minuto": "06:13"
+  }
+]

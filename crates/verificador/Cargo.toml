@@ -1,0 +1,9 @@
+[package]
+name = "elecciones-verificador"
+version = "0.1.0"
+edition = "2021"
+description = "Motor de verificación y crosscheck de fuentes oficiales para elecciones.online en Rust"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"

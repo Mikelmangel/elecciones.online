@@ -1,0 +1,1357 @@
+{
+  "nota": "Resúmenes redactados por IA a partir de las medidas extraídas de cada programa. No son citas. Se publican solo si todas las páginas que citan corresponden a medidas reales (pipeline/resumenes.py).",
+  "resumenes": [
+    {
+      "siglas": "PP",
+      "area": "vivienda",
+      "resumen": "Centra su programa en construir más: un millón de viviendas, nueva Ley del Suelo, licencias en tres meses y derogación de la Ley de Vivienda y de las zonas tensionadas (pp. 41-42). Para la compra, rebajas de IVA e ITP y avales a menores de 40 años; para el alquiler, deducciones en el IRPF a inquilinos y propietarios (p. 43). Incluye un bloque contra la ocupación con desalojo en 48 horas (p. 43).",
+      "a_quien_afecta": "Jóvenes que quieran comprar, inquilinos y propietarios con deducciones, promotores, y propietarios de viviendas ocupadas.",
+      "revisado": true,
+      "origen": "ia"
+    },
+    {
+      "siglas": "PSOE",
+      "area": "vivienda",
+      "resumen": "Plantea más intervención pública: vivienda como derecho fundamental en la Constitución, 1 % del PIB anual y un parque público estatal de 100.000 viviendas (pp. 27-28). En alquiler, contratos más largos, congelación de rentas por encima del índice en zonas tensionadas y garantía pública para jóvenes (pp. 30-31). Añade límites a la compra especulativa, registros de precios y de fondos, y protección frente a desahucios de personas vulnerables con el coste a cargo de la Administración (pp. 32-33).",
+      "a_quien_afecta": "Inquilinos en zonas tensionadas, jóvenes que alquilan o compran su primera vivienda, fondos y grandes propietarios, y hogares vulnerables.",
+      "revisado": true,
+      "origen": "ia"
+    },
+    {
+      "siglas": "VOX",
+      "area": "vivienda",
+      "resumen": "Propone reformar la Ley del Suelo, derogar la Ley de Vivienda y rebajar los impuestos de la edificación para construir más (pp. 23-24). Incluye más inversión pública en vivienda protegida, regulación de los pisos turísticos y bonificaciones a la compra (pp. 23-25). Dedica varias medidas a la ocupación: desalojo en menos de 24 horas y endurecimiento del Código Penal (p. 24).",
+      "a_quien_afecta": "Compradores de vivienda, promotores, propietarios de viviendas ocupadas y titulares de pisos turísticos.",
+      "revisado": true,
+      "origen": "ia"
+    },
+    {
+      "siglas": "BNG",
+      "area": "vivienda",
+      "resumen": "Propone topar por ley los alquileres, prohibir desahucios de personas vulnerables y contratos indefinidos (p. 12). Reclama destinar el 3 % de los Presupuestos a un parque público de alquiler y transferir a Galicia las viviendas de la SAREB y suelos del Estado (pp. 10-14). Incluye impuestos municipales y otras medidas sobre viviendas vacías, y acceso prioritario para jóvenes (pp. 13-14 y 85).",
+      "a_quien_afecta": "Inquilinos, hogares vulnerables, jóvenes, y propietarios de viviendas vacías o fondos de inversión, sobre todo en Galicia.",
+      "revisado": true,
+      "origen": "ia"
+    },
+    {
+      "siglas": "CCa",
+      "area": "vivienda",
+      "resumen": "Pide un fondo estatal de ocho años para cofinanciar vivienda pública y asequible y la cesión de suelos del Estado en Canarias (pp. 10-11). Plantea limitar la compra de vivienda en Canarias por extranjeros y dar cobertura legal para limitar el uso turístico (p. 11). Añade incentivos fiscales a pequeños propietarios que alquilen a precio asequible y a la primera vivienda de jóvenes (p. 11).",
+      "a_quien_afecta": "Residentes en Canarias que buscan vivienda, pequeños propietarios, compradores extranjeros y titulares de vivienda turística.",
+      "revisado": true,
+      "origen": "ia"
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "vivienda",
+      "resumen": "Propone prohibir la compra de viviendas a fondos y sociedades especulativas, una ley de expropiación a grandes tenedores y vetar temporalmente la venta a no residentes en zonas tensionadas (p. 4). En alquiler, contrato indefinido como régimen ordinario, registro estatal obligatorio y control de precios municipal (pp. 4-5). Reclama el 1 % del PIB anual para vivienda pública y prohibir desahucios sin alternativa (pp. 4 y 6).",
+      "a_quien_afecta": "Inquilinos, fondos y grandes tenedores, compradores no residentes y ayuntamientos.",
+      "revisado": true,
+      "origen": "ia"
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "vivienda",
+      "resumen": "Propone agilizar los trámites urbanísticos y movilizar viviendas vacías para aumentar la oferta (p. 7). Plantea regular los alquileres de temporada y turísticos para que no resten vivienda habitual, y dar seguridad jurídica a inquilinos y pequeños propietarios (p. 8). Incluye medidas de acceso a la primera vivienda para jóvenes (p. 8).",
+      "a_quien_afecta": "Inquilinos, pequeños propietarios, jóvenes y titulares de alquileres de temporada o turísticos.",
+      "revisado": true,
+      "origen": "ia"
+    },
+    {
+      "siglas": "ERC",
+      "area": "vivienda",
+      "resumen": "Reclama traspasar a la Generalitat las viviendas de la SAREB y la capacidad de legislar sobre alquileres (pp. 15 y 19). Propone dedicar al menos el 1,5 % del PIB a vivienda y transferirlo a las comunidades (p. 19). Añade más obligaciones fiscales y de información para fondos y grandes tenedores, y evitar desahucios sin alternativa compensando a pequeños propietarios (pp. 19-20).",
+      "a_quien_afecta": "Inquilinos y pequeños propietarios en Cataluña, fondos y grandes tenedores.",
+      "revisado": true,
+      "origen": "ia"
+    },
+    {
+      "siglas": "PACMA",
+      "area": "vivienda",
+      "resumen": "Propone construir vivienda pública de forma masiva y adquirir viviendas vacías (p. 69). Incluye avales públicos ante impagos, registro del alquiler temporal y recargos a fondos (p. 70). Plantea anular las cláusulas de alquiler que prohíban animales de compañía (p. 70).",
+      "a_quien_afecta": "Inquilinos, especialmente quienes conviven con animales, y fondos de inversión.",
+      "revisado": true,
+      "origen": "ia"
+    },
+    {
+      "siglas": "BNG",
+      "area": "cultura",
+      "resumen": "Propone traspasar a Galicia los fondos de fomento del cine y el audiovisual, los archivos y fondos documentales del Estado y las competencias deportivas del Consejo Superior de Deportes (p. 10). Plantea garantizar el gallego en RTVE, el audiovisual, la Administración central y de Justicia, la UNED, los consulados, el Instituto Cervantes, la Unión Europea, la inteligencia artificial y las plataformas digitales, con ayudas a la creación en gallego (pp. 71-73, 77, 78, 80 y 85). Incluye selecciones gallegas en competiciones internacionales, federaciones gallegas como última instancia, igualdad de las mujeres en el deporte e instalaciones deportivas accesibles (p. 88).",
+      "a_quien_afecta": "Hablantes de gallego, creadores y productoras audiovisuales gallegas, personal de la Administración, estudiantes, deportistas (en especial mujeres y madres deportistas), federaciones deportivas y personas con discapacidad.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "cultura",
+      "resumen": "Propone mantener las ayudas estatales para los desplazamientos de artistas y compañías canarias y reforzar la presencia de la creación canaria en programas estatales y su proyección exterior (p. 19). Reclama eliminar los obstáculos administrativos y fiscales a la circulación de obras y financiación estatal para los desplazamientos de deportistas y clubes canarios a competiciones oficiales (p. 19).",
+      "a_quien_afecta": "Artistas y compañías canarias, deportistas y clubes canarios.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "cultura",
+      "resumen": "Propone una ley de financiación de infraestructuras culturales estatales, reforzar la financiación de instituciones, festivales y compañías culturales valencianas, desplegar el Estatuto del Artista, rehabilitar patrimonio valenciano y extender el Bono Cultural Joven de los 16 a 30 años (p. 14). Plantea una ley estatal del audiovisual, descentralizar las ayudas a la producción audiovisual, crear una mesa estatal de cultura, restaurar el Teatre Principal de València y avanzar hacia una programación íntegra en valenciano en el Centro Territorial de RTVE (pp. 15 y 16). Incluye la Ley de Plurilingüismo, la oficialidad del valenciano en la UE, suprimir los espectáculos taurinos y derogar la Ley 18/2013, y programas de becas, residencias artísticas, albergues juveniles e iniciativas culturales LGTBI (pp. 44, 45, 49, 50 y 56).",
+      "a_quien_afecta": "Profesionales y empresas de la cultura y el audiovisual, instituciones culturales valencianas, jóvenes, deportistas de élite, hablantes de valenciano y otras lenguas cooficiales, y personal de la Administración y la Justicia.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "cultura",
+      "resumen": "Propone una Ley del plurilingüismo, el uso de las lenguas oficiales en la relación con el Estado, en el etiquetado, la enseñanza, la radio y las empresas, y el reconocimiento oficial del catalán, el occitano y la lengua de signos catalana en la UE, con aportación mínima del Estado y cuotas de pantalla para el audiovisual en esas lenguas (pp. 9 y 10). Plantea un Plan de Soberanía Cultural para traspasar museos y equipamientos a Cataluña, un Fondo Catalán del 2 % Cultural, completar el Estatuto del Artista y reservar cuotas de obras en lenguas oficiales en televisión y plataformas (p. 13). Defiende el derecho de las selecciones catalanas a competir oficialmente y exige aumentar la financiación del Institut Ramon Llull e incluir catalán y occitano en Erasmus+ (pp. 14 y 16).",
+      "a_quien_afecta": "Hablantes de catalán, occitano y lengua de signos catalana, empleados públicos, empresas, trabajadores, artistas, productoras y plataformas audiovisuales, y deportistas y selecciones catalanas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PACMA",
+      "area": "cultura",
+      "resumen": "Propone prohibir la utilización de animales en espectáculos, tradiciones, festejos, atracciones feriales y rodajes, prohibir emitir festejos con animales, retirarles toda subvención, derogar la Ley 18/2013 taurina y retirar la declaración de Fiesta de Interés Turístico a eventos que utilicen animales (pp. 12, 21 y 52). Plantea fomentar disciplinas artísticas en centros públicos, subvencionar la creación, crear residencias artísticas, mejorar la accesibilidad de los espacios culturales, impulsar actividades gratuitas, bibliotecas públicas y alternativas de ocio juvenil (pp. 62, 63 y 82).",
+      "a_quien_afecta": "Organizadores y asistentes a festejos con animales, artistas y creadores, usuarios de espacios culturales y bibliotecas, y jóvenes.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "cultura",
+      "resumen": "Propone reformar el Reglamento del Congreso para que los debates sean en castellano, fijar el castellano como lengua de trabajo en los órganos de cooperación entre Gobierno y comunidades, mantener las lenguas cooficiales en el Senado y proteger los símbolos del Estado (p. 37). Plantea corregir sesgos ideológicos en los apoyos culturales, actualizar las leyes de patrimonio, aprobar una nueva Ley de Mecenazgo, restituir el Premio Nacional de Tauromaquia y reforzar el Instituto Cervantes (p. 38). Incluye el sexo biológico como criterio en las categorías deportivas femeninas, más financiación del deporte, corregir los vacíos legales sobre cotización de deportistas de alto nivel y defender que España albergue la final del Mundial de 2030 (pp. 35 y 39).",
+      "a_quien_afecta": "Parlamentarios, Administraciones públicas, jurados y consejos culturales, creadores y mecenas, aficionados a la tauromaquia, deportistas de categorías femeninas y deportistas de alto nivel.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "cultura",
+      "resumen": "Propone desplegar el Estatuto del Deportista, una Estrategia contra el Sedentarismo con receta deportiva, la igualdad en el deporte, un Plan Estratégico del Deporte Español y que el Mundial 2030 deje instalaciones abiertas y empleo local (pp. 55 y 56). Plantea una Ley General de Cultura, culminar el Estatuto del Artista, crear la Oficina Española de Derechos de Autor, un abono de cine de 15 euros al mes para menores de 25 años y reforzar el Bono Cultural Joven (pp. 91 y 103). Incluye extender las lenguas cooficiales en las Cortes y la Administración, impulsar el catalán, el euskera y el gallego como lenguas oficiales de la UE, ampliar el Instituto Cervantes y conmemorar el 50 aniversario de la Constitución (pp. 91, 98 y 111).",
+      "a_quien_afecta": "Deportistas, mujeres futbolistas, jóvenes, artistas y creadores, sector del cine y la cultura, lectores, estudiantes y hablantes de lenguas cooficiales.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "cultura",
+      "resumen": "Propone la promoción de la cultura nacional y la difusión de la historia común española (p. 42). Plantea atender al medio rural, sus iglesias y monumentos, proteger el patrimonio histórico frente al vandalismo, defender la tauromaquia y proteger los usos, costumbres y tradiciones religiosas y populares (pp. 43 y 56). Incluye despolitizar el deporte, que las selecciones nacionales representen a España, que el deporte femenino se rija por criterios biológicos y deportivos objetivos, y becas, rebajas fiscales y apoyo a clubes y federaciones (p. 43).",
+      "a_quien_afecta": "Población del medio rural, aficionados a la tauromaquia, practicantes de tradiciones religiosas y populares, deportistas, mujeres deportistas, clubes y federaciones.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "defensa_exterior",
+      "resumen": "Propone el ingreso de Galicia como miembro asociado de la UNESCO y la OMT y su presencia en la CPLP, además de explorar una presencia directa en esta última (pp. 73-74). Plantea abolir el servicio militar obligatorio, defender la neutralidad activa con salida de la OTAN, retirar efectivos españoles de misiones de la OTAN y de EEUU, cancelar los acuerdos bilaterales España-EEUU, cesar el envío de armamento a Ucrania y eliminar la venta de armas a regímenes dictatoriales o agresores (pp. 86, 89 y 90). Incluye rechazar y reducir progresivamente el gasto militar, avanzar en la desmilitarización de Galicia, anular el cambio de posición sobre el Sáhara, reconocer al Estado palestino, rechazar la injerencia de EEUU en América Latina y oponerse a tratados comerciales que vulneren la soberanía y los derechos (pp. 77, 90 y 91).",
+      "a_quien_afecta": "Se dirigen a las instituciones de Galicia, a los jóvenes sujetos al servicio militar, a las Fuerzas Armadas españolas y de otros países presentes en misiones o bases, a los pueblos saharaui y palestino, y a los estados receptores de armamento español.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "defensa_exterior",
+      "resumen": "Propone recuperar para uso civil terrenos militares, como el campo de tiro de Pájara, y negociar el cese de la actividad militar en ellos y su cesión a las administraciones canarias (p. 9). Reclama que España defienda en la UE los fondos de las regiones ultraperiféricas, evaluaciones y adaptaciones del artículo 349, la continuidad de INTERREG y el reconocimiento estratégico europeo de la Macaronesia (pp. 19-20). Plantea reforzar el papel de Canarias en la cooperación con África occidental, que las instituciones canarias participen en asuntos exteriores que les afecten y defender una solución al conflicto del Sáhara Occidental según la ONU y el derecho del pueblo saharaui a decidir su futuro (p. 20).",
+      "a_quien_afecta": "Se dirigen a la población e instituciones de Canarias, a las regiones ultraperiféricas de la UE y al pueblo saharaui.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "defensa_exterior",
+      "resumen": "Propone reformar la gobernanza multilateral con una Asamblea Parlamentaria en la ONU, acabar con los vetos injustificados, rediseñar el FMI y el Banco Mundial, crear en Alicante un Centro Internacional de Resolución de Disputas, aumentar los recursos de la red consular y aumentar las contribuciones voluntarias a la Corte Penal Internacional (pp. 61 y 63). Plantea una Unión Europea de la Defensa que sustituya a la OTAN, auditar y publicar todo el gasto en Defensa, evitar que el aumento del gasto militar reduzca la inversión en servicios públicos y revisar la exportación de armamento para prohibir vender armas a países que violen derechos (pp. 62-63). Incluye apoyar al pueblo ucraniano y al palestino, romper relaciones con países que vulneren derechos humanos como el Estado de Israel, exigir un referéndum en el Sáhara Occidental, reformar los tratados de la UE, superar la unanimidad en el Consejo, un presupuesto comunitario de al menos el 2% RNB y recuperar la cooperación al desarrollo con el 0,7% blindado por ley (pp. 62-64).",
+      "a_quien_afecta": "Se dirigen a la ciudadanía española en el exterior, a los pueblos ucraniano, palestino y saharaui, a comunidades autónomas y ayuntamientos que hacen cooperación descentralizada, a las víctimas de explotación reproductiva y a los países que vulneren derechos humanos.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "defensa_exterior",
+      "resumen": "Propone una política exterior comprometida con los derechos humanos y el derecho internacional, reforzar la cooperación internacional para el desarrollo con recursos suficientes y mantener el compromiso contra la pena de muerte (p. 28). Plantea asegurar la participación directa de Euskadi en las instituciones de la UE y su presencia con voz propia en el Consejo, y favorecer el reconocimiento de las realidades nacionales en las instituciones europeas (p. 41). Incluye apoyar una Europa más democrática, competitiva y social, favorecer una Macrorregión Atlántica Europea y asegurar la participación de Euskadi en el Marco Financiero Plurianual 2028-2034 (p. 41).",
+      "a_quien_afecta": "Se dirigen a las instituciones de Euskadi, a las realidades nacionales representadas en la UE y a los países receptores de cooperación para el desarrollo.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "defensa_exterior",
+      "resumen": "Exige al Estado alcanzar el 0,7 % en Ayuda Oficial al Desarrollo, con cooperación descentralizada y feminista y cooperación europea directa para Cataluña, y reformar la AECID para que la ACCD gestione fondos europeos de cooperación delegada (pp. 15-17). Promueve un embargo completo de armas a Israel, suspender los acuerdos UE-Israel, apoyar al Estado de Palestina, mantener el apoyo a Ucrania desde la UE con vía diplomática y defender la autodeterminación y revertir la posición sobre el Sáhara (p. 16). Plantea fiscalizar el gasto de Defensa, una estrategia de seguridad propia de la UE basada en diplomacia, la participación de la Generalitat en la negociación de tratados en la ONU y un impuesto digital europeo propio (pp. 16-17).",
+      "a_quien_afecta": "Se dirigen a la Generalitat y a las entidades catalanas de cooperación, a los pueblos palestino, ucraniano y saharaui, y a las empresas contratistas de Defensa condenadas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "defensa_exterior",
+      "resumen": "Propone promover un comercio internacional justo, reforzar el multilateralismo democrático con organismos internacionales más fuertes y promover la coherencia de políticas para el desarrollo sostenible y la paz (pp. 34, 66 y 89). Plantea no avanzar en la escalada armamentística incrementando el gasto militar a nivel estatal y europeo y garantizar la transparencia y rendición de cuentas en los presupuestos (pp. 65-66). Incluye cumplir la Ley de Cooperación estatal, consolidar la relación con las ONGD, promover una acción humanitaria basada en principios, el compromiso con el Fondo de Pérdidas y Daños y la cancelación de la deuda externa (pp. 54, 89 y 90).",
+      "a_quien_afecta": "Se dirigen a las organizaciones no gubernamentales de desarrollo, a las personas receptoras de acción humanitaria, a los países endeudados o afectados por pérdidas y daños climáticos y a la ciudadanía en general en materia de presupuestos.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "defensa_exterior",
+      "resumen": "Propone una ley de programación y financiación de la defensa, que las Cortes respalden los compromisos internacionales de defensa, una carrera militar basada en mérito y capacidad, más efectivos, mejores retribuciones y modernización del material, y reforzar los contingentes de la OTAN y el despliegue en Ceuta, Melilla, Canarias y el norte de África español (p. 21). Plantea impulsar la industria de defensa y simplificar su contratación (p. 22). Incluye una Estrategia de Acción Exterior presentada a las Cortes, apoyo a Ucrania y sanciones a Rusia, una política de equilibrio con Marruecos y Argelia, diálogo sobre Gibraltar, exigir la liberación de presos políticos en Cuba, Nicaragua y Venezuela, reorientar la cooperación al desarrollo y un plan de refuerzo consular con centralita 24 horas (pp. 55-57).",
+      "a_quien_afecta": "Se dirigen a las Fuerzas Armadas, a la industria de defensa, a las Cortes, a Ceuta, Melilla y Canarias, a la ciudadanía española en el exterior, a las empresas españolas en el exterior y a los países receptores de cooperación.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "defensa_exterior",
+      "resumen": "Propone reformar la ONU y su Consejo de Seguridad limitando el veto, alcanzar el 0,7% de la RNB en Ayuda Oficial al Desarrollo, defender un comercio internacional basado en reglas con una OMC renovada y modernizar el Banco Mundial y el FMI (pp. 107-108). Plantea impulsar la Unión Europea de la defensa, reforzar las capacidades comunes y la adquisición conjunta, la solución de dos Estados en Israel y Palestina, respaldar la soberanía de Ucrania, desplegar el Acuerdo sobre Gibraltar y apoyar la ampliación de la UE a los Balcanes Occidentales (pp. 109-110 y 112). Incluye modernizar las Fuerzas Armadas, reforzar la vigilancia marítima y las agencias de inteligencia, potenciar la Unidad Militar de Emergencias, mejorar la atención psicológica del personal y reformar la red consular con punto único de atención (pp. 112-113).",
+      "a_quien_afecta": "Se dirigen a las Fuerzas Armadas y su personal, a la ciudadanía española en el exterior, al personal cooperante, a los pueblos palestino y ucraniano y a los países de Asia, América Latina, el Caribe, África y los Balcanes Occidentales.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "defensa_exterior",
+      "resumen": "Propone militarizar la frontera, reforzar la protección de las fronteras terrestres, aguas y espacio aéreo de Ceuta y Melilla, e impulsar sanciones, suspender acuerdos y revisar las relaciones diplomáticas con Marruecos (p. 7). Plantea aumentar la inversión en Defensa, con sueldos dignos y ayudas a movilidad, vivienda y alojamiento, reconocer a las Fuerzas Armadas como profesión de riesgo y difundir la Cultura de Seguridad y Defensa (p. 47). Incluye defender la soberanía ante injerencias extranjeras, aplicar presión internacional para recuperar la soberanía sobre Gibraltar, desmantelar las redes de piratería, narcotráfico, contrabando y blanqueo originadas en la colonia y recuperar el control de las aguas españolas (pp. 47-48).",
+      "a_quien_afecta": "Se dirigen a las Fuerzas Armadas y su personal, a Ceuta y Melilla, a Marruecos, a Gibraltar y a los españoles en general.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "economia",
+      "resumen": "Propone regular por ley los precios de los alimentos básicos, establecer un precio máximo legal de gasolina y diésel y un Plan de Industrialización con prioridad a Ferrol y Vigo, además de exigir la continuidad de Alcoa San Cibrao (pp. 21 y 46). Plantea condiciones para la minería, como una participación pública obligatoria mínima del 20% en proyectos de minerales estratégicos, restringir la minería a cielo abierto y prohibir las tecnologías con cianuro (pp. 58-59). Incluye aproximar los derechos de los autónomos a los de los asalariados, elevar la inversión estatal en I+D+i hasta el 3% del PIB en 2030 y reclamar recursos para un ecosistema gallego de inteligencia artificial (pp. 51, 52 y 75).",
+      "a_quien_afecta": "Consumidores de alimentos y carburantes, trabajadores y empresas de la industria y la construcción naval en Galicia, autónomos, pymes, personal investigador y comunidades afectadas por proyectos mineros.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "economia",
+      "resumen": "Reclama actualizar las compensaciones por sobrecostes de insularidad y reforzar las ayudas estatales a quienes inician actividad autónoma y a autónomos con menores rendimientos (pp. 11 y 12). Propone evaluar y actualizar los instrumentos del REF, mantener el diferencial fiscal canario para la producción audiovisual y adaptar los programas estatales de digitalización, innovación y financiación a la microempresa canaria (p. 12). Plantea reforzar la Plataforma Oceánica de Canarias, impulsar programas de economía azul y defender el Centro Nacional de Vulcanología en La Palma, con una aportación estatal del 50 % de su mantenimiento (pp. 14 y 16).",
+      "a_quien_afecta": "Autónomos y microempresas de Canarias, empresas del sector audiovisual y turístico, centros de investigación canarios y población de las islas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "economia",
+      "resumen": "Propone exigir solo un año de pérdidas para el cese de actividad de los autónomos, bonificar el 100% de su cuota desde el primer día de baja grave y pasar las declaraciones trimestrales a semestrales (p. 7). Plantea modificar la Ley de Arrendamientos Urbanos para regular los alquileres comerciales, crear una banca pública de inversión y crédito, establecer la participación directa de los trabajadores en los consejos de administración de grandes empresas e instar una nueva Ley de Industria y Autonomía Estratégica (pp. 19-21). Incluye una legislación específica contra la obsolescencia programada, un Pacto de Estado para un Turismo Justo, Sostenible e inclusivo y una financiación estable de la generación de conocimiento que supere el 3% del PIB (pp. 21, 25 y 26).",
+      "a_quien_afecta": "Autónomos, micropymes y pymes, comercio de proximidad, trabajadores de grandes empresas, consumidores, personal investigador y municipios turísticos.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "economia",
+      "resumen": "Propone fortalecer la industria vasca con una ley industrial, proteger el futuro industrial de comarcas como Aiaraldea y asegurar que el Estado cumpla sus compromisos con empresas vascas con participación o financiación pública (p. 14). Plantea reducir la burocracia, eliminar barreras regulatorias al crecimiento de las pymes y reforzar las líneas del ICO para pymes y autónomos (pp. 14 y 15). Incluye proteger el modelo cooperativo vasco, facilitar el relevo generacional de empresas viables y que las plantillas asuman empresas como cooperativas o sociedades laborales (pp. 14 y 15).",
+      "a_quien_afecta": "Empresas industriales vascas, pymes, autónomos, cooperativas, plantillas de empresas viables y comarcas afectadas por crisis o transformación industrial.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "economia",
+      "resumen": "Propone un plan conjunto Estado-CCAA para reducir la inflación en alimentos, energía y vivienda, concluir la licencia bancaria plena del Institut Català de Finances y establecer el servicio bancario universal con efectivo y atención presencial (pp. 21 y 22). Plantea fomentar las pymes con financiación, morosidad cero y contratación pública accesible, sustituir los PERTE en 2026 por proyectos industriales estratégicos de gestión descentralizada y ampliar el Programa Auto+ (pp. 23 y 29). Incluye una estrategia de soberanía digital hacia soluciones europeas abiertas y presencia del catalán (p. 34).",
+      "a_quien_afecta": "Consumidores, usuarios de servicios bancarios, pymes, empresas de la automoción y del clúster químico de Tarragona.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "economia",
+      "resumen": "Propone cotizar por lo que se gana, también cuando se gana poco, y que el autónomo nunca pague, en proporción, más que una gran empresa (p. 32). Plantea que se cumpla el plazo legal de 30 días para que las administraciones paguen (p. 33). Incluye promover la economía circular y una economía que sitúe a las personas y al planeta en el centro, más allá del beneficio (p. 35).",
+      "a_quien_afecta": "Autónomos, personas con ingresos bajos que cotizan, proveedores de las administraciones y empresas y consumidores en general.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PACMA",
+      "area": "economia",
+      "resumen": "Propone modificar el etiquetado de productos de origen animal para indicar clonación y sistema de cría, e incluir en el etiquetado alimentario la huella de carbono y una advertencia en carnes procesadas (pp. 27 y 37). Plantea prohibir ingredientes de origen animal en cosméticos y productos de higiene personal y elaborar una Estrategia nacional para el fin de la experimentación en animales, con métodos sustitutivos (pp. 29 y 30). Incluye líneas de crédito a interés cero para autónomos y pymes, bonificaciones fiscales y asesoramiento gratuito para nuevas empresas y una Estrategia nacional de turismo sostenible (pp. 51, 68 y 69).",
+      "a_quien_afecta": "Consumidores, fabricantes de alimentos y cosméticos, centros que experimentan con animales, autónomos, pymes, nuevas empresas y el sector turístico.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "economia",
+      "resumen": "Propone que los nuevos autónomos no paguen cuota a la Seguridad Social el primer año y el segundo si ganan menos del SMI, proteger por defecto su vivienda habitual y bonificar la cuota con enfermedad grave desde el primer día de baja (p. 46). Plantea revisar los umbrales que castigan el crecimiento de las pymes, simplificar obligaciones hasta 250 trabajadores, dar incentivos fiscales, laborales y administrativos a las empresas que aumenten de tamaño y hacer un test de productividad público antes de aprobar cualquier norma económica (p. 48). Incluye que una licencia obtenida en una comunidad valga en todas, declarar estratégicos de interés nacional los proyectos que creen al menos cien empleos y vender las participaciones estatales sin interés público acreditado (pp. 13, 32 y 48).",
+      "a_quien_afecta": "Autónomos nuevos y con enfermedad grave, pymes en crecimiento, startups, empresas con proyectos de más de cien empleos y empresas con actividad en varias comunidades.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "economia",
+      "resumen": "Propone movilizar 120.000 millones de euros mediante el Fondo España Crece para inversión productiva y aprobar una nueva Ley de Industria y Autonomía Estratégica (pp. 13 y 14). Plantea aumentar cada año la inversión pública en I+D hasta alcanzar el 1,25% del PIB y el 1,5% para 2035, aprobar el Estatuto del Personal Investigador y desplegar la Estrategia Deep Tech España 2026-2030 (p. 16). Incluye crear la Autoridad de Defensa del Cliente Financiero con resoluciones vinculantes hasta 20.000 euros y un Fondo de Reparación financiado por los productores (pp. 39 y 67).",
+      "a_quien_afecta": "Empresas industriales y startups, pymes y autónomos, personal investigador, clientes de servicios financieros y consumidores.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "economia",
+      "resumen": "Propone una cuota de autónomos de cero euros bajo el SMI y, por encima, una cuota progresiva desde 50 euros (p. 9). Plantea aprobar un Plan Nacional de Reindustrialización contra las deslocalizaciones y la pérdida de empleo industrial y proteger a España frente a la dependencia excesiva de materias primas, componentes y tecnologías críticas (p. 12). Incluye el control del déficit y la eliminación del gasto «superfluo e ideológico», y una Ley de Unidad de Mercado por la que lo legal en una región lo sea en toda España (pp. 10 y 28).",
+      "a_quien_afecta": "Autónomos, trabajadores y empresas de la industria, empresas que operan en varias comunidades y contribuyentes en general.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "educacion",
+      "resumen": "El BNG propone un marco educativo gallego propio: transferir a Galicia todas las competencias, centros, planes de estudio y becas, aprobar leyes gallegas de educación, FP, enseñanzas artísticas y universidad, y un modelo de derecho universal de 0 a 18 años en una única red pública gratuita (pp. 34-35). Plantea avanzar hacia la supresión de los conciertos, elegir democráticamente las direcciones de centros, sacar la asignatura de Religión del currículo y dedicar a educación al menos el 7% del PIB (p. 35). En la universidad incluye más financiación pública con referencia al 1,5% del PIB, la transferencia de la UNED, la UIMP y las becas, y programas de relevo generacional, vivienda y transporte del alumnado; además propone un servicio de igualdad y contenidos sobre diversidad, remunerar las prácticas y un protocolo estatal contra el acoso escolar (pp. 29, 36, 85-86).",
+      "a_quien_afecta": "Alumnado de 0 a 18 años y sus familias, profesorado, direcciones de centros, centros concertados, estudiantado y profesorado universitario, y alumnado en prácticas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "educacion",
+      "resumen": "CCa reclama financiación estatal para plazas públicas gratuitas de educación infantil de 0 a 3 años y para la formación profesional y dual, y propone orientar la cualificación hacia renovables, economía azul, industria, digitalización y cuidados (pp. 9, 14). También plantea recuperar programas estatales de inversión en infraestructuras educativas, exigir el cumplimiento y refuerzo de las becas del REF para quien estudia fuera de su isla y defender financiación plurianual para modernizar las universidades públicas canarias (pp. 10, 14).",
+      "a_quien_afecta": "Familias con hijos de 0 a 3 años, alumnado de FP, estudiantes canarios que cursan estudios fuera de su isla, universidades públicas canarias y empresas que participan en la FP dual.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "educacion",
+      "resumen": "Compromís propone avanzar hacia una inversión educativa del 7% del PIB estatal, prohibir la cesión de suelo público para centros privados, modificar la normativa de conciertos para que la red concertada sea subsidiaria de la pública y ampliar la red pública de 0 a 3 años hacia su gratuidad (p. 10). Incluye la gratuidad y universalidad del comedor escolar, más plazas de FP pública, una nueva ley de FP, protocolos contra el acoso escolar y la violencia digital, y más espacio para coeducación, educación afectivo-sexual y atención a la diversidad (pp. 10-11). En la universidad plantea mejorar las becas, un nuevo sistema de tasas para que quien menos recursos tiene pague menos, evaluación periódica del uso de recursos y limitar las universidades privadas (p. 17); también propone sacar la religión confesional del currículo, bioclimatizar 28.000 colegios, un fondo de compensación interterritorial y formación obligatoria en antirracismo y coeducación (pp. 33, 45-46, 51, 53).",
+      "a_quien_afecta": "Alumnado y familias de la escuela pública y concertada, familias con hijos de 0 a 3 años, alumnado de FP y de educación de adultos, estudiantado y profesorado universitario, personas jóvenes y alumnado LGTBIQ+.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "educacion",
+      "resumen": "El PNV propone preservar las competencias educativas de Euskadi frente a interferencias estatales, defender la capacidad normativa del Sistema Vasco de Becas y la de decidir sobre la gobernanza de sus universidades (p. 10). Plantea impulsar una educación inclusiva, plurilingüe e intercultural, reforzar la coeducación y la educación afectivo-sexual, y fortalecer la FP Dual y la colaboración entre universidades y empresas (p. 10).",
+      "a_quien_afecta": "Alumnado del sistema educativo vasco, alumnado de FP Dual, estudiantado universitario, universidades y empresas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "educacion",
+      "resumen": "ERC propone un pacto de país en defensa de la escuela catalana, un modelo de escuela pública, laica y gratuita con el catalán como lengua vehicular, y que todo el alumnado alcance competencia plena en catalán y, en el Arán, en aranés (p. 10). Exige competencias exclusivas en educación, destinar el 6% del PIB estatal a educación, financiación estatal de la educación pública y gratuita de 0 a 3 años y protección jurídica para centros y profesorado (p. 11). Incluye también un sistema propio de FP con financiación estable (p. 27), elevar al 1% del PIB el gasto en universidades públicas y al 1,5% el de investigación para 2030, y atribuir a AQU las competencias de ANECA en Cataluña (p. 45), además de endurecer los requisitos para crear universidades (p. 46) y reclamar competencias para homologar títulos extranjeros (p. 15).",
+      "a_quien_afecta": "Alumnado y familias de Cataluña y del Arán, profesorado y centros, familias con hijos de 0 a 3 años, alumnado de FP, universidades y centros de investigación, y personas con títulos extranjeros.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "educacion",
+      "resumen": "Más Madrid–Más País (M+J) propone reducir las ratios y reforzar la atención individualizada al alumnado, fortalecer la Formación Profesional pública e impulsar la educación para la ciudadanía y la justicia global (p. 46).",
+      "a_quien_afecta": "Alumnado en general y alumnado de FP pública.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PACMA",
+      "area": "educacion",
+      "resumen": "PACMA aboga por un Pacto de Estado por la Educación, más fondos para becas, plazas públicas de 0 a 3 años, gratuidad de libros con licencia «copyleft», una escuela pública laica, menor ratio de alumnado por docente y atención temprana de 0 a 6 años (pp. 59-61). Propone además equipos contra el acoso escolar, revisar conciertos, criterios de matriculación contra la segregación, departamentos de orientación en Secundaria y becas y FP contra el abandono (pp. 61-62, 66-67). Incluye contenidos de empatía y protección hacia los animales, educación ambiental sobre fauna silvestre, programas contra el abandono animal y cursos de etología canina y felina (pp. 15, 19, 24, 61).",
+      "a_quien_afecta": "Alumnado de todas las etapas y sus familias, alumnado de Secundaria y FP, profesorado, y profesionales y cuidadores de animales.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "educacion",
+      "resumen": "El PP propone sustituir la LOMLOE por un nuevo marco educativo acordado con docentes, inspectores, expertos y familias, con detección temprana de dificultades de lectura y cálculo, un plan de mejora para centros con más dificultades y elección de centro en todo el municipio (p. 51). Incluye conciertos de al menos seis años, la escuela infantil de 0 a 3 años gratuita al final de la legislatura con el Estado financiando la mitad, un protocolo nacional contra el acoso escolar y la carrera profesional docente (pp. 44, 51-52). Plantea también una PAU común, el derecho a recibir enseñanza en castellano en toda España, currículos de Historia con las Reales Academias, más plazas de FP y FP dual con las mismas reglas en toda España, autonomía universitaria y la beca como derecho por ley (pp. 32, 38, 52).",
+      "a_quien_afecta": "Alumnado y familias, profesorado, centros concertados y de educación especial, víctimas y autores de acoso escolar, alumnado de FP, empresas que forman alumnos y estudiantado universitario.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "educacion",
+      "resumen": "El PSOE propone universalizar la educación de 0 a 3 años con más escuelas infantiles públicas, ampliar becas, limitar la capacidad máxima por aula, aprobar el Estatuto del Docente, alcanzar una ratio de un profesional de orientación por cada 250 estudiantes y reducir el abandono escolar temprano por debajo del 10% antes de 2030 (pp. 51-52). Incluye el Plan Estratégico de Educación Inclusiva, la escuela rural, la gratuidad del comedor para alumnado en pobreza o exclusión, la adaptación climática de los centros y una estrategia para el uso educativo de la IA (pp. 52-53, 60). Plantea ampliar plazas, becas y titulaciones de FP (pp. 29, 53) y, en la universidad, complementos de beca, becas Erasmus de hasta 1.000 y 1.500 euros al mes, la gratuidad de la matrícula del primer curso de grado y una Ley de Equidad en el Acceso a la Universidad Pública (p. 54); también propone coeducación y educación afectivo-sexual obligatorias y un Plan Estatal contra el acoso escolar (pp. 83, 97).",
+      "a_quien_afecta": "Familias con hijos de 0 a 3 años, alumnado con necesidades educativas especiales, alumnado rural y en situación de pobreza, profesorado, alumnado de FP y de enseñanzas artísticas, personas adultas, estudiantado y profesorado universitario.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "educacion",
+      "resumen": "VOX propone unificar currículo, evaluaciones nacionales e inspección, reválidas y una EVAU única, garantizar la educación en español en todo el territorio y derogar la LOMLOE eliminando contenidos ideológicos ajenos a las materias académicas (p. 41). Plantea garantizar la libre elección de centro en todos los niveles, mejorar las becas, retirar los móviles de clase, reforzar la autoridad del profesor y un plan contra el acoso escolar (pp. 41-42). Incluye un número máximo por aula de alumnos de otras culturas o con dominio insuficiente del español, aulas de nivelación, el fin de los menús halal y del programa de Lengua Árabe y Cultura Marroquí, y la gratuidad real de la educación infantil de 0 a 3 años (pp. 42, 51).",
+      "a_quien_afecta": "Alumnado y familias, profesorado, alumnado de otras culturas o con dominio insuficiente del español, alumnado de comedores escolares, estudiantado universitario y de FP, y familias con hijos de 0 a 3 años.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "empleo",
+      "resumen": "Plantea transferir a Galicia las competencias en relaciones laborales, trabajo, empleo, formación y prestaciones, y desarrollar un Marco Gallego de Relaciones Laborales con convenios de ámbito gallego (pp. 9, 15 y 16). Propone derogar las contrarreformas laborales, restituir la indemnización de 45 días con máximo de 42 mensualidades y la autorización administrativa en los despidos colectivos, y promueve la jornada de 35 horas sin reducción salarial y el SMI en el 60 % del salario medio (pp. 15-16). Incluye también limitar los contratos fijo-discontinuo y a tiempo parcial, eliminar las ETT y los falsos autónomos, elevar la prestación por desempleo al 75% de la base durante 180 días y reforzar el Servicio Público de Empleo (pp. 16-18).",
+      "a_quien_afecta": "Personas trabajadoras asalariadas, con contratos fijo-discontinuo, a tiempo parcial o formativos, personas desempleadas, personal del sector público, jóvenes, personas trans, trabajadoras de atención a personas y sindicatos.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "empleo",
+      "resumen": "Defiende la financiación del Plan Integral de Empleo de Canarias y de programas del REF, priorizando a quienes más dificultades tienen y vinculando la formación a empleo estable (p. 12). Reclama incentivos fiscales y bonificaciones de cotizaciones ligados a mejoras salariales pactadas, y la bonificación del 50 % de las cuotas empresariales a la Seguridad Social en las tres islas verdes (pp. 12 y 13). Reclama aportación estatal al plan cuatrienal de empleo para menores de 35 años y propone reforzar las primeras experiencias laborales y las vías de retorno del talento (p. 14).",
+      "a_quien_afecta": "Personas con dificultades de empleo, personas con retribuciones públicas bajas, empresas, jóvenes menores de 35 años y residentes en las islas verdes de Canarias.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "empleo",
+      "resumen": "Propone reducir la jornada a cuatro días (32 horas semanales) sin bajar el sueldo, garantizar por ley que el SMI llegue al 60% del salario medio y recuperar los salarios de tramitación y la indemnización de 45 días por año en el despido improcedente (p. 6). Plantea reforzar la Inspección de Trabajo, condicionar ayudas y contratos públicos al cumplimiento de la normativa laboral y modificar el Estatuto de los Trabajadores para impedir que los hoteles externalicen a las «kellys» (pp. 6, 7 y 26). Incluye medidas de empleo juvenil, como un nuevo Decreto de Garantía Juvenil y un Plan Estatal de becas de primer trabajo, y planes de formación y reciclaje para trabajadores descarbonizados (pp. 28 y 48).",
+      "a_quien_afecta": "Personas trabajadoras, jóvenes, personas con enfermedades graves o crónicas, trabajadoras de cuidados y de la hostelería, personas del sector cultural, trabajadores descarbonizados, mayores y personas LGTBIQ+.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "empleo",
+      "resumen": "Reclama la competencia plena para establecer un salario mínimo propio por encima del estatal, y propone proteger un marco laboral propio y la prevalencia de los convenios vascos más favorables (p. 9). Plantea reforzar la Inspección de Trabajo, la prevención de riesgos laborales y la actuación frente al acoso laboral, facilitar la formación continua y ampliar la prestación por desempleo hasta un máximo de 36 meses (p. 9). Propone mejorar la protección de los autónomos al cesar su actividad y permitir compatibilizarla temporalmente con iniciar un nuevo proyecto (p. 15).",
+      "a_quien_afecta": "Personas trabajadoras, jóvenes, personas desempleadas, autónomos, alumnado en prácticas formativas y trabajadores de la Comunidad Autónoma Vasca.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "empleo",
+      "resumen": "Propone completar el traspaso de la Inspección de Trabajo y de las políticas pasivas de empleo a la Generalitat, y transferir competencias para fijar un salario mínimo catalán en 1.460 euros (pp. 15 y 20). Plantea derogar las reformas laborales de 2010 y 2012, recuperar los 45 días de indemnización y reducir la jornada máxima a 37,5 horas semanales sin bajada salarial (p. 26). Incluye medidas para autónomos, como adaptar las cotizaciones a los ingresos reales y garantizar cuota cero en enfermedad grave, además de ampliar los permisos parentales y proteger los derechos laborales ante la automatización (pp. 26, 27 y 34).",
+      "a_quien_afecta": "Personas trabajadoras, autónomos, autónomos de la cultura, madres y padres, investigadores, empleadas del hogar, educadoras y trabajadoras sociales y personas en prácticas académicas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "empleo",
+      "resumen": "Propone un Plan Estatal de Empleo Sénior con incentivos a la contratación estable y garantizar oportunidades de empleo a las personas con mayores dificultades de inserción laboral (pp. 16 y 29). Plantea crear una contribución a la Seguridad Social para las empresas que generan mucho valor con poco empleo (p. 25). Incluye también trabajo con derechos desde el primer día y la mejora de las oportunidades de empleo y reinserción laboral (pp. 22 y 87).",
+      "a_quien_afecta": "Personas mayores en búsqueda de empleo, personas con dificultades de inserción laboral, mujeres y empresas con poco empleo en relación con su valor generado.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PACMA",
+      "area": "empleo",
+      "resumen": "Propone fomentar el teletrabajo con incentivos fiscales y ayudas para equipamiento, e impulsar centros de «coworking» públicos (p. 36). Plantea fomentar la negociación colectiva sobre salud laboral, actualizar la Ley de conciliación y alcanzar un Pacto de Estado por la Igualdad en el Empleo contra la discriminación laboral y salarial (pp. 57, 64 y 65). Incluye un plan nacional para la formación, el empleo y la accesibilidad de personas con discapacidad, y una oferta turística alternativa sostenible (pp. 66 y 67).",
+      "a_quien_afecta": "Personas que teletrabajan, delegados de prevención, personas trabajadoras con responsabilidades de conciliación, personas con discapacidad y trabajadores del sector turístico.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "empleo",
+      "resumen": "Propone un cheque de formación en IA para cada trabajador, financiado con las cuotas de formación existentes (p. 45). Plantea bonificar el 100% de la cotización empresarial del primer trabajador durante un año y el 50% del segundo, y una menor cotización por desempleo a empresas con plantillas más estables que la media del sector (p. 46). Incluye ampliar los casos de prestación por cese de actividad, proteger hasta el 100% de la base reguladora a quien tenga enfermedades graves y de larga duración, y perseguir el fraude en prestaciones (p. 46).",
+      "a_quien_afecta": "Personas trabajadoras, empresas con pocos empleados o plantillas estables, autónomos, personas con enfermedades graves y de larga duración, personas fijas discontinuas y entidades de la Economía Social.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "empleo",
+      "resumen": "Propone blindar por ley el SMI por encima del 60% del salario medio, completar la reducción de la jornada a 37,5 horas e implantar un registro horario digital fiable (pp. 37 y 41). Plantea reformar el despido improcedente para adecuarlo a la Carta Social Europea revisada, recuperar los salarios de tramitación y aprobar una Ley de Negociación Colectiva (pp. 41 y 43). Incluye el Estatuto del Becario, el reconocimiento de protección por desempleo a becarios, planes de inserción laboral juvenil, el Plan Nuevo Rumbo para mayores de 45 años y garantizar la cuota de reserva del 2% para personas con discapacidad (pp. 42, 43 y 91).",
+      "a_quien_afecta": "Personas trabajadoras, becarios, jóvenes, mayores de 45 años, autónomos, personas con discapacidad, trabajadoras del hogar y cuidadoras, mujeres y empresas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "energia_clima",
+      "resumen": "Plantea una tarifa eléctrica gallega con reducción de peajes de transporte, transferir las competencias energéticas a Galicia con control público y reformar la Ley del sector eléctrico para que Galicia decida sobre instalaciones de más de 50 MW (pp. 9 y 54). Reclama que Galicia quede libre de eólica marina, retirar los POEM y recuperar garantías ambientales y participación en proyectos eólicos (pp. 50 y 54). Propone impulsar el autoconsumo, las comunidades energéticas, el ahorro energético y las renovables, y que la electricidad sea un bien básico con prohibición de cortes de suministro (p. 55).",
+      "a_quien_afecta": "Consumidores de electricidad en Galicia, comunidades energéticas y de montes, empresas electrointensivas, comarcas mineras y administraciones públicas gallegas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "energia_clima",
+      "resumen": "Exige una planificación estatal que sustituya centrales térmicas obsoletas por soluciones renovables, reducir la generación fósil a medida que avancen las renovables e impulsar la eólica marina en Gran Canaria con consenso social (p. 15). Reclama un programa estatal extraordinario para redes y subestaciones, ayudas para baterías y almacenamiento, y un marco favorable al autoconsumo colectivo y las comunidades energéticas (p. 15). Incluye programas de recarga de vehículos eléctricos, ayudas para taxis eléctricos y flotas de alquiler, conexión eléctrica de barcos en puerto, apoyo a metanol renovable, hidrógeno y combustibles sostenibles de aviación, y financiación de eficiencia y renovables en desaladoras y depuradoras (pp. 15-16).",
+      "a_quien_afecta": "Población y empresas de Canarias, taxistas, empresas de alquiler de vehículos, transporte marítimo y aéreo, comunidades energéticas y gestores de desaladoras y depuradoras.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "energia_clima",
+      "resumen": "Propone reducir el peso del mercado marginalista, implantar contratos a largo plazo a precio fijo en renovables, sacar de la factura el impuesto eléctrico y los cargos energéticos, y crear una empresa pública de generación, distribución y comercialización de renovables e hidroeléctricas (p. 29). Plantea alcanzar el 100% de titularidad pública de Red Eléctrica (con un mínimo del 51%), recuperar progresivamente la titularidad pública de las grandes eléctricas y mantener el calendario de cierre nuclear sin prórrogas (pp. 29-30). Incluye impulsar la generación distribuida y las comunidades energéticas, un fondo soberano de energías renovables y revisar la Ley 7/2021 para electrificar el sistema al 100% en 2030 y dejar los combustibles fósiles en 2040 (pp. 29-31).",
+      "a_quien_afecta": "Consumidores domésticos e industriales de electricidad, comunidades energéticas, empresas eléctricas y trabajadores de las centrales nucleares.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "energia_clima",
+      "resumen": "Propone acelerar las inversiones en redes eléctricas de Euskadi, agilizar el acceso y la conexión a las redes priorizando proyectos industriales viables, favorecer el almacenamiento y revisar la planificación energética estatal y el PNIEC (p. 15). Incluye destinar a compensar los costes indirectos del CO2 de la industria el máximo que permita la normativa europea, apoyar la cogeneración industrial, reforzar las infraestructuras de gas natural, favorecer el biometano y el hidrógeno renovable, y facilitar el autoconsumo compartido y las comunidades energéticas (p. 16). Plantea además ayudas para vehículos electrificados y renovación de flotas, más puntos de recarga, una estrategia de adaptación al cambio climático y una reforma integral de la Ley de Costas (pp. 17 y 20).",
+      "a_quien_afecta": "Industria vasca, consumidores vulnerables, propietarios de edificios, transportistas y profesionales con flotas, y usuarios de vehículos eléctricos en Euskadi.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "energia_clima",
+      "resumen": "Propone aumentar la capacidad de decisión y soberanía de la Generalitat sobre la red y el sistema eléctrico, una nueva Ley de Bases del Sector Eléctrico y traspasar a la Generalitat la gestión de las centrales hidroeléctricas al caducar sus concesiones (p. 30). Incluye ampliar el radio de autoconsumo colectivo a 10 km en general y a 20 km en áreas rurales, agilizar el autoconsumo compartido y ampliar ayudas al autoconsumo, el almacenamiento y las comunidades energéticas (p. 30). Plantea ayudas para electrificar climatización y movilidad y aislar edificios, una red de recarga hacia 4.000 puntos de más de 350 kW, y alinear la planificación climática con reducir emisiones de CO2 un 65 % en 2030 y un 95 % en 2040 (pp. 31-32).",
+      "a_quien_afecta": "Hogares, pymes, municipios rurales, pequeños inversores fotovoltaicos, transportistas y comunidades energéticas de Cataluña.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "energia_clima",
+      "resumen": "Respalda el compromiso de la Unión Europea de reducir al menos un 55% las emisiones de gases de efecto invernadero e impulsar un Plan Estatal de Adaptación a la Emergencia Climática (p. 53). Apoya una transición ecológica y una apuesta por las energías renovables cumpliendo con las evaluaciones de impacto ambiental, y propone crear un Fondo Generacional de la Energía (pp. 58-59). Plantea garantizar el derecho a la energía como derecho social y erradicar la pobreza energética (p. 77).",
+      "a_quien_afecta": "Hogares en situación de pobreza energética, población de zonas urbanas y trabajadores del sector primario.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PACMA",
+      "area": "energia_clima",
+      "resumen": "Propone integrar las renovables en el urbanismo, la edificación y el transporte e invertir en almacenamiento (p. 34), e impulsar las comunidades energéticas, especialmente en zonas rurales, mediante cooperativas (p. 55). Incluye aprobar un nuevo Plan Nacional de Mejora de Calidad del Aire (p. 35) y desarrollar una normativa nacional sobre contaminación lumínica en el alumbrado (p. 53). Plantea además implantar sistemas de retorno de envases (p. 45) y ampliar las zonas marinas y terrestres protegidas hasta al menos el 30% del territorio (p. 47).",
+      "a_quien_afecta": "Población de zonas rurales y urbanas, cooperativas, productores y consumidores de envases y administraciones responsables del alumbrado y la calidad del aire.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "energia_clima",
+      "resumen": "Propone eliminar el calendario de cierre nuclear, tramitar en cien días la extensión de vida útil de las centrales y aprobar una estrategia nacional de energía nuclear (p. 54). Plantea eliminar de inmediato el impuesto del 7% a la producción eléctrica, una Tarifa Social Única que sustituya los bonos eléctrico y térmico, contratos de electricidad a largo plazo y compensación automática a quien se quede sin luz por un fallo del sistema (p. 54). Incluye un plan de choque de 18 meses para los problemas de conexión a la red, facilitar el almacenamiento con baterías y centrales reversibles, y revisar los ritmos de descarbonización retirando obligaciones climáticas que dañen la competitividad, la industria o el empleo (pp. 37 y 54-55).",
+      "a_quien_afecta": "Hogares y consumidores de electricidad, industria, agricultores, centros de datos y titulares de proyectos con conexión a la red.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "energia_clima",
+      "resumen": "Propone impulsar las renovables hasta el 81% de generación eléctrica en 2030, la electrificación, un plan de bombeo hidroeléctrico, el almacenamiento, el hidrógeno renovable, las interconexiones y el autoconsumo y la eficiencia energética en viviendas, edificios públicos, pymes e industrias (p. 65). Plantea mantener el calendario de cierre de las centrales nucleares hasta 2035 con proyectos de transición justa, desplegar el Plan Social para el Clima y defender la reforma del mercado eléctrico europeo (p. 66). Incluye incentivos para vehículos de cero emisiones y recarga eléctrica, una Ley de Adaptación al Cambio Climático, un Fondo Nacional de Resiliencia Climática y el Plan Nacional de Restauración de la Naturaleza (pp. 20, 67-68 y 71-72).",
+      "a_quien_afecta": "Hogares vulnerables, microempresas, pymes, industria, transportistas, usuarios de vehículos y población de territorios afectados por el cierre nuclear o el cambio climático.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "energia_clima",
+      "resumen": "Propone una «bajada masiva» de los impuestos de la energía eléctrica a familias, empresas e industrias, eliminar el tope a la inversión en redes eléctricas y resolver con silencio positivo las autorizaciones de líneas y puntos de conexión (p. 11). Plantea recuperar el plan nuclear nacional, derogar el calendario de cierre de las centrales actuales y promover estudios para instalar centrales nucleares en emplazamientos adyacentes a las actuales (p. 12). Incluye acabar con las imposiciones climáticas como el Pacto Verde y las ZBE e impedir la instalación descontrolada de macroplantas de energías renovables (pp. 29 y 34).",
+      "a_quien_afecta": "Familias, empresas e industrias consumidoras de electricidad, promotores de renovables y nucleares, y conductores de las ciudades con ZBE.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "impuestos",
+      "resumen": "Propone aumentar la progresividad del IRPF, ajustar los tramos estatales al IPC gallego, tributar menos el trabajo y más los rendimientos del capital, y subir de 0,26 a 0,40 euros por km la cantidad exenta de gastos de locomoción. También plantea eliminar las deducciones del IRPF a propietarios que alquilen por encima del precio de referencia (pp. 13 y 43). En Sociedades plantea progresividad según el tamaño de la empresa, recargos a fondos y SOCIMIs que incumplan la función social de la vivienda, y pasar del 10 % al 25 % la reducción por reserva de capitalización para pymes. En IVA propone rebajas permanentes para alimentos básicos, energía y bienes esenciales, y fijar el Impuesto Especial sobre la Electricidad en el 0,5 % (pp. 13, 43 y 44). Incluye medidas contra el fraude y la evasión fiscal, una fiscalidad ambiental y gravar el negocio basado en la extracción masiva de datos (pp. 45 y 81).",
+      "a_quien_afecta": "Contribuyentes del IRPF según su renta, propietarios de vivienda en alquiler, fondos y SOCIMIs, pymes y empresas con domicilio fuera de Galicia, consumidores, empresas con sociedades en paraísos fiscales y plataformas digitales.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "impuestos",
+      "resumen": "Propone abolir los privilegios fiscales de las SOCIMI y las EDAV, eximir del ITP la compra de primera vivienda de menos de 350.000 €, subir el IBI desde el tercer inmueble y crear un gravamen del 10 % sobre el valor catastral de las viviendas adicionales. También plantea reducir la deducción por alquiler del 50 % al 20 % máximo, rebajar la deducción por amortización de inmuebles del 3 % al 1 % e implantar una tasa de 2 € por pernoctación en viviendas turísticas (pp. 5, 18 y 19). En el IRPF plantea deflactar las rentas inferiores a 30.000 €, igualar la progresividad de las rentas financieras con las del trabajo, suprimir la desgravación de los planes de pensiones privados y mantener y ampliar el Impuesto a las Grandes Fortunas (pp. 8 y 18). Propone reducir el IVA de salud, higiene femenina, cultura y veterinaria, subirlo a productos de lujo y contaminantes, y crear impuestos sobre el beneficio de empresas oligopolísticas y sobre el uso de robots que sustituyen mano de obra (pp. 18 y 19).",
+      "a_quien_afecta": "Propietarios de varias viviendas, compradores de primera vivienda, inquilinos, jóvenes en alquiler, autónomos, perceptores de rentas del trabajo y del capital, titulares de grandes patrimonios, grandes empresas, aerolíneas y confesiones religiosas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "impuestos",
+      "resumen": "Propone reducir de forma permanente el Impuesto Especial sobre la Electricidad al 0,5 %, según norma europea (p. 16). Favorece una reforma integral del IVA de los bienes esenciales, estudiando tipos cero o superreducidos, y revisar el IVA cultural (p. 21). Plantea modificar la Ley del IRPF para declarar exentas las indemnizaciones del Fondo del amianto (p. 34).",
+      "a_quien_afecta": "Consumidores de electricidad y de bienes esenciales, artistas y galerías, y afectados por el amianto.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "impuestos",
+      "resumen": "Propone subir el tipo máximo del IRPF al capital del 30 % al 35 %, bajar los tipos del trabajo bajo 35.000 euros y rebajar el IVA de alimentos básicos y productos de higiene (p. 21). Plantea hacer permanente el impuesto a grandes fortunas, subirlo sobre 10 M€ y crear un tramo desde 100 M€, recuperar el impuesto a las grandes energéticas y convertir en permanente el de la banca (p. 22). En vivienda propone subir IVA e ITP a la vivienda no habitual, elevar al 21 % el IVA del alquiler turístico y aplicar deducciones a rehabilitación y vivienda protegida (p. 19). Incluye también aplicar el IBI a propiedades de confesiones religiosas, poner fin a la ley Beckham y combatir el dumping fiscal entre comunidades y la elusión de grandes corporaciones digitales (pp. 8, 22 y 23).",
+      "a_quien_afecta": "Perceptores de rentas del trabajo y del capital, grandes fortunas, energéticas y banca, propietarios de vivienda no habitual y de alquiler turístico, autónomos y trabajadores de la cultura, confesiones religiosas y grandes corporaciones digitales.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "impuestos",
+      "resumen": "Propone impulsar una reforma fiscal y del sistema de cotizaciones a la Seguridad Social (p. 26). Plantea reforzar la progresividad del Impuesto sobre el Patrimonio, establecer una tributación efectiva mínima del 3 % sobre el patrimonio neto superior a 50 millones, incrementar la contribución fiscal de las grandes empresas y mantener y ampliar la Tasa Google (p. 27). Propone reforzar la lucha contra el fraude fiscal incrementando al menos un 40 % los recursos humanos, combatir los paraísos fiscales e investigar la titularidad de las sociedades para evitar eludir la fiscalidad (pp. 10 y 26).",
+      "a_quien_afecta": "Titulares de grandes patrimonios, grandes empresas, empresas de servicios digitales y sociedades con titularidad opaca.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PACMA",
+      "area": "impuestos",
+      "resumen": "Propone reducir el IVA de los servicios veterinarios al 4 % o a su exención e introducir deducciones en el IRPF de hasta el 10 % de los gastos veterinarios, con un máximo de 500 € (p. 31). Plantea incluir la protección animal en la casilla del 0,7 % del IRPF (p. 17). Propone un impuesto climático a los productos de origen animal y a las explotaciones ganaderas y avícolas según sus emisiones, con mayor tipo a los lácteos de origen animal y menor a sus equivalentes vegetales (pp. 37, 38 y 39). Incluye bonificar el 100 % del IRPF o IBI a pequeños propietarios que alquilen por debajo del precio medio y controles fiscales más rigurosos (pp. 70 y 72).",
+      "a_quien_afecta": "Personas con animales de compañía, explotaciones ganaderas y avícolas, consumidores de productos de origen animal, pequeños propietarios que alquilan vivienda y contribuyentes del IRPF.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "impuestos",
+      "resumen": "Propone actualizar con la inflación y elevar los mínimos personales y familiares del IRPF, refundir las deducciones familiares en una reembolsable con abono mensual, permitir la declaración conjunta de parejas de hecho y deducir el 40 % de la atención profesional a un mayor dependiente (pp. 35, 43 y 47). Plantea que quien cobre el salario mínimo no pague IRPF, deflactar la tarifa y reducir el IRPF a jóvenes de 18 a 35 años (100 % el primer año, luego 75 %, 50 % y 25 %) (p. 47). Propone que los autónomos que facturen menos de 85.000 euros no cobren ni declaren IVA, pasar a dos declaraciones semestrales, aplicar IVA del 0 % a alimentos básicos mientras dure la crisis de inflación y reducir impuestos en el medio rural, además de libertad de amortización, incentivos a startups y a proyectos tecnológicos (pp. 46, 47, 48, 49 y 50).",
+      "a_quien_afecta": "Familias, dependientes y sus cuidadores, jóvenes de 18 a 35 años, perceptores del salario mínimo, autónomos, empresas que invierten, startups, profesionales de grandes proyectos tecnológicos, habitantes del medio rural y personas con enfermedades graves o celiaquía.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "impuestos",
+      "resumen": "Propone un impuesto sobre solares residenciales ociosos, un impuesto progresivo a las viviendas de grandes tenedores y fondos sin alquiler asequible, y actualizar las deducciones fiscales de los inquilinos y las bonificaciones a los propietarios que reduzcan los precios del alquiler. También plantea un marco que habilite a los ayuntamientos a gravar las pernoctaciones turísticas (pp. 28, 30, 31 y 32). Plantea elevar progresivamente la tributación de las rentas del capital hasta el 35 % a partir de 300.000 euros, subir del 0,2 % al 0,4 % la tasa Tobin, crear una tasa a megayates, vuelos privados y billetes en clase business, y complementar el impuesto a servicios digitales (pp. 48 y 49). Propone convertir el mínimo exento por descendiente en un crédito fiscal reembolsable, activar una deducción progresiva en el IRPF cuando suban los precios e impulsar un impuesto mínimo global sobre grandes fortunas (pp. 37, 49 y 107).",
+      "a_quien_afecta": "Inquilinos, propietarios de vivienda, grandes tenedores y fondos, familias con descendientes, perceptores de rentas del capital, grandes tecnológicas, usuarios de yates, vuelos privados y clase business, y empresas cotizadas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "impuestos",
+      "resumen": "Propone reformar el IRPF con simplificación y bajada, reducir el tipo según el número de hijos, rebajar los tipos reducido y general del IVA con prioridad en productos esenciales, reducir el Impuesto de Sociedades y revisar y reducir todos los impuestos y tasas (p. 9). En vivienda plantea deducciones para inquilinos españoles, IVA del 0 % en la primera vivienda nueva, bonificación del 100 % del ITP en la de segunda mano, recuperar la deducción por inversión en vivienda habitual y fiscalidad agravada para compradores no comunitarios y operaciones especulativas de fondos o sociedades (pp. 24 y 25). Incluye rebajar el IGIC y suprimir el Arbitrio en Canarias, deducciones en zonas despobladas, un gravamen sobre las remesas al extranjero y menor fiscalidad para el arte, los espectáculos en vivo y productos infantiles (pp. 10, 19, 43 y 51).",
+      "a_quien_afecta": "Contribuyentes del IRPF y familias con hijos, empresas, consumidores, inquilinos españoles, compradores de vivienda, residentes en Canarias y en zonas despobladas, personas que envían remesas y el sector cultural.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "infraestructuras",
+      "resumen": "Reclama transferir puertos de interés general, aeropuertos, control aéreo, carreteras y ferrocarriles, y traspasar y nacionalizar la AP-9 y la AP-53 para que queden libres de peajes (pp. 9, 10 y 62). En ferrocarril, propone completar el Corredor Atlántico, actualizar la red interior gallega, implantar un servicio de proximidad, transferir las líneas interiores a una empresa pública gallega, GALTRÉN, y garantizar la alta velocidad Vigo-Oporto en 2030-2032 (pp. 60-62 y 86). También plantea terminar tramos de la A-54, A-74, A-76 y A-56, límites vinculantes a los macrocentros de datos privados, una ley de infraestructuras digitales públicas y el amarre de cables submarinos internacionales (pp. 62, 63, 79 y 81-83).",
+      "a_quien_afecta": "Usuarios del ferrocarril y de las autopistas de peaje en Galicia, conductores, motoristas y ciclistas, menores de 30 años que usan el transporte colectivo, y empresas y territorios cercanos a centros de datos.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "infraestructuras",
+      "resumen": "Reclama el cumplimiento de convenios de carreteras, agua e infraestructuras, un papel efectivo de Canarias y sus cabildos en puertos y aeropuertos, y la aplicación del régimen específico de los aeropuertos canarios (pp. 8 y 9). Propone un programa estatal plurianual de saneamiento y depuración, inversiones en agua depurada y compensaciones por el sobrecoste del agua desalada (p. 16). También reclama financiación estatal para guaguas, tranvías y el Tren de Gran Canaria, el Plan Específico de Telecomunicaciones y nuevos cables submarinos (pp. 17, 18 y 20).",
+      "a_quien_afecta": "Residentes en Canarias que usan transporte aéreo, marítimo y público, hogares y agricultores que dependen del agua, y cabildos.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "infraestructuras",
+      "resumen": "Propone un plan de mantenimiento, inversión y plantilla ferroviario, acelerar el Corredor Mediterráneo, reestructurar ADIF y crear la Autoridad Metropolitana de Transporte con una aportación estatal de 50 millones de euros (pp. 12 y 13). Incluye un plan de modernización de Cercanías en el País Valenciano con 1.500 M€ y 58 trenes nuevos, y actuaciones en las líneas C1, C2, C3, C5 y C6 y en las conexiones Alicante-València y Alicante-Murcia (pp. 57-59). También exige paralizar ampliaciones del Puerto de València y de aeropuertos, planificar los centros de datos con aguas regeneradas y renovables, y ejecutar obras hidráulicas pendientes como el Poyo (pp. 12, 22 y 36).",
+      "a_quien_afecta": "Usuarios de Cercanías y del transporte público en la Comunitat Valenciana, viajeros de tren y avión, transportistas de mercancías, taxistas, ciclistas, regantes y municipios afectados por obras hidráulicas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "infraestructuras",
+      "resumen": "Propone terminar la Y vasca con un calendario verificable, culminar la transferencia de las cercanías ferroviarias que discurren íntegramente por Euskadi y eliminar los pasos a nivel pendientes (p. 19). Incluye actuaciones en el Corredor Atlántico, la Variante Sur de Bilbao, la plataforma de Jundiz, las conexiones ferroviarias de los puertos de Bilbao y Pasaia y más autonomía de gestión para esos puertos (pp. 19 y 20). También plantea más inversión en el aeropuerto de Foronda, un modelo aeroportuario vasco coordinado y más inversión en abastecimiento, saneamiento y depuración de aguas (pp. 17 y 20).",
+      "a_quien_afecta": "Usuarios del ferrocarril y de los aeropuertos y puertos de Euskadi, personas con necesidades de accesibilidad, y el sector del transporte y la logística.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "infraestructuras",
+      "resumen": "Reclama traspasar la titularidad y gestión de los aeropuertos de Girona, Reus y Sabadell, ampliar la autonomía de las autoridades portuarias y traspasar carreteras estatales en Cataluña (p. 38). Propone culminar el traspaso integral de Rodalies, comprometer recursos plurianuales para el Plan de Rodalies 2026-2030, incluidos 1.400 millones adicionales, y acelerar el Corredor Mediterráneo (p. 40). También plantea acelerar el tercer carril de la AP-7, la A-27 y la N-260, una aportación estatal estructural para el transporte público y convertir en subvención directa 435 millones para desalinizadoras (pp. 21, 31, 38 y 39).",
+      "a_quien_afecta": "Usuarios de Rodalies y del transporte público en Cataluña, conductores de vías de alta capacidad, vecinos afectados por el ruido de aeropuertos, y transportistas y puertos.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PACMA",
+      "area": "infraestructuras",
+      "resumen": "Propone fomentar el desplazamiento peatonal, el transporte público y los medios no motorizados, y apostar por el ferrocarril electrificado (p. 36). Plantea tecnologías eficientes y digitalización de redes de agua, garantizar caudales y depuración (p. 46). También propone fomentar internet gratuito para personas en exclusión y formación digital para mayores (p. 75).",
+      "a_quien_afecta": "Peatones, usuarios del transporte público, personas en exclusión digital y personas mayores.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "infraestructuras",
+      "resumen": "Propone priorizar el mantenimiento y la seguridad de las infraestructuras, con la conservación por delante de las obras nuevas, y un Plan Nacional de Infraestructuras de más de 300.000 millones en 15 años junto al sector privado (pp. 13 y 36). En ferrocarril, plantea renovar vías y trenes del AVE, Cercanías y Rodalies, analizar las más de 1.000 limitaciones temporales de velocidad, hacer efectivas las indemnizaciones por retrasos y acelerar los corredores Mediterráneo, Atlántico y Ruta de la Plata (p. 36). También incluye un Pacto Nacional del Agua con hasta 40.000 millones de euros hasta 2030, presas y embalses justificados técnicamente, y mejoras en puertos y aeropuertos (pp. 20, 37 y 50).",
+      "a_quien_afecta": "Viajeros de tren, conductores y transportistas, regantes y agricultores, y población de zonas expuestas a inundaciones.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "infraestructuras",
+      "resumen": "Propone blindar la conservación y el mantenimiento de la red ferroviaria con 19.000 millones en 2026-2030, un Pacto de Estado por la Seguridad Ferroviaria y activar el ERTMS nivel 2 en la línea Madrid-Sevilla (pp. 19 y 20). Plantea modernizar Cercanías y Media Distancia, culminar los corredores Mediterráneo y Atlántico, reparar los firmes de 5.000 km de carreteras estatales con 1.629 millones de euros y desplegar el programa DORA III en aeropuertos (pp. 20 y 21). También incluye un mínimo vital de agua potable, más desalación y reutilización, bancos públicos de agua y un plan de ayudas a la banda ancha (pp. 18 y 68).",
+      "a_quien_afecta": "Usuarios del ferrocarril y del transporte público, víctimas de accidentes ferroviarios, conductores, jóvenes en periodos vacacionales y hogares que necesitan agua potable y banda ancha.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "infraestructuras",
+      "resumen": "Propone aumentar la inversión en carreteras, ferrocarril, obras hidráulicas, telecomunicaciones y puertos (p. 61). Plantea dar prioridad a la seguridad ferroviaria, al mantenimiento de la red y a Cercanías y Media Distancia, con una auditoría del estado de la red y la electrificación de las líneas convencionales (p. 61). También incluye concluir obras contra inundaciones y un Plan Nacional del Agua con interconexión de cuencas (p. 61).",
+      "a_quien_afecta": "Usuarios del ferrocarril, conductores, regantes y población de zonas inundables.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "inmigracion",
+      "resumen": "Promueve la regularización administrativa de las personas inmigrantes, impulsa reformas legales para garantizar sus derechos y facilitar su regularización, y agiliza la homologación de títulos extranjeros (p. 22 y 23). Plantea reforzar la inspección laboral, apoyar la afiliación sindical, reconocer el trabajo de cuidados de las mujeres inmigrantes y garantizar el acceso a la lengua gallega como parte de la acogida; demanda que el gallego acreditado cuente como criterio para la nacionalidad (pp. 22 y 23). Reclama recursos para las oficinas de extranjería, el cierre de los CIE, el fin de las devoluciones en caliente y el cumplimiento del derecho internacional sobre asilo, y defiende en la UE una política de migraciones respetuosa con el asilo y renegociar Schengen (pp. 23 y 91).",
+      "a_quien_afecta": "Personas inmigrantes, solicitantes de asilo y refugiadas, trabajadoras inmigrantes y mujeres inmigrantes dedicadas a los cuidados.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "inmigracion",
+      "resumen": "Exige que el Estado y la UE asuman los costes de salvamento, acogida y atención humanitaria, y financiación suficiente y previsible para menores extranjeros no acompañados en Canarias (pp. 18 y 19). Plantea una solidaridad territorial con indicadores y plazos conocidos, con traslados a otras comunidades al superar umbrales, y que el interés superior del menor guíe traslados, atención y continuidad educativa y sanitaria (p. 19). Propone reforzar la cooperación con países de origen y tránsito, luchar contra las redes que se lucran con las personas migrantes, que Canarias participe en el diseño de las políticas migratorias y combatir los discursos racistas (p. 19).",
+      "a_quien_afecta": "Personas migrantes, menores extranjeros no acompañados, Canarias y otras comunidades autónomas receptoras.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "inmigracion",
+      "resumen": "Propone vías de regularización, permiso de trabajo, acogida digna, asilo y homologación de títulos, y exige la eliminación de los CIE (p. 64). Plantea prohibir las devoluciones ilegales encubiertas bajo retornos voluntarios (p. 64). Incluye garantizar el acceso universal a la sanidad pública sin discriminar por situación administrativa, ampliar el sufragio activo de las personas migrantes, planes para facilitar su acceso a la administración y la justicia, y protección para mujeres migrantes en situación irregular (pp. 9, 51 y 55).",
+      "a_quien_afecta": "Personas migrantes, incluidas las que están en situación irregular, mujeres migrantes y solicitantes de asilo.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "inmigracion",
+      "resumen": "Promueve más competencias para Euskadi en migración y extranjería, incluida la asunción de competencias de extranjería por la Ertzaintza, y que Euskadi sea reconocida como frontera norte (p. 24). Reclama un acuerdo con el Estado sobre acogida descentralizada que rechace grandes centros como el de Arana, y plantea reducir plazos de residencia y trabajo, promover vías legales y seguras, la contratación en origen, la regularización prevista en la ley y la homologación de titulaciones (p. 25). Propone agilizar los procedimientos de asilo, una política europea común con reparto equilibrado de solicitantes, la integración social y laboral con aprendizaje del euskera, y más garantías en fronteras con alternativas a los CIE (pp. 25 y 28).",
+      "a_quien_afecta": "Personas migrantes, solicitantes de asilo y de protección internacional, trabajadores contratados en origen y administraciones vascas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "inmigracion",
+      "resumen": "Exige el traspaso integral de las competencias en migración y asilo a Cataluña (p. 14). Plantea condicionar el Reglamento europeo de Retorno a garantías de los derechos fundamentales, rechazar centros de retorno en países terceros y reclamar protección jurídica y asistencia legal independiente en todo el proceso migratorio (p. 14). Impulsa una nueva Ley de asilo que impida externalizar solicitudes y amplíe las vías legales de migración (p. 17).",
+      "a_quien_afecta": "Personas migrantes, solicitantes de asilo y personas sujetas a procedimientos de retorno.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "inmigracion",
+      "resumen": "Propone garantizar vías accesibles y estables de regularización de las personas migrantes que viven y trabajan en España, facilitar vías legales y seguras de migración con permisos de trabajo en origen y garantizar el salvamento de vidas humanas (pp. 30 y 51). Plantea poner fin a la externalización de fronteras, eliminar las devoluciones en caliente sin garantías, garantizar una acogida digna y poner fin al internamiento por motivos administrativos (p. 51). Incluye combatir el racismo y la xenofobia, garantizar la igualdad de derechos y la inclusión, y crear un Fondo Estatal plurianual para la integración y la convivencia (pp. 13, 14 y 52).",
+      "a_quien_afecta": "Personas migrantes, personas que llegan a las fronteras y comunidades que reciben población migrante.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "inmigracion",
+      "resumen": "Propone una autoridad única para la política migratoria, más agentes y medios de vigilancia en fronteras, la reforma de la Ley de Extranjería para el rechazo en frontera, y reducir plazos y trámites para retornar a quienes entraron ilegalmente en emergencia migratoria (pp. 18 y 19). Plantea visados por puntos, contrato en origen o visado temporal de búsqueda y cupos anuales por sector solo con países que colaboren en retornos, y prohibir por ley las regularizaciones masivas y hacer excepcional el arraigo (p. 19). Incluye expulsión de extranjeros condenados por determinados delitos, más tiempo en centros de internamiento, retorno voluntario con incentivos, determinar la edad de los menores en 72 horas, una nueva Ley de Nacionalidad y prioridad en ayudas para quienes tengan arraigo verificable (pp. 19, 20, 32 y 39).",
+      "a_quien_afecta": "Extranjeros que entran o residen en España, solicitantes de asilo, menores extranjeros, trabajadores extranjeros por sector y solicitantes de nacionalidad.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "inmigracion",
+      "resumen": "Propone desplegar el Plan de Integración y Ciudadanía 2026-2030 con una dotación inicial de 500 millones de euros y promover la participación social, cívica y política de las personas inmigrantes (pp. 92 y 93). Plantea ampliar las vías legales y seguras de protección internacional, reforzar el sistema de acogida y asilo, y defender una política migratoria europea que combine la lucha contra las mafias y las vías legales (pp. 92 y 110). Incluye crear una Unidad de Apoyo a la Infancia Migrante para las comunidades autónomas y reforzar la protección de menores migrantes que llegan solos (pp. 57 y 93).",
+      "a_quien_afecta": "Personas inmigrantes, solicitantes de protección internacional, niños, niñas y adolescentes migrantes no acompañados y comunidades autónomas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "inmigracion",
+      "resumen": "Plantea la expulsión inmediata de los «invasores», «Ni uno más», la repatriación de quienes estén en situación ilegal, la deportación por delitos graves y la «remigración» para extranjeros que no contribuyan o vivan de subsidios (pp. 7 y 15). Propone prohibir las regularizaciones masivas, suprimir el arraigo, endurecer los requisitos de nacionalidad y revisar las concesiones fraudulentas (p. 15). Incluye prioridad nacional en vivienda, ayudas, educación y sanidad, suprimir ayudas a inmigrantes ilegales, retirar fondos a ONG y a países que no colaboren en la gestión de flujos, y verificar la residencia legal para formalizar alquileres (pp. 16, 19, 23, 24 y 42).",
+      "a_quien_afecta": "Inmigrantes en situación ilegal, extranjeros residentes, menores extranjeros no acompañados, solicitantes de nacionalidad, ONG y países de origen.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "instituciones",
+      "resumen": "Propone modificar la Ley de paridad para que haya más mujeres en las listas y derogar la Ley de Amnistía de 1977. También plantea declarar imprescriptibles el genocidio y los delitos de lesa humanidad, reconocer el Pazo de Meirás como Lugar de Memoria, retirar la simbología franquista y modificar la Ley de Memoria para garantizar la tutela judicial de las víctimas del franquismo (pp. 25 y 30-31). Plantea derogar las leyes de Secretos Oficiales y de Seguridad Nacional, denunciar el Concordato y los Acuerdos con la Santa Sede, impulsar referendos vinculantes, incluida la autodeterminación, y reformar la normativa electoral con el método Hare, circunscripción gallega y sin mínimo del 5 %. Incluye también inhabilitar a cargos públicos por fraude fiscal, regular las puertas giratorias, suprimir la administración periférica del Estado y reconocer el voto a los 16 y 17 años (pp. 32, 41-42 y 86). Plantea además un marco de transparencia algorítmica con auditorías antisesgo, un registro público de sistemas de IA y la custodia pública de datos sanitarios, educativos y administrativos (pp. 75-80).",
+      "a_quien_afecta": "Mujeres candidatas, víctimas del franquismo y sus familias, cargos públicos, votantes en el exterior, la gente de mar, jóvenes de 16 y 17 años, usuarios de redes sociales y de sistemas de IA, y comunidades y pymes que generan datos.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "instituciones",
+      "resumen": "Propone elaborar un Estatuto de la Información, poner en marcha el Consejo Estatal de Medios Audiovisuales y reformar la Ley de Transparencia con un Consejo independiente. También plantea la rendición de cuentas anual de ministros, el control trimestral de la ejecución presupuestaria, la regulación estatal de los «lobbies», una oficina antifraude y garantías para los denunciantes de corrupción (pp. 16, 37-38 y 40-41). Plantea eliminar las tasas de reposición, reformar las oposiciones para priorizar conocimientos prácticos, reducir las diferencias de sueldo a un máximo de 1 a 3 y garantizar la atención presencial en la Administración del Estado (pp. 38-39). Reclama ampliar el voto a los 16 años, aprobar una ley de participación ciudadana, impulsar referéndums, eliminar el aforamiento parlamentario y judicial, reformar el Senado, derogar la Ley de Amnistía de 1977 y eliminar los privilegios de los acuerdos con la Santa Sede (pp. 39-40, 43-45 y 60).",
+      "a_quien_afecta": "Ciudadanía en general, periodistas y medios, altos cargos, funcionarios y aspirantes a oposiciones, jóvenes y asociaciones, denunciantes de corrupción, víctimas de la confiscación franquista y confesiones religiosas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "instituciones",
+      "resumen": "Propone aprobar una nueva Ley de Secretos Oficiales y promover la desclasificación de documentos sobre los sucesos del 3 de marzo de 1976 y el atentado del bar Aldana de Alonsotegi. También plantea esclarecer la muerte de Mikel Zabalza y asegurar el acceso a la documentación sobre la actuación policial en los Sanfermines de 1978 (p. 40). Plantea promover la aplicación íntegra de la legislación de Memoria Histórica y Memoria Democrática y reforzar la transparencia y la rendición de cuentas de las administraciones (p. 40). Incluye un Plan Estatal de Derechos Humanos con objetivos, plazos y seguimiento público, y el reconocimiento y la reparación de las vulneraciones de derechos de las mujeres durante el franquismo (pp. 26-27).",
+      "a_quien_afecta": "Víctimas de los sucesos citados y sus familias, mujeres que sufrieron vulneraciones de derechos durante el franquismo, y ciudadanía que solicita información a las administraciones.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "instituciones",
+      "resumen": "Propone una ley estatal sobre la desaparición forzosa de menores, el reconocimiento y la reparación de las víctimas del Servicio Militar Obligatorio, finalizar la Auditoría de Bienes Expoliados por el Franquismo y traspasar a la Generalitat el edificio de Via Laietana 43 para un centro memorial. También plantea una ley estatal de memoria y reparación LGBTI+ (pp. 8 y 24). Plantea iniciativas parlamentarias para fiscalizar al rey y la casa real y poner fin a la monarquía, la transposición de la Ley Electoral Europea sin umbrales de bloqueo y con voto desde los 16 años, y legislar sobre transparencia algorítmica, protección de datos y supervisión de la IA (pp. 8, 17 y 35). Propone modificar la Ley 7/1985 de régimen local, autorizar el endeudamiento gradual de los ayuntamientos, reformar la Ley de Haciendas Locales, derogar la LRSAL y recuperar competencias de la Generalitat sobre secretarios, interventores y tesoreros (pp. 43-44).",
+      "a_quien_afecta": "Víctimas de desapariciones forzosas, del servicio militar y de la persecución LGBTI+, jóvenes de 16 años en adelante, ayuntamientos y municipios turísticos, personal funcionario local y usuarios de servicios digitales y de IA.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "instituciones",
+      "resumen": "Propone democratizar el funcionamiento interno de los partidos, promover una Ley de Integridad del Debate Público y fomentar la reconciliación democrática y la convivencia cívica (pp. 69-70). Plantea reforzar la independencia del Poder Judicial mediante una reforma de la Ley, independizar los organismos de control, regulación y consulta, profundizar en la autonomía de cada poder del Estado y adoptar una nueva Ley de Secretos Oficiales. Incluye el reporte anual de los partidos en el gobierno sobre el cumplimiento de sus medidas (pp. 72-73). Plantea reconocer al Tercer Sector como agente de interés general, desarrollar la Ley 45/2015 de Voluntariado y reforzar los canales de participación infantil (pp. 74-75).",
+      "a_quien_afecta": "Partidos políticos, ciudadanía en el debate público, organizaciones del Tercer Sector, personas voluntarias y niños y niñas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PACMA",
+      "area": "instituciones",
+      "resumen": "Propone reformar la LOREG para que las mujeres representen al menos la mitad de las candidaturas, con circunscripción única, sin barrera electoral ni aval de firmas. También plantea reformar la Ley de ILP reduciendo firmas y ampliando plazos, y abrir espacios institucionales para consultas sobre políticas de gobierno (pp. 65 y 73-74). Plantea eliminar los aforamientos, implantar un sistema unificado de valoración del gasto, publicar los gastos electorales en 3 meses, aplicar las recomendaciones del GRECO y elegir por concurso público los consejos de RTVE (pp. 72-73 y 75). Incluye campañas informativas sobre el control de colonias felinas y sustituir la Dirección General de Derechos de los Animales por otra en el ministerio de Medio Ambiente (pp. 10 y 16).",
+      "a_quien_afecta": "Votantes y candidatas, partidos, cargos aforados, ciudadanía que promueve iniciativas legislativas, y animales y las personas que cuidan colonias felinas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "instituciones",
+      "resumen": "Propone una auditoría en cien días de todo el gasto de la Administración y las empresas del Estado, revisar ayudas, contratos y subvenciones, tener menos ministerios, altos cargos y asesores, fusionar organismos duplicados y ampliar las competencias de la AIReF. También plantea mantener las oposiciones como vía única de acceso al empleo público y eliminar tres normas vigentes por cada norma nueva (pp. 12-13). Plantea un decreto de reducción de cargas administrativas del 25 % (35 % para pymes) antes de 2029, ampliar la declaración responsable y el silencio administrativo positivo, garantizar la atención presencial, telefónica y digital, y automatizar trámites repetitivos con IA y supervisión humana (p. 14). Incluye reforzar el control del voto por correo, ampliar las causas de inelegibilidad, reforzar la Junta Electoral Central, refundar el CIS, reformar RTVE y EFE, crear una Autoridad Independiente de Transparencia y Buen Gobierno, registrar los lobbies y sustituir la Ley de Secretos Oficiales de 1968. Propone además derogar la Ley de Memoria Democrática y aprobar una ley de concordia (pp. 24-29 y 37).",
+      "a_quien_afecta": "Empleados públicos y aspirantes a oposiciones, pymes y empresas, personas que hacen trámites con la Administración, mayores y personas sin medios digitales, electores por correo, candidatos, periodistas y cargos públicos.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "instituciones",
+      "resumen": "Propone un supervisor independiente de las cargas administrativas, una ventanilla digital única, atención sin cita previa obligatoria con oficinas itinerantes rurales y notificaciones electrónicas con aviso por SMS o correo. También plantea una nueva Ley de Función Pública, una Ley Orgánica de Integridad Pública con una Agencia Independiente, una ley de grupos de interés y un mayor control de la contratación y las subvenciones (pp. 15, 18 y 101-102). Plantea un escaño ciudadano sin voto en las Cortes, reducir las firmas de la iniciativa legislativa popular, rebajar la edad de voto a 16 años, suprimir los aforamientos por delitos ajenos al cargo y facilitar el voto exterior. Incluye reforzar el seguimiento de la Ley de Paridad (pp. 85-86, 90 y 112). Incluye una Ley de gobernanza de la IA con etiquetado obligatorio, una Ley de Transparencia Algorítmica con auditorías independientes, la conversión en ley de la Carta de Derechos Digitales y completar el Plan de Exhumaciones (pp. 95-96 y 98).",
+      "a_quien_afecta": "Ciudadanía y empresas que hacen trámites, población rural, funcionarios, cargos públicos, jóvenes, personas españolas en el exterior, mujeres, usuarios de plataformas digitales y víctimas del franquismo.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "instituciones",
+      "resumen": "Propone simplificar al mínimo la burocracia, poner fin a la cita previa con derecho a atención presencial, crear un expediente digital único y ventanilla única, implantar la IA en las administraciones y derogar tres normas por cada una que se apruebe. También plantea el silencio administrativo positivo y la declaración responsable como regla general (pp. 27-28). Plantea una auditoría integral de las administraciones y de los gastos no imprescindibles, reducir el tamaño de la Administración Pública y reducir hasta su eliminación las subvenciones a partidos, sindicatos, patronales, ONG y observatorios. Propone además una auditoría del patrimonio inmobiliario del Estado y superar leyes como la de Memoria Democrática (pp. 29-30 y 57). Incluye que los jueces elijan a los doce vocales judiciales del CGPJ, garantizar la imparcialidad del Fiscal General del Estado, ilegalizar partidos o entidades que atenten contra la soberanía o la integridad territorial, reformar RTVE y reforzar la responsabilidad patrimonial de los cargos condenados por corrupción (pp. 55-58).",
+      "a_quien_afecta": "Personas que hacen trámites con la Administración, empresas y trabajadores, empleados públicos, partidos, sindicatos, patronales y ONG, jueces y magistrados, cargos públicos y medios públicos.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "otros",
+      "resumen": "Propone retirar la financiación pública a prácticas con maltrato animal e impulsar el bienestar animal en la educación, y transformar zoológicos y parques marinos hacia la recuperación, la conservación y la investigación. Plantea incorporar a los animales a la ley de violencia vicaria, impulsar una Estrategia Estatal de abandono cero e incluir la evacuación y el rescate animal en los protocolos de protección civil ante emergencias (p. 73).",
+      "a_quien_afecta": "Animales, titulares y gestores de zoológicos y parques marinos, organizadores de prácticas con maltrato animal, centros educativos, servicios de protección civil y personas con animales de compañía.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "pensiones",
+      "resumen": "Propone derogar las reformas de pensiones de 2011, 2013, 2021 y 2023, recuperar la jubilación ordinaria a los 65 años y la parcial a los 61, y eliminar las penalizaciones por jubilación anticipada, con jubilación voluntaria sin penalización con 35 años cotizados (pp. 18-19). Plantea revalorizar cada año las pensiones conforme al IPC real, incrementar las pensiones mínimas hasta igualarlas al SMI y elevar las no contributivas al 75 % del umbral de pobreza, además de cambiar el cálculo de la base reguladora a 10 años elegidos por la persona beneficiaria (pp. 18-19). Incluye financiar las pensiones con cargo a PGE e impuestos a la riqueza sin tope de bases, eliminar el Mecanismo de Equidad Intergeneracional, prohibir que las mutuas gestionen las contingencias, cubrir las lagunas de cotización de las mujeres y transferir a Galicia las competencias en Seguridad Social (pp. 9, 19 y 20).",
+      "a_quien_afecta": "Pensionistas, personas próximas a jubilarse, personas en profesiones penosas y marisqueo, mujeres con lagunas de cotización, autónomos, personas fijas-discontinuas, alumnado en prácticas, personas emigradas retornadas y personas con incapacidad permanente.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "pensiones",
+      "resumen": "Propone devolver la edad de jubilación a los 65 años, eliminar los coeficientes reductores en la jubilación anticipada voluntaria tras 40 años trabajados y acabar con el tope a la base máxima de cotización (p. 8). Plantea garantizar constitucionalmente la revalorización de las pensiones conforme al coste de la vida, aumentar las pensiones no contributivas hasta los 800 € y promover una compensación fuera del IRPF para pensionistas con bajos ingresos que cotizaron a mutualidades (p. 8). Incluye reconocer los periodos de cuidados con cotizaciones asimiladas, revisar el complemento de brecha de género y establecer mecanismos de jubilación progresiva en sectores con alto desgaste (pp. 47 y 52).",
+      "a_quien_afecta": "Pensionistas, personas con bajos ingresos que cotizaron a mutualidades, trabajadores en sectores de alto desgaste físico o psicológico, personas cuidadoras y mujeres con trabajo parcial o carreras interrumpidas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "pensiones",
+      "resumen": "Plantea revalorizar anualmente las pensiones conforme al IPC, mejorar progresivamente las pensiones mínimas y no contributivas y eliminar las penalizaciones de la jubilación anticipada con más de 40 años cotizados (p. 31). Propone reducir la brecha de género compensando interrupciones y lagunas de cotización por cuidados, reconocer los periodos de cuidados familiares y favorecer coeficientes reductores para personas cuidadoras no profesionales (p. 31). Aboga por un sistema público sostenible con más financiación y acuerdos en el Pacto de Toledo, favorece los sistemas de previsión social de empleo y plantea culminar el traspaso a Euskadi del régimen económico de la Seguridad Social (p. 31).",
+      "a_quien_afecta": "Pensionistas, personas con más de 40 años cotizados, personas cuidadoras no profesionales y personas con lagunas de cotización por cuidados.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "pensiones",
+      "resumen": "Propone blindar la revalorización de las pensiones públicas de acuerdo con la inflación y revalorizarlas según el IPC de cada territorio (p. 26). Plantea reconocer jubilación anticipada sin penalización en sectores penosos, conductores y Agents Rurals (p. 26). Incluye reforzar la pasarela al RETA de la Ley 2/2026 para mutualistas, reconociendo todos los años aportados (p. 27).",
+      "a_quien_afecta": "Pensionistas, trabajadores de sectores penosos, conductores, Agents Rurals y mutualistas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "pensiones",
+      "resumen": "Propone reconstruir el Pacto de Toledo y garantizar que las pensiones suban cada año con el IPC (p. 34). Plantea incentivar la jubilación activa mediante deducciones en el IRPF (p. 34). Incluye compatibilizar las pensiones de discapacidad con el empleo y ampliar el acceso a la jubilación anticipada de las personas con síndrome de Down (p. 35).",
+      "a_quien_afecta": "Pensionistas, personas en jubilación activa, personas con discapacidad y personas con síndrome de Down.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "pensiones",
+      "resumen": "Plantea seguir reforzando el sistema público de pensiones, culminar la convergencia de las pensiones mínimas, blindar constitucionalmente el sistema y su revalorización conforme al IPC, y acelerar la cuota de solidaridad (pp. 39-40). Propone reforzar el complemento por hijos, reconocer un año adicional de cotización por hijo, elevar del 20% al 30% la pensión de orfandad y crear una incapacidad temporal especial para procesos oncológicos al 75% de la base reguladora (pp. 40-41). Incluye aplicar los coeficientes reductores por penosidad mediante una cuenta individual, reducir penalizaciones en jubilación anticipada involuntaria, integrar las mutuas colaboradoras en la gestión pública y desarrollar la pasarela al RETA para mutualistas (pp. 40-42).",
+      "a_quien_afecta": "Pensionistas, perceptores de pensiones mínimas y no contributivas, familias con hijos, huérfanos, personas con procesos oncológicos, trabajadores en profesiones penosas y mutualistas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "rural",
+      "resumen": "Plantea reformar la Ley de la cadena alimentaria, impulsar circuitos cortos de transformación y comercialización, proteger el sector agroganadero frente a enfermedades emergentes y rechazar acuerdos comerciales como el UE-Mercosur (pp. 47-48). Reclama adaptar el PEPAC, gestión descentralizada y más fondos de PAC, cohesión y FEMPA, además de ayudas directas para la incorporación de jóvenes al sector primario y un programa de rehabilitación de viviendas vacías en el rural (pp. 48, 84-85). En pesca y mar, reclama que Galicia negocie directamente los tratados y la reforma de la PPC, eliminar la estabilidad relativa, reducir el IVA a los productos pesqueros, exentar la pesca artesanal de TAC y cuotas, y transferir puertos, Salvamento Marítimo y otras competencias (pp. 49-51). En monte, propone reconocer jurídicamente la propiedad comunal, incentivos fiscales para el aprovechamiento multifuncional y medidas contra el acaparamiento de tierras por macroproyectos extractivos (pp. 49, 68-69).",
+      "a_quien_afecta": "Explotaciones agroganaderas, jóvenes del sector primario, mujeres del medio rural, gente del mar y flota pesquera gallega, comunidades propietarias de montes y habitantes del rural.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "rural",
+      "resumen": "Exige que España defienda íntegramente el POSEI con su dotación diferenciada, reclama cada año el 100 % de la aportación estatal a sus ayudas adicionales y mecanismos estatales por si baja (p. 13). Reclama apoyo a la producción local y a los seguros agrarios, actualizar las medidas frente a sobrecostes de energía, piensos, fertilizantes y transporte, y financiación estatal contra plagas y para incorporar jóvenes a agricultura, ganadería y pesca (p. 13). Exige evaluar el impacto de los acuerdos comerciales sobre producciones sensibles y reclama reglas para la flota artesanal, pesca suficiente de atún rojo y patudo y acceso a fondos europeos (p. 13).",
+      "a_quien_afecta": "Agricultores, ganaderos y pescadores de Canarias, jóvenes que se incorporan al sector primario y flota artesanal.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "rural",
+      "resumen": "Propone un Estatuto de las Personas Labradoras y Ganaderas Profesionales, una mesa estable con organizaciones agrarias, un sistema de representatividad agraria por elecciones profesionales y mejor cobertura de contingencias y cese de actividad del autónomo agrario (pp. 22-23). Plantea reforzar la Ley de la cadena alimentaria para que los precios cubran costes, etiquetar qué parte del precio va al productor, crear canales de denuncia que protejan la identidad y perseguir la concertación de precios y el etiquetado confuso (pp. 22-23). Incluye una PAC adaptada a la agricultura mediterránea con regímenes simplificados hasta 5.000 €, controles a las importaciones, calendarios de reducción de pesticidas, protección del suelo agrario de alto valor, una moratoria de nuevas macrogranjas y medidas de movilidad y financiación contra la despoblación rural (pp. 23-24, 32, 46, 50, 61).",
+      "a_quien_afecta": "Personas labradoras y ganaderas profesionales, autónomos agrarios, mujeres del ámbito agrario, sector pesquero, municipios rurales y jóvenes del medio rural.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "rural",
+      "resumen": "Propone asegurar una PAC 2028-2034 con Plan Estratégico propio para Euskadi, reforzar la protección frente a prácticas comerciales desleales con una remuneración que cubra costes y reforzar la Ley de la Cadena Alimentaria (pp. 17-18). Plantea facilitar el relevo generacional con cotizaciones reducidas para jóvenes, más controles y trazabilidad a las importaciones y financiación para sanidad animal, seguros agrarios y emergencias (pp. 17-18). En pesca, plantea revisar la Política Pesquera Común, un reparto justo de cuotas, la renovación de la flota vasca, ayudas ante subidas de costes energéticos y mejor protección social de los trabajadores del mar (p. 18).",
+      "a_quien_afecta": "Agricultores y ganaderos, jóvenes del sector agrario, productores de Rioja Alavesa, sector forestal y de la madera, flota pesquera vasca y trabajadores del mar.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "rural",
+      "resumen": "Exige PAC y fondos pesqueros diferenciados en el MFP 2028-2034 con gestión directa de Cataluña, rechaza ratificar el acuerdo UE-Mercosur y pide cláusulas espejo en los tratados agroalimentarios (p. 32). Propone reformar la Ley de la cadena alimentaria para garantizar precios que cubran costes, actualizar costes agrarios, aumentar la aportación a ENESA para abaratar seguros agrarios y un presupuesto plurianual para modernizar regadíos (p. 33). Incluye medidas pesqueras sobre potencia de embarcaciones, régimen sancionador y capturas accidentales de atún rojo, un fondo estatal para municipios forestales, el uso de residuos agrarios en biogás y una revisión de la normativa veterinaria (pp. 31-33, 36).",
+      "a_quien_afecta": "Agricultores, ganaderos, pequeños productores y cooperativas, viticultores, flota pesquera, municipios forestales y profesionales veterinarios.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "rural",
+      "resumen": "Propone crear líneas de avales y microcréditos para inversión y circulante (p. 33). Plantea un plan de repoblación a 5 años de los territorios de la España Vaciada (p. 91). Incluye crear un Cuerpo Civil de Regeneración de la Naturaleza y Consejos Biorregionales (p. 92).",
+      "a_quien_afecta": "Emprendedores, habitantes de territorios de la España Vaciada y personas vinculadas a la regeneración de la naturaleza.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PACMA",
+      "area": "rural",
+      "resumen": "Propone abolir la caza, prohibir cazar con animales e incluir los perros de caza en la Ley de protección animal (pp. 13-14). Plantea eliminar las jaulas, prohibir la alimentación forzosa y el foie gras, limitar el tamaño de las granjas, cesar las autorizaciones de nuevas explotaciones ganaderas y avícolas, y prohibir la exportación de animales vivos (pp. 25-29, 39). Propone prohibir el glifosato y otros plaguicidas peligrosos, incrementar las subvenciones a la agricultura en detrimento de la ganadería, subvencionar alimentos vegetales y desarrollar un Plan de recuperación rural con servicios públicos cercanos y conectividad (pp. 38, 43-44, 68-71).",
+      "a_quien_afecta": "Ganaderos, cazadores, pescadores y acuicultores, agricultores y pequeños productores, consumidores y habitantes del medio rural.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "rural",
+      "resumen": "Propone un Pacto Nacional para el Campo, el Mar y el Monte, contemplar el coste de ruralidad en la financiación autonómica, hacer efectivo el Mecanismo Rural de Garantía y mantener sin recortes la financiación de la PAC, la pesca y el POSEI en 2028-2034 (p. 49). Plantea mejorar los seguros agrarios con un seguro de ingresos y rentas, reformar la Ley de la Cadena Alimentaria, exigir a los alimentos importados una producción equivalente a la nacional y un anticipo de hasta el 70% de la ayuda de la PAC a jóvenes agricultores (pp. 49-50). Incluye reformar la Ley de Montes, incentivos económicos y teletrabajo en zonas despobladas, servicios de proximidad en zonas rurales y una política pesquera común reformada con renovación de flota (pp. 20, 32, 50-51).",
+      "a_quien_afecta": "Agricultores y ganaderos, jóvenes agricultores, mujeres rurales y del mar, titulares forestales, sector pesquero y acuícola, cazadores y habitantes de zonas despobladas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "rural",
+      "resumen": "Propone una Ley de Agricultura Familiar y Profesional, una PAC que priorice explotaciones familiares y profesionales, reforzar los seguros agrarios, bancos de tierras para jóvenes y nuevos agricultores y reducir cargas burocráticas (p. 69). Plantea modernizar los regadíos, certificar y compensar la ganadería extensiva y la agricultura regenerativa, fomentar canales cortos de comercialización y una Estrategia de Alimentación Ecológica (pp. 68, 70). Incluye un Plan de Transición Justa para la pesca y la acuicultura, el acceso a servicios básicos y movilidad hacia el «País de los 30 minutos», un Plan de Empleo Verde Rural, vivienda asequible en el medio rural y la titularidad compartida agraria (pp. 61, 70-72, 79).",
+      "a_quien_afecta": "Explotaciones familiares y profesionales, jóvenes y nuevos agricultores, ganaderos, sector pesquero y acuícola, mujeres rurales y habitantes de municipios de menor tamaño.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "rural",
+      "resumen": "Plantea rechazar el acuerdo UE-Mercosur y todo acuerdo comercial que obligue a competir en desigualdad, incluir cláusulas espejo, recuperar el principio de preferencia comunitaria y aumentar los controles en frontera (p. 33). Propone derogar la normativa que imponga sobrecostes a agricultores, ganaderos y pescadores, crear un fondo de compensación, rechazar la reducción de fondos de la PAC y vincular su reparto a una variable que prime la despoblación (pp. 33-34). Incluye revisar la Política Pesquera Común, limpiar y aprovechar los montes, reforzar los medios contra incendios y endurecer las penas a los incendiarios, revisar el Sistema Español de Seguros Agrarios y favorecer el relevo generacional (pp. 34-35).",
+      "a_quien_afecta": "Agricultores, ganaderos y pescadores, explotaciones familiares, jóvenes del sector primario, cazadores y habitantes de zonas rurales y de interior.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "sanidad",
+      "resumen": "El BNG propone aumentar la financiación de la sanidad pública hasta al menos la media de inversión por habitante de la UE, garantizar su carácter público, reducir su privatización reformando la Ley 15/97 y aprobar una nueva Ley de universalización de la asistencia sanitaria (p. 37). Plantea ampliar la cartera común con ortoprótesis, rehabilitación, odontología, podología, óptica, logopedia y nutrición, y modificar el marco legal para poner fin a los copagos y repagos farmacéuticos (pp. 37-38). Incluye medidas sobre el personal sanitario, como eliminar la tasa de reposición, transferir los programas de formación MIR, EIR y PIR, crear un nuevo Estatuto Marco, recuperar las pagas extraordinarias íntegras y dar nivel 3 al personal TCAE, así como investigación y formación en salud de la mujer, salud LGTBI, enfermedades raras y salud mental juvenil (pp. 28, 29, 38-40 y 86).",
+      "a_quien_afecta": "Pacientes y usuarios de la sanidad pública, personal sanitario y estatutario, mujeres, personas LGTBI, personas con enfermedades raras, población penitenciaria y jóvenes.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "sanidad",
+      "resumen": "CCa defiende una financiación sanitaria que reconozca el coste de atender a ocho islas y exige una compensación estatal específica y actualizada por los sobrecostes sanitarios de la insularidad (p. 9). Reclama que la formación sanitaria especializada responda a las necesidades de Canarias, apoyo estatal a la movilidad de especialistas y que los PGE refuercen las partidas de salud mental en Canarias (p. 9).",
+      "a_quien_afecta": "Población y personal sanitario de Canarias, y personas con problemas de salud mental en las islas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "sanidad",
+      "resumen": "Compromís propone blindar la gestión pública de la sanidad derogando la Ley 15/1997, reforzar la atención primaria con financiación mínima, ratios y listas de espera máximas fijadas por ley, y crear una industria farmacéutica pública (p. 9). Plantea un Pacto estatal por la salud mental, suprimir el copago farmacéutico de pensionistas e incluir en el Sistema Nacional de Salud oftalmología, podología, nutrición, odontología y estomatología (p. 9). Incluye además medidas de salud de las mujeres, como un plan de investigación, protocolos para menopausia, garantía de la interrupción voluntaria del embarazo y distribución gratuita de productos menstruales, y otras sobre tabaquismo, bebidas energéticas, juego y transparencia en el precio de fármacos (pp. 10, 15, 41 y 49-57).",
+      "a_quien_afecta": "Pensionistas, pacientes de atención primaria y de salud mental, mujeres, jóvenes y menores, y personas usuarias de la sanidad pública.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "sanidad",
+      "resumen": "EAJ-PNV propone formar más especialistas sanitarios donde se necesitan adaptando el sistema MIR, permitir valorar el conocimiento de lenguas oficiales en el acceso a la formación especializada y reforzar la planificación de profesionales (p. 32). Plantea culminar las transferencias sanitarias pendientes a Euskadi, asegurar la participación de los Gobiernos Vasco y Navarro en los órganos estatales de medicamentos y negociar la reforma del Estatuto Marco con profesionales, sindicatos y comunidades (p. 32). Favorece la investigación de enfermedades raras y neurodegenerativas, incluido el Alzheimer, y la regulación del uso medicinal del cannabis (p. 32).",
+      "a_quien_afecta": "Personal sanitario, residentes en formación, ciudadanía de Euskadi y Navarra, y personas con enfermedades raras o neurodegenerativas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "sanidad",
+      "resumen": "ERC propone blindar una sanidad pública universal reforzando su capacidad asistencial, frenando la privatización e incrementando de forma estructural la financiación estatal para ampliar plantillas (p. 41). Plantea blindar las competencias exclusivas de la Generalitat en salud e impedir cualquier recentralización (p. 42). Incluye en el SNS la atención oftalmológica con financiación pública de gafas y lentillas, la atención bucodental integral y gratuita, y el acceso universal y gratuito a atención psicológica (p. 42).",
+      "a_quien_afecta": "Usuarios de la sanidad pública, personas que necesitan gafas, atención dental o psicológica, y personal sanitario.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "sanidad",
+      "resumen": "M+J propone reforzar la Atención Primaria, promover un Estatuto Marco del Personal Estatutario nacido del diálogo y reforzar la prevención de las adicciones (p. 38). Plantea garantizar el acceso universal a cuidados paliativos, avanzar en la estabilidad de la salud pública estatal y reforzar la prevención del suicidio y la salud mental de niñas, niños y adolescentes, con una red pública de hospitales de día (pp. 39, 41 y 42). Incluye leyes y modelos de atención para personas mayores y la atención temprana, y atención sanitaria a personas sin hogar y en prisión (pp. 16, 17, 19, 83 y 87).",
+      "a_quien_afecta": "Personas mayores, niñas, niños y adolescentes, personas con problemas de salud mental o adicciones, personas sin hogar, población penitenciaria y personal estatutario.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PACMA",
+      "area": "sanidad",
+      "resumen": "PACMA propone reintegrar al sistema sanitario público los servicios privatizados, reforzar la atención primaria, reducir listas de espera y garantizar una sanidad pública sin copagos (p. 56). Plantea programas de detección precoz de depresión y riesgo suicida, más psiquiatras y psicólogos, atención bucodental gratuita básica y más dietistas-nutricionistas (pp. 56, 58 y 59). Incluye también medidas veterinarias y de animales, como reconocer las clínicas veterinarias como centros sanitarios, un servicio veterinario social y salas en hospitales para recibir a los animales de pacientes (pp. 19, 31 y 32).",
+      "a_quien_afecta": "Usuarios de la sanidad pública, personas con problemas de salud mental, personas vulnerables que necesitan atención dental, y propietarios de animales de compañía.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "sanidad",
+      "resumen": "El PP propone un Pacto de Estado por la Sanidad Pública con las comunidades autónomas, un plan urgente de reducción de listas de espera y al menos 4.500 médicos más en Atención Primaria (p. 52). Plantea un Plan Nacional de Salud Mental 2027-2037 con financiación garantizada, más profesionales de salud mental, una estrategia frente a las adicciones y una ley nacional de cuidados paliativos (pp. 53-54). Incluye también una tarjeta e historial sociosanitarios únicos, reservas estratégicas de medicamentos, un Fondo Estatal de Innovación en Enfermedades Raras y un Plan Estratégico de Sanidad para Ceuta y Melilla (pp. 31, 49, 53 y 54).",
+      "a_quien_afecta": "Pacientes de la sanidad pública, médicos y personal sanitario, jóvenes, personas con enfermedades graves o raras, familias con hijos enfermos y población de Ceuta y Melilla.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "sanidad",
+      "resumen": "El PSOE propone consolidar una financiación sanitaria pública en torno al 7% del PIB, establecer la gestión directa como modalidad preferente, reforzar la atención primaria e impulsar un nuevo contrato social con los profesionales sanitarios (pp. 49-50). Plantea incorporar tratamientos dentales básicos para adultos con una ayuda de hasta 200 euros, garantizar atención psicológica gratuita con primera consulta en un máximo de 30 días y acceso universal a cuidados paliativos (pp. 49-50). Incluye una Estrategia de Salud de las Mujeres, una estrategia frente al cáncer, una Ley de Salud Digital, la regulación de vapeadores y medidas sobre salud sexual, enfermedades raras, cronicidad y electrodependencia (pp. 50-51, 58 y 81).",
+      "a_quien_afecta": "Usuarios de la sanidad pública, adultos que necesitan atención dental, jóvenes y personas con necesidad de atención psicológica, mujeres, pacientes oncológicos, crónicos y raros, personas celíacas y electrodependientes, y personal sanitario.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "sanidad",
+      "resumen": "VOX plantea una tarjeta sanitaria única con historia clínica compartida, reforzar la atención primaria y pediátrica y un plan nacional de reducción de listas de espera con publicación de indicadores (p. 37). Propone fomentar la colaboración público-privada cuando ayude a reducir demoras, mejorar las condiciones laborales de los profesionales, incentivos para plazas rurales o de difícil cobertura y contratos estables tras la residencia (pp. 37-38). Incluye reforzar la Estrategia Nacional del Cáncer y la de Salud Mental, prevención del cáncer de mama y ginecológicos, atención al embarazo, parto y posparto, un mapa de infraestructuras sanitarias y garantizar la objeción de conciencia de sanitarios y farmacéuticos (pp. 38 y 52).",
+      "a_quien_afecta": "Pacientes en lista de espera, personal sanitario, población de zonas rurales, mujeres, pacientes oncológicos y de salud mental, y farmacéuticos.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "seguridad_justicia",
+      "resumen": "Propone transferir seguridad pública, policía judicial y fiscal y tráfico, con despliegue de la Policía Gallega, y las Instituciones Penitenciarias (pp. 9 y 31). Plantea introducir el término feminicidio en la legislación, generalizar informes forenses de riesgo, revisar VioGén, dotar de plazas y medios las secciones de violencia sobre la mujer y combatir la violencia machista digital y la trata (pp. 25-26). Plantea derogar íntegramente la «Ley Mordaza», la prisión permanente revisable y la libertad vigilada, y eliminar la presunción de veracidad de las declaraciones de los agentes (p. 30).",
+      "a_quien_afecta": "Víctimas de violencia machista y de trata, menores, agentes de policía, personas condenadas y presas, participantes en protestas y personal de Justicia.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "seguridad_justicia",
+      "resumen": "Reclama al Estado la financiación de 1.400 plazas del Cuerpo General de la Policía Canaria (p. 10). Propone cambios para que Canarias pueda pedir la activación temprana de la UME en incendios de nivel 1 y acordar protocolos para desplazar preventivamente medios estatales ante fenómenos meteorológicos extremos (p. 17).",
+      "a_quien_afecta": "Policía Canaria, población de Canarias expuesta a incendios y fenómenos meteorológicos extremos, y servicios de emergencia.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "seguridad_justicia",
+      "resumen": "Propone reforzar Protección Civil y la UME con un fondo estatal estable para comunidades y ayuntamientos, reformar el sistema de avisos ES-Alert y revisar la respuesta frente a ciberataques contra infraestructuras críticas (pp. 35 y 43). Plantea cambiar la oposición memorística de acceso a la carrera judicial y fiscal por pruebas prácticas, impulsar diez nuevos juzgados, garantizar la independencia del CGPJ, que el Congreso ratifique al Fiscal General del Estado e impulsar el Servicio de Justicia Gratuita (pp. 41-42). Incluye derogar la «ley mordaza», prohibir las identificaciones policiales basadas en el perfil étnico, reforzar la respuesta a la violencia machista y a los delitos de odio y tipificar como delito las terapias de conversión (pp. 43, 51 y 54-55).",
+      "a_quien_afecta": "Población ante emergencias, aspirantes a la carrera judicial y fiscal, abogados del turno de oficio, personas sin recursos, fuerzas y cuerpos de seguridad, víctimas de violencia machista, de trata y de delitos de odio, y menores.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "seguridad_justicia",
+      "resumen": "Defiende el reconocimiento efectivo de la Ertzaintza como policía integral de Euskadi y como Policía judicial, su participación directa en los mecanismos europeos de cooperación policial y su acceso a las bases de datos policiales europeas (pp. 24 y 39). Propone reforzar la formación en perspectiva de género de jueces y fiscales, promover nuevos órganos judiciales especializados y reforzar la persecución de los delitos de odio contra personas LGTBIQ+ y la tipificación de las prácticas de conversión (pp. 26-27). Impulsa la reforma de la «ley mordaza», la reforma de la Ley Orgánica del Poder Judicial para recuperar la jurisdicción universal, rechaza la prisión permanente revisable y plantea crear un Consejo Vasco de Justicia (pp. 27-28 y 39).",
+      "a_quien_afecta": "Ertzaintza, jueces y fiscales, víctimas de violencia machista y de delitos de odio, personas LGTBIQ+, infancia y adolescencia, y personas presas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "seguridad_justicia",
+      "resumen": "Propone derogar la «Ley Mordaza» y suprimir los delitos de ofensa a sentimientos religiosos e injurias contra la Corona y las cámaras (p. 8). Plantea garantizar la competencia de los Mossos d'Esquadra como policía integral, ejecutar el traspaso de seguridad en puertos y aeropuertos de Cataluña, integrarlos en Interpol y Europol, crear el Consejo de Justicia de Cataluña y cumplir el acuerdo de 180 plazas judiciales entre 2026 y 2027 (pp. 14-15 y 42-43). Incluye reformar la LO 1/2004 ante la violencia económica, vicaria y digital, aprobar una ley integral contra la trata, reforzar la prohibición de prácticas de conversión y endurecer las penas por maltrato animal (pp. 24-25 y 36).",
+      "a_quien_afecta": "Mossos d'Esquadra, personas que participan en protestas, víctimas de violencia machista y de trata, personas LGTBIQ+, víctimas de racismo y animales de compañía.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "seguridad_justicia",
+      "resumen": "Incluye la medida «Ni un animal sufriendo por un pintalabios» y la protección y bienestar de los perros de caza (p. 61). Plantea defender el derecho internacional humanitario sin dobles raseros y combatir la trata de personas y la explotación sexual, especialmente de mujeres y niñas (pp. 66 y 79). Propone homologar las normas básicas de accesibilidad y funcionamiento de los centros penitenciarios y mejorar los procesos de selección del personal penitenciario (pp. 86-87).",
+      "a_quien_afecta": "Animales, mujeres y niñas víctimas de trata y explotación sexual, personas presas y personal penitenciario.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PACMA",
+      "area": "seguridad_justicia",
+      "resumen": "Propone impulsar una Ley de Bienestar y Protección de los Animales, con obligaciones mínimas de agua, alimento, refugio y atención, el deber de auxilio a animales desamparados y el reconocimiento legal de las entidades de protección animal y de los santuarios (pp. 7, 16-18). Plantea la esterilización obligatoria, prohibir el comercio y la exhibición comercial de animales de compañía, establecer el sacrificio cero y articular mecanismos para que los ayuntamientos apliquen el método CER (pp. 6 y 8-9). Incluye endurecer las sanciones, suprimir la multa alternativa en el delito de maltrato animal, crear unidades especializadas en la Fiscalía General del Estado y en las Fuerzas y Cuerpos de Seguridad y aprobar una Ley de Grandes Simios (pp. 22-23 y 30).",
+      "a_quien_afecta": "Personas con animales de compañía, ayuntamientos, entidades de protección animal, titulares de explotaciones y cotos, Fiscalía y fuerzas de seguridad.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "seguridad_justicia",
+      "resumen": "Propone reforzar las unidades contra el crimen organizado, con escáneres de contenedores, georradar para los túneles del narco, protección jurídica a los agentes que detengan narcolanchas, zona de especial singularidad para el litoral andaluz y reformas legales para asfixiar económicamente al crimen organizado (p. 15). Plantea reformar el delito de desórdenes públicos, endurecer penas por disturbios violentos con multa mínima de 3.000 euros por vandalismo activo, reformar la Ley del Menor para alargar el internamiento en delitos graves o de bandas y prohibir el burka y el niqab en los espacios públicos (pp. 16-17 y 19). Incluye recuperar el delito de sedición, derogar la Ley de Amnistía, una nueva Ley del Indulto, un Nuevo Estatuto Fiscal con mandato único de cinco años, que los jueces elijan a los doce vocales judiciales del CGPJ y reformar Protección Civil con un mando único (pp. 15, 20 y 25-27).",
+      "a_quien_afecta": "Agentes de Policía Nacional y Guardia Civil, funcionarios de prisiones, jóvenes en riesgo y menores, víctimas de violencia de género y de trata, comerciantes afectados por disturbios, personas afectadas por catástrofes, jueces y fiscales, y ayuntamientos.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "seguridad_justicia",
+      "resumen": "Propone aprobar leyes orgánicas contra la violencia vicaria, contra la trata y abolicionista del sistema prostitucional, un plan estatal de formación obligatoria en violencia de género para personal judicial y policial, y tipificar como delito específico los deepfakes sexuales, con órdenes de alejamiento digital para agresores (pp. 82-84). Plantea aprobar una nueva Ley de Seguridad Ciudadana que incorpore cámaras corporales, incrementar y redistribuir los efectivos de Policía Nacional y Guardia Civil, aprobar el primer Plan Nacional Integral contra el Narcotráfico, extender el modelo Barnahus, ampliar las plantillas judiciales y fiscales, fijar mandato de cinco años para la Fiscalía General y aprobar una nueva Ley de Enjuiciamiento Criminal (pp. 99-100). Incluye una Estrategia de Ciberseguridad Poscuántica, la Agencia Estatal de Protección Civil y Emergencias y un Cuerpo Facultativo de Técnicos de Protección Civil (pp. 18 y 67).",
+      "a_quien_afecta": "Víctimas de violencia de género, vicaria, digital y de trata, infancia, personal judicial y policial, Policía Nacional, Guardia Civil, bomberos, víctimas de ciberestafas, víctimas de abusos inmobiliarios y aspirantes a las carreras judicial y fiscal.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "seguridad_justicia",
+      "resumen": "Propone reducir la edad de responsabilidad penal del menor, ampliar la prisión permanente revisable, prohibir el burka y el niqab en espacios públicos, recuperar el delito de sedición, agravar la malversación de caudales públicos, prohibir indultos por corrupción política y agravar las penas por ofensas a España y sus símbolos (pp. 42, 45 y 55-56). Plantea dotar de medios, aumentar la inversión y la equiparación salarial de las Fuerzas y Cuerpos de Seguridad, reconocer como profesión de riesgo a la Guardia Civil y al Cuerpo Nacional de Policía, restablecer el OCON Sur y reforzar la ciberseguridad y el Sistema Nacional de Protección Civil (pp. 45-47). Incluye una ley contra el enaltecimiento del terrorismo, investigar los crímenes de ETA aún no resueltos, garantizar la imprescriptibilidad de los delitos de terrorismo y poner fin a los «privilegios penitenciarios» de los condenados por terrorismo (p. 57).",
+      "a_quien_afecta": "Menores que cometen delitos graves, personas condenadas por terrorismo, Guardia Civil, Policía, funcionarios de prisiones, víctimas del terrorismo, víctimas de violencia sexual y de maltrato, y población afectada por incendios, inundaciones y catástrofes.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "social",
+      "resumen": "Propone una renta social básica para toda la población gallega, reclama la transferencia del IMV para crear una Renta Gallega de Inclusión no inferior al SMI y un programa contra la pobreza y la exclusión, y plantea elevar la inversión en protección social al gasto medio de la UE (pp. 9 y 21). Reclama exigir al Gobierno la financiación del SAAD y la deuda superior a 3.000 millones, reforzar la red pública de cuidados, mejorar las condiciones laborales de las trabajadoras de cuidados y financiar la asistencia personal y la prestación CUME (pp. 40-41). Incluye medidas sobre violencia machista, con fondos y gestión pública del Pacto de Estado, sobre abolición de la prostitución, sobre familias monoparentales, conciliación y derechos de las personas LGTB+ y trans (pp. 24-29), además del 1 % de los PGE a juventud y planes contra la ludopatía (p. 86).",
+      "a_quien_afecta": "Población gallega en situación de pobreza o exclusión, personas vulnerables, personas dependientes y sus cuidadoras, personas con discapacidad, familias con menores con enfermedades graves, víctimas de violencia machista, mujeres en situación de prostitución, familias monoparentales, personas LGTB+ y trans, personas mayores y jóvenes.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "social",
+      "resumen": "Plantea exigir aportación estatal suficiente y estable para la dependencia, impulsar una estrategia de envejecimiento y cuidados de larga duración, y mantener programas estatales contra la pobreza infantil mientras Canarias supere la media (p. 9). Propone ayudas a la crianza, un sistema de cooperación para tramitar el ingreso mínimo vital en Canarias y su coordinación con las prestaciones autonómicas, financiación estatal para el Pacto de Estado contra la violencia de género y la inclusión de la discapacidad en los programas estatales y europeos (pp. 9-10). Reclama cooperación y recursos del Estado para la atención de canarios en el exterior y apoyo a quienes quieran retornar (p. 19).",
+      "a_quien_afecta": "Personas dependientes y mayores, infancia y familias con dificultades, perceptores del ingreso mínimo vital, víctimas de violencia de género, personas con discapacidad y canarios residentes en el exterior o que quieran retornar.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "social",
+      "resumen": "Propone una Ley básica estatal de servicios sociales con prestaciones mínimas, reformar la Ley de Dependencia, reconocer la ayuda a domicilio como servicio público esencial, aprobar un Estatuto de las Personas Cuidadoras y garantizar que el Estado asuma el 50% de la financiación de la dependencia (pp. 6, 11 y 57). Plantea reformar el Ingreso Mínimo Vital, obligar a la banca a facilitar cuentas de pago básicas, prohibir los cortes de suministro y reformar el bono social (pp. 12 y 30). Incluye una prestación universal por crianza de 200 € al mes por hijo, una ley de familias monoparentales, ampliar permisos y remunerar las ocho semanas de permiso por cuidado de hijos, además de medidas sobre adopción, acogimiento, soledad no deseada, derechos LGTBIQ+ y violencia machista (pp. 46-47 y 54-56).",
+      "a_quien_afecta": "Personas dependientes, mayores y cuidadoras, perceptores del Ingreso Mínimo Vital, hogares vulnerables, familias con hijos y monoparentales, familias adoptantes y de acogida, personas LGTBIQ+, mujeres víctimas de explotación sexual y trata, y menores.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "social",
+      "resumen": "Propone incorporar la emancipación juvenil como prioridad en vivienda, empleo y protección social, y reforzar la participación de los jóvenes en las políticas públicas (pp. 8 y 11). Plantea asegurar la aplicación de las leyes de igualdad, el cumplimiento del Pacto de Estado contra la Violencia de Género, la regulación de la violencia vicaria y la aplicación de los derechos LGTBIQ+ (pp. 26-27). Incluye una prestación para cuidadores no profesionales, la Ley ELA, la protección de electrodependientes, la prestación CUME, el fondo de víctimas del amianto y el refuerzo de las políticas contra la pobreza infantil y de protección de la infancia (pp. 33-35).",
+      "a_quien_afecta": "Jóvenes, mujeres y víctimas de violencia de género, personas LGTBIQ+, cuidadores no profesionales y sus familias, personas con ELA y electrodependientes, familias con menores con enfermedades graves, víctimas del amianto e infancia.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "social",
+      "resumen": "Propone traspasar recursos para una prestación universal por crianza desde 200 euros, automatizar el bono social eléctrico, hacer permanente la prohibición de cortes de suministro a hogares vulnerables y exigir recursos para adaptar el Ingreso Mínimo Vital al coste de vida en Cataluña (pp. 21, 27 y 28). Plantea equiparar las familias monoparentales a las numerosas, financiar las cotizaciones de personas cuidadoras familiares, reconocer las identidades no binarias y reformar la filiación en familias LGBTI+ (p. 24). Incluye garantías contra la discriminación racial y los discursos de odio, obligaciones a las plataformas digitales respecto a menores y garantizar créditos de 2.018 M€ en 2026 y 7.200 M€ en 2027 y el 50 % estatal de la Ley de Dependencia (pp. 25, 35 y 41).",
+      "a_quien_afecta": "Familias con hijos y monoparentales, hogares vulnerables, perceptores del Ingreso Mínimo Vital, personas cuidadoras familiares, personas dependientes, personas LGTBI+ y no binarias, minorías raciales y étnicas, y menores.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "social",
+      "resumen": "Propone reconocer el derecho a elegir cómo y dónde vivir durante la vejez, someter a control público permanente los servicios dirigidos a personas mayores y aprobar una Ley Estatal de Servicios Sociales con estándares mínimos comunes (pp. 17 y 76). Plantea garantizar la aplicación de la Ley Orgánica de Protección Integral a la Infancia y la Adolescencia, reforzar la protección de la infancia priorizando el acogimiento familiar y proteger a la infancia de la publicidad de alimentos poco saludables (pp. 19-21). Incluye medidas sobre atención psicológica, cuidados al final de la vida, el Pacto de Estado contra la Violencia de Género y los derechos de las personas LGTBI (pp. 23, 44 y 80-81).",
+      "a_quien_afecta": "Personas mayores, infancia y adolescencia, estudiantes, personas que necesitan atención psicológica o cuidados, víctimas de violencia de género y personas LGTBI.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PACMA",
+      "area": "social",
+      "resumen": "Propone una Estrategia Nacional de Seguridad Alimentaria y Nutrición con economatos sociales, huertos urbanos ecológicos para personas desempleadas o en riesgo de exclusión, un mínimo vital de agua y objetivos de reducción en la Estrategia contra la Pobreza Energética (pp. 54-55). Plantea aumentar la atención domiciliaria, los centros de día y las residencias públicas, eliminar barreras arquitectónicas, garantizar la accesibilidad cognitiva y reforzar la educación en diversidad sexual (pp. 79-81). Incluye políticas familiares públicas de conciliación (p. 65), el acceso de animales al transporte público, albergues y residencias (p. 19) y menús 100% vegetales en dependencias públicas (p. 82).",
+      "a_quien_afecta": "Personas desempleadas o en riesgo de exclusión, hogares con pobreza energética, personas mayores y dependientes, personas con discapacidad, familias, personas LGTBI y personas con animales de compañía.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "social",
+      "resumen": "Propone un Pacto de Estado por la Dependencia con aportación estatal del 50% del coste público, que el Estado cotice por quien deje de trabajar o reduzca jornada para cuidar a un familiar dependiente, atención temprana y apoyos de por vida a personas con discapacidad y medidas contra la soledad no deseada (p. 35). Plantea ampliar los permisos por nacimiento, incentivos a empresas, bonificar al 100% la cuota de autónomos que vuelvan tras el permiso durante dos años y que el concebido no nacido compute para las ayudas a la familia (pp. 44-45). Incluye un reconocimiento común de familia monoparental, reducir la pobreza infantil y prohibir las redes sociales a menores de 14 años con autorización paterna hasta los 16, controles parentales y sanciones a plataformas (p. 45).",
+      "a_quien_afecta": "Personas mayores y dependientes, cuidadores familiares, personas con discapacidad, familias con hijos y monoparentales, autónomos con hijos, empresas y menores usuarios de redes sociales.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "social",
+      "resumen": "Propone crear pasarelas para automatizar el IMV, un bono social único y de oficio, una prestación estatal por crianza progresiva, una Cuenta de Futuro pública de 1.000 euros al nacer y cubrir cuatro semanas del permiso parental con el 100% de la base reguladora (pp. 38, 40 y 56). Plantea aprobar la primera Ley de Servicios Sociales, consolidar el Servicio de Ayuda a Domicilio, aplicar la reforma de discapacidad y dependencia con un plan plurianual y desplegar el Marco Estratégico Estatal de las Soledades 2026-2030 y la Estrategia Nacional para la Nueva Longevidad (pp. 57-59). Incluye una nueva Estrategia Estatal contra las Violencias Machistas, medidas de corresponsabilidad en los cuidados, edad mínima de 16 años para usar redes sociales y la Ley de Familias con garantía de derechos LGTBI (pp. 80-82, 95 y 97).",
+      "a_quien_afecta": "Hogares con menores, perceptores del IMV, personas mayores, dependientes y con discapacidad, personas cuidadoras, personas sin hogar, mujeres y víctimas de violencia machista, familias monoparentales, personas LGTBI, pueblo gitano y menores usuarios de redes sociales.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "social",
+      "resumen": "Propone medidas de apoyo a las familias, fomento de la natalidad y ayuda a la crianza, y extender a todas las familias, desde el primer hijo, los beneficios de las familias numerosas (pp. 11 y 51). Plantea bonificaciones fiscales a empresas por conciliación, bonificar al 100% la ayuda en el hogar, reforzar los derechos de conciliación y más fondos para servicios complementarios de aula en los centros educativos (pp. 51 y 53). Incluye reforzar los recursos de dependencia, los programas contra la soledad no deseada, las plazas en residencias y las bonificaciones por discapacidad, y un plan de retorno para españoles que emigraron (pp. 19 y 52).",
+      "a_quien_afecta": "Familias con hijos, trabajadores y empresas con medidas de conciliación, personas dependientes y sus familiares, personas mayores, personas con discapacidad, menores y españoles emigrados que deseen volver.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "BNG",
+      "area": "territorial",
+      "resumen": "Propone un nuevo modelo de financiación basado en el concierto económico y la bilateralidad con el Estado, una Hacienda Gallega con política fiscal propia y reformar la participación de los concellos en los ingresos del Estado (pp. 8 y 9). Plantea transferir las competencias de costas y dominio público marítimo-terrestre, salvamento marítimo, guardacostas y centros del Instituto Español de Oceanografía, y reclama las de telecomunicaciones, audiovisual, infraestructuras digitales y ciberseguridad (pp. 9, 10 y 75). Propone suprimir las diputaciones provinciales traspasando sus funciones, derogar transitoriamente la reforma local y permitir el uso incondicional de los remanentes municipales (pp. 42 y 45).",
+      "a_quien_afecta": "Administración gallega, concellos y diputaciones provinciales.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "CCa",
+      "area": "territorial",
+      "resumen": "Exige un calendario verificable para completar los traspasos pendientes del Estatuto de Autonomía, incluidos el transporte aéreo interinsular y las autorizaciones de trabajo para extranjeros, y se opone a la recentralización. Reclama ampliar los traspasos de gestión del litoral y promover las reformas necesarias para una Ley Canaria de Residencia (pp. 8, 11 y 15). Defiende la integridad del REF y su actualización, y exige un sistema de financiación autonómica que reconozca el coste de un archipiélago alejado y tenga en cuenta población efectiva, fragmentación, pobreza y envejecimiento (p. 8). Reclama financiación sostenida y contratación de emergencia para la recuperación de La Palma, y recursos, estabilidad en la participación en tributos del Estado y uso de remanentes de tesorería para municipios y cabildos (pp. 18, 20 y 21).",
+      "a_quien_afecta": "Administración canaria, municipios y cabildos, población de La Palma y personas extranjeras con autorización de trabajo en Canarias.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "COMPROMIS",
+      "area": "territorial",
+      "resumen": "Propone reformar la financiación autonómica con criterios poblacionales y de servicios públicos, apostar por un concierto económico, exigir la condonación de la deuda histórica y poner en marcha un fondo transitorio de nivelación; reclama además el pago de la deuda del Estado por atender a desplazados e inversiones acordes a la población (p. 57). Plantea ampliar el Fondo de Compensación Interterritorial, crear un sistema público de seguimiento de las inversiones estatales, traspasar a la Generalitat competencias en costas, puertos, aeropuertos, Cercanías, IMV e inspección laboral e impulsar una Ley de Sedes del Estado (p. 59). Propone avanzar hacia un Estado plurinacional, recuperar el derecho civil valenciano, superar la provincia, suprimir las diputaciones, reconocer las comarcas y reformar el marco de áreas metropolitanas y la financiación local, con asistencia extraordinaria a municipios afectados por catástrofes (pp. 34, 36, 60 y 61).",
+      "a_quien_afecta": "Generalitat Valenciana, municipios (en especial pequeños, rurales y dispersos, y los afectados por catástrofes), comarcas y áreas metropolitanas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "EAJ-PNV",
+      "area": "territorial",
+      "resumen": "Plantea asegurar que las reformas fiscales respeten el Concierto Económico, ampliar la capacidad normativa de las Haciendas Forales en el IVA y los Impuestos Especiales, modificar la Ley del Concierto Económico, dar mayor margen de inversión y facilitar el uso de superávits (pp. 21 y 39). Propone asegurar el cumplimiento íntegro del Estatuto de Gernika, culminar las transferencias pendientes, rechazar la recentralización, establecer mecanismos bilaterales y de resolución de conflictos y avanzar hacia un Concierto Político; incluye proteger los Derechos Históricos, defender el Amejoramiento del Fuero de Navarra y apoyar el derecho de Trebiño y Villaverde Turtzioz a pronunciarse sobre su futuro (pp. 38 y 39). Impulsa la gestión descentralizada de los fondos europeos con participación directa de Euskadi y acuerdos estables entre administraciones ante los cambios demográficos (pp. 35, 41 y 42).",
+      "a_quien_afecta": "Administraciones vascas (Gobierno Vasco, diputaciones forales y ayuntamientos), Navarra y la ciudadanía de Trebiño y Villaverde Turtzioz.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "ERC",
+      "area": "territorial",
+      "resumen": "Propone negociar un referéndum de autodeterminación en Cataluña con acompañamiento internacional y derogar el artículo 145 de la Constitución para facilitar la cooperación entre Cataluña, Valencia y Baleares (pp. 8 y 9). Plantea un nuevo modelo de financiación, condonar los más de 17.100 millones de euros del FLA, mejorar la financiación local y constituir el Consorcio de la Zona Franca con mayoría de instituciones catalanas (p. 12), además de recaudar desde Cataluña todos los impuestos generados en ella y traspasar los inmuebles del Estado (p. 14). Reclama traspasos de las cuencas catalanas de la CHE, de la ordenación del espacio marítimo y del tráfico y la seguridad vial (pp. 31, 33 y 43).",
+      "a_quien_afecta": "Generalitat de Cataluña, administraciones locales catalanas y, en algunas medidas, Valencia y Baleares.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PP",
+      "area": "territorial",
+      "resumen": "Plantea para Ceuta un Plan de Reactivación, devoluciones de quienes entraron ilegalmente y refuerzo de la frontera, de la plantilla del hospital y de las dependencias policiales, y para Ceuta y Melilla un nuevo modelo de financiación, una ley urbanística y su incorporación al Comité Europeo de las Regiones (pp. 14 y 15). Propone que el Estado ejerza por sí mismo sus competencias exclusivas, no fragmentar la gestión de los tributos ni la caja única de la Seguridad Social, no ceder a cambio de apoyos de investidura igualdad básica, Hacienda, Seguridad Social, Defensa ni fronteras, y reforzar la Alta Inspección (pp. 15, 25 y 31). Incluye una Conferencia de Presidentes para un nuevo modelo de financiación autonómica con fondo de nivelación transitorio, un nuevo sistema de financiación local, un Estatuto de los Pequeños Municipios, ayudas a municipios de menos de 250 habitantes y la compensación de la insularidad con incentivos para empleados públicos en destinos insulares (pp. 33 y 34).",
+      "a_quien_afecta": "Ceuta y Melilla, comunidades autónomas, ayuntamientos (en especial pequeños), territorios insulares y ultraperiféricos, y empleados públicos en destinos de difícil cobertura.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "PSOE",
+      "area": "territorial",
+      "resumen": "Propone impulsar el nuevo sistema de financiación autonómica que aporta 21.000 millones de euros adicionales, avanzar en la asunción parcial por el Estado de 83.000 millones de euros de deuda autonómica, potenciar el Fondo de Compensación Interterritorial y adaptar la Ley de Estabilidad Presupuestaria al marco europeo (pp. 47, 60 y 61). Plantea garantizar una financiación local suficiente con apoyo a municipios en dificultad, actualizar la Ley de Bases del Régimen Local, evaluar el impacto territorial de las políticas estatales y descentralizar servicios y sedes de la Administración General del Estado (pp. 57, 61, 71 y 91). Incluye reformar el Senado, institucionalizar la Conferencia de Presidentes, aprobar una ley de cooperación interadministrativa, desarrollar el Régimen Económico y Fiscal de Canarias y aprobar un plan integral para Ceuta y Melilla (pp. 91, 92 y 110).",
+      "a_quien_afecta": "Comunidades autónomas, gobiernos locales (en especial municipios con dificultades financieras), Canarias, Ceuta y Melilla.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "VOX",
+      "area": "territorial",
+      "resumen": "Propone planes de inversiones para Ceuta y Melilla, junto con medidas para evitar futuras «invasiones» y reparar las consecuencias de la ocurrida en Ceuta, y para el Campo de Gibraltar (pp. 7 y 48). Plantea actualizar el complemento de insularidad del personal en activo del sector público estatal en las islas y mejorar las ayudas al transporte a la Península (p. 10). Incluye un plan de inversiones para barrios, municipios y provincias abandonadas y medidas para garantizar servicios públicos, igualdad y derechos en toda España (p. 20).",
+      "a_quien_afecta": "Habitantes de Ceuta, Melilla y el Campo de Gibraltar, personal del sector público estatal en las islas y residentes en barrios, municipios y provincias abandonadas.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "SALF",
+      "area": "vivienda",
+      "resumen": "Propone abaratar un 35 % la primera vivienda y agilizar el desalojo de okupas en 48 horas e inquiokupas en 30 días (p. 5). Plantea ceder suelo público para construir vivienda en propiedad, licencias en un mes por silencio positivo y avales del Estado para la entrada de jóvenes y el cobro del casero (pp. 6-7). Elimina ventajas fiscales a fondos de inversión y fija licencias automáticas de edificación en 15 días (pp. 6-7).",
+      "a_quien_afecta": "Jóvenes compradores, propietarios de viviendas alquiladas, promotores inmobiliarios y fondos de inversión.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "SALF",
+      "area": "impuestos",
+      "resumen": "Plantea eliminar el IBI, fijar un mínimo exento de 35.000 euros en el IRPF y suprimir la cuota a los autónomos (pp. 7 y 12). Propone rebajar Sociedades al 20 %, suprimir Sucesiones, Donaciones y Patrimonio, y blindar el IVA al 4 % en luz y agua (p. 13). Incluye un techo constitucional a los impuestos, exigir mayoría de tres quintos para subirlos y proteger el uso de efectivo (pp. 13-15).",
+      "a_quien_afecta": "Contribuyentes del IRPF, autónomos, empresas, herederos y consumidores de luz y agua.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "SALF",
+      "area": "empleo",
+      "resumen": "Plantea rebajar la cuña fiscal del 41 al 29 %, implantar un contrato único con mochila austriaca y perseguir el absentismo laboral (p. 30). Propone remunerar obligatoriamente a los aprendices frente a los becarios no pagados y desregular trámites de contratación (p. 31). Incluye computar como parados a los fijos discontinuos en periodos de inactividad y garantizar que el salario supere a las ayudas públicas (p. 32).",
+      "a_quien_afecta": "Trabajadores por cuenta ajena, jóvenes en formación, personas con contratos fijos discontinuos y empresas contratantes.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "SALF",
+      "area": "pensiones",
+      "resumen": "Propone blindar las pensiones vigentes en la Constitución, implantar un sistema mixto con cuenta individual heredable y permitir la jubilación activa total (p. 20). Plantea fijar una pensión mínima de 1.000 euros mensuales para carreras de 35 años cotizados (p. 21). Elimina las pensiones específicas de los cargos políticos y sitúa el Fondo de Reserva fuera del control gubernamental (p. 21).",
+      "a_quien_afecta": "Pensionistas actuales, trabajadores próximos a jubilarse y cotizantes al sistema público de pensiones.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "SALF",
+      "area": "sanidad",
+      "resumen": "Propone una central estatal de compras sanitarias, un límite de 60 días para intervenciones quirúrgicas y equiparar los sueldos de médicos y enfermeros con la media europea (p. 22). Plantea tarjeta y receta únicas en toda España, cita de atención primaria en 48 horas y medicamentos gratuitos para menores de 3 años (p. 23). Incluye eliminar las listas de espera en salud mental y nombrar a los gerentes hospitalarios mediante concurso público (p. 24).",
+      "a_quien_afecta": "Pacientes del Sistema Nacional de Salud, familias con niños pequeños, profesionales sanitarios y personas que requieren atención en salud mental.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "SALF",
+      "area": "educacion",
+      "resumen": "Plantea una ley educativa de vigencia prolongada, garantizar la enseñanza en castellano en toda España e implantar un MIR docente con condición de autoridad para el profesorado (p. 33). Propone adelantar la Formación Profesional a los 15 años con tutores asignados a cada alumno (p. 33). Incluye el modelo de cheque escolar donde la financiación sigue al estudiante, un temario común de historia y becas de 2.000 euros en ciclos técnicos deficitarios (p. 34).",
+      "a_quien_afecta": "Estudiantes de primaria, secundaria y FP, profesorado y familias en edad escolar.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "SALF",
+      "area": "inmigracion",
+      "resumen": "Propone ejecutar las órdenes de expulsión en 48 horas, poner fin a las regularizaciones extraordinarias y condicionar la ayuda a los países que no readmitan a sus nacionales (p. 17). Plantea paralizar la inmigración de países no colaboradores contra las mafias de trata, dar prioridad a hispanoamericanos y someter la edad de los menores a pruebas previas (p. 18). Incluye revocar la nacionalidad ante delitos graves y suprimir ayudas públicas a extranjeros sin residencia legal (pp. 18-19).",
+      "a_quien_afecta": "Extranjeros residentes o solicitantes de visado, solicitantes de asilo, menores migrantes y administraciones de extranjería.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "SALF",
+      "area": "seguridad_justicia",
+      "resumen": "Propone una macrocárcel de alta seguridad, el cumplimiento íntegro de condenas para delitos graves y castración química voluntaria a agresores sexuales reincidentes (p. 8). Plantea que los reclusos extranjeros cumplan pena en sus países de origen, equiparar el sueldo de Policía y Guardia Civil y enviar la Armada a combatir el narcotráfico en el Estrecho (p. 9). Incluye juicios en 72 horas, blindar la legítima defensa en la vivienda y reforzar la protección penal a vigilantes de seguridad (pp. 10-11).",
+      "a_quien_afecta": "Cuerpos policiales, vigilantes de seguridad, víctimas de delitos y población reclusa.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "SALF",
+      "area": "defensa_exterior",
+      "resumen": "Plantea un servicio militar voluntario remunerado con 1.600 euros mensuales y someter a referéndum la continuidad en la Unión Europea si no se renegocian los tratados (pp. 9 y 35). Propone desplegar 5.000 militares más en Ceuta y Melilla, reforzar la defensa antiaérea y reinvertir el gasto militar del 2 % en compras a empresas españolas (pp. 37-38). Incluye retirar el aval al plan marroquí sobre el Sáhara y condicionar la ayuda internacional a la repatriación de migrantes (pp. 38-39).",
+      "a_quien_afecta": "Fuerzas Armadas, jóvenes interesados en el servicio militar voluntario, residentes en Ceuta y Melilla y sectores exportadores.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "SALF",
+      "area": "instituciones",
+      "resumen": "Propone declarar imprescriptible la corrupción, suprimir los indultos a políticos y prohibir las amnistías mediante reforma constitucional (pp. 25-26). Plantea dotar de independencia a la Fiscalía General, suprimir el Tribunal Constitucional para integrarlo en el Supremo y eliminar los aforamientos (pp. 27-28). Incluye publicar en 24 horas todo gasto de la Administración superior a 1.000 euros y realizar las oposiciones mediante exámenes ciegos (pp. 29 y 32).",
+      "a_quien_afecta": "Cargos públicos, jueces y fiscales, opositores a la función pública y ciudadanía en general.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "SALF",
+      "area": "economia",
+      "resumen": "Propone exigir a las entidades financieras la devolución de 70.000 millones de euros del rescate bancario en un plazo de 15 años (p. 15). Plantea libertad de cotización para que los trabajadores por cuenta propia decidan su base según sus rendimientos (p. 21). Incluye implantar la cuota cero para autónomos, el criterio de caja en el pago del IVA y la ventanilla única administrativa (p. 30).",
+      "a_quien_afecta": "Autónomos, pymes, entidades bancarias y contribuyentes.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "SALF",
+      "area": "territorial",
+      "resumen": "Propone un sistema de financiación autonómica basado en la solidaridad común, prohibiendo la condonación de deudas y los pactos bilaterales con comunidades autónomas (p. 14). Plantea declarar Ceuta y Melilla como plazas francas con exención total de IRPF (p. 36). Incluye una reducción de 1.000 euros en el IRPF para los residentes en Canarias y situar el tipo fiscal de la Zona Especial Canaria al 0 % (p. 36).",
+      "a_quien_afecta": "Residentes en Ceuta, Melilla y Canarias, y administraciones autonómicas de régimen común.",
+      "origen": "ia",
+      "revisado": true
+    },
+    {
+      "siglas": "M+J",
+      "area": "vivienda",
+      "resumen": "Propone ampliar el parque público de vivienda en alquiler permanente, erradicar el sinhogarismo y prohibir los desahucios de personas vulnerables sin alternativa habitacional previa (pp. 4-5). Plantea blindar la calificación de las viviendas protegidas de forma indefinida y regular el precio de los alquileres en áreas residenciales tensionadas (pp. 7-8). Incluye limitar las licencias de pisos turísticos, aplicar recargos fiscales sobre inmuebles vacíos e incentivar con bonificaciones a los pequeños arrendadores que fijen precios asequibles (pp. 9-10).",
+      "a_quien_afecta": "Inquilinos vulnerables, familias con dificultades de acceso habitacional, personas sin hogar, pequeños arrendadores y operadores turísticos.",
+      "origen": "ia",
+      "revisado": true
+    }
+  ]
+}

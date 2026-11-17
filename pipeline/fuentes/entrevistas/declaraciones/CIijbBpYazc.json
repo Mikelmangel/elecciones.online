@@ -1,0 +1,194 @@
+[
+ {
+  "id": "podemos-montero-lanzamiento-otros-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "otros",
+  "tipo": "compromiso",
+  "cita_literal": "Y por eso me voy a presentar a las próximas elecciones generales.",
+  "contexto_minuto": "54:35"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-otros-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "otros",
+  "tipo": "compromiso",
+  "cita_literal": "Quiero ser vuestra candidata con unas primarias abiertas a todo el mundo",
+  "contexto_minuto": "55:14"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-otros-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "otros",
+  "tipo": "compromiso",
+  "cita_literal": "unas primarias abiertas a todo el mundo en las que todo el equipo pueda ser elegido no solo por la gente de Podemos, sino por cualquier persona que quiera participar y a las que se pueda presentar cualquier persona que quiera participar.",
+  "contexto_minuto": "55:27"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-otros-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "otros",
+  "tipo": "posicion",
+  "cita_literal": "creo que el programa electoral más justo de todos los que podemos hacer ahora mismo se resume en que devuelvan lo robado",
+  "contexto_minuto": "46:40"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-otros-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "otros",
+  "tipo": "posicion",
+  "cita_literal": "la política tiene que dedicarse a cuidarlo, a tener paz, casa y trabajo.",
+  "contexto_minuto": "46:56"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-vivienda-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "y entonces pues hay que prohibir comprar casas que sean para especular.",
+  "contexto_minuto": "47:12"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-vivienda-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "las casas son para vivir, así que hay que bajar los precios y prohibir la especulación.",
+  "contexto_minuto": "47:37"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-vivienda-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "vivienda",
+  "tipo": "cifra",
+  "cita_literal": "la gente crea la riqueza con su trabajo y de lo que gana con su trabajo, que ya no es toda la riqueza que genera. le entrega la mitad de su salario al casero o al banco con la hipoteca",
+  "contexto_minuto": "44:30"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-empleo-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "empleo",
+  "tipo": "posicion",
+  "cita_literal": "Qué locura decir que si sube el coste de la vida tienen que subir los salarios a 1800 €",
+  "contexto_minuto": "47:57"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-empleo-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "empleo",
+  "tipo": "posicion",
+  "cita_literal": "¿Por qué no trabajar 6 horas al día y poder llevar a nuestros hijos e hijas al cole?",
+  "contexto_minuto": "48:18"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-empleo-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "empleo",
+  "tipo": "posicion",
+  "cita_literal": "30 horas de trabajo semanal. ¿Por qué no?",
+  "contexto_minuto": "48:48"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-impuestos-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "impuestos",
+  "tipo": "posicion",
+  "cita_literal": "Tenemos una herramienta muy útil que son los impuestos para eso.",
+  "contexto_minuto": "51:46"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-economia-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "economia",
+  "tipo": "cifra",
+  "cita_literal": "ahora mismo tenemos al 1% más rico del planeta acumulando la misma riqueza que el 95% de los seres humanos del planeta.",
+  "contexto_minuto": "41:24"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-economia-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "economia",
+  "tipo": "cifra",
+  "cita_literal": "esa torre de billetes llegaría casi hasta la luna, daría la vuelta seis veces al planeta, serviría para acabar dos veces con el hambre en el mundo.",
+  "contexto_minuto": "41:49"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-economia-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "economia",
+  "tipo": "cifra",
+  "cita_literal": "Mercadona 1729 millones de euros de beneficios solamente en el año 2025.",
+  "contexto_minuto": "50:48"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-economia-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "economia",
+  "tipo": "cifra",
+  "cita_literal": "34,000 millones de euros de beneficios la gran banca en nuestro país solo en un año.",
+  "contexto_minuto": "50:57"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-economia-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "economia",
+  "tipo": "posicion",
+  "cita_literal": "¿Cómo que no se pueden topar los precios de la energía, de los alimentos, de todo lo que necesitamos para vivir?",
+  "contexto_minuto": "51:05"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-economia-5",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "economia",
+  "tipo": "posicion",
+  "cita_literal": "cuando hay un adulto que acapara ilícitamente miles de viviendas, que acapara ilícitamente productos de primera necesidad, que pone los precios por las nubes en el supermercado, que se monta una mafia alimentaria, ahí si hablamos de expropiación. o de control de precios.",
+  "contexto_minuto": "40:18"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-energia_clima-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "energia_clima",
+  "tipo": "posicion",
+  "cita_literal": "Qué locura decir que tiene que bajar el precio de la energía",
+  "contexto_minuto": "50:17"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-sanidad-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "sanidad",
+  "tipo": "posicion",
+  "cita_literal": "decir que si te pones enfermo tiene que haber un buen hospital con profesionales bien remunerados que hayan dormido sus horas que te puedan curar.",
+  "contexto_minuto": "52:20"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-educacion-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "educacion",
+  "tipo": "posicion",
+  "cita_literal": "Qué locura decir que cualquier niño o niña tiene derecho a la mejor escuela pública, nazca en el barrio que nazca.",
+  "contexto_minuto": "52:29"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-social-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "social",
+  "tipo": "posicion",
+  "cita_literal": "la política se tiene que dedicar a lo básico, a que haya servicios públicos, a que haya políticas de conciliación, de lucha contra las violencias machistas.",
+  "contexto_minuto": "52:08"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-defensa_exterior-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "defensa_exterior",
+  "tipo": "posicion",
+  "cita_literal": "el dinero que nos estamos gastando en armas está poniendo en peligro a nuestros hijos e hijas.",
+  "contexto_minuto": "49:25"
+ },
+ {
+  "id": "podemos-montero-lanzamiento-defensa_exterior-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=CIijbBpYazc",
+  "tema": "defensa_exterior",
+  "tipo": "posicion",
+  "cita_literal": "no es ninguna locura decir que no nos podemos gastar ni un euro más en armas",
+  "contexto_minuto": "53:32"
+ }
+]

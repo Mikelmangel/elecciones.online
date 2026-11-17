@@ -1,0 +1,2410 @@
+{
+ "siglas": "VOX",
+ "nombre": "VOX",
+ "fuente_url": "https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf",
+ "fetched_at": "2026-11-15T08:07:24Z",
+ "sha256": "065abf6720be2f7b19b8e911920c2ee2ce5c2059d0ae8bf09770bc790ed11b65",
+ "paginas": 66,
+ "propuestas": [
+  {
+   "area": "inmigracion",
+   "titular": "Expulsión de todos los «invasores» con carácter inmediato",
+   "cita": "Expulsión de todos los invasores con carácter inmediato.",
+   "pagina": 7,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Militarización de la frontera para repeler cualquier intento futuro de «invasión» o ataque híbrido",
+   "cita": "Militarización de la frontera para repeler cualquier intento futuro de invasión o ataque híbrido.",
+   "pagina": 7,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Reforzar la protección de las fronteras terrestres de Ceuta y Melilla, sus aguas y su espacio aéreo",
+   "cita": "Refuerzo de la protección de las fronteras terrestres de Ceuta y Melilla, sus aguas bajo soberanía española y su espacio aéreo.",
+   "pagina": 7,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Realizar un plan de inversiones para el futuro, la prosperidad y la protección de Ceuta y Melilla",
+   "cita": "Realizar un plan de inversiones que garantice el futuro y la prosperidad de ambas ciudades y su protección.",
+   "pagina": 7,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Garantizar la libertad y seguridad de las familias españolas residentes en «territorio nacional atacado»",
+   "cita": "Garantizar la libertad y seguridad de las familias españolas residentes en territorio nacional atacado",
+   "pagina": 7,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Establecer medidas para evitar futuras «invasiones» y reparar las consecuencias de la ocurrida en Ceuta",
+   "cita": "establecer medidas para evitar futuras invasiones así como reparar las consecuencias sociales, económicas y psicológicas de la producida en Ceuta.",
+   "pagina": 7,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Promover procesar a Pedro Sánchez y su gobierno «por traición y delitos contra la seguridad del Estado»",
+   "cita": "Promover ante la Justicia el procesamiento a Pedro Sánchez y su gobierno por traición y delitos contra la seguridad del Estado por su actuación durante la invasión sufrida en Ceuta.",
+   "pagina": 7,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Impulsar sanciones, suspender acuerdos internacionales y revisar las relaciones diplomáticas con Marruecos",
+   "cita": "Impulsar sanciones, suspender acuerdos internacionales y revisar las relaciones diplomáticas hasta que Marruecos respete las fronteras y la soberanía de España.",
+   "pagina": 7,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Reformar el IRPF: simplificación y bajada",
+   "cita": "Reforma del sistema de tributación sobre la renta (IRPF). Simplificación y bajada del IRPF.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Reducción del tipo del IRPF para cada contribuyente o familia en función del número de hijos",
+   "cita": "Reducción del tipo aplicable del IRPF para cada contribuyente o familia en función del número de hijos.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Rebajar los tipos reducido y general del IVA, con prioridad en productos esenciales y de primera necesidad",
+   "cita": "Rebaja del tipo reducido y del tipo general del IVA atendiendo prioritariamente a productos esenciales y de primera necesidad.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Reducir el tipo del Impuesto de Sociedades",
+   "cita": "Reducir el tipo del Impuesto de Sociedades con el fin de promover la dinamización de nuestra economía, el crecimiento de nuestras empresas y la creación efectiva de empleo.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Cuota de autónomos de cero euros bajo el SMI y, por encima, cuota progresiva desde 50 euros",
+   "cita": "Cuota de cero euros si los ingresos no llegan al Salario Mínimo Interprofesional y, superado dicho umbral, una cuota progresiva desde los 50 euros en función de sus ingresos.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Revisión y reducción sistemática de todos los impuestos y tasas",
+   "cita": "Revisión y reducción sistemática de todos los impuestos y tasas que lastran la prosperidad de los trabajadores, familias y empresas españolas.",
+   "pagina": 9,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Control del déficit y eliminación del gasto «superfluo e ideológico»",
+   "cita": "mediante el control del déficit, la eliminación del gasto superfluo e ideológico y el impulso del crecimiento económico.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Actualizar el complemento de insularidad del personal en activo del sector público estatal en las islas",
+   "cita": "Actualizar el complemento de insularidad para el personal en activo del sector público estatal en los territorios insulares con el fin de adaptarlo al coste de vida real.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Rebaja del IGIC y supresión del Arbitrio sobre Importaciones y Entregas de Mercancías en Canarias",
+   "cita": "Rebaja general del Impuesto General Indirecto Canario y supresión del Arbitrio sobre Importaciones y Entregas de Mercancías en las Islas Canarias.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Mejora de las ayudas al transporte a la Península",
+   "cita": "Mejora de las ayudas al transporte a la Península.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Reforzar la inversión en I+D+i, los incentivos a la innovación y la transferencia de conocimiento a las pymes",
+   "cita": "Reforzar la inversión en I+D+i, los incentivos fiscales a la innovación empresarial, la colaboración entre centros de investigación y empresas e industrias y la transferencia de conocimiento a nuestro tejido productivo, especialmente a las pymes.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Plan para recuperar el talento que se ha tenido que marchar por la falta de oportunidades",
+   "cita": "Plan para recuperar el talento que se ha tenido que marchar ante la falta de oportunidades.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Tipos mínimos y deducciones reforzadas para españoles residentes o que se trasladen a zonas despobladas",
+   "cita": "Tipos mínimos y bonificaciones y deducciones reforzadas para los residentes españoles de estas zonas y para todos aquellos españoles que decidan trasladar su residencia a las mismas.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "pensiones",
+   "titular": "Garantizar la sostenibilidad de las pensiones revitalizando la economía, el empleo y los salarios",
+   "cita": "Garantizar la sostenibilidad del sistema de pensiones. Revitalizar la economía, impulsar el empleo, mejorar los salarios y aumentar la riqueza.",
+   "pagina": 10,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Impulsar medidas de apoyo a las familias, fomento de la natalidad y ayuda a la crianza",
+   "cita": "Además, es necesario impulsar medidas de apoyo a las familias, fomento de la natalidad y ayuda a la crianza",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "«Bajada masiva» de los impuestos de la energía eléctrica a familias, empresas e industrias",
+   "cita": "Bajada masiva de los impuestos de la energía eléctrica a familias, empresas e industrias españolas.",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Fin de la doble imposición, mejora de las redes y Plan Nacional de Soberanía Energética",
+   "cita": "Fin de la doble imposición. Aprovechamiento de nuestros recursos energéticos, la mejora de las redes y la reducción de cargas fiscales y regulatorias. Plan Nacional de Soberanía Energética.",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Eliminar el tope a la inversión en redes eléctricas",
+   "cita": "Eliminar el tope a la inversión en redes para que España tenga la red eléctrica que necesita para crecer, contratar y construir vivienda.",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Resolver en plazos máximos cerrados y con silencio positivo las autorizaciones de líneas y puntos de conexión",
+   "cita": "las autorizaciones para construir líneas, subestaciones y puntos de conexión a la red se resolverán en plazos máximos cerrados y con silencio administrativo positivo.",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Suspender la aplicación en España de acuerdos internacionales que «impiden nuestro desarrollo productivo»",
+   "cita": "Suspender la aplicación en España de acuerdos internacionales que impiden nuestro desarrollo productivo y la prosperidad de trabajadores, familias, empresas e industrias españolas.",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Revertir las normativas que atacan frontalmente a la industria nacional",
+   "cita": "Revertir las normativas que atacan frontalmente a la industria nacional",
+   "pagina": 11,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Poner fin a las restricciones para explorar, investigar y explotar recursos naturales y yacimientos minerales",
+   "cita": "Fin a las restricciones para poder explorar, investigar y explotar nuestros recursos naturales y yacimientos minerales.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Mayor peso a la seguridad económica, la soberanía industrial y la seguridad nacional",
+   "cita": "Mayor peso a consideraciones sobre seguridad económica, soberanía industrial y seguridad nacional.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Proteger a España frente a la dependencia excesiva de materias primas, componentes y tecnologías críticas",
+   "cita": "Protección de España frente a la dependencia excesiva de materias primas, componentes y tecnologías críticas.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Recuperar el plan nuclear nacional y derogar el calendario de cierre de las centrales actuales",
+   "cita": "Recuperar urgentemente el plan nuclear nacional. Se garantizará la supervivencia de las centrales nucleares actuales, derogando el calendario de cierre.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Promover estudios urgentes para instalar centrales nucleares en emplazamientos adyacentes a las actuales",
+   "cita": "Se promoverán estudios urgentes para instalar centrales nucleares en los emplazamientos disponibles adyacentes a las actuales.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Llevar a cabo con la mayor brevedad los proyectos nucleares que sean viables",
+   "cita": "Se llevarán a cabo aquellos proyectos que sean viables con la mayor brevedad posible.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Aprobar un Plan Nacional de Reindustrialización contra las deslocalizaciones y la pérdida de empleo industrial",
+   "cita": "Aprobación de un Plan Nacional de Reindustrialización enfocado a contrarrestar las deslocalizaciones, la competencia desleal, la pérdida de empleo industrial y la baja participación de la industria en el PIB.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Atracción de inversiones estratégicas que favorezcan la economía nacional y el empleo",
+   "cita": "Atracción de inversiones estratégicas que favorezcan la economía nacional y el empleo.",
+   "pagina": 12,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Derogar la legislación laboral de Sánchez",
+   "cita": "Derogar la legislación laboral de Sánchez que ha agravado la precariedad, desincentivado la contratación y empeorado una situación ya de por sí insostenible",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Fomentar la industria turística con empleos de calidad y preservando la identidad de los barrios",
+   "cita": "Fomentar la industria turística mediante empleos de calidad y garantizando la convivencia y la preservación de la identidad de nuestros barrios.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Adoptar medidas fiscales y de promoción interior y exterior de la industria turística",
+   "cita": "Adoptar medidas fiscales y de promoción interior y exterior de esta industria para crear empleo y riqueza",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Fomentar el turismo rural, de montaña o interior y apoyar la conservación del patrimonio",
+   "cita": "Fomento del turismo rural, de montaña o interior, y apoyo a la conservación y difusión de nuestro patrimonio natural, cultural y artístico.",
+   "pagina": 13,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "«Ni uno más»: España no puede acoger a más inmigrantes",
+   "cita": "Después de recibir a 5 millones de personas en 5 años España no puede acoger a más inmigrantes.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Prohibir las regularizaciones masivas; quien entra de forma ilegal no podrá regularizar su situación",
+   "cita": "Prohibición de las regularizaciones masivas. Quien entra de forma ilegal jamás podrá regularizar su situación.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Endurecer los requisitos de adquisición de la nacionalidad española",
+   "cita": "Endurecimiento de los requisitos de adquisición de la nacionalidad española.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Revisión de las concesiones fraudulentas de la nacionalidad",
+   "cita": "Revisión de las concesiones fraudulentas de la nacionalidad.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Aumentar los casos de pérdida de nacionalidad de españoles no de origen por delitos graves o reiterados",
+   "cita": "Aumento de los supuestos de pérdida de nacionalidad española para los españoles no de origen en casos de delitos graves o reiterados.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Suprimir el arraigo y revocar las «pasarelas rápidas» para adquirir la nacionalidad española",
+   "cita": "Supresión de la institución del arraigo como forma de atajar la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad española.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Repatriación de quienes permanezcan en situación ilegal",
+   "cita": "Repatriación de quienes permanezcan en situación ilegal en nuestra nación.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "«Remigración»: plan para facilitar el retorno de extranjeros que no contribuyan o vivan de subsidios públicos",
+   "cita": "Remigración. Plan para facilitar el retorno a sus países de los extranjeros que no contribuyan o vivan de subsidios públicos que no alcanzan a los españoles.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Deportación de quienes cometan delitos graves o hagan del delito leve su forma de vida",
+   "cita": "Deportación de quienes cometan delitos graves o hagan del delito leve su forma de vida",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Deportar a quien imponga costumbres, hábitos o culturas ajenas a nuestro modo de vida o dignidad de la mujer",
+   "cita": "así como de quienes traten de imponer costumbres, hábitos o culturas ajenas a nuestro modo de vida o incompatibles con el respeto a la dignidad de las mujeres.",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Devolver a menores extranjeros no acompañados a sus padres o instituciones de tutela de su país",
+   "cita": "Devolución de menores extranjeros no acompañados a sus padres",
+   "pagina": 15,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Perseguir a ONG o redes criminales que participen en sustracción de menores",
+   "cita": "Persecución de ONG’s o redes criminales que participen o colaboren en la sustracción o secuestro de menores.",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Eliminar subvenciones y convenios con ONG o entidades que promuevan o sostengan la inmigración ilegal",
+   "cita": "Eliminación de todas las subvenciones, ayudas, convenios y conciertos con ONG u otras entidades que participen directa o indirectamente en la promoción, facilitación o sostenimiento de la inmigración ilegal",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Fin de la cooperación al desarrollo con los países que no colaboren en la gestión de los flujos migratorios",
+   "cita": "Fin de la cooperación al desarrollo con los países que no colaboren en la gestión de los flujos migratorios.",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Retirar ayudas y fondos de cooperación y promover sanciones a Estados que fomenten la inmigración ilegal",
+   "cita": "Retirar ayudas y fondos de cooperación y promover sanciones a aquellos Estados que fomenten la inmigración ilegal o la utilicen como arma de presión política.",
+   "pagina": 16,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Acceso preferente de los españoles a vivienda pública, guarderías, bonos de comedor o transporte y ayudas",
+   "cita": "Acceso preferente de los españoles a vivienda pública, plazas de guardería, bonos de comedor o transporte, ayudas, prestaciones y servicios sociales.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Modificar o derogar las normativas que dificulten el principio de prioridad nacional",
+   "cita": "Modificación o derogación de cuantas normativas pudieran dificultar la consecución plena y efectiva del principio de prioridad nacional.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Suprimir toda ayuda y beneficio social a los inmigrantes ilegales",
+   "cita": "Suprimir toda ayuda y beneficio social a los inmigrantes ilegales.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Garantizar la sanidad para los españoles excluyendo a extranjeros en situación ilegal salvo urgencia grave",
+   "cita": "Garantizar la sostenibilidad del sistema sanitario dotándolo de los medios necesarios para atender las necesidades de los españoles, excluyendo a los extranjeros en situación ilegal salvo casos de urgencia grave.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Auditoría del coste de la «inmigración masiva» en la sanidad pública",
+   "cita": "Auditoría del coste de la inmigración masiva en la sanidad pública.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Gravamen sobre las remesas al extranjero",
+   "cita": "Gravamen sobre las remesas al extranjero. El dinero generado aquí ha de mejorar la economía y los servicios de quienes viven en España.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "El Ingreso Mínimo Vital atenderá únicamente las necesidades de los españoles con menos recursos",
+   "cita": "El Ingreso Mínimo Vital atenderá únicamente las necesidades de los españoles con menos recursos.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Promover el retorno de inmigrantes que cobren el IMV o sus complementos autonómicos",
+   "cita": "Se promoverá el retorno de aquellos inmigrantes que estén cobrando el IMV o sus complementos autonómicos.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Plan de retorno para españoles que emigraron por falta de oportunidades y deseen volver",
+   "cita": "Plan de retorno a nuestra Nación para los españoles que tuvieron que abandonar España en los últimos años por falta de oportunidades y deseen volver.",
+   "pagina": 19,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Plan de inversiones para recuperar y revitalizar barrios, municipios y provincias abandonadas",
+   "cita": "Plan de inversiones para recuperar y revitalizar barrios, municipios y provincias abandonadas durante décadas por los poderes públicos.",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Poner en marcha medidas para garantizar servicios públicos, igualdad y derechos en toda España",
+   "cita": "Poner en marcha todas las medidas necesarias para garantizar la calidad de los servicios públicos, la igualdad y los derechos de todos los españoles con independencia del lugar de España en el que residan",
+   "pagina": 20,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Prioridad nacional para acceder a una vivienda protegida, social o a una ayuda al alquiler",
+   "cita": "Prioridad nacional para acceder a una vivienda protegida, social o a una ayuda al alquiler.",
+   "pagina": 23,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Reformar la Ley del Suelo e incrementar la construcción de vivienda nueva",
+   "cita": "Reforma de la Ley del Suelo. Volver a ver grúas en los cielos. Incrementar de manera sustancial y sostenida en el tiempo la construcción de vivienda nueva: ampliación de suelo disponible, agilización de procedimientos, supresión de trabas regulatorias innecesarias, simplificación administrativa.",
+   "pagina": 23,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Ampliar la inversión pública en vivienda por habitante y aumentar la construcción de vivienda protegida",
+   "cita": "Ampliación de la inversión pública en vivienda por habitante. Aumentar con urgencia la construcción de vivienda protegida para las familias españolas mediante su promoción y colaboración público-privada",
+   "pagina": 23,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Ningún español vulnerable quedará sin hogar",
+   "cita": "Ningún español vulnerable quedará sin hogar.",
+   "pagina": 23,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Derogación de la Ley de Vivienda",
+   "cita": "Recuperar la seguridad jurídica y una oferta de alquileres estable, abundante y asequible. Derogación de la Ley de Vivienda.",
+   "pagina": 23,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Deducciones para inquilinos españoles",
+   "cita": "duración y deducciones para inquilinos españoles.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Regulación de la proliferación masiva de VUT y refuerzo de la inspección de pisos turísticos ilegales",
+   "cita": "Regulación de la proliferación masiva de VUT y refuerzo del servicio de inspección de pisos turísticos ilegales.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Desalojo en menos de 24 horas de la vivienda «okupada» y recuperación inmediata por el propietario",
+   "cita": "Desalojo de la vivienda okupada en menos de 24 horas y recuperación inmediata de la posesión por su legítimo titular, el propietario.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Asistencia jurídica gratuita y exención de impuestos y suministros del inmueble mientras dure la «okupación»",
+   "cita": "Asistencia jurídica gratuita para los afectados y exención de impuestos y de las cargas fiscales y de suministros del inmueble mientras dure la okupación.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Endurecer el Código Penal y tipificar la «inquiocupación» como delito de estafa",
+   "cita": "Endurecimiento del Código penal. Tipificación de la inquiocupación como delito de estafa.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Prohibición del arrendamiento a inmigrantes ilegales: verificar la residencia legal para formalizar alquileres",
+   "cita": "Prohibición del arrendamiento a inmigrantes ilegales. Exigir la verificación previa de la residencia legal como requisito obligatorio para la formalización de contratos de alquiler",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Control del fraude en el empadronamiento por parte de «okupas» e inmigrantes ilegales",
+   "cita": "control del fraude en el empadronamiento por parte de okupas e inmigrantes ilegales, impidiendo que disfruten de los derechos que ello concede",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Fin de los «pisos patera», domicilios ficticios y alojamientos ilegales",
+   "cita": "fin de los pisos patera, domicilios ficticios y alojamientos ilegales.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Reducción drástica de los impuestos del proceso edificatorio y mejora de la financiación de promotores",
+   "cita": "Reducción drástica de los impuestos que gravan todo el proceso edificatorio y mejora de los instrumentos de financiación para promotores y constructores.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "IVA del 0% en la primera vivienda nueva y bonificación del 100% del ITP en la de segunda mano",
+   "cita": "La primera vivienda habitual de una familia española no paga impuestos. Tipo 0% de IVA para la compra de tu primera vivienda habitual -de nueva construcción- y bonificación 100% del ITP para la compra de tu primera vivienda habitual -de segunda mano-.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Recuperación de la deducción por inversión en vivienda habitual",
+   "cita": "Recuperación de la deducción por inversión en vivienda habitual.",
+   "pagina": 24,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Fiscalidad media para operaciones destinadas a incrementar la oferta de alquiler residencial de larga duración",
+   "cita": "Fiscalidad media para operaciones de personas físicas o jurídicas destinadas a incrementar la oferta en alquiler residencial de larga duración.",
+   "pagina": 25,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Fiscalidad agravada para compradores no comunitarios y operaciones especulativas de fondos o sociedades",
+   "cita": "Fiscalidad agravada y disuasoria para compradores no comunitarios y operaciones especulativas de fondos o sociedades.",
+   "pagina": 25,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "vivienda",
+   "titular": "Destinar la recaudación a bonificaciones para la compra de vivienda y a vivienda protegida",
+   "cita": "La recaudación resultante se destinará a bonificaciones para la compra de vivienda y a la construcción de vivienda protegida.",
+   "pagina": 25,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Simplificar al mínimo la burocracia: suprimir lo no necesario y simplificar al máximo lo necesario",
+   "cita": "Simplificar al mínimo la burocracia que soporta el ciudadano. Toda actuación administrativa deberá justificar su existencia, su utilidad y su proporcionalidad. Lo que no sea estrictamente necesario, se suprime. Lo que sea necesario, se simplifica al máximo.",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Impulsar la investigación, el desarrollo y la aplicación de la inteligencia artificial",
+   "cita": "Impulsar la investigación, el desarrollo y la aplicación de la inteligencia artificial como motor de desarrollo de la economía nacional",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Facilitar la implantación de la IA en empresas y promover la formación de trabajadores y jóvenes",
+   "cita": "Facilitar su implantación en nuestras empresas, especialmente pymes y autónomos, y promover la formación de trabajadores y jóvenes para aprovechar las nuevas oportunidades presentes y futuras.",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Implantar la inteligencia artificial en las administraciones, garantizando siempre la atención presencial",
+   "cita": "Implantarla en las administraciones para reducir la burocracia y mejorar los servicios públicos, garantizando siempre la atención presencial.",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Ventanilla y dato único: expediente digital único y datos compartidos entre administraciones",
+   "cita": "Instauración de la ventanilla y dato único en la Administración. Creación de un expediente digital único y centralizado que unifique la gestión de trámites para ciudadanos y empresas, obligando a las diferentes administraciones a compartir los datos entre sí.",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Fin de la cita previa y derecho a ser atendido presencialmente en cualquier oficina pública",
+   "cita": "Fin de la cita previa. Derecho a ser atendido presencialmente en cualquier oficina pública de forma inmediata sin necesidad de solicitar turno por internet.",
+   "pagina": 27,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Derogar tres normas por cada una que se apruebe",
+   "cita": "Derogar tres normas por cada una que se apruebe. Cada ley nueva tendrá que identificar, en su propio texto, qué tres normas vigentes deroga. Sin esa identificación, no se tramita ni se aprueba.",
+   "pagina": 28,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Silencio administrativo positivo y declaración responsable como regla general",
+   "cita": "Silencio administrativo positivo y declaración responsable como regla general. Si la Administración no contesta en plazo, el ciudadano ha de poder seguir adelante con su proyecto. Y si una actividad no entraña riesgo, basta con declararla para empezar a ejercerla.",
+   "pagina": 28,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Dejar fuera del silencio positivo nacionalidad, residencia, permisos de trabajo a extranjeros e inmigración",
+   "cita": "Quedan fuera, como excepción tasada, algunas materias que afectan a la soberanía nacional y al control de quién entra y se queda en España: nacionalidad, residencia, permisos de trabajo a extranjeros y, en general, inmigración.",
+   "pagina": 28,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "economia",
+   "titular": "Ley de Unidad de Mercado: lo legal en una región lo será en toda España, sin trámites adicionales",
+   "cita": "Ley de Unidad de Mercado. Lo que es legal en una región de España, lo es en toda España. Una misma actividad económica no debe quedar sometida a requisitos administrativos diferentes e injustificados por razón del territorio en el que se ejerza. Cualquier empresa, profesional o producto que ya opere legalmente en una Comunidad Autónoma podrá hacerlo en el resto del territorio nacional sin trámites, licencias ni registros adicionales.",
+   "pagina": 28,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Auditoría integral de las administraciones y reducción radical de sus gastos",
+   "cita": "Auditoría integral de las administraciones y reducción radical de los gastos de la Administración Pública. Para compensar la bajada masiva de impuestos, se recortarán todos los gastos superfluos de la Administración hasta el mínimo imprescindible.",
+   "pagina": 29,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Promover una auditoría sistemática de los gastos no imprescindibles y hacer públicos sus análisis",
+   "cita": "Promover una auditoría sistemática de todos los gastos no imprescindibles de las administraciones públicas que serán susceptibles de supresión. Los análisis de esta auditoría se irán haciendo públicos.",
+   "pagina": 29,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Reducir al mínimo estrictamente necesario el tamaño de la Administración Pública",
+   "cita": "Reducir al mínimo estrictamente necesario el tamaño de la Administración Pública.",
+   "pagina": 29,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Reducir hasta su eliminación las subvenciones a partidos, sindicatos, patronales, ONG y observatorios",
+   "cita": "Reducir progresivamente hasta su eliminación total las subvenciones a partidos, sindicatos, patronales, ONGs, observatorios y otros organismos ideológicos.",
+   "pagina": 29,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Derogar o modificar las leyes que dificultan la prosperidad y libertad de trabajadores, familias y empresas",
+   "cita": "Derogación o modificación de todas las leyes que dificultan la prosperidad y la libertad de trabajadores, familias y empresas españolas.",
+   "pagina": 29,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Acabar con las imposiciones climáticas como el Pacto Verde y con la imposición de ZBE",
+   "cita": "Acabar con todas las imposiciones climáticas como el Pacto Verde que castigan nuestra industria, nuestro campo o que coartan la libertad de circulación de los españoles, como la imposición de ZBE.",
+   "pagina": 29,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Limitar el importe de las multas de tráfico y estacionamiento que no comprometan gravemente la seguridad vial",
+   "cita": "Limitar el importe de las multas de tráfico y estacionamiento por infracciones que no comprometan gravemente la seguridad vial.",
+   "pagina": 29,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Superar las leyes ideológicas «divisivas», tales como la de Memoria Democrática",
+   "cita": "Superación de las divisivas leyes ideológicas que enfrentan a los españoles, tales como la de Memoria Democrática, que dañan la convivencia y dividen y enfrentan a los españoles tratando de imponer una verdad oficial.",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Derogar las leyes que «han criminalizado a los hombres y desprotegido a las mujeres»",
+   "cita": "Derogar las leyes que han criminalizado a los hombres y desprotegido a las mujeres.",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Impulsar leyes que protejan «de verdad» a las mujeres víctimas de violencia, en especial de maltrato",
+   "cita": "En su lugar, impulsar la aprobación de leyes y normas que protejan de verdad a las mujeres víctimas de violencia, en especial a aquellas que sufran maltrato, y que no dejen a ninguna víctima desamparada.",
+   "pagina": 30,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Oposición a las medidas que perjudiquen al sector primario y protección frente a las imposiciones de Bruselas",
+   "cita": "Oposición a todas las medidas que perjudiquen objetivamente al sector primario y proteger a los nuestros activamente -económica, política y jurídicamente- de las imposiciones de Bruselas y del Pacto Verde.",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Rechazo explícito al acuerdo UE-Mercosur y a todo acuerdo comercial que obligue a competir en desigualdad",
+   "cita": "Rechazo explícito al acuerdo UE-Mercosur y de todo acuerdo comercial que obligue a nuestros productores a competir en desigualdad de condiciones.",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Inclusión de cláusulas espejo y recuperación del principio de preferencia comunitaria",
+   "cita": "Inclusión de cláusulas espejo. Recuperación del principio de preferencia comunitaria.",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Aumento de los controles en frontera y lucha contra el fraude en el etiquetado",
+   "cita": "Aumento de los controles en frontera y lucha contra el fraude en el etiquetado.",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Derogar la normativa que perjudique o imponga sobrecostes a agricultores, ganaderos y pescadores",
+   "cita": "Protección total de nuestros agricultores, ganaderos y pescadores. Será derogada cualquier normativa que perjudique, imponga cargas o sobrecostes que perjudiquen estos oficios",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Crear un fondo de compensación para mitigar el impacto de las imposiciones normativas de Bruselas",
+   "cita": "Creación de un fondo de compensación destinado a mitigar el impacto negativo de las imposiciones normativas de Bruselas, desastres naturales o circunstancias adversas sobrevenidas, para proteger a nuestros sectores productivos.",
+   "pagina": 33,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Fin de las transferencias de fondos públicos a proyectos extracomunitarios que hagan competencia desleal",
+   "cita": "Fin de cualquier transferencia de fondos públicos destinados a financiar proyectos en cualquier país extracomunitario que haga competencia desleal a nuestros productos y a nuestra industria agroalimentaria.",
+   "pagina": 34,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Rechazo frontal a la propuesta de reducción de los fondos de la PAC",
+   "cita": "Rechazo frontal a la propuesta de reducción del presupuesto de la PAC.",
+   "pagina": 34,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Vincular el reparto de fondos de la PAC a una nueva variable que prime la despoblación",
+   "cita": "Vinculación del reparto de fondos de la PAC a una nueva variable que prime la despoblación.",
+   "pagina": 34,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Garantizar la autonomía presupuestaria de la PAC y poner fin a las exigencias burocráticas y medioambientales",
+   "cita": "Garantizar su autonomía presupuestaria y el fin de las exigencias burocráticas y medioambientales derivadas del fanatismo climático.",
+   "pagina": 34,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Promover la revisión de la Política Pesquera Común y de las cuotas que perjudican a los pescadores",
+   "cita": "Promover la revisión de la Política Pesquera Común y de las cuotas y restricciones que perjudican injustificadamente a nuestros pescadores, reforzando la competitividad, la modernización de la flota, el relevo generacional y la continuidad de las explotaciones pesqueras familiares y la rentabilidad de la pesca española.",
+   "pagina": 34,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "energia_clima",
+   "titular": "Impedir la instalación descontrolada de macroplantas de energías renovables, solar y eólica",
+   "cita": "Impedir la destrucción de la riqueza agrícola y el patrimonio natural para la instalación descontrolada de macro plantas de energías renovables, solar y eólica.",
+   "pagina": 34,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Limpieza y aprovechamiento de los montes y revisión de restricciones ambientales a la prevención forestal",
+   "cita": "Limpieza y aprovechamiento de los montes. Revisión de las restricciones ambientales que obstaculizan las labores de prevención y aprovechamiento forestal.",
+   "pagina": 34,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Protocolos comunes, coordinación de bomberos y protección civil y más medios contra los incendios",
+   "cita": "Prevención y lucha contra los incendios: protocolos comunes, coordinación de bomberos y protección civil de distintas administraciones y aumento de los medios humanos, materiales y tecnológicos.",
+   "pagina": 34,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Endurecimiento de las penas a los incendiarios",
+   "cita": "Endurecimiento de las penas a los incendiarios.",
+   "pagina": 34,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Declaración responsable y silencio administrativo positivo en los procedimientos vinculados al medio rural",
+   "cita": "Aplicación, con carácter general, del principio de declaración responsable y el silencio administrativo positivo en todos aquellos procedimientos administrativos vinculados al medio rural",
+   "pagina": 35,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Revisión y refuerzo del Sistema Español de Seguros Agrarios",
+   "cita": "Revisión y refuerzo del Sistema Español de Seguros Agrarios ante las necesidades del campo español.",
+   "pagina": 35,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Aumentar la inversión para situaciones sobrevenidas, como inundaciones, granizadas y plagas",
+   "cita": "Aumentar la inversión destinada a situaciones sobrevenidas, como inundaciones o granizadas, así como plagas que afecten a la sanidad animal y vegetal.",
+   "pagina": 35,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Favorecer el relevo generacional y la continuidad de las explotaciones familiares",
+   "cita": "Favorecer el relevo generacional y la continuidad de las explotaciones familiares en el mundo rural apoyando la incorporación de los jóvenes al sector primario y a las cooperativas agroalimentarias.",
+   "pagina": 35,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Impulso de la Formación Profesional en el sector primario mediante programas públicos y concertados",
+   "cita": "Impulso de la Formación Profesional en el sector primario a través de programas públicos y concertados.",
+   "pagina": 35,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "rural",
+   "titular": "Defensa de la caza como actividad esencial",
+   "cita": "Defensa de la caza como actividad esencial para el control de las poblaciones y para la protección de las explotaciones agrícolas y ganaderas, así como por su valor medioambiental y económico.",
+   "pagina": 35,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional",
+   "cita": "Misma atención de calidad para todos los españoles: tarjeta sanitaria única con historia clínica compartida en todo el territorio nacional.",
+   "pagina": 37,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Garantizar que desconocer las lenguas regionales no impida acceder a plazas de personal sanitario",
+   "cita": "Garantizar que el desconocimiento de las lenguas regionales no sea en ningún caso impedimento para el acceso por oposición a plazas de personal sanitario ni un perjuicio para los pacientes.",
+   "pagina": 37,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Refuerzo de la atención primaria y pediátrica en todo el territorio nacional",
+   "cita": "Refuerzo de la atención primaria y pediátrica en todo el territorio nacional. Mejorar su accesibilidad y capacidad asistencial, con especial atención a las zonas rurales y de difícil cobertura y a la continuidad de la atención entre centros de salud, especialistas y hospitales.",
+   "pagina": 37,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Plan nacional de reducción de listas de espera y mejora de la atención sanitaria",
+   "cita": "Plan nacional de reducción de listas de espera y mejora de la atención sanitaria. Reorganizar circuitos asistenciales, mejorar la capacidad diagnóstica y la actividad quirúrgica y facilitar derivaciones entre centros y territorios.",
+   "pagina": 37,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Fomento de la colaboración público-privada cuando ayude a reducir demoras",
+   "cita": "Fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras, con transparencia, evaluación de calidad y control del gasto.",
+   "pagina": 37,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Publicación de indicadores comparables y periódicos de listas de espera, actividad y resultados",
+   "cita": "Publicación de indicadores comparables y periódicos de listas de espera, actividad y resultados.",
+   "pagina": 37,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Mejorar las condiciones laborales y retributivas de los profesionales sanitarios",
+   "cita": "Mejorar las condiciones laborales y retributivas de todos los profesionales. Mejora progresiva de retribuciones, reconocimiento de guardias y turnos, conciliación efectiva y carrera profesional basada en formación, experiencia y méritos.",
+   "pagina": 37,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Incentivos económicos y profesionales para plazas rurales o de difícil cobertura",
+   "cita": "Incentivos económicos y profesionales para plazas rurales o de difícil cobertura",
+   "pagina": 37,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Impulso de contratos estables y contratos puente tras la residencia",
+   "cita": "de contratos estables y contratos puente tras la residencia, y un programa de retorno de sanitarios españoles que trabajan en el extranjero.",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Refuerzo de plantillas médicas, de enfermería y personal administrativo",
+   "cita": "Refuerzo de plantillas médicas, de enfermería y personal administrativo.",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Plan para promover el retorno de sanitarios que se marcharon al extranjero y fin del turismo sanitario",
+   "cita": "Plan para promover el retorno de los profesionales sanitarios que se han marchado al extranjero en busca de las oportunidades que no han tenido en España. Fin del turismo sanitario.",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Reforzar la prevención y el diagnóstico precoz del cáncer de mama y de los cánceres ginecológicos",
+   "cita": "Reforzar la prevención y el diagnóstico precoz del cáncer de mama y de los cánceres ginecológicos",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Mejorar el diagnóstico y tratamiento de las enfermedades que afectan especialmente a las mujeres",
+   "cita": "mejorar el diagnóstico y tratamiento de las enfermedades que afectan especialmente a las mujeres",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Garantizar una atención adecuada durante el embarazo, parto y posparto",
+   "cita": "garantizar una atención adecuada durante el embarazo, parto y posparto, con especial atención a las necesidades de las madres que afrontan la maternidad a edades más avanzadas.",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Mapa de infraestructuras sanitarias urgentes y necesarias y plan de inversiones directas",
+   "cita": "Impulso de un mapa de infraestructuras sanitarias urgentes y necesarias y establecimiento de un plan de inversiones directas.",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Promover la investigación médica con independencia de la rentabilidad comercial",
+   "cita": "Promover la investigación médica con independencia de la rentabilidad comercial (enfermedades raras, enfermedades crónicas, y neurodegenerativas).",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Refuerzo de la Estrategia Nacional del Cáncer y creación de una Red de Centros Nacionales de Oncología",
+   "cita": "Refuerzo de la Estrategia Nacional del Cáncer y creación de una Red de Centros Nacionales de Oncología.",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Refuerzo de la Estrategia Nacional de Salud Mental",
+   "cita": "Refuerzo de la Estrategia Nacional de Salud Mental.",
+   "pagina": 38,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Unificar currículo, evaluaciones nacionales e inspección",
+   "cita": "Igualar las oportunidades para todos los alumnos españoles: unificar currículo, evaluaciones nacionales e inspección.",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Reválidas y EVAU única, y garantía de la educación en español en todo el territorio nacional",
+   "cita": "Reválidas y EVAU única. Se garantizará la educación en español en todo el territorio nacional.",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Fin a las diferencias en los contenidos curriculares e impulso de la exigencia académica",
+   "cita": "Fin a las diferencias en los contenidos curriculares e impulso de la exigencia académica.",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Revisión de las homologaciones de títulos extranjeros",
+   "cita": "Revisión de las homologaciones de títulos extranjeros.",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Garantizar la libre elección de centro educativo en todos los niveles",
+   "cita": "Garantizar la libre elección de centro educativo en todos los niveles para que las familias elijan libremente el modelo educativo que desean, sin que su situación económica o social sea un impedimento para ello.",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Mejorar el sistema de becas en las etapas universitaria y preuniversitaria",
+   "cita": "Mejorar el sistema de becas en las etapas universitaria y preuniversitaria para que la educación sea un verdadero ascensor social en el que la situación económica no sea un obstáculo para el esfuerzo, el mérito y la capacidad.",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Eliminación de contenidos ideológicos ajenos a las materias académicas y derogación de la LOMLOE",
+   "cita": "Eliminación de contenidos ideológicos ajenos a las materias académicas. Derogación de la LOMLOE y recuperación de una enseñanza basada en el esfuerzo, el saber, el mérito, la exigencia, la disciplina y la responsabilidad personal.",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Potenciación de las matemáticas, la lectura, las humanidades y las ciencias",
+   "cita": "Potenciación de las matemáticas, la lectura, las humanidades y las ciencias.",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Fin de los móviles en clase, refuerzo de la autoridad del profesor y plan contra el acoso escolar",
+   "cita": "Fin de los móviles en clase, refuerzo de la autoridad del profesor y plan nacional contra el acoso escolar y el ciberacoso.",
+   "pagina": 41,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Establecer un número máximo por aula de alumnos de otras culturas o con dominio insuficiente del español",
+   "cita": "Establecimiento de un número máximo por aula de alumnos procedentes de otras culturas o con dominio insuficiente del español.",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Creación de aulas específicas de nivelación para alumnos que se incorporen tarde al sistema español",
+   "cita": "Creación de aulas específicas de nivelación, donde los alumnos que se incorporen tarde al sistema español alcancen el nivel requerido antes de integrarse en su clase",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Prohibición del burka y el niqab en todos los espacios públicos y lugares donde se presten servicios públicos",
+   "cita": "Prohibición del burka y el niqab en todos los espacios públicos y lugares donde se presten servicios públicos, con particular atención a centros educativos o entornos donde se vea comprometida la seguridad.",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Fin de los menús halal en los comedores escolares",
+   "cita": "Fin de los menús halal en los comedores escolares.",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Eliminación del programa educativo de Lengua Árabe y Cultura Marroquí",
+   "cita": "Eliminación del programa educativo de Lengua Árabe y Cultura Marroquí.",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "inmigracion",
+   "titular": "Prioridad nacional para escoger centro, en ayudas educativas y en guardería, becas comedor y transporte",
+   "cita": "Prioridad nacional para escoger centro para los hijos, en la concesión de ayudas y subvenciones educativas y para el acceso a plazas de guardería, becas comedor, becas transporte, etc.",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Distrito único y libre elección de centro escolar para los padres y apuesta por la Formación Profesional",
+   "cita": "Distrito único y libre elección de centro escolar para los padres. Apuesta decidida por la Formación Profesional.",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Garantizar la libertad de cátedra de los profesores frente a las imposiciones de la corrección política",
+   "cita": "Garantizar la libertad de cátedra de los profesores en las aulas frente a las imposiciones de la corrección política.",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Promoción de la cultura nacional y difusión de la historia común española",
+   "cita": "Promoción de la cultura nacional. Afirmación y difusión de la historia común española.",
+   "pagina": 42,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Atención al medio rural, sus iglesias y monumentos, y protección del patrimonio histórico frente al vandalismo",
+   "cita": "medio rural, sus iglesias y monumentos. Protección de nuestro patrimonio histórico frente al vandalismo.",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Reducir impuestos al arte y los espectáculos en vivo y nueva Ley de Mecenazgo con más deducciones del IRPF",
+   "cita": "Reducción de impuestos para el arte y los espectáculos en vivo. Nueva Ley de Mecenazgo para elevar las deducciones del IRPF.",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Defensa de la Tauromaquia y promoción de la difusión del arte taurino",
+   "cita": "Defensa de la Tauromaquia y promoción de la difusión del arte taurino y potenciación del conjunto de actividades alrededor de esta tradición.",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Despolitizar el deporte y garantizar que las selecciones nacionales representen a España",
+   "cita": "Despolitizar el deporte y garantizar que las selecciones nacionales representen a España en las competiciones internacionales, reforzando la Unidad Nacional frente a las cesiones al separatismo.",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Defender el deporte femenino, que debe regirse por criterios biológicos y deportivos objetivos",
+   "cita": "Compromiso con la defensa del deporte femenino, que debe regirse por criterios biológicos y deportivos objetivos para garantizar la igualdad real en la competición.",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Impulso de becas a deportistas, rebajas fiscales y apoyo a clubes y federaciones deportivas",
+   "cita": "Impulso de becas a deportistas, rebajas fiscales y apoyo a clubes y federaciones deportivas.",
+   "pagina": 43,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Reducir la edad de responsabilidad penal del menor y plantear eliminar su inimputabilidad en delitos graves",
+   "cita": "Reducción de la edad de responsabilidad penal del menor y plantear la eliminación de inimputabilidad para ciertos delitos violentos como los homicidios o las agresiones sexuales.",
+   "pagina": 45,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Ampliación de la prisión permanente revisable",
+   "cita": "Ampliación de la prisión permanente revisable. Los que cometen los peores delitos deben tener las máximas condenas.",
+   "pagina": 45,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Asegurar que los directores generales de la Guardia Civil y la Policía tengan amplia experiencia en seguridad",
+   "cita": "Asegurar que los directores generales de la Guardia Civil y del Cuerpo Nacional de Policía sean personas con amplia experiencia en el ámbito de la seguridad, y no políticos con carné del partido.",
+   "pagina": 45,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Dotar de suficientes medios a Fuerzas Armadas, CNI, Guardia Civil, Policía, Vigilancia Aduanera y prisiones",
+   "cita": "Dotar de suficientes medios humanos y recursos materiales, técnicos, tecnológicos, jurídicos, organizativos y presupuestarios, así como de las infraestructuras, instalaciones y demás capacidades a las Fuerzas Armadas, Ejército de Tierra, la Armada y el Ejército del Aire; al Centro Nacional de Inteligencia (CNI); a las Fuerzas y Cuerpos de Seguridad del Estado, Guardia Civil (GC) y Cuerpo Nacional de Policía (CNP); así como al Servicio de Vigilancia Aduanera (SVA) e Instituciones Penitenciarias (IIPP).",
+   "pagina": 45,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Aumentar la inversión, equiparación salarial y modernización de las Fuerzas y Cuerpos de Seguridad",
+   "cita": "Aumento de la inversión, equiparación salarial y sueldos dignos, dignificación de la profesión y programas de modernización y actualización formativa y tecnológica.",
+   "pagina": 46,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Reconocer como profesión de riesgo a la Guardia Civil y el Cuerpo Nacional de Policía",
+   "cita": "Reconocimiento de la profesión y servicio en la Guardia Civil y el Cuerpo Nacional de Policía como profesión de riesgo.",
+   "pagina": 46,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Plantillas, equiparación salarial, medios y profesión de riesgo para los funcionarios de prisiones",
+   "cita": "Protección integral para los funcionarios de prisiones. Plantillas adecuadamente dimensionadas, equiparación salarial y sueldos dignos, medios materiales y formación frente a los módulos conflictivos y reconocimiento como profesión de riesgo.",
+   "pagina": 46,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Refuerzo urgente de los medios contra el narcotráfico y la criminalidad organizada",
+   "cita": "Combate total al narcotráfico. Refuerzo urgente de los medios humanos y recursos materiales, técnicos y operativos dedicados a la lucha contra el narcotráfico y la criminalidad organizada que operan en el territorio y costas españolas.",
+   "pagina": 46,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Restablecimiento inmediato del Organismo de Coordinación del Narcotráfico (OCON) Sur",
+   "cita": "Restablecimiento inmediato del Organismo de Coordinación del Narcotráfico (OCON) Sur.",
+   "pagina": 46,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Reforzar la prevención, la protección policial y judicial y la asistencia a víctimas de violencia sexual",
+   "cita": "Protección efectiva de las mujeres frente a la violencia y las agresiones sexuales. Reforzar la prevención, la protección policial y judicial y la asistencia integral a las víctimas, evitando que ninguna mujer quede desamparada.",
+   "pagina": 46,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Nuevo modelo de protección permanente de las fronteras con participación de las Fuerzas Armadas",
+   "cita": "Establecer un nuevo modelo de protección permanente de las fronteras terrestres, marítimas y aéreas, con participación de las Fuerzas Armadas, en apoyo a la Guardia Civil y el Cuerpo Nacional de Policía",
+   "pagina": 46,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Lucha incesante contra el terrorismo islámico",
+   "cita": "Lucha incesante contra el terrorismo islámico.",
+   "pagina": 47,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Aumento de la inversión en Defensa, sueldos dignos y ayudas a la movilidad, la vivienda y el alojamiento",
+   "cita": "Aumento de la inversión en Defensa, sueldos dignos y ayudas a la movilidad geográfica y a la vivienda y alojamiento.",
+   "pagina": 47,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Reconocer como profesión de riesgo a las Fuerzas Armadas",
+   "cita": "Reconocimiento de la profesión y servicio en las Fuerzas Armadas como profesión de riesgo.",
+   "pagina": 47,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Difusión de la Cultura de Seguridad y Defensa",
+   "cita": "Difusión de la Cultura de Seguridad y Defensa.",
+   "pagina": 47,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Refuerzo del Sistema Nacional de Protección Civil ante incendios, inundaciones y catástrofes",
+   "cita": "Refuerzo del Sistema Nacional de Protección Civil. Mejorar la prevención, preparación, coordinación y respuesta ante incendios, inundaciones, catástrofes naturales y emergencias de especial gravedad",
+   "pagina": 47,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Refuerzo de la ciberseguridad y protección de las infraestructuras críticas",
+   "cita": "Refuerzo de la ciberseguridad y protección de las infraestructuras críticas. Mejorar las capacidades nacionales de prevención y respuesta frente a ciberataques, espionaje, sabotajes y amenazas contra los servicios esenciales",
+   "pagina": 47,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Defender la soberanía ante injerencias extranjeras y priorizar los intereses de los españoles",
+   "cita": "Defender nuestra soberanía ante injerencias extranjeras y recuperar una posición internacional que priorice la defensa de los intereses reales de los españoles y de la Unidad Nacional.",
+   "pagina": 47,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Aplicar toda la presión internacional necesaria para recuperar la soberanía sobre el Peñón de Gibraltar",
+   "cita": "Aplicación de toda la presión internacional necesaria para la recuperación de la soberanía española sobre el Peñón de Gibraltar.",
+   "pagina": 48,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Desmantelar las redes de piratería, narcotráfico, contrabando y blanqueo de capitales originadas en la colonia",
+   "cita": "Desmantelamiento de las redes de piratería, narcotráfico, contrabando y blanqueo de capitales que se originan en la colonia y afectan a España.",
+   "pagina": 48,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "defensa_exterior",
+   "titular": "Recuperación del control de las aguas españolas",
+   "cita": "Recuperación del control de las aguas españolas.",
+   "pagina": 48,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "territorial",
+   "titular": "Plan de inversiones para recuperar la prosperidad del Campo de Gibraltar",
+   "cita": "Plan de inversiones para recuperar la prosperidad del Campo de Gibraltar.",
+   "pagina": 48,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Extender a todas las familias, desde el primer hijo, los beneficios de las familias numerosas",
+   "cita": "Todos los beneficios que ahora existen para las familias numerosas se aumentarán y se extenderán a todas las familias de manera progresiva desde el primer hijo, intensificando las ayudas y bonificaciones en función del número de hijos.",
+   "pagina": 51,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Bonificaciones fiscales a empresas por conciliación y bonificación del 100% de la ayuda en el hogar",
+   "cita": "Bonificaciones fiscales a empresas que fomenten la conciliación y hagan descuentos a las familias. Bonificación del 100% de la ayuda en el hogar.",
+   "pagina": 51,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Impulso de los servicios de apoyo a las familias en los centros educativos",
+   "cita": "Impulso de los servicios de apoyo a las familias en los centros educativos.",
+   "pagina": 51,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "pensiones",
+   "titular": "Cotización a la Seguridad Social financiada por el Estado para los españoles dedicados al cuidado de sus hijos",
+   "cita": "Cotización a la Seguridad Social financiada por el Estado para los españoles dedicados al cuidado de sus hijos.",
+   "pagina": 51,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "impuestos",
+   "titular": "Medidas para vehículos familiares, menor fiscalidad en productos infantiles y deducciones escolares",
+   "cita": "la compra de vehículos por necesidades familiares, la reducción de la carga fiscal de los productos de primera necesidad infantil, deducciones por material escolar o clases extraescolares.",
+   "pagina": 51,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "educacion",
+   "titular": "Gratuidad real de la educación infantil de 0 a 3 años",
+   "cita": "y la gratuidad real de la educación infantil de 0 a 3 años.",
+   "pagina": 51,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Reforzar los recursos en dependencia, las ayudas al cuidado en el hogar y el apoyo a familiares a cargo",
+   "cita": "Reforzar el presupuesto en dependencia, las ayudas para el cuidado en el hogar, el apoyo a familiares a cargo.",
+   "pagina": 52,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Aumento de los programas de atención a la soledad no deseada y de las plazas en residencias",
+   "cita": "Aumento de los programas de atención a la soledad no deseada y de las plazas en residencias.",
+   "pagina": 52,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Reforzar bonificaciones por discapacidad, eliminar barreras arquitectónicas y desburocratizar trámites",
+   "cita": "Refuerzo de las bonificaciones y deducciones para personas con discapacidad, poner fin a las barreras arquitectónicas que dificultan su movilidad y desburocratizar los procedimientos de reconocimiento de la discapacidad o dependencia, así como otros trámites relacionados.",
+   "pagina": 52,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Eliminar las trabas que impiden que las ayudas a la dependencia lleguen de manera rápida e íntegra",
+   "cita": "Eliminar todas aquellas trabas que impiden que las ayudas a la dependencia lleguen de manera rápida e íntegra a los beneficiarios.",
+   "pagina": 52,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Preservar la inocencia de los menores y protegerlos de los riesgos de los entornos digitales",
+   "cita": "Preservar la inocencia de los menores y protegerlos frente a los riesgos presentes en los entornos digitales, tales como la adicción al juego o la pornografía o la mayor vulnerabilidad ante ciertos delitos.",
+   "pagina": 52,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Defensa del derecho a la vida desde su concepción hasta la muerte natural y fin de la «cultura de la muerte»",
+   "cita": "Defensa del derecho a la vida desde su concepción hasta la muerte natural y fin de la cultura de la muerte.",
+   "pagina": 52,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "sanidad",
+   "titular": "Garantizar la objeción de conciencia de sanitarios y farmacéuticos y potenciar los cuidados paliativos",
+   "cita": "Garantizar la objeción de conciencia de los profesionales sanitarios y farmacéuticos y potenciar los cuidados paliativos.",
+   "pagina": 52,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "empleo",
+   "titular": "Combatir la brecha maternal facilitando la reincorporación laboral de madres tras la maternidad",
+   "cita": "Combatir la brecha maternal facilitando la formación, permanencia, promoción y reincorporación al trabajo de las madres que han interrumpido sus carreras por la maternidad o cuidado de familiares y desean retomarla.",
+   "pagina": 52,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Reforzar los derechos de conciliación de todos los trabajadores",
+   "cita": "Reforzar los derechos de conciliación de la vida personal, familiar y profesional de todos los trabajadores y la asunción equilibrada de las responsabilidades familiares.",
+   "pagina": 53,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Incentivos para las empresas que favorezcan la conciliación familiar y laboral",
+   "cita": "Incentivos para las empresas que favorezcan la conciliación familiar y laboral.",
+   "pagina": 53,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "social",
+   "titular": "Más fondos para la conciliación familiar y servicios complementarios de aula en los centros educativos",
+   "cita": "Aumento del presupuesto en conciliación familiar con ampliación de los servicios complementarios de aula en los centros educativos.",
+   "pagina": 53,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Elección por los propios jueces y magistrados de los doce vocales judiciales del CGPJ",
+   "cita": "Modificar la Ley Orgánica del Poder Judicial para que los doce vocales de procedencia judicial del Consejo General del Poder Judicial sean elegidos mediante voto personal, directo y secreto por y entre los propios jueces y magistrados, terminando con el sistema de cuotas partidistas.",
+   "pagina": 55,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Acabar con la «colonización partidista» de cualquier institución judicial",
+   "cita": "Acabar con la colonización partidista de cualquier institución judicial.",
+   "pagina": 55,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Garantizar la idoneidad, imparcialidad, competencia profesional e independencia del Fiscal General del Estado",
+   "cita": "Garantizar la idoneidad, imparcialidad, competencia profesional e independencia del Fiscal General del Estado.",
+   "pagina": 55,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Liberar el Tribunal Constitucional «de las manos de los políticos»",
+   "cita": "Liberar el Tribunal Constitucional de las manos de los políticos. El control de la constitucionalidad de las leyes no puede depender de un órgano político.",
+   "pagina": 55,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Velar por el papel funcional del Tribunal Supremo y evitar que el Constitucional actúe por encima de él",
+   "cita": "Velar por el respeto del papel funcional del Tribunal Supremo y evitar que el Tribunal Constitucional actúe como un tribunal extraordinario por encima del mismo.",
+   "pagina": 55,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Reforma integral del sistema judicial para una Administración de Justicia rápida y eficiente",
+   "cita": "Reforma integral del sistema judicial que deje atrás los desvaríos ideológicos de este Gobierno y permita que los españoles puedan contar con una Administración de Justicia rápida y eficiente.",
+   "pagina": 55,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Aumento de las inversiones en sedes judiciales y profesionales de la justicia",
+   "cita": "Aumento de las inversiones en sedes judiciales y profesionales de la justicia.",
+   "pagina": 55,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Recuperar el delito de sedición",
+   "cita": "Respuesta contundente frente a los ataques contra la Unidad Nacional. Recuperar el delito de sedición",
+   "pagina": 55,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Agravar el tipo delictivo de la malversación de caudales públicos",
+   "cita": "agravar el tipo delictivo de la malversación de caudales públicos",
+   "pagina": 56,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Prohibir los indultos para delitos de corrupción política, forma política del Estado o integridad territorial",
+   "cita": "prohibir los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial",
+   "pagina": 56,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Ilegalizar partidos o entidades que atenten contra la soberanía, unidad o integridad territorial",
+   "cita": "Ilegalización de los partidos políticos, asociaciones u organizaciones de cualquier tipo que atenten contra la soberanía e independencia de España, su unidad e integridad territorial.",
+   "pagina": 56,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "cultura",
+   "titular": "Protección de los usos y costumbres y de las tradiciones religiosas y populares de España",
+   "cita": "Protección de nuestros usos y costumbres y de las tradiciones religiosas y populares de España, frente a cualquier intento de imposición ideológica o de oposición extranjera.",
+   "pagina": 56,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Dotar de la máxima protección jurídica a los símbolos de la Nación",
+   "cita": "Dotar de la máxima protección jurídica a los símbolos de la Nación, especialmente la Bandera, el Escudo y el Himno o la Corona.",
+   "pagina": 56,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Agravar las penas por las ofensas y ultrajes a España y sus símbolos o emblemas",
+   "cita": "Las penas por las ofensas y ultrajes a España y sus símbolos o emblemas deben agravarse para que ninguna afrenta a ellos quede impune.",
+   "pagina": 56,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Mayores medios para juzgados y unidades de Guardia Civil y Policía especializadas en corrupción",
+   "cita": "Mayores medios y recursos a los juzgados y las unidades de la Guardia Civil y del Cuerpo Nacional de Policía especializadas en la lucha contra la corrupción.",
+   "pagina": 56,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Auditoría integral de todas las administraciones para llevar cualquier indicio de corrupción ante la Justicia",
+   "cita": "Auditoría integral de todas las Administraciones con el fin destapar cualquier indicio de corrupción y llevarlo ante la Justicia.",
+   "pagina": 57,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Reforzar la responsabilidad patrimonial personal de los cargos públicos condenados por corrupción",
+   "cita": "Reforzaremos la responsabilidad patrimonial personal de los cargos públicos condenados por delitos de corrupción, garantizando que respondan con todos sus bienes presentes y futuros por la totalidad del perjuicio económico causado a las arcas públicas",
+   "pagina": 57,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Auditoría del patrimonio inmobiliario del Estado",
+   "cita": "Auditoría del patrimonio inmobiliario del Estado. Los bienes inmuebles del Estado han de estar al servicio de las necesidades de la vivienda o de la mejor y más eficiente prestación de los servicios públicos de los españoles.",
+   "pagina": 57,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Plan Nacional de Rehabilitación del Patrimonio Inmobiliario para la revitalización y creación de empleo",
+   "cita": "Plan Nacional de Rehabilitación del Patrimonio Inmobiliario para la revitalización y creación de empleo.",
+   "pagina": 57,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Aprobar una ley que impida el enaltecimiento del terrorismo, homenajes y humillación de víctimas",
+   "cita": "Aprobación de una ley que impida de forma efectiva el enaltecimiento del terrorismo, homenajes a terroristas, actos de humillación de las víctimas o ataques a instituciones y símbolos de España.",
+   "pagina": 57,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Promover la investigación de todos los crímenes de ETA aún no resueltos",
+   "cita": "Promover la investigación de todos los crímenes de ETA aún no resueltos",
+   "pagina": 57,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Impulsar que los delitos de ETA se consideren crímenes de lesa humanidad, para que no prescriban nunca",
+   "cita": "impulsar la consideración de todos y cada uno de los delitos cometidos por la organización terrorista ETA como crímenes de lesa humanidad, para que no prescriban nunca.",
+   "pagina": 57,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Garantizar la efectiva imprescriptibilidad de todos los delitos de terrorismo",
+   "cita": "Garantizar la efectiva imprescriptibilidad de todos los delitos de terrorismo.",
+   "pagina": 57,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "seguridad_justicia",
+   "titular": "Fin de los «privilegios penitenciarios» de los condenados por terrorismo",
+   "cita": "Fin de los privilegios penitenciarios de los condenados por terrorismo.",
+   "pagina": 57,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Reforma integral de la Radio y la Televisión pública para informar con objetividad y pluralidad",
+   "cita": "Reforma integral de la Radio y la Televisión pública para que preste un verdadero servicio público informando con objetividad y pluralidad.",
+   "pagina": 58,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "instituciones",
+   "titular": "Garantizar la libertad de expresión frente a la «deriva censora» del Gobierno de Sánchez",
+   "cita": "Garantizar la libertad de expresión de todos los españoles frente a la deriva censora del Gobierno de Sánchez.",
+   "pagina": 58,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Aumentar la inversión en carreteras, ferrocarril, obras hidráulicas, telecomunicaciones y puertos",
+   "cita": "Aumento de la inversión en infraestructuras que incluya, al menos, red de carreteras, red ferroviaria, infraestructuras hidráulicas y de contención de inundaciones, telecomunicaciones, nodos logísticos, transporte y puertos.",
+   "pagina": 61,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Prioridad a la seguridad ferroviaria, al mantenimiento de la red y a Cercanías y Media Distancia",
+   "cita": "Prioridad a la seguridad ferroviaria, al mantenimiento de una red abandonada e infradotada y a los servicios de Cercanías y Media Distancia.",
+   "pagina": 61,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Auditoría del estado de la red y modernización y electrificación de las líneas convencionales",
+   "cita": "Auditoría del estado de la red. Modernización y electrificación de las líneas convencionales para conectar también las ciudades pequeñas y la España rural.",
+   "pagina": 61,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Concluir obras pendientes contra inundaciones, conservar cauces y desarrollar obras hidráulicas",
+   "cita": "Conclusión de las obras pendientes, conservación de cauces, adecuación de barrancos y desarrollo de las infraestructuras hidráulicas necesarias para garantizar la seguridad y el bienestar de los españoles.",
+   "pagina": 61,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Plan Nacional del Agua: interconexión de todas las cuencas para una gestión más eficiente del agua",
+   "cita": "Plan Nacional del Agua. Interconexión de todas las cuencas que permita una gestión más eficiente del agua",
+   "pagina": 61,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  },
+  {
+   "area": "infraestructuras",
+   "titular": "Plan Nacional del Agua con interconexión de cuencas",
+   "cita": "115. Plan Nacional del Agua. Interconexión de todas las cuencas que permita una gestión más eficiente del agua",
+   "pagina": 61,
+   "ley_afectada": null,
+   "situacion_actual": null,
+   "en_tu_dia_a_dia": null,
+   "generado": true
+  }
+ ]
+}

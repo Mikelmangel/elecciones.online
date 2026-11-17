@@ -1,0 +1,50 @@
+[
+  {
+    "id": "psoe-sanchez-wild-inmigracion-0",
+    "entrevista_url": "https://www.youtube.com/watch?v=H6BIJGeRdkI",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "Estamos hablando a lo mejor pues de llegadas de 1000 1200 migrantes, pero no en absoluto los más de 80.000 que el 30 y el 31 de julio entraron en Ceuta.",
+    "contexto_minuto": "02:10"
+  },
+  {
+    "id": "psoe-sanchez-wild-inmigracion-1",
+    "entrevista_url": "https://www.youtube.com/watch?v=H6BIJGeRdkI",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "el salto de renta per cápita que hay entre un lado y otro estamos hablando de que se multiplica por ocho.",
+    "contexto_minuto": "04:09"
+  },
+  {
+    "id": "psoe-sanchez-wild-inmigracion-2",
+    "entrevista_url": "https://www.youtube.com/watch?v=H6BIJGeRdkI",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "Pues tuvimos más tuvimos más de 140 tuvimos más de 140 muertos",
+    "contexto_minuto": "06:32"
+  },
+  {
+    "id": "psoe-sanchez-wild-inmigracion-3",
+    "entrevista_url": "https://www.youtube.com/watch?v=H6BIJGeRdkI",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "es que nueve de cada 10 migrantes que entraron salieron.",
+    "contexto_minuto": "09:10"
+  },
+  {
+    "id": "psoe-sanchez-wild-inmigracion-4",
+    "entrevista_url": "https://www.youtube.com/watch?v=H6BIJGeRdkI",
+    "tema": "inmigracion",
+    "tipo": "cifra",
+    "cita_literal": "han salido de de Ceuta de manera voluntaria más de 15.000 personas.",
+    "contexto_minuto": "10:37"
+  },
+  {
+    "id": "psoe-sanchez-wild-inmigracion-5",
+    "entrevista_url": "https://www.youtube.com/watch?v=H6BIJGeRdkI",
+    "tema": "inmigracion",
+    "tipo": "posicion",
+    "cita_literal": "en aquellos casos que sea necesario el derecho a asilo, la protección internacional y en aquellos casos que no, denegarla.",
+    "contexto_minuto": "10:19"
+  }
+]

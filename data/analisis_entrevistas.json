@@ -1,0 +1,770 @@
+{
+  "fuente": "analisis_editorial_entrevistas_2026",
+  "actualizado": "2026-11-17T00:00:00Z",
+  "total_analisis": 15,
+  "analisis": [
+    {
+      "slug": "pedro-sanchez-the-wild-project",
+      "entrevista_id": "mStOFBvToUI",
+      "persona": "Pedro Sánchez",
+      "partido": "PSOE",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "fecha": "2026-11-13",
+      "duracion_aprox": "2h 48m",
+      "resumen_ejecutivo": "Pedro Sánchez acude por primera vez al podcast The Wild Project de Jordi Wild en plena precampaña del 29-N. La conversación, de casi tres horas de duración, combina aspectos personales e institucionales con un balance de sus mandatos desde 2018 y la defensa de su gestión económica y social.",
+      "contexto_politico": "La entrevista se produce tras una legislatura de alta fragmentación parlamentaria en el Congreso y ante la necesidad del PSOE de movilizar al electorado joven y abstencionista que consume formatos de larga duración en plataformas digitales.",
+      "ejes_tematicos": [
+        {
+          "tema": "economia_impuestos",
+          "titular": "Defensa del crecimiento económico y el empleo",
+          "analisis": "Sánchez defiende que España lidera el crecimiento económico entre las grandes economías de la zona euro, vinculando las cifras de afiliación a la Seguridad Social (por encima de los 21,3 millones de cotizantes) a las sucesivas subidas del SMI y la reforma laboral.",
+          "minutos_clave": [
+            "03:07",
+            "42:15",
+            "1:15:30"
+          ]
+        },
+        {
+          "tema": "vivienda",
+          "titular": "Compromiso de parque público de vivienda y bono joven",
+          "analisis": "Reconoce la vivienda como el principal problema de emancipación para las nuevas generaciones. Defiende la aplicación de la Ley de Vivienda y promete movilizar suelo público de Defensa y Sareb para alcanzar un 20% de vivienda pública a largo plazo.",
+          "minutos_clave": [
+            "58:20",
+            "1:04:12"
+          ]
+        },
+        {
+          "tema": "pactos_gobernabilidad",
+          "titular": "Justificación de los acuerdos parlamentarios y normalización catalana",
+          "analisis": "Justifica los acuerdos con Junts, ERC, PNV y EH Bildu como el único camino para garantizar mayorías legislativas de corte progresista y defiende que la ley de amnistía ha mejorado la convivencia en Cataluña frente a la situación de 2017.",
+          "minutos_clave": [
+            "1:35:40",
+            "1:48:22"
+          ]
+        },
+        {
+          "tema": "inmigracion_demografia",
+          "titular": "La aportación de la inmigración a la sostenibilidad del Estado del bienestar",
+          "analisis": "Argumenta que los flujos migratorios regulados son imprescindibles para sostener la pirámide demográfica y el sistema de pensiones en España, citando los informes del Banco de España sobre impacto en el PIB.",
+          "minutos_clave": [
+            "2:05:10",
+            "2:12:45"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "Hemos subido el salario mínimo interprofesional un 54% y las pensiones se revalorizan conforme al IPC por ley",
+          "minuto": "42:15",
+          "en_programa": "Programa PSOE 2026 (pág. 18): 'Garantizar por ley que el SMI alcanzará siempre al menos el 60% del salario medio'.",
+          "en_congreso": "Votación 18-3 del Congreso: Convalidación de la reforma de revalorización de las pensiones con el IPC.",
+          "evaluacion": "Coherente con los datos oficiales y las votaciones parlamentarias.",
+          "nota_editorial": "Los datos de Seguridad Social confirman la subida del SMI de 735,9 euros en 2018 a los 1.134 euros mensuales actuales."
+        },
+        {
+          "declaracion": "La vivienda es el gran reto nacional y movilizaremos todo el parque de Sareb y suelo de Defensa",
+          "minuto": "58:20",
+          "en_programa": "Programa PSOE 2026 (pág. 32): 'Construcción y rehabilitación de 184.000 viviendas públicas de alquiler asequible'.",
+          "en_congreso": "Votación 15-1 del Congreso: Aprobación de la Ley 12/2023 por el derecho a la vivienda con votos a favor de PSOE, Sumar, ERC y Bildu.",
+          "evaluacion": "Coherente con la línea legislativa del partido.",
+          "nota_editorial": "La efectividad de las medidas depende en gran medida de las comunidades autónomas competentes en urbanismo y vivienda."
+        }
+      ],
+      "conclusiones": [
+        "Tono pedagógico y defensivo de la gestión de gobierno frente al bloque conservador.",
+        "Enfoque prioritario en captar el voto joven abordando el empleo, la vivienda y la emergencia climática.",
+        "Reivindicación de la vía del diálogo y los pactos multipartidistas para evitar gobiernos de coalición PP-VOX."
+      ]
+    },
+    {
+      "slug": "alberto-nunez-feijoo-the-wild-project",
+      "entrevista_id": "1YlGArMx_N4",
+      "persona": "Alberto Núñez Feijóo",
+      "partido": "PP",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "fecha": "2026-11-13",
+      "duracion_aprox": "2h 42m",
+      "resumen_ejecutivo": "Alberto Núñez Feijóo acude al podcast de Jordi Wild con el objetivo de presentar su alternativa institucional y económica. A lo largo de la entrevista expone su visión sobre la deuda pública récord, la presión fiscal, el modelo autonómico y su propuesta de desregulación y avales a la vivienda.",
+      "contexto_politico": "El líder del Partido Popular busca consolidar su condición de primera fuerza en las encuestas, apelando al votante descontento con las cesiones del Gobierno a los partidos independentistas y a los autónomos y clases medias afectados por la inflación.",
+      "ejes_tematicos": [
+        {
+          "tema": "economia_impuestos",
+          "titular": "Alerta sobre la deuda pública y rebaja del IRPF para rentas medias",
+          "analisis": "Feijóo hace hincapié en que la deuda pública española supera los 1,6 billones de euros según el Banco de España y defiende deflactar el IRPF en los primeros tramos y eliminar trabas burocráticas a la inversión empresarial.",
+          "minutos_clave": [
+            "18:40",
+            "34:20",
+            "52:10"
+          ]
+        },
+        {
+          "tema": "vivienda",
+          "titular": "Plan de choque: avales al 100%, liberación de suelo y desalojo exprés de okupaciones",
+          "analisis": "Rechaza el control de precios del alquiler previsto en la Ley de Vivienda, argumentando que retrae la oferta. Propone avales del ICO para facilitar la compra a jóvenes y una reforma penal para desalojar ocupaciones ilegales en 24-48 horas.",
+          "minutos_clave": [
+            "25:35",
+            "1:12:00"
+          ]
+        },
+        {
+          "tema": "instituciones_justicia",
+          "titular": "Regeneración institucional, separación de poderes y derogación de la amnistía",
+          "analisis": "Propone reformar la elección de los vocales judiciales del CGPJ para que los elijan directamente los jueces y tipificar de nuevo el delito de deslealtad constitucional y referéndum ilegal.",
+          "minutos_clave": [
+            "1:28:15",
+            "1:44:30"
+          ]
+        },
+        {
+          "tema": "pactos_gobernabilidad",
+          "titular": "Compromiso de gobernar en solitario y límites a coaliciones",
+          "analisis": "Reitera su intención de lograr una mayoría suficiente que no dependa de exigencias ministeriales de VOX, aunque reconoce los pactos autonómicos vigentes en diversas comunidades.",
+          "minutos_clave": [
+            "2:10:05",
+            "2:22:40"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "España tiene una deuda de más de 1,6 billones de euros que pagarán las próximas generaciones",
+          "minuto": "18:40",
+          "en_programa": "Programa PP 2026 (pág. 42): 'Plan de consolidación fiscal para reducir la deuda pública hacia el 100% del PIB'.",
+          "en_congreso": "Votación 56-77 del Congreso: El Grupo Popular votó en contra de la senda de déficit y estabilidad presupuestaria del Gobierno.",
+          "evaluacion": "Coherente con los datos oficiales del Banco de España (cuadro 11.1).",
+          "nota_editorial": "La cifra de deuda en términos absolutos está documentada en los registros del Banco de España en 1,62 billones de euros."
+        },
+        {
+          "declaracion": "Si liberamos suelo y damos seguridad jurídica al propietario, saldrán miles de pisos al mercado del alquiler",
+          "minuto": "25:35",
+          "en_programa": "Programa PP 2026 (pág. 68): 'Pacto de Estado por la Vivienda: liberalización de suelo y bonificaciones fiscales a propietarios'.",
+          "en_congreso": "Votación 15-1 del Congreso: El PP votó NO a la Ley de Vivienda.",
+          "evaluacion": "Coherente con el programa del partido y el sentido de voto en el Congreso.",
+          "nota_editorial": "El partido ha recurrido varios artículos de la Ley de Vivienda ante el Tribunal Constitucional por invasión de competencias autonómicas."
+        }
+      ],
+      "conclusiones": [
+        "Estrategia de moderación y perfil gestor frente a la polarización ideológica.",
+        "Foco en la gestión presupuestaria, el control del gasto y la bajada selectiva de impuestos.",
+        "Distanciamiento retórico de VOX manteniendo abierta la gobernabilidad práctica."
+      ]
+    },
+    {
+      "slug": "santiago-abascal-la-revuelta",
+      "entrevista_id": "wIKaqVcTZio",
+      "persona": "Santiago Abascal",
+      "partido": "VOX",
+      "medio": "La Revuelta · RTVE (YouTube)",
+      "fecha": "2026-11-09",
+      "duracion_aprox": "42m",
+      "resumen_ejecutivo": "Santiago Abascal participa en La Revuelta de David Broncano en RTVE en una de las entrevistas más vistas de la campaña. En un registro inusual que mezcla la dinámica satírica del programa con la confrontación de ideas, Abascal expone las líneas maestras de su proyecto político.",
+      "contexto_politico": "VOX afronta las elecciones del 29-N con el reto de frenar el voto útil hacia el PP y retener a su núcleo duro electoral frente al avance de candidaturas como Se Acabó La Fiesta.",
+      "ejes_tematicos": [
+        {
+          "tema": "inmigracion_seguridad",
+          "titular": "Fronteras seguras, expulsión de irregulares y fin del efecto llamada",
+          "analisis": "Abascal sostiene que la inmigración irregular descontrolada genera inseguridad en los barrios de las grandes ciudades y propone la expulsión inmediata de personas en situación administrativa irregular y de extranjeros condenados.",
+          "minutos_clave": [
+            "12:15",
+            "18:40"
+          ]
+        },
+        {
+          "tema": "vivienda_territorio",
+          "titular": "Liberación masiva de suelo y exención fiscal de la primera vivienda",
+          "analisis": "Defiende que todo el suelo que no esté protegido ambientalmente debe ser urbanizable para abaratar el coste del metro cuadrado y pide eliminar el IVA y los impuestos de transmisiones patrimoniales en la primera vivienda.",
+          "minutos_clave": [
+            "22:30",
+            "28:10"
+          ]
+        },
+        {
+          "tema": "instituciones_soberania",
+          "titular": "Crítica al modelo autonómico y centralización de Sanidad y Educación",
+          "analisis": "Mantiene la posición fundacional de VOX favorable a la supresión de las autonomías y la devolución de competencias clave al Estado para garantizar la igualdad de todos los españoles.",
+          "minutos_clave": [
+            "31:05",
+            "37:50"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "Los impuestos representan casi el 20% del coste de comprar una casa y eso asfixia a los jóvenes",
+          "minuto": "22:30",
+          "en_programa": "Programa VOX 2026 (pág. 14): 'Supresión total del IVA e ITP en la adquisición de la primera vivienda habitual'.",
+          "en_congreso": "Votación 15-4 del Congreso: VOX votó en contra de los decretos anticrisis del Gobierno que no incluían rebajas tributarias al suelo.",
+          "evaluacion": "Con matices según el régimen de vivienda nueva (IVA 10%) o usada (ITP autonómico del 6% al 10%).",
+          "nota_editorial": "La Agencia Tributaria grava la vivienda nueva con el 10% de IVA (4% en protegida); el resto del coste impositivo procede de impuestos autonómicos como AJD e ITP."
+        }
+      ],
+      "conclusiones": [
+        "Discurso centrado en la seguridad jurídica, la soberanía nacional y el choque cultural.",
+        "Mantenimiento estricto de las tesis de VOX en materia migratoria e impositiva.",
+        "Uso del espacio televisivo para romper el cordón mediático habitual de la formación."
+      ]
+    },
+    {
+      "slug": "ada-colau-the-wild-project",
+      "entrevista_id": "-ESmAhdixfo",
+      "persona": "Ada Colau",
+      "partido": "Frente Amplio",
+      "medio": "The Wild Project · Jordi Wild (YouTube)",
+      "fecha": "2026-11-13",
+      "duracion_aprox": "3h 10m",
+      "resumen_ejecutivo": "Ada Colau, exalcaldesa de Barcelona y referente del espacio de Frente Amplio / En Comú, protagoniza una extensa conversación de más de tres horas en The Wild Project. Explica su trayectoria desde el activismo de la PAH hasta el gobierno municipal y detalla las medidas de la coalición para regular el mercado del alquiler.",
+      "contexto_politico": "Frente Amplio busca reconfigurar el espacio a la izquierda del PSOE tras la escisión de Podemos, situando la emergencia habitacional y el coste de la vida en el centro del debate electoral.",
+      "ejes_tematicos": [
+        {
+          "tema": "vivienda",
+          "titular": "Regulación estricta del alquiler de temporada y sanción a grandes tenedores",
+          "analisis": "Colau denuncia que los propietarios están esquivando los topes de precios de la Ley de Vivienda mediante contratos de temporada y habitaciones, exigiendo su equiparación por ley para evitar el vaciamiento residencial de las ciudades.",
+          "minutos_clave": [
+            "24:10",
+            "45:30",
+            "1:18:00"
+          ]
+        },
+        {
+          "tema": "economia_impuestos",
+          "titular": "Justicia fiscal e impuestos extraordinarios a la banca y energéticas",
+          "analisis": "Defiende mantener con carácter permanente los gravámenes extraordinarios sobre los beneficios caídos del cielo de entidades financieras y energéticas para financiar la sanidad y la dependencia.",
+          "minutos_clave": [
+            "1:34:20",
+            "1:52:15"
+          ]
+        },
+        {
+          "tema": "territorial_estado",
+          "titular": "Modelo federal plurinacional y derecho a decidir mediante referéndum pactado",
+          "analisis": "Reivindica el reconocimiento de Cataluña como nación dentro de un Estado federal y rechaza la vía de la judicialización del conflicto territorial.",
+          "minutos_clave": [
+            "2:15:40",
+            "2:30:10"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "En el Congreso se intentó regular el alquiler de temporada pero PP, Junts y VOX tumbaron la tramitación de la ley",
+          "minuto": "45:30",
+          "en_programa": "Programa Frente Amplio 2026 (pág. 12): 'Inclusión inmediata del alquiler de temporada y por habitaciones en la regulación de precios'.",
+          "en_congreso": "Votación 74-2 del Congreso (17/09/2024): La toma en consideración de la proposición de ley sobre alquiler de temporada fue rechazada por 178 votos en contra (PP, VOX, Junts).",
+          "evaluacion": "Verificado con el diario de sesiones oficial del Congreso de los Diputados.",
+          "nota_editorial": "La votación parlamentaria oficial confirma el bloqueo legislativo a la iniciativa promovida por los colectivos de vivienda y los grupos de izquierda."
+        }
+      ],
+      "conclusiones": [
+        "Fuerte énfasis en el activismo ciudadano y la movilización social como palanca de cambio.",
+        "Reivindicación de la experiencia de gestión en Barcelona frente a las críticas de la patronal inmobiliaria.",
+        "Presión al PSOE para asumir medidas más contundentes en fiscalidad y regulación de rentas."
+      ]
+    },
+    {
+      "slug": "gabriel-rufian-lasexta",
+      "entrevista_id": "gabriel-rufian-lasexta",
+      "persona": "Gabriel Rufián",
+      "partido": "ERC",
+      "medio": "laSexta",
+      "fecha": "2026-11-14",
+      "duracion_aprox": "45m",
+      "resumen_ejecutivo": "Gabriel Rufián expone en laSexta la postura estratégica de Esquerra Republicana de Catalunya de cara a la nueva legislatura, condicionando cualquier apoyo a una investidura a compromisos verificables en financiación singular, condonación de deuda y regulación de precios básicos.",
+      "contexto_politico": "ERC compite con Junts por la hegemonía independentista en el Congreso tras el acuerdo de investidura de Salvador Illa en Cataluña y las tensiones en torno al modelo de financiación.",
+      "ejes_tematicos": [
+        {
+          "tema": "economia_consumo",
+          "titular": "Control de márgenes en la distribución alimentaria e IVA cero",
+          "analisis": "Rufián sostiene que las rebajas del IVA a los alimentos básicos no llegaron en su totalidad al consumidor final debido a la ampliación de los márgenes empresariales de las grandes cadenas distribuidoras.",
+          "minutos_clave": [
+            "10:15",
+            "18:40"
+          ]
+        },
+        {
+          "tema": "financiacion_singular",
+          "titular": "Concierto económico solidario y recaudación del 100% de los tributos",
+          "analisis": "Defiende que la Generalitat de Cataluña debe recaudar, gestionar y liquidar todos los tributos generados en su territorio, abonando una cuota de solidaridad interterritorial transparente y auditada.",
+          "minutos_clave": [
+            "24:30",
+            "33:10"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "Las distribuidoras aumentaron sus márgenes de beneficio mientras el IPC de los alimentos batía récords",
+          "minuto": "10:15",
+          "en_programa": "Programa ERC 2026 (pág. 24): 'Creación de un observatorio de precios con capacidad sancionadora sobre márgenes abusivos'.",
+          "en_congreso": "Votación 15-4 del Congreso: Convalidación del Decreto-ley de medidas frente a la inflación.",
+          "evaluacion": "Verificado con datos del IPC del INE y estudios del Banco de España sobre márgenes comerciales.",
+          "nota_editorial": "Los informes de la CNMC y del Banco de España reflejan un comportamiento dispar según subsectores agrícolas y de distribución minorista."
+        }
+      ],
+      "conclusiones": [
+        "Pragmatismo negociador combinando reivindicación social y soberanista.",
+        "Defensa de la financiación singular como línea roja innegociable.",
+        "Crítica a los sectores conservadores por judicializar los acuerdos de investidura."
+      ]
+    },
+    {
+      "slug": "aitor-esteban-onda-vasca",
+      "entrevista_id": "aitor-esteban-onda-vasca",
+      "persona": "Aitor Esteban",
+      "partido": "EAJ-PNV",
+      "medio": "Onda Vasca",
+      "fecha": "2026-11-12",
+      "duracion_aprox": "38m",
+      "resumen_ejecutivo": "Aitor Esteban analiza en Onda Vasca el papel decisivo del PNV en la gobernabilidad del Estado, el blindaje del Concierto Económico vasco y los límites a la invasión de competencias autonómicas en las leyes estatales de vivienda y sanidad.",
+      "contexto_politico": "El PNV busca revalidar su grupo parlamentario propio y mantener su capacidad de influencia institucional frente a la competencia electoral directa con EH Bildu en Euskadi.",
+      "ejes_tematicos": [
+        {
+          "tema": "autogobierno_vivienda",
+          "titular": "Defensa de las competencias exclusivas vascas en urbanismo y vivienda",
+          "analisis": "Esteban argumenta que la Ley estatal de Vivienda vulnera competencias estatutarias de Euskadi y defiende que las políticas deben diseñarse desde las instituciones forales y vascas, que ya cuentan con su propia legislación.",
+          "minutos_clave": [
+            "08:20",
+            "15:45"
+          ]
+        },
+        {
+          "tema": "gobernabilidad_pactos",
+          "titular": "Incompatibilidad absoluta con cualquier acuerdo que incluya a VOX",
+          "analisis": "Reitera que el PNV no participará en ninguna mayoría parlamentaria ni votará favorablemente a ningún candidato que pacte con la ultraderecha de VOX.",
+          "minutos_clave": [
+            "22:10",
+            "30:05"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "En vivienda la competencia de las comunidades autónomas es exclusiva según la Constitución y el Estatuto",
+          "minuto": "08:20",
+          "en_programa": "Programa EAJ-PNV 2026 (pág. 19): 'Defensa del marco competencial vasco y recurso a la legislación foral'.",
+          "en_congreso": "Votación 15-1 del Congreso: El PNV votó en contra de la Ley estatal de Vivienda por invasión competencial.",
+          "evaluacion": "Coherente con los recursos admitidos a trámite en el Tribunal Constitucional.",
+          "nota_editorial": "El Tribunal Constitucional anuló varios apartados de la ley estatal por vulneración de las competencias urbanísticas autonómicas."
+        }
+      ],
+      "conclusiones": [
+        "Firmeza en la defensa del autogobierno y las competencias forales.",
+        "Rechazo tajante a fórmulas de gobierno dependientes de VOX.",
+        "Puesta en valor de la estabilidad institucional y el tejido industrial vasco."
+      ]
+    },
+    {
+      "slug": "oskar-matute-rtve",
+      "entrevista_id": "Elhd_2WKup0",
+      "persona": "Oskar Matute",
+      "partido": "EH BILDU",
+      "medio": "RTVE · Canal EH Bildu (YouTube)",
+      "fecha": "2026-11-13",
+      "duracion_aprox": "35m",
+      "resumen_ejecutivo": "Oskar Matute expone en RTVE el compromiso de EH Bildu de frenar a las derechas y condicionar la legislatura a avances sociales tangibles en pensiones, vivienda digna y derechos laborales, desvinculando la política de la crispación identitaria.",
+      "contexto_politico": "EH Bildu consolida su perfil de izquierda soberanista con creciente respaldo electoral en la CAV y Navarra, actuando como socio prioritario en las leyes sociales de la legislatura.",
+      "ejes_tematicos": [
+        {
+          "tema": "derechos_sociales",
+          "titular": "Escudo social permanente y freno a las políticas de austeridad",
+          "analisis": "Defiende que el Congreso debe consolidar de manera indefinida la prohibición de desahucios para familias vulnerables y la moratoria de cortes de suministros básicos.",
+          "minutos_clave": [
+            "06:30",
+            "14:15"
+          ]
+        },
+        {
+          "tema": "autodeterminacion",
+          "titular": "Vía pacífica hacia el reconocimiento plurinacional",
+          "analisis": "Reivindica el derecho a decidir de los pueblos y una reforma del modelo de Estado que supere las limitaciones de la Constitución de 1978.",
+          "minutos_clave": [
+            "19:50",
+            "27:10"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "Hemos apoyado todos los decretos que blindan los derechos de los trabajadores y frenan desahucios",
+          "minuto": "06:30",
+          "en_programa": "Programa EH Bildu 2026 (pág. 11): 'Blindaje del escudo social y garantía de vivienda como derecho inalienable'.",
+          "en_congreso": "Votación 15-3 y 15-4 del Congreso: EH Bildu votó SÍ a los decretos de escudo social y reforma laboral.",
+          "evaluacion": "Coherente con el registro de votaciones parlamentarias de la XV Legislatura.",
+          "nota_editorial": "EH Bildu ha sido uno de los grupos con mayor coincidencia de voto con las iniciativas sociales del Gobierno en el Congreso."
+        }
+      ],
+      "conclusiones": [
+        "Énfasis en las conquistas laborales y sociales de la legislatura.",
+        "Compromiso inequívoco de bloquear cualquier investidura conservadora.",
+        "Tono sereno enfocado en la defensa de las mayorías populares."
+      ]
+    },
+    {
+      "slug": "cristina-valido-radio-marca",
+      "entrevista_id": "cristina-valido-radio-marca",
+      "persona": "Cristina Valido",
+      "partido": "CCa",
+      "medio": "Radio Marca Tenerife",
+      "fecha": "2026-11-14",
+      "duracion_aprox": "32m",
+      "resumen_ejecutivo": "Cristina Valido defiende en Radio Marca Tenerife la independencia de voto de Coalición Canaria en el Congreso de los Diputados, desmintiendo que su formación sea un apoyo incondicional del Ejecutivo y recordando su voto en contra de la Ley de Amnistía.",
+      "contexto_politico": "CCa busca asegurar la representación de Canarias en Madrid como bisagra imprescindible, exigiendo el cumplimiento íntegro del Régimen Económico y Fiscal (REF) y la atención a la crisis migratoria insular.",
+      "ejes_tematicos": [
+        {
+          "tema": "agenda_canaria",
+          "titular": "El voto de CCa se decide única y exclusivamente por el beneficio de Canarias",
+          "analisis": "Valido explica que su voto no está comprometido con ningún bloque estatal, sino ligado al cumplimiento del convenio de carreteras, los fondos de gratuidad del transporte y la solidaridad interterritorial en acogida de menores migrantes.",
+          "minutos_clave": [
+            "04:10",
+            "12:50"
+          ]
+        },
+        {
+          "tema": "amnistia_instituciones",
+          "titular": "Rechazo categórico a la Ley de Amnistía por desigualdad ante la ley",
+          "analisis": "Reitera que Coalición Canaria votó en contra de la amnistía a los dirigentes del procés por considerar que generaba privilegios injustificados entre territorios.",
+          "minutos_clave": [
+            "01:30",
+            "08:15"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "Hay muchas cosas de Sánchez que he votado en contra, empezando por la amnistía",
+          "minuto": "01:30",
+          "en_programa": "Programa CCa 2026 (pág. 6): 'Defensa irrenunciable del marco constitucional de igualdad entre todos los ciudadanos'.",
+          "en_congreso": "Votación 30-1 del Congreso de los Diputados (30/05/2024): Cristina Valido votó NO en la votación final de la Ley Orgánica de Amnistía.",
+          "evaluacion": "Verificado al 100% con el acta nominal del Diario de Sesiones del Congreso.",
+          "nota_editorial": "El registro oficial de votaciones confirma que Coalición Canaria votó NO en todas las fases de tramitación de la amnistía en el Pleno."
+        }
+      ],
+      "conclusiones": [
+        "Demostración empírica de autonomía de voto respecto al PSOE y al PP.",
+        "Prioridad absoluta en la crisis migratoria de la Ruta Canaria y el reparto obligatorio de menores.",
+        "Reivindicación de la condición de voz singular del archipiélago en Madrid."
+      ]
+    },
+    {
+      "slug": "alvise-perez-altoaragon-tv",
+      "entrevista_id": "xtyVSvJKCUQ",
+      "persona": "Alvise Pérez",
+      "partido": "SALF",
+      "medio": "Altoaragón Televisión (YouTube)",
+      "fecha": "2026-01-30",
+      "duracion_aprox": "55m",
+      "resumen_ejecutivo": "Alvise Pérez desgrana en Altoaragón TV las propuestas de Se Acabó La Fiesta (SALF) para el 29-N, centrando su discurso en la impugnación del sistema de partidos, la reducción radical del gasto político, la bajada drástica de impuestos a los autónomos y la reforma judicial.",
+      "contexto_politico": "Tras irrumpir en las elecciones europeas de 2024, SALF busca entrar por primera vez en el Congreso de los Diputados capitalizando el malestar ciudadano con la clase política tradicional.",
+      "ejes_tematicos": [
+        {
+          "tema": "gasto_politico_impuestos",
+          "titular": "Supresión de subvenciones a partidos, sindicatos y patronal",
+          "analisis": "Propone eliminar la financiación pública de todas las organizaciones políticas y sindicales, reduciendo el IRPF y las cuotas de autónomos a una tarifa plana testimonial.",
+          "minutos_clave": [
+            "11:20",
+            "25:40"
+          ]
+        },
+        {
+          "tema": "justicia_corrupcion",
+          "titular": "Endurecimiento de penas por corrupción y referéndums vinculantes",
+          "analisis": "Plantea auditorías independientes de las contratas del Estado y cadenas perpetuas revisables para delitos graves de malversación de fondos públicos.",
+          "minutos_clave": [
+            "34:10",
+            "42:00"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "Los autónomos no pueden pagar una cuota fija antes de haber facturado un solo euro",
+          "minuto": "11:20",
+          "en_programa": "Programa SALF 2026 (pág. 8): 'Cuota cero para autónomos que ingresen por debajo del SMI y reducción de tramos'.",
+          "en_congreso": "Sin representación parlamentaria en la XV Legislatura del Congreso de los Diputados.",
+          "evaluacion": "Compromiso electoral de nuevo ingreso.",
+          "nota_editorial": "La reforma del régimen de cotización por ingresos reales fue aprobada en 2022 y acordada con las asociaciones de autónomos (ATA, UPTA y UATAE)."
+        }
+      ],
+      "conclusiones": [
+        "Discurso marcadamente anti-establishment con llamamiento al voto de protesta.",
+        "Enfoque en la precariedad de autónomos y pequeños empresarios.",
+        "Estrategia de comunicación apoyada en redes sociales y canales alternativos."
+      ]
+    },
+    {
+      "slug": "roberto-vaquero-analisis-de-campana-de-roberto-vaquero-92ign",
+      "entrevista_id": "92IgNewhFlc",
+      "persona": "Roberto Vaquero",
+      "partido": "FO",
+      "medio": "Canal Roberto Vaquero (YouTube)",
+      "fecha": "2026-11-04",
+      "duracion_aprox": "48m",
+      "resumen_ejecutivo": "Roberto Vaquero expone la propuesta del Frente Obrero para el 29-N en su canal de YouTube, desmarcándose tanto de la izquierda parlamentaria tradicional como de la derecha, y centrando su mensaje en la soberanía nacional, la reindustrialización y el control estricto de las fronteras.",
+      "contexto_politico": "Frente Obrero concurre a las elecciones generales con el objetivo de disputar el voto en antiguos cinturones industriales y barrios obreros desencantados.",
+      "ejes_tematicos": [
+        {
+          "tema": "industria_empleo",
+          "titular": "Reindustrialización nacional y energía nuclear estratégica",
+          "analisis": "Defiende recuperar sectores productivos estratégicos en manos del Estado y frenar el desmantelamiento de las centrales nucleares para abaratar la factura eléctrica de las fábricas.",
+          "minutos_clave": [
+            "12:00",
+            "21:30"
+          ]
+        },
+        {
+          "tema": "inmigracion_soberania",
+          "titular": "Prioridad nacional en ayudas sociales y fin de la deslocalización",
+          "analisis": "Critica las políticas de fronteras abiertas y la libre circulación de capitales, proponiendo aranceles a productos fabricados fuera de la UE con salarios de miseria.",
+          "minutos_clave": [
+            "27:40",
+            "36:15"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "Si España no reindustrializa su economía y protege su energía, seremos un país de camareros dependiente de Europa",
+          "minuto": "12:00",
+          "en_programa": "Programa Frente Obrero 2026: 'Plan nacional de soberanía industrial, energética y alimentaria'.",
+          "en_congreso": "Sin representación en el Congreso de los Diputados.",
+          "evaluacion": "Propuesta ideológica sin registro de voto previo.",
+          "nota_editorial": "El peso de la industria manufacturera en el PIB español se sitúa en torno al 11,5%, por debajo de la media comunitaria del 14,8% según el INE."
+        }
+      ],
+      "conclusiones": [
+        "Rechazo de los consensos políticos vigentes entre PSOE y PP.",
+        "Discurso obrerista combinado con un fuerte énfasis en la soberanía estatal.",
+        "Crítica frontal a la dependencia económica exterior y la deslocalización."
+      ]
+    },
+    {
+      "slug": "pedro-sanchez-hoy-por-hoy-ser",
+      "entrevista_id": "A_fyLE5ibhA",
+      "persona": "Pedro Sánchez",
+      "partido": "PSOE",
+      "medio": "Cadena SER (YouTube)",
+      "fecha": "2026-11-10",
+      "duracion_aprox": "46m",
+      "resumen_ejecutivo": "Pedro Sánchez es entrevistado por Àngels Barceló en Hoy por Hoy (Cadena SER) abordando el escenario de pactos postelectorales, la senda de déficit autonómico y el choque institucional con el Poder Judicial y los gobiernos del PP.",
+      "contexto_politico": "Encuentro clave con la principal cadena radiofónica de España en vísperas del inicio formal de la campaña electoral del 29-N.",
+      "ejes_tematicos": [
+        {
+          "tema": "pactos_investidura",
+          "titular": "Llamamiento a la concentración del voto progresista en torno al PSOE",
+          "analisis": "Sánchez alerta del riesgo de bloqueo o de un gobierno de coalición de Feijóo con Abascal si no se concentra el voto en el PSOE en las circunscripciones medianas y pequeñas.",
+          "minutos_clave": [
+            "08:15",
+            "19:40"
+          ]
+        },
+        {
+          "tema": "pensiones_salarios",
+          "titular": "Defensa del poder adquisitivo de los jubilados y blindaje constitucional",
+          "analisis": "Reivindica que las pensiones no han perdido poder de compra frente a la inflación gracias al mecanismo de actualización automático con el IPC aprobado por su Ejecutivo.",
+          "minutos_clave": [
+            "23:50",
+            "31:10"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "Las pensiones han subido casi un 30% acumulado en los últimos años garantizando que ningún jubilado pierda poder adquisitivo",
+          "minuto": "23:50",
+          "en_programa": "Programa PSOE 2026 (pág. 21): 'Garantía del poder adquisitivo de las pensiones y rellenado de la hucha de las pensiones'.",
+          "en_congreso": "Votación 18-3 del Congreso: Aprobación definitiva de la reforma del sistema de pensiones.",
+          "evaluacion": "Verificado con las series de la Seguridad Social y el INE.",
+          "nota_editorial": "La revalorización media de las pensiones contributivas desde 2021 supera el 28% conforme a las fórmulas fijadas por ley."
+        }
+      ],
+      "conclusiones": [
+        "Mensaje de estabilidad y certidumbre económica.",
+        "Llamada a la movilización contra el tándem PP-VOX.",
+        "Compromiso de culminar la legislatura con una nueva senda presupuestaria."
+      ]
+    },
+    {
+      "slug": "alberto-nunez-feijoo-presentacion-integra-del-plan-de-gobiern-3owor",
+      "entrevista_id": "3OWoRjDZEVw",
+      "persona": "Alberto Núñez Feijóo",
+      "partido": "PP",
+      "medio": "Negocios TV (YouTube)",
+      "fecha": "2026-11-08",
+      "duracion_aprox": "52m",
+      "resumen_ejecutivo": "Alberto Núñez Feijóo presenta de forma monográfica en Negocios TV su Plan Económico y Fiscal para los primeros 100 días de mandato, centrado en la disciplina presupuestaria, la rebaja fiscal a empresas y autónomos, y una auditoría de la deuda pública del Estado.",
+      "contexto_politico": "Intervención dirigida a la comunidad financiera, inversores y tejido empresarial para proyectar credibilidad fiscal y desmarcarse de las dudas de sostenibilidad de la deuda pública española.",
+      "ejes_tematicos": [
+        {
+          "tema": "fiscalidad_empresas",
+          "titular": "Derogación de los impuestos extraordinarios y tarifa plana a nuevos autónomos",
+          "analisis": "Feijóo propone suprimir el impuesto especial a la banca y grandes energéticas para incentivar el crédito y la inversión en infraestructuras, además de ampliar la tarifa plana de autónomos a dos años.",
+          "minutos_clave": [
+            "14:20",
+            "28:15"
+          ]
+        },
+        {
+          "tema": "deuda_gasto",
+          "titular": "Auditoría integral del gasto público y reducción de ministerios",
+          "analisis": "Promete reducir la estructura del Gobierno a un máximo de 15 ministerios y revisar las partidas de gasto superfluo de la Administración General del Estado.",
+          "minutos_clave": [
+            "32:40",
+            "44:00"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "Derogaremos los impuestos ideológicos que frenan el crédito y penalizan la inversión productiva en España",
+          "minuto": "14:20",
+          "en_programa": "Programa PP 2026 (pág. 38): 'Supresión de gravámenes discriminatorios y armonización con los estándares de la OCDE'.",
+          "en_congreso": "Votación 89-2 del Congreso: El PP votó en contra de convertir en permanente el impuesto a la banca y energéticas.",
+          "evaluacion": "Totalmente coherente con el programa y el sentido de voto parlamentario.",
+          "nota_editorial": "El PP ha mantenido una posición contraria a estos gravámenes extraordinarios desde su creación en 2022."
+        }
+      ],
+      "conclusiones": [
+        "Fuerte perfil técnico y económico dirigido al sector productivo.",
+        "Prioridad a la seguridad jurídica y a la atracción de inversión extranjera.",
+        "Crítica a la elevada presión fiscal acumulada en los últimos ejercicios."
+      ]
+    },
+    {
+      "slug": "ione-belarra-rne",
+      "entrevista_id": "vsQUyZNPRos",
+      "persona": "Ione Belarra",
+      "partido": "PODEMOS",
+      "medio": "RNE · Canal Podemos (YouTube)",
+      "fecha": "2026-11-11",
+      "duracion_aprox": "36m",
+      "resumen_ejecutivo": "Ione Belarra analiza en RNE las líneas estratégicas de Podemos, denunciando el incremento del gasto militar en España y exigiendo medidas radicales de intervención del mercado inmobiliario y embargo de armas.",
+      "contexto_politico": "Podemos concurre en solitario el 29-N tras su ruptura con Sumar, marcando un perfil pacifista e intransigente frente a las cesiones del Gobierno de coalición.",
+      "ejes_tematicos": [
+        {
+          "tema": "defensa_exterior",
+          "titular": "Crítica frontal al rearme y al aumento del gasto militar",
+          "analisis": "Belarra sostiene que el Gobierno ha incrementado el presupuesto real en defensa mediante créditos extraordinarios opacos, reclamando destinar esos fondos a la sanidad pública y la educación.",
+          "minutos_clave": [
+            "09:10",
+            "17:35"
+          ]
+        },
+        {
+          "tema": "vivienda_alquiler",
+          "titular": "Topes inmediatos de alquiler del 50% y prohibición de fondos buitre",
+          "analisis": "Propone reducir por ley el precio de todos los alquileres en un 50% en zonas tensionadas y expulsar a los fondos de inversión del mercado residencial.",
+          "minutos_clave": [
+            "21:40",
+            "28:50"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "España ha superado los 26.000 millones de euros en gasto militar real si se cuentan los créditos extraordinarios del Ministerio de Industria",
+          "minuto": "09:10",
+          "en_programa": "Programa Podemos 2026: 'Reducción a la mitad del presupuesto militar y salida de las estructuras militares de la OTAN'.",
+          "en_congreso": "Votación de enmiendas a los PGE: Podemos presentó enmiendas para recortar los programas especiales de armamento.",
+          "evaluacion": "Con matices según el criterio de cómputo (estándar OTAN vs presupuesto del Ministerio de Defensa de la IGAE).",
+          "nota_editorial": "El criterio OTAN incluye pensiones militares y gastos de I+D de Defensa repartidos en otros ministerios, lo que eleva el gasto sobre el PIB."
+        }
+      ],
+      "conclusiones": [
+        "Discurso de impugnación neta de la política exterior y militar del Ejecutivo.",
+        "Defensa de la soberanía popular frente a las directrices de la OTAN y Bruselas.",
+        "Llamamiento al votante de izquierdas desencantado con la moderación de Sumar."
+      ]
+    },
+    {
+      "slug": "miriam-nogueras-catalunya-radio",
+      "entrevista_id": "miriam-nogueras-catalunya-radio",
+      "persona": "Míriam Nogueras",
+      "partido": "JxCat",
+      "medio": "Catalunya Ràdio (3Cat)",
+      "fecha": "2026-11-04",
+      "duracion_aprox": "34m",
+      "resumen_ejecutivo": "Míriam Nogueras expone en Catalunya Ràdio la estrategia de negociación 'pieza a pieza' de Junts per Catalunya en el Congreso, defendiendo que no darán estabilidad a ningún Gobierno español a cambio de promesas incumplibles.",
+      "contexto_politico": "Junts rentabiliza su capacidad de veto parlamentario en el Congreso para condicionar la agenda legislativa tras el regreso del debate sobre la amnistía y las balanzas fiscales.",
+      "ejes_tematicos": [
+        {
+          "tema": "deficit_fiscal",
+          "titular": "Publicación de las balanzas fiscales y traspaso de la gestión tributaria",
+          "analisis": "Nogueras denuncia un déficit fiscal crónico de más de 20.000 millones de euros anuales que asfixia los servicios públicos en Cataluña y exige la cesión del 100% de los impuestos.",
+          "minutos_clave": [
+            "06:20",
+            "15:40"
+          ]
+        },
+        {
+          "tema": "amnistia_autodeterminacion",
+          "titular": "Aplicación judicial íntegra de la Ley de Amnistía y mediador internacional",
+          "analisis": "Reclama que los tribunales apliquen la ley de amnistía a todos los encausados sin excepciones y exige mantener las mesas de negociación con verificación internacional en Suiza.",
+          "minutos_clave": [
+            "18:50",
+            "26:30"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "Tumbamos los objetivos de estabilidad presupuestaria porque el Gobierno no ofrecía más margen de déficit a Cataluña",
+          "minuto": "06:20",
+          "en_programa": "Programa Junts 2026: 'Soberanía fiscal plena y veto a techos de gasto que castiguen a las instituciones catalanas'.",
+          "en_congreso": "Votación 56-77 del Congreso: Junts votó NO a la senda de déficit del Gobierno en julio de 2024.",
+          "evaluacion": "Verificado al 100% con el acta oficial del Congreso.",
+          "nota_editorial": "El rechazo de Junts impidió la aprobación de la senda presupuestaria inicial del Ejecutivo en el Pleno."
+        }
+      ],
+      "conclusiones": [
+        "Exigencia de cumplimiento estricto de los acuerdos firmados en Bruselas.",
+        "Rechazo al café para todos en la reforma de la financiación autonómica.",
+        "Mantenimiento de la tensión negociadora sin otorgar cheques en blanco."
+      ]
+    },
+    {
+      "slug": "ana-ponton-tvg",
+      "entrevista_id": "ana-ponton-tvg",
+      "persona": "Ana Pontón",
+      "partido": "BNG",
+      "medio": "TVG · TeleBNG",
+      "fecha": "2026-10-14",
+      "duracion_aprox": "40m",
+      "resumen_ejecutivo": "Ana Pontón, portavoz nacional del BNG, analiza en TVG las reivindicaciones gallegas en el Congreso, centradas en la transferencia y gratuidad de la autopista AP-9, el ferrocarril de cercanías y un nuevo modelo de financiación que reconozca el coste del envejecimiento y la dispersión poblacional.",
+      "contexto_politico": "El BNG busca consolidar el crecimiento experimentado en las elecciones autonómicas gallegas y ampliar su representación en Madrid para formar grupo parlamentario propio.",
+      "ejes_tematicos": [
+        {
+          "tema": "infraestructuras_galicia",
+          "titular": "Rescate y gratuidad de la AP-9 y modernización ferroviaria",
+          "analisis": "Pontón califica de estafa los peajes de la AP-9 prorrogados durante décadas y exige la liberación del rescate de la autopista con cargo a los Presupuestos Generales del Estado.",
+          "minutos_clave": [
+            "07:45",
+            "16:20"
+          ]
+        },
+        {
+          "tema": "financiacion_autonomica",
+          "titular": "Concierto económico gallego y reconocimiento de la dispersión geográfica",
+          "analisis": "Defiende que Galicia debe tener soberanía fiscal con una hacienda propia para evitar que el ahorro generado en la comunidad financie inversiones en otros territorios.",
+          "minutos_clave": [
+            "21:10",
+            "30:40"
+          ]
+        }
+      ],
+      "contrastes_hechos": [
+        {
+          "declaracion": "Las rebajas y bonificaciones históricas de los peajes de la AP-9 se consiguieron gracias al voto decisivo del BNG en los Presupuestos",
+          "minuto": "07:45",
+          "en_programa": "Programa BNG 2026 (pág. 15): 'Transferencia inmediata y gratuidad de la AP-9 y la AP-53'.",
+          "en_congreso": "Votación de Presupuestos Generales del Estado: Inclusión de las partidas específicas de bonificación del Ministerio de Transportes.",
+          "evaluacion": "Verificado en las partidas presupuestarias del BOE.",
+          "nota_editorial": "El acuerdo de investidura de 2019 y 2023 entre el PSOE y el BNG incluyó las partidas de bonificación al usuario recurrente de la autopista."
+        }
+      ],
+      "conclusiones": [
+        "Foco en infraestructuras clave y reequilibrio territorial para Galicia.",
+        "Exigencia de que Galicia no quede en un escalón secundario en los debates de financiación.",
+        "Defensa de una voz propia sin ataduras a las directrices de partidos con sede en Madrid."
+      ]
+    }
+  ]
+}

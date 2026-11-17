@@ -1,0 +1,34 @@
+[
+ {
+  "id": "fa-colau-revuelta-impuestos-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=P-58uErhbwc",
+  "tema": "impuestos",
+  "tipo": "posicion",
+  "cita_literal": "Yo creo que podemos porque son sexis si paga sobre todo quien más tiene.",
+  "contexto_minuto": "00:51"
+ },
+ {
+  "id": "fa-colau-revuelta-impuestos-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=P-58uErhbwc",
+  "tema": "impuestos",
+  "tipo": "posicion",
+  "cita_literal": "A ver, quien tiene más de 1 millón de euros todo el mundo entiende si que tienes millones de euros que pagues un 2%, un 3%, un 5% de esos millones para que haya sanidad pública, para que haya educación pública",
+  "contexto_minuto": "00:57"
+ },
+ {
+  "id": "fa-colau-revuelta-pensiones-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=P-58uErhbwc",
+  "tema": "pensiones",
+  "tipo": "cifra",
+  "cita_literal": "ahora tenemos unas jubilaciones que 4.600.000 personas no llegan al salario mínimo.",
+  "contexto_minuto": "01:31"
+ },
+ {
+  "id": "fa-colau-revuelta-pensiones-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=P-58uErhbwc",
+  "tema": "pensiones",
+  "tipo": "posicion",
+  "cita_literal": "Entonces, hay que subir esas pensiones, ¿no? Pues eso se hace poniéndoles impuestos a los ricos.",
+  "contexto_minuto": "01:50"
+ }
+]

@@ -1,0 +1,146 @@
+[
+ {
+  "id": "psoe-sanchez-sevilla-educacion-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "educacion",
+  "tipo": "cifra",
+  "cita_literal": "Hemos logrado que hoy haya 1,200,000 chavales y chavalas educándose en la formación profesional porque este gobierno ha aumentado en más de 400,000 las plazas de la formación profesional.",
+  "contexto_minuto": "68:31"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-energia_clima-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "energia_clima",
+  "tipo": "cifra",
+  "cita_literal": "Este es un gobierno que cuando llegó en 2018 quitó el impuesto al sol y gracias al impuesto al al impulso mejor dicho de las renovables hemos logrado que hoy el precio de la electricidad de nuestro país sea un 30% más bajo que el precio en Alemania y tres veces menos que el precio en Italia.",
+  "contexto_minuto": "69:12"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-social-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "social",
+  "tipo": "cifra",
+  "cita_literal": "si en 2018 un dependiente de grado 3 cobraba 190 € al mes, hoy cobre 660 € al mes.",
+  "contexto_minuto": "68:56"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-social-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "social",
+  "tipo": "cifra",
+  "cita_literal": "Y hoy tenemos la equiparación del permiso de paternidad y maternidad en 19 semanas y eso significan 100 días más para poder disfrutar, educar y cuidar a tu hijo y a tu hija.",
+  "contexto_minuto": "69:44"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-educacion-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "educacion",
+  "tipo": "cifra",
+  "cita_literal": "Este es un gobierno que ha aportado 2600 millones de euros para la igualdad de oportunidades en las becas de nuestros estudiantes.",
+  "contexto_minuto": "70:02"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-social-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "social",
+  "tipo": "cifra",
+  "cita_literal": "este pasado martes en el Consejo de Ministros aprobó un paquete de 800 millones de euros para las 800,000 familias monoparentales en nuestro país con deducciones fiscales de 100 €.",
+  "contexto_minuto": "70:19"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-instituciones-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "instituciones",
+  "tipo": "cifra",
+  "cita_literal": "imaginaos lo que podemos lograr con 166 escaños, que es lo que van a salir de las urnas el próximo 29 de noviembre al Partido Socialista para seguir gobernando 4 años más.",
+  "contexto_minuto": "71:22"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-empleo-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "empleo",
+  "tipo": "posicion",
+  "cita_literal": "A los sindicatos hay que darles las gracias por la reforma laboral, por la subida del salario mínimo interprofesional, por la revalorización de las pensiones, por la ley Riders, por la ley de igualdad salarial entre hombres y mujeres.",
+  "contexto_minuto": "78:57"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-inmigracion-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "inmigracion",
+  "tipo": "posicion",
+  "cita_literal": "nosotros les hemos reconocido por dignidad y también por pragmatismo los derechos que necesitan y que merecen.",
+  "contexto_minuto": "79:59"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-pensiones-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "pensiones",
+  "tipo": "posicion",
+  "cita_literal": "porque el sistema de reparto del que nos hemos dotado es la clave de bóveda del estado del bienestar y no vamos a dar un paso atrás en su privatización",
+  "contexto_minuto": "80:26"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-pensiones-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "pensiones",
+  "tipo": "compromiso",
+  "cita_literal": "Vamos a blindar la próxima legislatura en la Constitución, la revalorización de las pensiones y el derecho de las mujeres a abortar.",
+  "contexto_minuto": "81:16"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-social-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "social",
+  "tipo": "posicion",
+  "cita_literal": "Ser feminista es no recortar los derechos de las mujeres y el feminismo sin el derecho al aborto no es feminismo.",
+  "contexto_minuto": "80:56"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-empleo-2",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "empleo",
+  "tipo": "cifra",
+  "cita_literal": "con esta mano hemos subido un 66% del salario mínimo interprofesional.",
+  "contexto_minuto": "81:44"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-empleo-3",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "empleo",
+  "tipo": "cifra",
+  "cita_literal": "Con esta mano, el salario medio durante estos últimos 8 años ha aumentado un 23% mientras los precios han aumentado un 19%.",
+  "contexto_minuto": "81:49"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-social-5",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "social",
+  "tipo": "cifra",
+  "cita_literal": "Hemos doblado la financiación en dependencia.",
+  "contexto_minuto": "82:06"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-defensa_exterior-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "defensa_exterior",
+  "tipo": "posicion",
+  "cita_literal": "Hemos dicho no a Trump en el 5%. Hemos dicho sí la paz en Ucrania y en Palestina.",
+  "contexto_minuto": "82:08"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-empleo-4",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "empleo",
+  "tipo": "cifra",
+  "cita_literal": "¿Sabéis que el 60% de los trabajadores que cobran el salario mínimo interprofesional en nuestro país son mujeres?",
+  "contexto_minuto": "83:27"
+ },
+ {
+  "id": "psoe-sanchez-sevilla-empleo-5",
+  "entrevista_url": "https://www.youtube.com/watch?v=FphVEJnTPFs",
+  "tema": "empleo",
+  "tipo": "cifra",
+  "cita_literal": "hemos logrado que de esos casi 23 millones de trabajadores que están afiliados a la seguridad social, como decía Javier, más de 10 millones sean mujeres que están trabajando y cotizando a la seguridad social.",
+  "contexto_minuto": "84:33"
+ }
+]
