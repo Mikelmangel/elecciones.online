@@ -1,0 +1,46 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  rust:
+    name: Motor de verificación (Rust)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: crates/verificador
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          components: rustfmt, clippy
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: crates/verificador
+      - run: cargo fmt --check
+      - run: cargo clippy --release -- -D warnings
+      - name: Verificar todos los datos publicados
+        run: cargo run --release
+
+  web:
+    name: Web (tests y build)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+          cache-dependency-path: web/pnpm-lock.yaml
+      - run: pnpm install --frozen-lockfile
+      - run: node --experimental-strip-types --test lib/*.test.ts
+      - name: Build (zod valida todos los datos)
+        run: pnpm build

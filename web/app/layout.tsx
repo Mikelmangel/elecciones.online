@@ -284,6 +284,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                       {label}
                     </Link>
                   ))}
+<a href="https://github.com/Mikelmangel/elecciones.online" target="_blank" rel="noopener noreferrer" className="inline-flex min-h-8 items-center underline underline-offset-2 hover:text-neutral-950">
+                    Código abierto
+                  </a>
 {DONACION_URL && (
                     <a href={DONACION_URL} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-8 items-center font-semibold text-red-900 underline underline-offset-2 hover:text-red-700">
                       Apoyar el proyecto

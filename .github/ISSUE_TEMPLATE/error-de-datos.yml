@@ -1,0 +1,30 @@
+name: Error en un dato
+description: Un dato publicado no coincide con la fuente oficial.
+labels: ["datos"]
+body:
+  - type: input
+    id: pagina
+    attributes:
+      label: Página de elecciones.online
+      placeholder: https://elecciones.online/...
+    validations:
+      required: true
+  - type: textarea
+    id: web
+    attributes:
+      label: Qué dice la web
+    validations:
+      required: true
+  - type: textarea
+    id: fuente
+    attributes:
+      label: Qué dice la fuente oficial
+      description: Copia el texto o la cifra exacta e indica la página o el apartado.
+    validations:
+      required: true
+  - type: input
+    id: enlace
+    attributes:
+      label: Enlace a la fuente oficial (BOE, acta del Congreso, programa del partido…)
+    validations:
+      required: true

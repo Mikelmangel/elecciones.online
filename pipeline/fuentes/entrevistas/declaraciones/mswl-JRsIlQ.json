@@ -1,0 +1,34 @@
+[
+ {
+  "id": "fa-colau-wild-vivienda-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=mswl-JRsIlQ",
+  "tema": "vivienda",
+  "tipo": "posicion",
+  "cita_literal": "hacer que efectivamente el Partido Socialista, si nosotros entramos con fuerza al Congreso de los Diputados, hacer que el Partido Socialista tenga que hacer leyes que acaben con la especulación",
+  "contexto_minuto": "00:29"
+ },
+ {
+  "id": "fa-colau-wild-empleo-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=mswl-JRsIlQ",
+  "tema": "empleo",
+  "tipo": "posicion",
+  "cita_literal": "con los últimos gobiernos se ha subido el salario mínimo, ¿no? Mucho, de forma histórica. Eso está bien, es algo positivo.",
+  "contexto_minuto": "01:31"
+ },
+ {
+  "id": "fa-colau-wild-impuestos-0",
+  "entrevista_url": "https://www.youtube.com/watch?v=mswl-JRsIlQ",
+  "tema": "impuestos",
+  "tipo": "posicion",
+  "cita_literal": "a mí eso es lo que me preocupa y entiendo que lo lógico es hacer una reforma fiscal donde quien más tiene pague más.",
+  "contexto_minuto": "02:03"
+ },
+ {
+  "id": "fa-colau-wild-impuestos-1",
+  "entrevista_url": "https://www.youtube.com/watch?v=mswl-JRsIlQ",
+  "tema": "impuestos",
+  "tipo": "cifra",
+  "cita_literal": "Florentino Pérez tiene 4900 millones de euros. Pues si ahora está pagando sobre sus beneficios 150 millones de euros, yo creo que puede pagar 300 millones de euros",
+  "contexto_minuto": "02:21"
+ }
+]

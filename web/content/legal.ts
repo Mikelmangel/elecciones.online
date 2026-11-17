@@ -115,6 +115,12 @@ export const LEGAL: Legal[] = [
         ],
       },
       {
+        titulo: 'Código abierto',
+        parrafos: [
+          'El código del sitio, los datos publicados y el motor de verificación (en Rust) están en https://github.com/Mikelmangel/elecciones.online con licencia MIT. Cualquiera puede revisar cómo se comprueba cada dato, reutilizarlo o proponer correcciones.',
+        ],
+      },
+      {
         titulo: 'Donaciones',
         parrafos: [
           'Se aceptan donaciones voluntarias a través de Ko-fi (enlace al pie de cada página). Las donaciones no dan derecho a influir en el contenido.',

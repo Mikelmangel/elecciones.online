@@ -1,0 +1,27 @@
+name: Proponer una fuente de datos
+description: Una fuente pública que podría automatizarse.
+labels: ["fuente"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Dirección de la fuente
+    validations:
+      required: true
+  - type: textarea
+    id: que
+    attributes:
+      label: Qué información aporta y por qué es fiable
+    validations:
+      required: true
+  - type: dropdown
+    id: formato
+    attributes:
+      label: Formato
+      options: [JSON/XML abierto, CSV, RSS/Atom, PDF, HTML, Otro]
+    validations:
+      required: true
+  - type: textarea
+    id: terminos
+    attributes:
+      label: Condiciones de reutilización (si las conoces)

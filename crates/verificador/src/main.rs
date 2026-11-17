@@ -1,3 +1,6 @@
+// Los struct reflejan el esquema completo de cada JSON de data/; solo se leen los campos que se validan.
+#![allow(dead_code)]
+
 use serde::Deserialize;
 use std::collections::HashMap;
 use std::fs;
@@ -169,11 +172,16 @@ fn verificar_coherencia(
             if let Some(grupo_key) = resolver_grupo(&p.siglas) {
                 if let Some(ref grupos) = votacion.por_grupo {
                     if let Some(resultado) = grupos.get(grupo_key) {
-                        let mayoritario = if resultado.si > resultado.no && resultado.si > resultado.abstencion {
+                        let mayoritario = if resultado.si > resultado.no
+                            && resultado.si > resultado.abstencion
+                        {
                             "SÍ"
-                        } else if resultado.no > resultado.si && resultado.no > resultado.abstencion {
+                        } else if resultado.no > resultado.si && resultado.no > resultado.abstencion
+                        {
                             "NO"
-                        } else if resultado.abstencion > resultado.si && resultado.abstencion > resultado.no {
+                        } else if resultado.abstencion > resultado.si
+                            && resultado.abstencion > resultado.no
+                        {
                             "ABSTENCION"
                         } else if resultado.no_vota > 0 && resultado.si == 0 && resultado.no == 0 {
                             "NO VOTA"
@@ -183,7 +191,8 @@ fn verificar_coherencia(
 
                         let voto_declarado_norm = p.voto_emitido.to_uppercase();
                         let coincide = voto_declarado_norm.contains(mayoritario)
-                            || (mayoritario == "NO VOTA" && voto_declarado_norm.contains("NO VOTA"));
+                            || (mayoritario == "NO VOTA"
+                                && voto_declarado_norm.contains("NO VOTA"));
 
                         if !coincide && grupo_key != "GMx" {
                             println!(
@@ -211,28 +220,49 @@ fn verificar_factchecking(root: &Path) -> Result<usize, String> {
         return Err(format!("No existe {}", fc_path.display()));
     }
 
-    let contenido = fs::read_to_string(&fc_path)
-        .map_err(|e| format!("Error al leer factchecking: {e}"))?;
+    let contenido =
+        fs::read_to_string(&fc_path).map_err(|e| format!("Error al leer factchecking: {e}"))?;
     let doc: FactcheckingDoc = serde_json::from_str(&contenido)
         .map_err(|e| format!("Error al parsear factchecking_entrevistas.json: {e}"))?;
 
     println!("\n\x1b[1;34m[2/3] Verificando crosscheck y fact-checking de entrevistas...\x1b[0m");
-    println!("  Total de afirmaciones contrastadas: {}", doc.verificaciones.len());
+    println!(
+        "  Total de afirmaciones contrastadas: {}",
+        doc.verificaciones.len()
+    );
 
-    let veredictos_validos = ["VERDADERO", "FALSO", "CON MATICES", "ENGAÑOSO", "NO COMPROBADO", "CONTRADICCIÓN"];
+    let veredictos_validos = [
+        "VERDADERO",
+        "FALSO",
+        "CON MATICES",
+        "ENGAÑOSO",
+        "NO COMPROBADO",
+        "CONTRADICCIÓN",
+    ];
     let mut stats: HashMap<String, usize> = HashMap::new();
 
     for v in &doc.verificaciones {
         if !veredictos_validos.contains(&v.veredicto.as_str()) {
-            return Err(format!("Veredicto inválido '{}' en verificación {}", v.veredicto, v.id));
+            return Err(format!(
+                "Veredicto inválido '{}' en verificación {}",
+                v.veredicto, v.id
+            ));
         }
 
-        if !v.fuente_oficial_url.starts_with("http://") && !v.fuente_oficial_url.starts_with("https://") {
-            return Err(format!("URL de fuente oficial inválida en {}: {}", v.id, v.fuente_oficial_url));
+        if !v.fuente_oficial_url.starts_with("http://")
+            && !v.fuente_oficial_url.starts_with("https://")
+        {
+            return Err(format!(
+                "URL de fuente oficial inválida en {}: {}",
+                v.id, v.fuente_oficial_url
+            ));
         }
 
         if v.cita_literal.trim().len() < 40 {
-            return Err(format!("cita_literal demasiado corta (<40 chars) en {}: '{}'", v.id, v.cita_literal));
+            return Err(format!(
+                "cita_literal demasiado corta (<40 chars) en {}: '{}'",
+                v.id, v.cita_literal
+            ));
         }
 
         if v.sha256.len() != 64 || !v.sha256.chars().all(|c| c.is_ascii_hexdigit()) {
@@ -254,12 +284,7 @@ fn verificar_factchecking(root: &Path) -> Result<usize, String> {
 
         println!(
             "  ✓ [{}{}\x1b[0m] {:<18} ({:<4}) | {:<25} | Fuente: {}",
-            color,
-            v.veredicto,
-            v.persona,
-            v.partido,
-            v.tema,
-            v.fuente_oficial_nombre
+            color, v.veredicto, v.persona, v.partido, v.tema, v.fuente_oficial_nombre
         );
     }
 
@@ -273,7 +298,9 @@ fn verificar_programas(root: &Path) -> Result<usize, String> {
         return Err(format!("No existe directorio {}", prog_dir.display()));
     }
 
-    println!("\n\x1b[1;34m[3/3] Verificando integridad de programas electorales oficiales...\x1b[0m");
+    println!(
+        "\n\x1b[1;34m[3/3] Verificando integridad de programas electorales oficiales...\x1b[0m"
+    );
 
     let mut total_propuestas = 0;
     let entries = fs::read_dir(&prog_dir).map_err(|e| format!("Error al leer dir: {e}"))?;
@@ -291,16 +318,27 @@ fn verificar_programas(root: &Path) -> Result<usize, String> {
             total_propuestas += prog.propuestas.len();
             for p in &prog.propuestas {
                 if p.titular.is_empty() || p.titular.len() > 140 {
-                    return Err(format!("{}: titular excede 140 caracteres: '{}'", prog.siglas, p.titular));
+                    return Err(format!(
+                        "{}: titular excede 140 caracteres: '{}'",
+                        prog.siglas, p.titular
+                    ));
                 }
                 if p.cita.len() < 20 {
-                    return Err(format!("{}: cita demasiado corta (<20): '{}'", prog.siglas, p.cita));
+                    return Err(format!(
+                        "{}: cita demasiado corta (<20): '{}'",
+                        prog.siglas, p.cita
+                    ));
                 }
                 if p.pagina <= 0 {
                     return Err(format!("{}: página no válida ({})", prog.siglas, p.pagina));
                 }
             }
-            println!("  ✓ {:<8} {:<32} | {:>4} propuestas verificadas", prog.siglas, prog.nombre, prog.propuestas.len());
+            println!(
+                "  ✓ {:<8} {:<32} | {:>4} propuestas verificadas",
+                prog.siglas,
+                prog.nombre,
+                prog.propuestas.len()
+            );
         }
     }
 
@@ -309,15 +347,22 @@ fn verificar_programas(root: &Path) -> Result<usize, String> {
 
 fn main() {
     let inicio = Instant::now();
-    println!("\x1b[1;36m===================================================================\x1b[0m");
+    println!(
+        "\x1b[1;36m===================================================================\x1b[0m"
+    );
     println!("\x1b[1;36m elecciones.online — Motor de Verificación y Crosscheck (Rust)\x1b[0m");
-    println!("\x1b[1;36m===================================================================\x1b[0m");
+    println!(
+        "\x1b[1;36m===================================================================\x1b[0m"
+    );
 
     let root = encontrar_raiz();
     let votaciones_path = root.join("data/congreso_votaciones.json");
 
     if !votaciones_path.exists() {
-        eprintln!("\x1b[1;31mError: No se encuentra {}\x1b[0m", votaciones_path.display());
+        eprintln!(
+            "\x1b[1;31mError: No se encuentra {}\x1b[0m",
+            votaciones_path.display()
+        );
         std::process::exit(1);
     }
 
@@ -341,7 +386,10 @@ fn main() {
     for v in &vot_doc.votaciones {
         votaciones_map.insert(v.id.clone(), v);
     }
-    println!("Base de datos del Congreso cargada: {} votaciones en memoria.\n", vot_doc.votaciones.len());
+    println!(
+        "Base de datos del Congreso cargada: {} votaciones en memoria.\n",
+        vot_doc.votaciones.len()
+    );
 
     let checks_coherencia = match verificar_coherencia(&root, &votaciones_map) {
         Ok(n) => n,
@@ -368,7 +416,9 @@ fn main() {
     };
 
     let duracion = inicio.elapsed();
-    println!("\n\x1b[1;32m===================================================================\x1b[0m");
+    println!(
+        "\n\x1b[1;32m===================================================================\x1b[0m"
+    );
     println!(
         "\x1b[1;32m✓ TODAS LAS VERIFICACIONES COMPLETADAS CON ÉXITO en {:?}\x1b[0m",
         duracion
@@ -385,5 +435,7 @@ fn main() {
         "  - {} propuestas de programas electorales con cita y página verificadas",
         checks_prog
     );
-    println!("\x1b[1;32m===================================================================\x1b[0m");
+    println!(
+        "\x1b[1;32m===================================================================\x1b[0m"
+    );
 }

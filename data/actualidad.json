@@ -1,6 +1,6 @@
 {
  "fuente": "actualidad",
- "fetched_at": "2026-11-17T01:15:31Z",
+ "fetched_at": "2026-11-17T05:30:30Z",
  "fuentes": [
   {
    "id": "bng-web",
@@ -28,7 +28,7 @@
    "canal": "UPN : Unión del Pueblo Navarro",
    "clase": "partido",
    "fuente_url": "https://www.upn.org/feed/",
-   "sha256": "01a6b8b5bb66be954178dd11ba91e0fcfc3fd693b7abe7c5b69c6062f730fa90"
+   "sha256": "c11388665cf172a9db116902c7448c691217db67426dcb4f53315657cb52491f"
   },
   {
    "id": "sumar-web",
@@ -42,28 +42,28 @@
    "canal": "PODEMOS.",
    "clase": "partido",
    "fuente_url": "https://t.me/s/ahorapodemos",
-   "sha256": "83d26a4f48c5104fbdfbc28caeed4c808ce4ea277b2c01ef5175ceb46eb8e686"
+   "sha256": "83d88898571f92e8b051a936504d8fa612d639f13698bb38e3f21b929363b580"
   },
   {
    "id": "psoe-youtube",
    "canal": "PSOE",
    "clase": "partido",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB75fTm3weGTmtnitiZcdBw",
-   "sha256": "a46db5b519bd4170fbb1fe03c315838a403073d119151b37ee3670b53ec24f70"
+   "sha256": "e26ecad032e9298e6549a7cb585129a1a2a0e294ae8c97a35e3821eb0d4d32c0"
   },
   {
    "id": "pp-youtube",
    "canal": "Partido Popular",
    "clase": "partido",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPECDsPyGRW5b5E4ibCGhww",
-   "sha256": "bacc45bb2199b546bc7c515c0c6e2b625227d921bb49a43f3b43cc14d6d80875"
+   "sha256": "5e91f9493d0f7f0b8311101fa4df46fd36943e97604bbcd3bc2faa48b18e64d1"
   },
   {
    "id": "vox-youtube",
    "canal": "VOX España",
    "clase": "partido",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRvpumrJs0qY1xLzeU0Ss1Q",
-   "sha256": "5748a64da1a036bbd3fa46d3d863ba57c249c858ce174f3a8df9e7e2f7f7fc5a"
+   "sha256": "7b5b5576c99717a5b62ce99e0da2a0abb626a83bfe0595dc39a0b085b56d8226"
   },
   {
    "id": "erc-youtube",
@@ -77,7 +77,7 @@
    "canal": "Coalición Canaria",
    "clase": "partido",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxwJkU4G-17XQZ97rcB6u5g",
-   "sha256": "713ffb0148dcb2b88f36395f25d061df6bebd326be305860b89c30d888e7ee4d"
+   "sha256": "8736bbd4142763ecdb0fefaa88e313073f84a6019994d1a1c457a2e6b52c0d7a"
   },
   {
    "id": "sumar-youtube",
@@ -105,7 +105,7 @@
    "canal": "Europa Press - Nacional",
    "clase": "medio",
    "fuente_url": "https://www.europapress.es/rss/rss.aspx?ch=00066",
-   "sha256": "bc8c14f8f959915cb62046eeaef5a4e638e16350c86ae8f166d87448c788f8ae"
+   "sha256": "339c10188c51efbd0f3543ad9c92f9479e21266a6d4d60229b0c78199c9a688d"
   },
   {
    "id": "eldiario",
@@ -119,35 +119,35 @@
    "canal": "España en EL PAÍS",
    "clase": "medio",
    "fuente_url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada",
-   "sha256": "fe1d80396fdebc706ee9ab2ead8e43a9e7d53e534f33307dbcb1801de9bc99c1"
+   "sha256": "0a3084329c165c3f3eb102a74eb10a847073038f584a695f087ab6fd2f9ba1db"
   },
   {
    "id": "elmundo",
    "canal": "España // elmundo",
    "clase": "medio",
    "fuente_url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
-   "sha256": "8cd290478d37c14830f747882ef3dc5fb609658afef3cb12dd102f21f87fb4b9"
+   "sha256": "6621c77a8dd1b74f48d38f1f9d82ccccf2331e3b68b2d21e9dbb57af222de1f1"
   },
   {
    "id": "20minutos",
    "canal": "20MINUTOS.ES - Nacional",
    "clase": "medio",
    "fuente_url": "https://www.20minutos.es/rss/nacional/",
-   "sha256": "2cdb43adaf0820991fdccfbf7f4f6b20c5ba33bb4e130b06f61ee07a79e270f4"
+   "sha256": "e9c6856dab3d683a93d97403ac291fc35e081fbb7cda92da26fadfd441b16522"
   },
   {
    "id": "rtve-youtube",
    "canal": "RTVE Noticias",
    "clase": "medio",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7QZIf0dta-XPXsp9Hv4dTw",
-   "sha256": "534e7dc719bcda7485a06a678ba465f52091dd1674b7d59a4e07d598e4144d0e"
+   "sha256": "eb9d50e8f529bffab6fefa0d0915205fbb2e7729e820f440c420db84f017feac"
   },
   {
    "id": "wildproject-youtube",
    "canal": "The Wild Project",
    "clase": "programa",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBYyJBCtCvgqA4NwtoPMwpQ",
-   "sha256": "4222d76124f927c6b59ce55ce34b9c233aa151a6e9847cd06b02948f6139bd07"
+   "sha256": "f189d1578bc68af2165a9317e54be0fb93ba55b1dfa86767eff2d68bd6929126"
   },
   {
    "id": "larevuelta-youtube",
@@ -161,17 +161,80 @@
    "canal": "laSexta Noticias",
    "clase": "medio",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCJs5mITIqxqJGeFjt9N1Mg",
-   "sha256": "13648678397deed962c18e8330d4ecaeb4107cca8a74c979cab1a0f50afe2aed"
+   "sha256": "f15eea7082fdea28f32bfc8d04d8734f3c490f1dba1633e25fc451c5156e788c"
   },
   {
    "id": "antena3-youtube",
    "canal": "Antena 3 Noticias",
    "clase": "medio",
    "fuente_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_Oni82GyYcabEr3rd-eJkg",
-   "sha256": "195534b11a857ba949afce28a56f48bfa00cb60f2c5db41384ea368c10da0173"
+   "sha256": "77ce1f7436e8be8aae3bd775cc32ed0fdc94ece274144e5c28f9f468762bde1e"
   }
  ],
  "items": [
+  {
+   "titulo": "Vox se frena y cede terreno al PP",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/vox-se-frena-y-cede-terreno-al-pp.html",
+   "fecha": "2026-11-17T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "PP",
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Abascal evita revelar en campaña cuál es su plan para las pensiones",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/abascal-evita-revelar-en-campana-cual-es-su-plan-para-las-pensiones.html",
+   "fecha": "2026-11-17T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
+  {
+   "titulo": "Primera cita electoral en la Comunidad Valenciana tras la riada que acabó con la vida de 234 personas: ¿habrá un efecto dana?",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/primera-cita-electoral-en-la-comunidad-valenciana-tras-la-dana-las-encuestas-dan-una-amplia-mayoria-a-la-derecha.html",
+   "fecha": "2026-11-17T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Las decisiones judiciales y los tiempos electorales",
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/las-decisiones-judiciales-y-los-tiempos-electorales.html",
+   "fecha": "2026-11-17T04:30:01Z",
+   "fuente": "elpais",
+   "canal": "España en EL PAÍS",
+   "clase": "medio",
+   "partidos": []
+  },
+  {
+   "titulo": "Feijóo lleva la violencia en Euskadi al centro de la campaña para cuestionar las alianzas de Sánchez en busca del votante moderado",
+   "url": "https://www.20minutos.es/nacional/feijoo-lleva-violencia-euskadi-centro-campana-para-cuestionar-las-alianzas-sanchez-busca-votante-moderado_7061770_0.html",
+   "fecha": "2026-11-17T04:00:00Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "PP"
+   ]
+  },
+  {
+   "titulo": "Santiago Abascal, el líder que halló un nicho en la derecha descontenta y aspira ahora a un papel relevante en el Gobierno post-29N",
+   "url": "https://www.20minutos.es/nacional/santiago-abascal-lider-que-hallo-un-nicho-derecha-descontenta-aspira-ahora-un-papel-relevante-gobierno-post-29n_7058035_0.html",
+   "fecha": "2026-11-17T04:00:00Z",
+   "fuente": "20minutos",
+   "canal": "20MINUTOS.ES - Nacional",
+   "clase": "medio",
+   "partidos": [
+    "VOX"
+   ]
+  },
   {
    "titulo": "DIRECTO 🔵 Feijóo y Alejandro Fernández intervienen durante su visita a La Carbona",
    "url": "https://www.youtube.com/watch?v=TFcmmlwRxJc",
