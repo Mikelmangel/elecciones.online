@@ -57,7 +57,7 @@ Una vez en marcha, el sitio se mantiene prácticamente solo. Estas son las pieza
 | **Entrevistas** | Descarga transcripciones; las declaraciones se **extraen con un modelo de IA** (`scripts/extraer_pendientes.sh`, un vídeo por sesión) y se validan con código: una cita que no esté letra por letra en la transcripción, en su minuto, se rechaza. | `pipeline/fuentes/entrevistas` |
 | **Programas** | Las medidas de cada PDF se extraen con cita y página; los tests comprueban cada cita contra la página original y el ciclo avisa si el PDF de un partido cambia (`sha256`). | `pipeline/fuentes/programas` |
 | **Juegos y tests** | Se **regeneran solos** desde los datos cada vez que se actualizan. | `pipeline/tests_quiz.py`, `pipeline/tests_afinidad.py` |
-| **Ciclo de actualización** | Descarga, valida, prueba, reconstruye y publica, con cadencia **adaptativa**: cada 24 h lejos de la elección, cada 4 h el último mes y cada 30 min en la víspera, el día de la votación y el siguiente. | `scripts/ciclo_actualizacion.py` |
+| **Ciclo de actualización** | Descarga, valida, prueba, reconstruye y publica, con cadencia **adaptativa**: cada 24 h lejos de la elección, cada hora el último mes y cada 30 min en la víspera, el día de la votación y el siguiente. | `scripts/ciclo_actualizacion.py` |
 
 **Red de seguridad del ciclo.** Si un paso falla (una fuente caída, un test en rojo, un dato inválido) **no se publica nada**: los datos vuelven al último estado bueno, versionados con git, y la versión anterior de la web queda guardada para volver atrás en segundos. Una fuente que falla conserva su último fichero y no detiene a las demás.
 

@@ -1,0 +1,1030 @@
+{
+  "siglas": "IE",
+  "nombre": "Iustitia Europa",
+  "fuente_url": "https://iustitiaeuropa.es/img/bloques/documentos/descarga-aqui-tu-contrato-00030.pdf",
+  "fetched_at": "2026-11-17T12:00:00Z",
+  "sha256": "03740dc25a9e94599f7b3e085a5f24fefe8ad8aa796740dccd0dfc1b2facb5dd",
+  "paginas": 28,
+  "propuestas": [
+    {
+      "area": "instituciones",
+      "titular": "Instar a que el contrato sea norma vinculante, con pérdida de sueldos y ayudas o destitución por incumplir",
+      "cita": "Instamos a que este CONTRATO, se convierta en norma jurídica vinculante en España, para que los partidos, coaliciones o formaciones que no cumplan con sus compromisos electorales adquiridos, se les cancelen y eliminen todos los sueldos, subsidios, dietas, ayudas estatales o europeas, y/o sean destituidos de sus cargos",
+      "pagina": 8,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Eliminar la inmunidad parlamentaria y los aforamientos de diputados, senadores y ministros",
+      "cita": "Eliminación de la inmunidad parlamentaria y aforamientos de diputados, senadores y ministros.",
+      "pagina": 9,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Elección directa del Presidente del Gobierno por sufragio universal cada 4 años",
+      "cita": "Elección directa del Presidente del Gobierno. Será elegido por sufragio universal, libre, igual, directo y secreto por los ciudadanos españoles cada 4 años.",
+      "pagina": 9,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Referéndum vinculante y obligatorio, y referéndums convocados por iniciativa ciudadana con recogida de firmas",
+      "cita": "Referéndum vinculante y obligatorio. Recuperar la democracia significa dar la voz a la sociedad. Además, se habilitará que, a través de iniciativas ciudadanas, puedan convocarse referéndums mediante recogidas de firmas.",
+      "pagina": 9,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Circunscripciones uninominales y listas abiertas para el Congreso y el Senado",
+      "cita": "Sistema de circunscripciones uninominales para el Congreso y Senado, en listas abiertas.",
+      "pagina": 9,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Sustituir la elección por circunscripciones provinciales por distritos uninominales",
+      "cita": "Sustituir la elección por circunscripciones provinciales por distritos uninominales.",
+      "pagina": 9,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Fin de la financiación pública de partidos mediante la reforma de la Ley de Financiación de Partidos Políticos",
+      "cita": "Fin de la financiación pública de partidos mediante la reforma de la Ley de Financiación de Partidos Políticos.",
+      "pagina": 9,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Limitar a dos mandatos al Presidente del Gobierno y al resto de cargos electos del Ejecutivo y el Legislativo",
+      "cita": "Reforma del artículo 68 y 98 donde se especificará que el Presidente del Gobierno no podrá ejercer el cargo por un período superior a dos mandatos completos, consecutivos o alternos. Este límite se aplicará también a los Vicepresidentes, Ministros, Secretarios de Estado, Subsecretarios, Presidentes autonómicos, Consejeros, alcaldes, concejales y en definitiva a cualquier otro cargo electo del Poder Ejecutivo o Legislativo.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Elegir a los magistrados del TC por votación directa entre juristas, ratificada por referéndum",
+      "cita": "Los Magistrados del Tribunal Constitucional serán elegidos por votación directa entre el cuerpo de juristas de carrera en activo. Dicha elección será ratificada por referéndum vinculante.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Elegir los magistrados del TC entre juristas con más de 25 años de ejercicio profesional",
+      "cita": "Elegidos entre Magistrados, Fiscales, abogados del Estado, Catedráticos y Doctores de Derecho, todos ellos con más de 25 años en el ejercicio de su profesión.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Exigir a los magistrados del TC no haber tenido cargo político ni militancia en partido en los últimos 30 años",
+      "cita": "No pueden haber tenido cargo político ni militancia en partido político en los últimos 30 años.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Mandato de 9 años no renovable y prohibición de cargos privados durante 15 años para los magistrados del TC",
+      "cita": "Mandato de 9 años no renovable. Prohibido aceptar cargos privados durante 15 años tras dejar el TC y prohibida la pertenencia a asociaciones de tipo político o ideológico.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Elegir el CGPJ por los jueces y no por los políticos",
+      "cita": "El CGPJ es elegido por los jueces, no por los políticos.",
+      "pagina": 10,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "CGPJ de diez miembros elegidos por sufragio directo y secreto entre los jueces y magistrados en activo",
+      "cita": "integrado por diez miembros, siendo todos ellos jueces, magistrados, abogados del Estado, fiscales, catedráticos o doctores de derecho, con más de 20 años de experiencia profesional, elegidos por sufragio directo y secreto entre todos los jueces y magistrados en activo.",
+      "pagina": 11,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Fiscal General nombrado por el CGPJ entre fiscales con más de 20 años, por 9 años no renovables",
+      "cita": "El Fiscal General del Estado es nombrado por el CGPJ entre fiscales de reconocido prestigio con más de veinte años de ejercicio profesional por un periodo de 9 años no renovables.",
+      "pagina": 11,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Prohibir al Poder Ejecutivo emitir instrucciones al Ministerio Fiscal",
+      "cita": "Se prohíbe expresamente la emisión de instrucciones por parte del Poder Ejecutivo.",
+      "pagina": 11,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Juntas Electorales permanentes formadas por ciudadanos elegidos por sorteo entre el censo electoral",
+      "cita": "Las Juntas Electorales serán órganos permanentes e independientes, encargados de garantizar la limpieza, transparencia y neutralidad del proceso electoral. Estarán compuestas exclusivamente por ciudadanos seleccionados por sorteo público entre el censo electoral, con exclusión de cargos públicos, miembros de partidos políticos, y personal de la Administración en activo.",
+      "pagina": 11,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Suprimir oficinas, chóferes, asesores, escoltas y pensiones especiales de ex altos cargos",
+      "cita": "Transparencia en la política. Fin de los privilegios a ex altos cargos. Supresión de oficinas, chóferes, asesores, escoltas. Eliminación de pensiones e indemnizaciones especiales, más allá del régimen común de cotización.",
+      "pagina": 11,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Obligar a los ex altos cargos a presentar declaración de actividades y patrimonio durante 5 años tras el cese",
+      "cita": "Obligación de presentar declaración de actividades y patrimonio durante 5 años tras el cese.",
+      "pagina": 12,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Sancionar el uso indebido de recursos públicos por ex altos cargos tras dejar el cargo",
+      "cita": "Sanciones por uso indebido de recursos públicos tras dejar el cargo.",
+      "pagina": 12,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Legitimación activa en causas de interés general y reforma del art. 125 CE sobre acusación popular",
+      "cita": "Dotaremos de legitimación activa a asociaciones, partidos, plataformas, organizaciones y ciudadanos en causas judiciales de interés general y se reformará el art. 125 de la Constitución para salvaguardar la figura histórica de la acusación popular en España",
+      "pagina": 12,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Reconocer la legitimación de las acusaciones populares y prohibir restricciones arbitrarias",
+      "cita": "Se reconoce expresamente la legitimación activa de las acusaciones populares en la defensa del interés general, prohibiéndose cualquier restricción arbitraria, requisito discriminatorio o limitación que desvirtúe su función o impida su ejercicio real y efectivo.",
+      "pagina": 12,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Referéndum vinculante sobre la permanencia de España en la Unión Europea",
+      "cita": "Referéndum vinculante UNIÓN EUROPEA ¿Debe España seguir siendo miembro de esta Unión Europea o abandonar la Unión Europea?",
+      "pagina": 14,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Referéndum vinculante sobre la permanencia de España en la OTAN",
+      "cita": "Referéndum vinculante OTAN ¿Debe España seguir siendo miembro de esta OTAN o abandonar la OTAN?",
+      "pagina": 14,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Reducir el número de ministerios a un máximo de 7",
+      "cita": "Reducción del número de ministerios a un máximo de 7.",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Eliminar el 75% de los asesores políticos",
+      "cita": "Eliminación del 75% de los asesores políticos.",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Congelar y reducir un 20% los sueldos políticos",
+      "cita": "Congelación y reducción del 20% en sueldos políticos.",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Suprimir los privilegios de expresidentes, exministros, diputados, senadores, alcaldes y concejales",
+      "cita": "Supresión de los privilegios estatales, autonómicos y locales, tanto para expresidentes y exministros, como diputados y senadores o Alcaldes y Concejales. Fin a las pensiones vitalicias y los coches oficiales de por vida.",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Eliminar la financiación pública a partidos, sindicatos y patronales; solo cuotas de afiliados",
+      "cita": "Eliminación total de la financiación pública a partidos políticos, sindicatos y patronales. Solo podrán sostenerse con cuotas de afiliados.",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Cierre inmediato de más de 2.000 «chiringuitos», fundaciones, observatorios y organismos",
+      "cita": "Cierre inmediato de más de 2.000 chiringuitos, fundaciones, observatorios y organismos que suponen un gasto de más de 6.000 millones de euros anuales.",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Prohibir todas las subvenciones a organizaciones no gubernamentales",
+      "cita": "Fin a las subvenciones de las ONG’s. Se prohíben todas las subvenciones a organizaciones no gubernamentales",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Reducir un 40% los organismos con competencias superpuestas, fusionando y eliminando agencias",
+      "cita": "Fusión de organismos duplicados y eliminación de agencias innecesarias. Actualmente, hay más de 600 entes públicos, estatales, autonómicos y municipales con competencias superpuestas. Reducción del 40% de estos organismos.",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "territorial",
+      "titular": "Suprimir las diputaciones provinciales",
+      "cita": "Reducción del 40% de estos organismos. Supresión de diputaciones provinciales.",
+      "pagina": 15,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Cerrar las empresas públicas con pérdidas",
+      "cita": "Cierre de empresas públicas con pérdidas.",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Eliminar el 80% de las subvenciones",
+      "cita": "Eliminación del 80% de las subvenciones.",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Suprimir las subvenciones a organizaciones ideológicas",
+      "cita": "Eliminación del 80% de las subvenciones. Supresión de subvenciones a organizaciones ideológicas",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "empleo",
+      "titular": "Transformar los subsidios en incentivos al empleo",
+      "cita": "Supresión de subvenciones a organizaciones ideológicas Transformación de los subsidios en incentivos al empleo.",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Crear una Auditoría Independiente del Gasto Público",
+      "cita": "Creación de una Auditoría Independiente del Gasto Público.",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Publicación obligatoria de todas las partidas de gasto en un portal de acceso público",
+      "cita": "Publicación obligatoria de todas las partidas de gasto en un portal de acceso público.",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Reformar la Ley de Contratos del Sector Público para eliminar contratos «a dedo» y adjudicaciones opacas",
+      "cita": "Reforma de la Ley de Contratos del Sector Público para eliminar la concesión de contratos a dedo y las adjudicaciones opacas.",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "Eliminar el factor de sostenibilidad y sustituirlo por un sistema de contribución",
+      "cita": "Se elimina el factor de sostenibilidad y se sustituye por un sistema de contribución realista que garantice que las pensiones no dependan exclusivamente de ingresos fiscales coyunturales.",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "Fomentar un modelo mixto que permita complementar la pensión con ahorro privado sin reducir la parte pública",
+      "cita": "Se fomenta un modelo mixto que permita a los trabajadores complementar su pensión con ahorro privado sin que esto suponga una excusa para reducir la parte pública.",
+      "pagina": 16,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "pensiones",
+      "titular": "Prohibir congelar o reducir pensiones sin compensaciones directas ni transparencia presupuestaria",
+      "cita": "Se prohíben las políticas de congelación o reducción de pensiones sin compensaciones directas y sin transparencia presupuestaria.",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Cuota cero para autónomos durante los primeros cuatro años de actividad",
+      "cita": "Se establece una cuota cero para autónomos durante los primeros cuatro años de actividad",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Eliminar la obligación de pagar cuotas en los meses sin ingresos a los autónomos",
+      "cita": "Se elimina la obligación de pagar cuotas en los meses sin ingresos, adoptando un modelo más flexible basado en ingresos reales.",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Suprimir los módulos y simplificar el sistema tributario para los autónomos",
+      "cita": "Se suprimen los módulos y se simplifica el sistema tributario para los autónomos, reduciendo burocracia y facilitando el cumplimiento fiscal.",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Incentivar el empleo autónomo mediante desgravaciones fiscales sin depender de subvenciones públicas",
+      "cita": "Se incentiva el empleo autónomo mediante desgravaciones fiscales sin dependencia de subvenciones públicas.",
+      "pagina": 17,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Eliminar las subvenciones directas a empresas y sectores no estratégicos, con incentivos fiscales",
+      "cita": "Se eliminan todas las subvenciones públicas directas a empresas y sectores no estratégicos, estableciendo incentivos basados en reducción fiscal y no en ayudas arbitrarias.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "instituciones",
+      "titular": "Suprimir las subvenciones a sindicatos, patronales y organizaciones políticas",
+      "cita": "Se suprimen las subvenciones a sindicatos, patronales y organizaciones políticas, garantizando que solo se financien con recursos privados.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Prohibir las subvenciones encadenadas",
+      "cita": "Se prohíben las subvenciones encadenadas, evitando que ciertos sectores vivan permanentemente de fondos públicos sin aportar valor real a la economía.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Plan de acceso a la primera vivienda para jóvenes y familias, con incentivos fiscales",
+      "cita": "Se establece un plan de acceso a la primera vivienda para jóvenes y familias, con incentivos fiscales y eliminación de cargas burocráticas para la compra.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "Suprimir el IVA en la compra de la primera vivienda",
+      "cita": "Se suprime el IVA en la compra de la primera vivienda, facilitando el acceso a la propiedad.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Eliminar las políticas de control de alquiler",
+      "cita": "Se eliminan las políticas de control de alquiler que han demostrado ser ineficaces y han reducido la oferta de vivienda disponible.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "vivienda",
+      "titular": "Endurecer las penas por ocupación ilegal y garantizar el desalojo en menos de 24 horas desde la denuncia",
+      "cita": "Se protege la propiedad privada frente a la ocupación ilegal, endureciendo las penas y garantizando el desalojo inmediato en menos de 24 horas desde la presentación de la denuncia ante las fuerzas y cuerpos de seguridad del Estado.",
+      "pagina": 18,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Revisar todos los fondos recibidos de la UE y sus condiciones",
+      "cita": "Se establece una revisión de todos los fondos recibidos de la UE y sus condiciones, evaluando si benefician realmente a España.",
+      "pagina": 19,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Prohibir las subvenciones que impliquen la destrucción de sectores estratégicos a cambio de fondos temporales",
+      "cita": "Se prohíben las subvenciones que impliquen la destrucción de sectores estratégicos a cambio de fondos temporales.",
+      "pagina": 19,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "economia",
+      "titular": "Recuperar el control sobre las políticas industriales y agrícolas",
+      "cita": "Se recupera el control sobre las políticas industriales y agrícolas, evitando que España dependa de decisiones impuestas desde Bruselas.",
+      "pagina": 19,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Reformar de forma integral la Ley de Extranjería",
+      "cita": "REFORMA INTEGRAL DE LA LEY DE EXTRANJERÍA: TOLERANCIA CERO CON LA INMIGRACIÓN ILEGAL.",
+      "pagina": 19,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Cerrar la frontera sur, reforzar la valla de Ceuta y Melilla y repeler de inmediato cualquier entrada ilegal",
+      "cita": "Cierre total de la frontera sur. La valla de Ceuta y Melilla será reforzada, habilitando a las Fuerzas Armadas y cualquier intento de entrada ilegal será repelido de inmediato.",
+      "pagina": 19,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Destinar la flota de la Armada de Ferrol a Canarias para patrullar el mar territorial",
+      "cita": "Española, en Ferrol, será destinada a las Islas Canarias, en su totalidad, para patrullar el mar territorial español.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Deportaciones masivas de inmigrantes ilegales y expulsión sin derecho a regularización",
+      "cita": "Deportaciones masivas de inmigrantes ilegales. Fin de los papeles para todos. Quien entre ilegalmente en España será expulsado sin derecho a regularización.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Expulsión inmediata de inmigrantes que cometan delitos graves o reincidan",
+      "cita": "Expulsión inmediata de cualquier inmigrante que cometa delitos graves o reincida en actos delictivos.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Fin de las ayudas y subvenciones a inmigrantes ilegales",
+      "cita": "Fin de las ayudas y subvenciones a inmigrantes ilegales.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Modificar el procedimiento de asilo",
+      "cita": "Modificación del procedimiento de Asilo.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Desplegar el Ejército y la Armada en fronteras, puertos y costas para interceptar entradas ilegales",
+      "cita": "El Ejército y la Armada serán desplegados en las fronteras, puertos y costas para interceptar cualquier intento de entrada ilegal.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Interceptación inmediata de pateras y retorno automático",
+      "cita": "La interceptación de pateras será inmediata y el retorno será automático.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Cerrar rutas migratorias, acordar repatriaciones inmediatas y sancionar a los países que no colaboren",
+      "cita": "Coordinación con países de origen. Cierre de rutas migratorias, acuerdos para repatriación inmediata y sanciones a los países que no colaboren.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "inmigracion",
+      "titular": "Garantizar que ningún barco de ONG pueda actuar como «cómplice de las mafias migratorias»",
+      "cita": "La Armada Española garantizará que ningún barco de ONG pueda actuar como cómplice de las mafias migratorias.",
+      "pagina": 20,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Expulsar del código penal militar las conductas de los guardias civiles",
+      "cita": "Despenalización de la Guardia Civil, expulsando al código penal militar de las conductas de los guardias civiles.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Referéndum interno en la Guardia Civil sobre desmilitarización o continuidad como cuerpo militar",
+      "cita": "Para la modernización del cuerpo y convertirlo en una policía civil, será sometido a referéndum dentro de la Institución para que decidan si optan por la desmilitarización o continuar con la naturaleza de cuerpo militar.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Modificar la organización y distribución de la Policía Nacional y de la Guardia Civil",
+      "cita": "Modificación de la Organización y distribución de la Policía Nacional y de la Guardia Civil. Para adaptarla a las nuevas realidades sociales y de nuestro territorio.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Unificar sueldos de las Fuerzas y Cuerpos de Seguridad, sin que bajen de los de policías autonómicas o locales",
+      "cita": "Unificación de sueldos de las Fuerzas y Cuerpos de Seguridad en España. Los salarios de la Guardia Civil y de la Policía Nacional nunca podrán ser inferiores a los de las policías autonómicas o locales.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Eliminar cualquier contenido ideológico en la educación pública",
+      "cita": "Eliminación de cualquier contenido ideológico en la educación pública.",
+      "pagina": 21,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Reforma completa del currículo escolar centrada en conocimiento y competencias",
+      "cita": "Reforma completa del currículo escolar para centrarse en conocimiento y competencias reales.",
+      "pagina": 22,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Educación en valores de esfuerzo, disciplina y mérito",
+      "cita": "Educación en valores de esfuerzo, disciplina y mérito.",
+      "pagina": 22,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Reforzar la autoridad del profesor",
+      "cita": "Educación en valores de esfuerzo, disciplina y mérito. Refuerzo de la autoridad del profesor.",
+      "pagina": 22,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Libertad educativa para los padres",
+      "cita": "Refuerzo de la autoridad del profesor. Libertad educativa para los padres.",
+      "pagina": 22,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "educacion",
+      "titular": "Reformar la Ley de Universidades",
+      "cita": "Reforma de la Ley de Universidades para acabar con el sectarismo ideológico.",
+      "pagina": 22,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Incorporar legalmente las terapias naturales al sistema de salud",
+      "cita": "Incorporación legal de terapias naturales en el sistema de salud.",
+      "pagina": 22,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "sanidad",
+      "titular": "Fin del monopolio farmacéutico",
+      "cita": "Fin del monopolio farmacéutico. IVA cero para terapeutas y reconocimiento profesional.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "impuestos",
+      "titular": "IVA cero para terapeutas",
+      "cita": "IVA cero para terapeutas y reconocimiento profesional.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Sustituir los juzgados unipersonales por Tribunales de Instancia y modificar la red de partidos judiciales",
+      "cita": "Modificación de la red de los partidos judiciales con la sustitución de juzgados unipersonales por Tribunales de Instancia, con reparto interno de asuntos y especialización funcional.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Oficina Judicial digital y profesionalizada",
+      "cita": "Oficina Judicial imprescindible, digital y profesionalizada que mejore la gestión del tiempo, los recursos y la atención ciudadana.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Reconvertir el Ministerio de Justicia en Ministerio del Sistema Jurídico",
+      "cita": "Reconversión del Ministerio de Justicia en Ministerio del Sistema Jurídico.",
+      "pagina": 23,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Evaluar la calidad de las leyes desde el punto de vista jurídico, económico y social",
+      "cita": "Se deben evaluar la calidad de las leyes desde el punto de vista jurídico, económico y social, para evitar la inflación normativa y la inseguridad jurídica.",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Despolitizar el gobierno judicial y superar el reparto de cuotas en la elección del CGPJ y del TC",
+      "cita": "Despolitización del gobierno judicial y superación del reparto de cuotas en el sistema de elección del CGPJ y del TC para acabar con los dedos de las cúpulas de los partidos políticos.",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Apostar por la energía nuclear, el gas y los recursos propios",
+      "cita": "Apuesta por la energía nuclear, el gas y los recursos propios.",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Nacionalizar las tierras raras",
+      "cita": "Apuesta por la energía nuclear, el gas y los recursos propios. Nacionalización de tierras raras.",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Salir del Pacto Verde Europeo",
+      "cita": "Nacionalización de tierras raras. Salida del Pacto Verde Europeo.",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "energia_clima",
+      "titular": "Fin de las subvenciones a renovables",
+      "cita": "Salida del Pacto Verde Europeo. Fin de las subvenciones a renovables.",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Protección del sector primario: agricultura, pesca y ganadería",
+      "cita": "Protección del sector primario: agricultura, pesca y ganadería.",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Exigir la derogación inmediata del Pacto Verde Europeo",
+      "cita": "Derogación total de las políticas de la UE que destruyen el campo español. Se exigirá la DEROGACIÓN INMEDIATA del PACTO VERDE EUROPEO.",
+      "pagina": 24,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Derogar la Ley de Bienestar Animal",
+      "cita": "DEROGACIÓN DE LA LEY DE BIENESTAR ANIMAL. DEROGACIÓN DE LA LEY DE QUEMAS.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Derogar la Ley de Quemas",
+      "cita": "DEROGACIÓN DE LA LEY DE QUEMAS. DEROGACIÓN DE LA LEY DE ESTRUCTURAS AGRARIAS.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Derogar la Ley de Estructuras Agrarias",
+      "cita": "DEROGACIÓN DE LA LEY DE ESTRUCTURAS AGRARIAS. DEROGACIÓN DE LA LEY DE PREVENCIÓN, PÉRDIDAS Y DESPERDICIO ALIMENTARIO.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Derogar la Ley de Prevención, Pérdidas y Desperdicio Alimentario",
+      "cita": "DEROGACIÓN DE LA LEY DE PREVENCIÓN, PÉRDIDAS Y DESPERDICIO ALIMENTARIO. DEROGACIÓN DE LA LEY DE LA CADENA ALIMENTARIA.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Derogar la Ley de la Cadena Alimentaria",
+      "cita": "DEROGACIÓN DE LA LEY DE LA CADENA ALIMENTARIA. DEROGAR LA OBLIGATORIEDAD DE IMPLANTACIÓN DEL CUADERNO DIGITAL.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "rural",
+      "titular": "Derogar la obligatoriedad de implantar el cuaderno digital",
+      "cita": "DEROGAR LA OBLIGATORIEDAD DE IMPLANTACIÓN DEL CUADERNO DIGITAL.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Desvincularse de cualquier política que provenga de los objetivos de desarrollo sostenible",
+      "cita": "Desvinculación sobre cualquier política que provenga de los objetivos de desarrollo sostenible.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "defensa_exterior",
+      "titular": "Fin del control supranacional sobre las políticas internas",
+      "cita": "Fin del control supranacional sobre nuestras políticas internas.",
+      "pagina": 25,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "Blindar los derechos fundamentales: expresión, información, ideológica, integridad física, circulación",
+      "cita": "Blindaje de los derechos fundamentales: expresión, información, ideológica, integridad física, libertad de circulación e individual y de asociación.",
+      "pagina": 26,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    },
+    {
+      "area": "seguridad_justicia",
+      "titular": "No al euro digital, control biométrico, reconocimiento facial, ZBE y restricciones pandémicas",
+      "cita": "Fin de la eurocracia y no al control social a través del euro digital, del control biométrico, de los reconocimientos faciales, de la las zonas de bajas emisiones, y restricciones pandémicas.",
+      "pagina": 26,
+      "ley_afectada": null,
+      "situacion_actual": null,
+      "en_tu_dia_a_dia": null,
+      "generado": true
+    }
+  ]
+}

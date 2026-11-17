@@ -7,6 +7,7 @@ test:
 	@if node -e "process.exit(process.features.typescript ? 0 : 1)"; then cd web && node --experimental-strip-types --test lib/*.test.ts; else echo "tests web saltados: node sin TypeScript"; fi
 	@# un proceso por fuente: todas tienen su propio parse.py
 	@for d in pipeline/fuentes/*/tests; do $(PY) -m pytest -q -p no:cacheprovider $$d || exit 1; done
+	$(PY) -m pytest -q -p no:cacheprovider scripts/tests
 	$(PY) pipeline/verificar_citas.py
 	$(PY) pipeline/verificar_entrevistas.py
 	$(PY) pipeline/resumenes.py --check

@@ -2,7 +2,8 @@ import type { Metadata } from 'next';
 import { ChevronDown } from 'lucide-react';
 import BreadcrumbJsonLd from '@/components/BreadcrumbJsonLd';
 import { colorPartido } from '@/lib/colores';
-import { actualidad, type ActualidadItem } from '@/lib/datos';
+import { actualidad, eleccionActiva, type ActualidadItem } from '@/lib/datos';
+import { titularesVisibles } from '@/lib/titulares-visibles';
 
 export const metadata: Metadata = {
   title: 'Actualidad de la campaña: qué publica cada partido',
@@ -31,7 +32,8 @@ function Lista({ items }: { items: ActualidadItem[] }) {
 }
 
 export default function ActualidadPage() {
-  const { items, fetched_at } = actualidad();
+  const { items: todos, fetched_at } = actualidad();
+  const items = titularesVisibles(todos, eleccionActiva().fecha_eleccion);
   const propios = items.filter((i) => i.clase === 'partido');
   const partidos = [...new Set(propios.flatMap((i) => i.partidos))].sort((a, b) => a.localeCompare(b, 'es'));
   const prensa = items.filter((i) => i.clase === 'medio' || i.clase === 'institucion').slice(0, 60);

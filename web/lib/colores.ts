@@ -28,6 +28,7 @@ export const PARTIDO_COLORES: Record<string, string> = {
   COMPROMIS: '#ea580c',
   'Compromís': '#ea580c',
   'M+J': '#009688',
+  IE: '#475569',
   'MJ': '#009688',
   'MUNDO+JUSTO': '#009688',
 };

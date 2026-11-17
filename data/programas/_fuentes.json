@@ -225,6 +225,20 @@
       "idioma": "es",
       "evidencia_2026": "Portada \"CONTRATO ELECTORAL SIMPLIFICADO GENERALES 2026 · 29 DE NOVIEMBRE DE 2026\"; 10 bloques temáticos con 119 medidas numeradas.",
       "notas": "Castellano. Contrato electoral simplificado para las Elecciones Generales del 29-N."
+    },
+    {
+      "siglas": "IE",
+      "nombre": "Iustitia Europa",
+      "estado": "descargado",
+      "fuente_url": "https://iustitiaeuropa.es/img/bloques/documentos/descarga-aqui-tu-contrato-00030.pdf",
+      "pagina_donde_se_enlaza": "https://iustitiaeuropa.es/contrato-electoral/",
+      "fetched_at": "2026-11-17T12:00:00Z",
+      "sha256": "03740dc25a9e94599f7b3e085a5f24fefe8ad8aa796740dccd0dfc1b2facb5dd",
+      "paginas": 28,
+      "tipo_pdf": "nativo",
+      "idioma": "es",
+      "evidencia_2026": "Enlazado desde la sección «Elecciones 29-N → Contrato electoral» de iustitiaeuropa.es; el PDF no lleva fecha. Candidatura única en la circunscripción de Madrid (BOE).",
+      "notas": "Documento titulado «Contrato Electoral». El PDF que sirve la web lleva un parámetro de versión en la URL (?v=…); la dirección registrada es la base."
     }
   ]
 }

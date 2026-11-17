@@ -3,7 +3,7 @@
 
 Frecuencias:
   - > 30 días antes de la elección: cada 24 h (periodo normal)
-  - 2 a 30 días antes: cada 4 h (mes previo y campaña)
+  - 2 a 30 días antes: cada 1 h (mes previo y campaña: los titulares tardan como mucho 1 h en verse)
   - Víspera, día electoral y día siguiente (-1 a +1 días): cada 30 min
   - Post-elección (< -1 día): cada 24 h
 
@@ -14,12 +14,14 @@ import argparse
 import json
 import subprocess
 import time
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 ELECCION_FILE = ROOT / "data" / "eleccion_activa.json"
 STAMP_FILE = ROOT / "var" / "ultimo_ciclo.txt"
+FASE_FILE = ROOT / "var" / "ultima_fase.txt"
 DATA = ROOT / "data"
 
 
@@ -43,8 +45,26 @@ def intervalo_segundos(fecha_eleccion: str, hoy: date | None = None) -> tuple[st
     if -1 <= dias <= 1:
         return "jornada_electoral", 30 * 60
     if 2 <= dias <= 30:
-        return "campana_4h", 4 * 3600
+        return "campana_1h", 3600
     return "normal_24h", 24 * 3600
+
+
+def fase_madrid(fecha_eleccion: str, ahora: datetime | None = None) -> str:
+    """'normal' | 'veda' | 'despues' (LOREG art. 69.7), igual que web/lib/modo-electoral.ts: hora de Madrid,
+    la veda empieza a las 00:00 del día -5 y termina a las 21:00 de la jornada (cierre de Canarias)."""
+    t = (ahora or datetime.now(timezone.utc)).astimezone(ZoneInfo("Europe/Madrid")).strftime("%Y-%m-%d %H:%M")
+    inicio = (date.fromisoformat(fecha_eleccion) - timedelta(days=5)).isoformat() + " 00:00"
+    if t < inicio:
+        return "normal"
+    return "veda" if t < f"{fecha_eleccion} 21:00" else "despues"
+
+
+def cambio_de_fase(fase_ahora: str) -> bool:
+    """La web es estática: al entrar o salir de la veda hay que reconstruirla ya, no a la hora que tocaría."""
+    try:
+        return FASE_FILE.read_text(encoding="utf-8").strip() != fase_ahora
+    except FileNotFoundError:
+        return False
 
 
 def toca_ejecutar(intervalo: int, force: bool = False) -> bool:
@@ -65,8 +85,10 @@ def main() -> int:
 
     eleccion = json.loads(ELECCION_FILE.read_text(encoding="utf-8"))
     modo, cada_seg = intervalo_segundos(eleccion["fecha_eleccion"])
-    due = toca_ejecutar(cada_seg, args.force)
-    print(f"Elección: {eleccion['nombre']} ({eleccion['fecha_eleccion']}) | modo={modo} | intervalo={cada_seg}s | toca={due}")
+    fase_ahora = fase_madrid(eleccion["fecha_eleccion"])
+    cambia = cambio_de_fase(fase_ahora)
+    due = toca_ejecutar(cada_seg, args.force) or cambia
+    print(f"Elección: {eleccion['nombre']} ({eleccion['fecha_eleccion']}) | modo={modo} | fase={fase_ahora}{' (CAMBIO)' if cambia else ''} | intervalo={cada_seg}s | toca={due}")
 
     if args.check or not due:
         return 0
@@ -104,6 +126,7 @@ def main() -> int:
 
     STAMP_FILE.parent.mkdir(parents=True, exist_ok=True)
     STAMP_FILE.write_text(str(time.time()), encoding="utf-8")
+    FASE_FILE.write_text(fase_ahora, encoding="utf-8")
     print("Ciclo completado en verde.")
     return 0
 

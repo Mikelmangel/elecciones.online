@@ -13,14 +13,17 @@ import {
   fechaLarga,
   miles,
   resultados2023,
+  actualidad,
 } from '@/lib/datos';
 import { construirDatosMapa } from '@/lib/mapa';
 import { fase } from '@/lib/modo-electoral';
+import { titularesVisibles } from '@/lib/titulares-visibles';
 import { construirTemasCiudadanos } from '@/lib/resumen-ciudadano';
 import { rutas } from '@/lib/rutas';
 import IndicePagina from '@/components/IndicePagina';
 
 const INDICE = [
+  ['ultima-hora', 'Última hora'],
   ['votar', 'Votar'],
   ['temas', 'Qué propone cada partido'],
   ['entrevistas', 'Entrevistas'],
@@ -63,6 +66,12 @@ export default function Home() {
   const h2 = 'font-editorial text-2xl sm:text-3xl font-bold text-neutral-950';
   const enlace = 'font-semibold text-red-900 underline hover:text-red-700';
   const seccion = 'scroll-mt-28 border-t border-[#dfd9cc] pt-10';
+
+  // titulares más recientes de todas las fuentes, sin selección editorial: solo orden por fecha
+  const { items: titulares, fetched_at: titularesAt } = actualidad();
+  const ultimaHora = titularesVisibles([...titulares], eleccion.fecha_eleccion).sort((a, b) => b.fecha.localeCompare(a.fecha)).slice(0, 8);
+  const hora = (iso: string) =>
+    new Date(iso).toLocaleString('es-ES', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit', timeZone: 'Europe/Madrid' });
 
   return (
     <div className="space-y-12">
@@ -113,6 +122,26 @@ export default function Home() {
       </section>
 
       <IndicePagina secciones={INDICE} />
+
+      <section id="ultima-hora" className={seccion}>
+        <h2 className={h2}>Última hora de la campaña</h2>
+        <p className="mt-1 text-sm text-neutral-600">
+          Titulares más recientes de partidos, instituciones y medios, ordenados por fecha y sin selección editorial. Actualizado el {hora(titularesAt)}.
+        </p>
+        <ul className="mt-4 divide-y divide-[#e4dfd3] border-y border-[#e4dfd3]">
+          {ultimaHora.map((n) => (
+            <li key={n.url} className="py-3">
+              <a href={n.url} target="_blank" rel="noopener nofollow" className="break-words font-medium text-neutral-950 hover:text-red-900 hover:underline">
+                {n.titulo}
+              </a>
+              <p className="mt-0.5 text-sm text-neutral-600">
+                {n.canal} · <time dateTime={n.fecha}>{hora(n.fecha)}</time>
+              </p>
+            </li>
+          ))}
+        </ul>
+        <p className="mt-4"><Link href="/actualidad" className={enlace}>Todos los titulares</Link></p>
+      </section>
 
       <section id="votar" className={seccion}>
         <h2 className={h2}>Para ir a votar</h2>

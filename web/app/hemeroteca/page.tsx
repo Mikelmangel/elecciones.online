@@ -8,7 +8,9 @@ import {
   entrevistas,
   factcheckingEntrevistas,
   votaciones,
+  eleccionActiva,
 } from '@/lib/datos';
+import { titularesVisibles } from '@/lib/titulares-visibles';
 import { colorPartido } from '@/lib/colores';
 import { rutas } from '@/lib/rutas';
 import IndicePagina from '@/components/IndicePagina';
@@ -32,7 +34,7 @@ export default function HemerotecaPage() {
   );
   const coherencia = coherenciaVotaciones().casos;
   const boe = boeElectoral().disposiciones.slice(0, 6);
-  const noticiasActualidad = actualidad().items.slice(0, 8);
+  const noticiasActualidad = titularesVisibles(actualidad().items, eleccionActiva().fecha_eleccion).slice(0, 8);
   const mapaUrlsAEntrevista = new Map(entrevistas().entrevistas.map((e) => [e.fuente_url, e.slug || e.id]));
 
   return (

@@ -93,6 +93,7 @@ const PARTIDOS_RAPIDOS = [
   ['salf', 'SALF', '#1c1917'],
   ['pacma', 'PACMA', '#15803d'],
   ['mj', 'M+J', '#009688'],
+  ['iustitia-europa', 'IE', '#475569'],
   ['d21', 'D21', '#2563eb'],
 ] as const;
 
