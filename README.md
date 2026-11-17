@@ -5,6 +5,7 @@
 **Información electoral verificable y de código abierto.**
 Nació con las elecciones generales de España del 29 de noviembre de 2026 y está pensada para servir a cualquier convocatoria.
 
+[![CI](https://github.com/Mikelmangel/elecciones.online/actions/workflows/ci.yml/badge.svg)](https://github.com/Mikelmangel/elecciones.online/actions/workflows/ci.yml)
 [![Licencia MIT](https://img.shields.io/badge/licencia-MIT-green.svg)](LICENSE)
 ![Rust](https://img.shields.io/badge/motor%20de%20verificaci%C3%B3n-Rust-b7410e?logo=rust)
 ![Next.js](https://img.shields.io/badge/web-Next.js%2015-000000?logo=nextdotjs)
@@ -118,6 +119,7 @@ cargo run --release        # localiza solo la raíz del repo (carpeta con data/)
 ```
 
 ```
+# salida de ejemplo
 ✓ TODAS LAS VERIFICACIONES COMPLETADAS CON ÉXITO en 39 ms
   - 1152 afirmaciones de entrevistas con formato válido (cita, minuto, sha256)
   - 3537 propuestas de programas electorales con cita y página verificadas
